@@ -1,52 +1,43 @@
 ---
 title: "Introduction"
-description: "Welcome to Virex—the modern platform for building and shipping software faster. Learn what Virex is and how it can help your team."
+description: "What CNEVhub is, how the landed-cost methodology works, and how to use the vehicle database to compare Chinese EV import prices across markets."
 section: "Getting Started"
 order: 1
 draft: false
 ---
 
-Welcome to Virex! This documentation will help you get up and running quickly and make the most of the platform.
+# Introduction to CNEVhub
 
-## What is Virex?
+CNEVhub is a data platform for anyone importing Chinese electric vehicles into Europe, the Middle East, and Oceania. We exist because the sticker price you see in China is almost never the price you actually pay.
 
-Virex is a modern development platform designed to help teams build, deploy, and scale applications with confidence. We handle the infrastructure complexity so you can focus on building great products.
+## The core problem we solve
 
-### Key Features
+A Chinese EV advertised at $14,000 can land in Germany at over $28,000 once you stack import duty, countervailing duty, VAT, ocean freight, certification, and registration. That gap — the difference between *factory price* and *landed cost* — is the single biggest surprise for first-time importers.
 
-- **Instant Deployments** — Push code and see it live in seconds, not minutes
-- **Automatic Scaling** — Handle traffic spikes without manual intervention
-- **Built-in Analytics** — Understand how your application performs in production
-- **Team Collaboration** — Work together seamlessly with real-time features
+Most listings show only the FOB or factory price. CNEVhub itemizes the full cost stack so you can see, before you commit, exactly what a vehicle will cost to get legal and drivable in your target market.
 
-## Who is Virex For?
+## What's on the platform
 
-Virex is built for:
+- **Vehicle database** — 315+ Chinese EVs with full specifications, priced transparently, each with a multi-market landed-cost breakdown.
+- **Brand directory** — 58 brands, their parent manufacturers, founding details, and export-ready lineups.
+- **Landed-cost calculator** — pick a vehicle and destination, get an itemized cost breakdown across 7 key export markets.
+- **Methodology** — the exact formula, tariff schedules, and assumptions behind every number on the site.
 
-- **Startups** looking to move fast without sacrificing reliability
-- **Growing teams** that need to scale their infrastructure alongside their product
-- **Enterprise organizations** requiring security, compliance, and control
+## What "landed cost" means here
 
-## Core Concepts
+Landed cost is the total price to import a vehicle to a specific country, *before* dealer margin or retail markup. Our formula is:
 
-Before diving in, here are a few concepts you'll encounter:
+```
+landed_price = base_price × (1 + standard_duty) × (1 + countervailing_duty) × (1 + VAT)
+               + RoRo freight + customs clearance + certification + registration + inland transport
+```
 
-### Projects
+Duties compound in this order because that's how customs valuations cascade in practice: standard duty on the CIF value, countervailing duty on top of that, then VAT last on the duty-inclusive total.
 
-A project is your application. It contains your code, configuration, and deployment history.
+## A note on data quality
 
-### Environments
+Every tariff rate, tax rate, and freight benchmark is sourced from public authorities (EU Official Journal, national tax authorities) and industry benchmarks. Rates are refreshed when they change, and each figure carries a data date. These are B2B import estimates, not retail quotes — actual costs vary with trim, port of entry, volume, currency, and homologation route.
 
-Environments are isolated instances of your project. Most teams use staging and production environments, but you can create as many as you need.
+## Who this is for
 
-### Deployments
-
-A deployment is a specific version of your code running in an environment. Virex keeps a history of all deployments, making rollbacks instant.
-
-## Getting Help
-
-- **Documentation** — You're here! Browse the sidebar for detailed guides
-- **Discord Community** — Join thousands of developers in our [Discord server](https://discord.gg/virex)
-- **Support** — Enterprise customers can reach our support team directly
-
-Ready to get started? Head to the [Installation guide](/docs/installation) to set up your first project.
+B2B fleet buyers, distributors, dealers, and experienced private importers evaluating the real economics of bringing Chinese EVs into export markets. If you're comparing vehicles, start with the [vehicle database](/vehicles/), then run the numbers in the [calculator](/landed-cost-calculator/).

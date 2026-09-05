@@ -1,135 +1,71 @@
 ---
 title: "FAQ"
-description: "Frequently asked questions about Virex. Find answers to common questions about pricing, features, and troubleshooting."
-section: "Resources"
-order: 5
+description: "Answers to the most common questions about importing Chinese EVs — costs, duties, certification, timelines, and how to use CNEVhub."
+section: "Reference"
+order: 2
 draft: false
 ---
 
-Find answers to the most common questions about Virex.
+# Frequently Asked Questions
 
-## General
+Straight answers to the questions we hear most often from importers.
 
-### What is Virex?
+## Costs & pricing
 
-Virex is a modern development platform that helps teams build, deploy, and scale applications. We handle infrastructure complexity so you can focus on building great products.
+### Why is the landed cost so much higher than the sticker price?
 
-### Who is Virex for?
+Because the sticker price is only the factory cost. On top of it, you pay standard import duty, a countervailing duty (in the EU), VAT/GST, ocean freight, customs clearance, certification, registration, and inland transport. These compound — you don't add the tax rates, they stack on top of each other. See [Landed Cost Methodology](/docs/landed-cost-methodology/).
 
-Virex is designed for developers and teams of all sizes—from solo indie hackers to enterprise organizations. Our platform scales with your needs.
+### Is VAT recoverable?
 
-### What frameworks does Virex support?
+Yes, for registered businesses. In the EU and UK, VAT-registered importers can reclaim VAT. In Australia, GST-registered businesses can reclaim GST. The duty and countervailing duty are permanent costs; VAT is often a cash-flow item, not a final cost.
 
-Virex supports all major frameworks including:
+### Which market is cheapest to import into?
 
-- Astro
-- Next.js
-- Remix
-- SvelteKit
-- Nuxt
-- Vue
-- React
-- And any static site generator
+The Gulf (UAE) and Australia are structurally cheapest, because they apply low or zero import duty and no countervailing duty. The EU is the most expensive, driven by the producer-specific countervailing duty plus high VAT. See [Cost Breakdown Example](/docs/cost-breakdown-example/).
 
-We auto-detect your framework and configure builds automatically.
+### Why does the EU countervailing duty vary by brand?
 
-## Pricing
+Because it's assessed per producer, based on the EU's investigation into subsidies each manufacturer received. BYD pays 17%, Geely 18.8%, SAIC/MG 35.3%, and Tesla's Shanghai plant 7.8%. The rate depends on whose car you're importing, not the country you're importing into.
 
-### Is there a free tier?
+## Certification & legality
 
-Yes! Our Hobby plan is free forever and includes:
+### Is a Chinese-market EV automatically legal in the EU?
 
-- Unlimited personal projects
-- 100GB bandwidth per month
-- Automatic HTTPS
-- Preview deployments
+No. A vehicle built for the Chinese domestic market must be homologated before it can be road-registered in the EU. This typically means a national single-vehicle approval or Small Series approval, with possible physical adaptations. See [EU Homologation](/docs/eu-homologation/).
 
-### How does billing work?
+### How long does a first import take?
 
-We bill monthly based on usage. You only pay for what you use beyond the free tier limits. See our [pricing page](/pricing) for details.
+Budget 3–4 months end to end. The two long poles are ocean freight (4–8 weeks) and certification (2–6 weeks). It compresses substantially once you have a trusted supplier and a dialed-in homologation route. See [Import Overview](/docs/import-overview/).
 
-### Can I change plans anytime?
+### What's the difference between CLTC and WLTP range?
 
-Yes, you can upgrade or downgrade at any time. Changes take effect immediately, and we prorate charges.
+CLTC (China's test cycle) reports figures typically 15–30% higher than the WLTP figures European buyers expect. A car quoted at "600 km" may deliver closer to 450–500 km in real European conditions. Budget accordingly.
 
-## Deployments
+## Using CNEVhub
 
-### How fast are deployments?
+### Are the prices on CNEVhub real-time?
 
-Most deployments complete in under 30 seconds. Build times vary based on your project size and complexity.
+Our prices are benchmark estimates compiled at a fixed data date (shown on each page). Base prices come from our vehicle database; tariff and tax rates come from public authorities. Always verify current rates at the time of import, as trade policy can change.
 
-### Can I rollback a deployment?
+### What does "B2B import estimate" mean?
 
-Yes! Every deployment is saved, and you can rollback to any previous version instantly from the dashboard or CLI:
+Our landed-cost figures model the cost for a business importing a vehicle — fleet buyer, dealer, or distributor — before retail markup. They are not dealer quotes, and they don't include a local dealer's margin or profit.
 
-```bash
-virex rollback --to=abc123
-```
+### How do I get an exact quote for a specific vehicle?
 
-### Do you support preview deployments?
+The [landed-cost calculator](/landed-cost-calculator/) lets you pick a vehicle and destination to itemize a cost breakdown. For a binding quote on a specific trim and volume, [contact us](/contact/) and we'll work through the exact numbers.
 
-Yes, every pull request automatically gets a unique preview URL. This is enabled by default for all projects.
+## Buying safely
 
-## Security
+### What should I verify before paying a supplier?
 
-### Is my code secure?
+Verify the supplier's export license and the Certificate of Origin (COC) exists before wiring money. Confirm the exact trim, battery spec, and VIN availability. Consider escrow or a letter of credit for the balance. See [Import Overview](/docs/import-overview/).
 
-Absolutely. We take security seriously:
+### Should I worry about currency risk?
 
-- All data is encrypted at rest and in transit
-- SOC 2 Type II certified
-- Regular security audits
-- No access to your source code beyond build time
+Yes. A multi-month import window exposes you to USD/CNY, USD/EUR, and USD/GBP movement. The Gulf (AED/SAR) and Australia (AUD) are pegged or more stable relative to USD, removing some of that risk.
 
-### Do you support SSO?
+---
 
-Yes, SSO is available on Team and Enterprise plans. We support SAML 2.0 and OIDC providers.
-
-### Where is my data stored?
-
-By default, data is stored in US regions. Enterprise customers can choose specific regions for compliance requirements.
-
-## Troubleshooting
-
-### My build is failing
-
-Common causes:
-
-1. **Missing dependencies** — Ensure all dependencies are in `package.json`
-2. **Node version mismatch** — Specify your Node version in config
-3. **Environment variables** — Check that required variables are set
-
-Run your build locally first to debug:
-
-```bash
-npm run build
-```
-
-### My site is slow
-
-Check these common issues:
-
-1. **Large assets** — Optimize images and use lazy loading
-2. **Too many requests** — Bundle and minify your code
-3. **No caching** — Configure cache headers appropriately
-
-Use our built-in analytics to identify bottlenecks.
-
-### I'm getting 404 errors
-
-For single-page applications, ensure you have a fallback configured:
-
-```javascript
-export default {
-  rewrites: [
-    { source: '/(.*)', destination: '/index.html' },
-  ],
-};
-```
-
-## Still Have Questions?
-
-- **Documentation** — Browse our [docs](/docs) for detailed guides
-- **Discord** — Join our [community](https://discord.gg/virex) for help
-- **Support** — Enterprise customers can contact support directly
-- **Twitter** — Follow [@virex](https://twitter.com/virex) for updates
+Have a question that isn't answered here? [Contact us](/contact/) and we'll get you an answer.
