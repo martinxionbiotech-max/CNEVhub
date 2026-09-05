@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import SEO from '@/components/common/SEO.astro';
+
+const brands = (await getCollection('brands')).sort((a, b) =>
+  a.data.brand_name.localeCompare(b.data.brand_name)
+);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Chinese EV Brands Directory',
+  description: 'Complete directory of 58 Chinese EV brands with parent manufacturers, founding details, and export data.',
+};
+---
+
+<SEO title="Chinese EV Brands Directory" description="Complete directory of Chinese EV brands — parent manufacturers, founding details, and model lineups for B2B export buyers." />
+
+<div class="max-w-6xl mx-auto px-6 py-12">
+  <h1 class="text-4xl font-bold mb-2">Chinese EV Brands Directory</h1>
+  <p class="text-lg text-gray-600 mb-10">58 brands, their parent manufacturers, and export-ready model lineups.</p>
+
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+    {brands.map((brand) => (
+      <a
+        href={`/brands/${brand.id.replace(/\.mdx?$/, '')}/`}
+        class="block p-5 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
+      >
+        <h2 class="text-lg font-semibold mb-1">{brand.data.brand_name}</h2>
+        <p class="text-sm text-gray-500">{brand.data.parent_manufacturer} · {brand.data.parent_location}</p>
+        <p class="text-xs text-blue-600 mt-2">{brand.data.model_count} models · Est. {brand.data.established}</p>
+      </a>
+    ))}
+  </div>
+</div>
+
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />

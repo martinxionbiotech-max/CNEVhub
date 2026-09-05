@@ -1,0 +1,132 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import SEO from '@/components/common/SEO.astro';
+import { siteConfig, company } from '@/config';
+---
+
+<SEO
+  title="Landed Cost Methodology — How We Calculate Chinese EV Import Costs"
+  description="Transparent methodology for CNEVhub landed-cost estimates: EU import duty, countervailing duty, VAT, RoRo freight, certification, and registration."
+/>
+
+<MarketingLayout title="Landed Cost Methodology">
+  <article class="max-w-3xl mx-auto px-6 py-16">
+    <div class="mb-10">
+      <a href="/" class="text-sm text-gray-500 hover:text-blue-500">← Back to home</a>
+    </div>
+
+    <h1 class="text-4xl font-bold mb-3">Landed Cost Methodology</h1>
+    <p class="text-gray-400 mb-10">
+      How CNEVhub estimates the real cost of importing a Chinese EV — the exact formula, data
+      sources, and assumptions behind every number on this site.
+    </p>
+
+    <div class="prose prose-invert max-w-none space-y-8">
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Why we publish this</h2>
+        <p>
+          Most Chinese EV listings show only the factory or FOB price. A car advertised at $14,000
+          can land in Germany at over $28,000 once duties, VAT, freight, and certification are
+          applied. That gap is the single biggest surprise for first-time importers — and the reason
+          CNEVhub exists.
+        </p>
+        <p>
+          Every landed-cost figure on CNEVhub is produced from a single, documented formula using
+          public tariff schedules, national tax rates, and industry freight benchmarks. This page is
+          that documentation.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">The formula</h2>
+        <p class="font-mono text-sm bg-gray-900 p-4 rounded-lg">
+          landed_price = base_price × (1 + std_duty) × (1 + countervailing_duty) × (1 + VAT)<br/>
+          &nbsp;&nbsp;&nbsp;&nbsp;+ RoRo freight + customs clearance + certification + registration + inland transport
+        </p>
+        <p>
+          Duties compound in this order because that is how customs valuations cascade in practice:
+          the standard duty is assessed on the CIF value, the countervailing duty on top of that,
+          and VAT is charged last on the duty-inclusive total.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">1. Standard import duty — 10%</h2>
+        <p>
+          All passenger EVs imported into the EU are subject to a <strong>10% most-favoured-nation
+          (MFN) import duty</strong>, assessed on the CIF value (car price + insurance + freight).
+          <span class="text-gray-500">[Source: EU Common Customs Tariff, TARIC]</span>
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">2. Countervailing duty — 17% to 35.3%</h2>
+        <p>
+          Since 2024, the EU applies <strong>anti-subsidy (countervailing) duties</strong> to Chinese
+          battery-electric vehicles, on top of the standard 10%. Rates are set per producer:
+        </p>
+        <div class="overflow-x-auto">
+          <table class="w-full text-sm">
+            <thead><tr class="border-b border-gray-700"><th class="text-left py-2 pr-4">Producer</th><th class="text-left py-2">Rate</th></tr></thead>
+            <tbody>
+              <tr class="border-b border-gray-800"><td class="py-2">BYD</td><td class="py-2">17.0%</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Geely (incl. Zeekr, Polestar)</td><td class="py-2">18.8%</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">SAIC (MG)</td><td class="py-2">35.3%</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Other / non-cooperating producers</td><td class="py-2">18.8% – 35.3%</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="text-sm text-gray-500">
+          [Source: EU Commission Implementing Regulation on countervailing duties for BEVs from China]
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">3. VAT, 19% to 23% by destination</h2>
+        <div class="overflow-x-auto">
+          <table class="w-full text-sm">
+            <thead><tr class="border-b border-gray-700"><th class="text-left py-2 pr-4">Country</th><th class="text-left py-2">VAT</th></tr></thead>
+            <tbody>
+              <tr class="border-b border-gray-800"><td class="py-2">Germany</td><td class="py-2">19%</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">France</td><td class="py-2">20%</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Netherlands</td><td class="py-2">21%</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">United Kingdom</td><td class="py-2">20%</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Italy</td><td class="py-2">22%</td></tr>
+              <tr class="border-b border-gray-800"><td class="py-2">Spain</td><td class="py-2">21%</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="text-sm text-gray-500">[Source: national tax authorities]</p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">4. Freight & fixed costs</h2>
+        <ul class="list-disc pl-6 space-y-2">
+          <li><strong>RoRo ocean freight</strong>: $1,500 – $2,500 per vehicle (China → North Europe main ports). We use $2,000 as the central estimate.</li>
+          <li><strong>Customs clearance</strong>: ~$350 per vehicle.</li>
+          <li><strong>Certification / homologation</strong>: $1,500 – $5,000 (ECWVTA or Small Series approval). We use $3,250 central.</li>
+          <li><strong>Registration</strong>: $400 – $500 (Germany ~$500).</li>
+          <li><strong>Inland transport</strong>: ~$500 from port to dealer/registrant.</li>
+        </ul>
+        <p class="text-sm text-gray-500">[Source: industry freight and homologation benchmarks]</p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Assumptions & limits</h2>
+        <p>
+          These are <strong>B2B import estimates</strong>, not retail quotes. Actual landed cost varies
+          with trim, port of entry, volume, currency, and homologation route. Figures are refreshed
+          when tariff schedules or tax rates change, and every estimate on the site carries its data
+          date.
+        </p>
+      </section>
+
+      <section class="border-t border-gray-800 pt-8 text-sm text-gray-500">
+        <p>
+          Published by <strong>{company.name}</strong> · Author: <strong>{company.author}</strong>, {company.authorRole}
+          <br/>Last reviewed: {siteConfig.legal.lastUpdated}
+        </p>
+      </section>
+    </div>
+  </article>
+</MarketingLayout>

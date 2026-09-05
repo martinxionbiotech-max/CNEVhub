@@ -1,0 +1,42 @@
+---
+title: "XPeng: Chinese EV Brand Profile & Export Data"
+description: "XPeng is a leading Chinese smart electric vehicle brand committed to shaping the future of mobility through technology, intelligence, and innovation. ..."
+brand_name: "XPeng"
+established: "2014"
+parent_manufacturer: "XPeng"
+parent_location: "Guangzhou, Guangdong, China"
+parent_founded: "2014"
+website: "https://www.xiaopeng.com/"
+model_count: 6
+publishedDate: "2026-09-05"
+tags: [XPeng, Chinese EV brand, EV export]
+---
+
+# XPeng
+
+XPeng is a leading Chinese smart electric vehicle brand committed to shaping the future of mobility through technology, intelligence, and innovation. Founded in 2014 and headquartered in Guangzhou, XPeng focuses on delivering high-quality EVs that seamlessly integrate advanced software, autonomous driving systems, and human-centered design.
+
+## Brand Overview
+
+- **Brand:** XPeng
+- **Established:** 2014
+- **Parent Manufacturer:** XPeng
+- **Headquarters:** Guangzhou, Guangdong, China
+- **Parent Founded:** 2014
+- **Official Website:** https://www.xiaopeng.com/
+
+## Vehicle Lineup (6 models)
+
+| Model | Type | Price (China) |
+|-------|------|--------------|
+| Mona M03 | Sedan | $16,800 |
+| P7+ | Liftback | $26,310 |
+| X9 | Minivan | $43,630 |
+| G6 | Coupe SUV | $24,830 |
+| P7 | Sedan | $30,870 |
+| G9 | SUV | $43,162 |
+
+## Explore XPeng Models
+
+[View all XPeng vehicles](/vehicles/) · [Calculate landed cost](/landed-cost-calculator/)
+
