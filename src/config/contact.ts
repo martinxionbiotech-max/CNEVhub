@@ -1,24 +1,25 @@
 /**
- * Contact Page Configuration
+ * Contact Page Configuration — EV Hub
  *
- * @description
- * Contact information, methods, and FAQ data for the contact page.
- * Modify these values to customize your contact page content.
+ * Real company + author contact information for EEAT.
+ * Company: Guangzhou Banghe Testing Technology Co., Ltd. (MCM)
+ * Author: Wei Wang, Marketing Specialist
+ * Primary contact: Aaron.W
  */
 
 import type { ContactInfo, ContactMethod, ContactFAQ } from '../lib/types';
 
 /** Contact information used across contact page and legal pages */
 export const contact: ContactInfo = {
-  email: 'hello@virex.example.com',
-  supportEmail: 'support@virex.example.com',
-  salesEmail: 'sales@virex.example.com',
+  email: 'aaron@dinweys.com',
+  supportEmail: 'aaron@dinweys.com',
+  salesEmail: 'aaron@dinweys.com',
   address: {
-    street: '123 Market Street, Suite 400',
-    city: 'San Francisco',
-    state: 'CA',
-    zip: '94102',
-    country: 'United States',
+    street: 'Guangzhou Banghe Testing Technology Co., Ltd.',
+    city: 'Guangzhou',
+    state: 'Guangdong',
+    zip: '',
+    country: 'China',
   },
 };
 
@@ -27,20 +28,20 @@ export const contactMethods: ContactMethod[] = [
   {
     icon: 'lucide:mail',
     label: 'Email',
-    value: contact.email,
-    href: `mailto:${contact.email}`,
+    value: 'aaron@dinweys.com',
+    href: 'mailto:aaron@dinweys.com',
   },
   {
-    icon: 'simple-icons:discord',
-    label: 'Discord',
-    value: 'Join Discord',
-    href: 'https://discord.gg/virex',
+    icon: 'lucide:message-circle',
+    label: 'WhatsApp / WeChat',
+    value: '+86 13313137465',
+    href: 'https://wa.me/8613313137465',
   },
   {
-    icon: 'lucide:twitter',
-    label: 'Twitter',
-    value: '@virex',
-    href: 'https://twitter.com/virex',
+    icon: 'lucide:phone',
+    label: 'Phone',
+    value: '+86 13313137465',
+    href: 'tel:+8613313137465',
   },
 ];
 
@@ -48,15 +49,17 @@ export const contactMethods: ContactMethod[] = [
 export const contactFAQs: ContactFAQ[] = [
   {
     question: "What's your typical response time?",
-    answer: 'We respond to most inquiries within 24 hours during business days.',
+    answer: 'We respond to most inquiries within 24 hours on business days (GMT+8).',
   },
   {
-    question: 'Do you offer phone support?',
+    question: 'Can you help me source a specific Chinese EV?',
     answer:
-      'Phone support is available for Enterprise customers. Others can reach us via email or Discord.',
+      'Yes. Send us the model and destination country, and we will provide a transparent landed-cost breakdown including duties, countervailing tariffs, VAT, freight, and certification.',
   },
   {
-    question: 'How do I report a bug?',
-    answer: 'Use the form with "Technical support" as subject, or open an issue on our GitHub.',
+    question: 'Do you sell vehicles directly?',
+    answer:
+      'No. EV Hub is an independent information platform. We provide landed-cost intelligence and sourcing guidance, but do not sell vehicles or act on behalf of any manufacturer.',
   },
 ];
+

@@ -5,6 +5,7 @@
  * CNEVhub: Chinese EV export intelligence platform.
  * Company: Guangzhou Banghe Testing Technology Co., Ltd. (MCM)
  * Author: Wei Wang, Marketing Specialist
+ * Primary contact: Aaron.W (aaron@dinweys.com, WhatsApp/WeChat +86 13313137465)
  */
 
 import type { SocialLinks, LegalConfig } from '../lib/types';
@@ -44,7 +45,10 @@ export const company = {
     'Guangzhou Banghe Testing Technology Co., Ltd. (MCM) provides automotive export compliance, testing, and landed-cost intelligence for Chinese EV importers worldwide.',
   url: 'https://electricvehiclehub.net',
   logo: '/logo.svg',
-  email: 'info@electricvehiclehub.net',
+  email: 'aaron@dinweys.com',
+  phone: '+86 13313137465',
+  whatsapp: '+86 13313137465',
+  contactPerson: 'Aaron.W',
   author: 'Wei Wang',
   authorRole: 'Marketing Specialist',
 };
