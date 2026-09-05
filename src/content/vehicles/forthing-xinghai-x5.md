@@ -19,11 +19,12 @@ wheelbase_mm: 2730
 weight_kg: 1800
 efficiency_kwh_100km: 14.7
 fast_charge: "35 min (30-80%)"
-landed_cost: {"market": "Germany", "base_price_usd": 21390.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 2139.0, "countervailing_duty_usd": 4423.45, "vat_usd": 5310.97, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 39863.42, "premium_pct": 86.4}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 39863.42, "premium_pct": 86.4, "breakdown": {"duty_cif_usd": 2139.0, "countervailing_duty_usd": 4423.45, "vat_usd": 5310.97, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["forthing", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1766328035533-7erq4pe1jkc.jpg"
+landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 39863.42, "premium_pct": 86.4}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 34484.8, "premium_pct": 61.2}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 40322.47, "premium_pct": 88.5}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.2, "total_landed_usd": 40042.94, "premium_pct": 87.2}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 28032.47, "premium_pct": 31.1}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 30278.42, "premium_pct": 41.6}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 29379.0, "premium_pct": 37.3}]
 ---
 
 # Forthing Xinghai X5
@@ -38,14 +39,28 @@ Forthing Xinghai X5 (starting at $21,390) is a SUV from FORTHING.
 
 Forthing Xinghai X5 is a suv from Forthing, offering 530 km of CLTC range a 64.4 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/...
 
-## Landed Cost to Germany
+## Landed Cost by Market
+
+Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
+
+| Destination | Region | Total landed (USD) | Premium |
+|---|---|---|---|
+| Germany | EU | $39,863 | +86.4% |
+| United Kingdom | Non-EU Europe | $34,485 | +61.2% |
+| Netherlands | EU | $40,322 | +88.5% |
+| France | EU | $40,043 | +87.2% |
+| United Arab Emirates | Middle East | $28,032 | +31.1% |
+| Saudi Arabia | Middle East | $30,278 | +41.6% |
+| Australia | Oceania | $29,379 | +37.3% |
+
+## Detailed Breakdown — Germany
 
 | Cost item | Amount (USD) |
 |---|---|
 | Base price | $21,390 |
 | Standard import duty (10%) | $2,139 |
 | Countervailing duty (18%) | $4,423 |
-| VAT (19%) | $5,310 |
+| VAT (19%) | $5,311 |
 | RoRo freight | $2,000 |
 | Customs clearance | $350 |
 | Certification | $3,250 |
@@ -54,6 +69,3 @@ Forthing Xinghai X5 is a suv from Forthing, offering 530 km of CLTC range a 64.4
 | **Total landed** | **$39,863** |
 
 **Premium over base price**: +86.4%
-
-[Source: EU Official Journal, national VAT authority, industry freight benchmarks — via CNEVhub landed-cost-params.json]
-

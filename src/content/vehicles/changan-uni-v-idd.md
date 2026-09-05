@@ -19,11 +19,12 @@ wheelbase_mm: 2750
 weight_kg: 1625
 efficiency_kwh_100km: 13.8
 fast_charge: "30 min (30-80%)"
-landed_cost: {"market": "Germany", "base_price_usd": 16180.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 1618.0, "countervailing_duty_usd": 3346.02, "vat_usd": 4017.36, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 31761.39, "premium_pct": 96.3}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 31761.39, "premium_pct": 96.3, "breakdown": {"duty_cif_usd": 1618.0, "countervailing_duty_usd": 3346.02, "vat_usd": 4017.36, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["changan", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1762756927312-jzwcohbj6jl.png"
+landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 31761.39, "premium_pct": 96.3}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 27607.6, "premium_pct": 70.6}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 32084.27, "premium_pct": 98.3}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.2, "total_landed_usd": 31872.83, "premium_pct": 97.0}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 22288.45, "premium_pct": 37.8}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 23987.35, "premium_pct": 48.3}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 23648.0, "premium_pct": 46.2}]
 ---
 
 # Changan UNI V IDD
@@ -38,7 +39,21 @@ Changan UNI V IDD (starting at $16,180) is a SUV from CHANGAN.
 
 Changan UNI V IDD is a suv from Changan, a 18.99 kWh battery and 158 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B imp...
 
-## Landed Cost to Germany
+## Landed Cost by Market
+
+Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
+
+| Destination | Region | Total landed (USD) | Premium |
+|---|---|---|---|
+| Germany | EU | $31,761 | +96.3% |
+| United Kingdom | Non-EU Europe | $27,608 | +70.6% |
+| Netherlands | EU | $32,084 | +98.3% |
+| France | EU | $31,873 | +97.0% |
+| United Arab Emirates | Middle East | $22,288 | +37.8% |
+| Saudi Arabia | Middle East | $23,987 | +48.3% |
+| Australia | Oceania | $23,648 | +46.2% |
+
+## Detailed Breakdown — Germany
 
 | Cost item | Amount (USD) |
 |---|---|
@@ -54,6 +69,3 @@ Changan UNI V IDD is a suv from Changan, a 18.99 kWh battery and 158 kW of motor
 | **Total landed** | **$31,761** |
 
 **Premium over base price**: +96.3%
-
-[Source: EU Official Journal, national VAT authority, industry freight benchmarks — via CNEVhub landed-cost-params.json]
-

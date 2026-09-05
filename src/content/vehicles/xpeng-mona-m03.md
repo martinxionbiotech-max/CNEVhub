@@ -20,11 +20,12 @@ wheelbase_mm: 2815
 weight_kg: 1661
 efficiency_kwh_100km: 11.5
 fast_charge: "25 min (30-80%)"
-landed_cost: {"market": "Germany", "base_price_usd": 16800.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 1680.0, "countervailing_duty_usd": 3474.24, "vat_usd": 4171.31, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 32725.55, "premium_pct": 94.8}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 32725.55, "premium_pct": 94.8, "breakdown": {"duty_cif_usd": 1680.0, "countervailing_duty_usd": 3474.24, "vat_usd": 4171.31, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xpeng", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1761103519937-35h9yb3mp1x.png"
+landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 32725.55, "premium_pct": 94.8}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 28426.0, "premium_pct": 69.2}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 33064.63, "premium_pct": 96.8}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.2, "total_landed_usd": 32845.09, "premium_pct": 95.5}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 22972.0, "premium_pct": 36.7}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 24736.0, "premium_pct": 47.2}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 24330.0, "premium_pct": 44.8}]
 ---
 
 # Xpeng Mona M03
@@ -40,7 +41,21 @@ Xpeng Mona M03 (starting at $16,800) is a SUV from XPENG.
 
 Xpeng Mona M03 is a suv from Xpeng, offering 515 km of CLTC range a 51.8 kWh battery and 140 kW of motor power. Full landed-cost breakdown to the EU/DACH reg...
 
-## Landed Cost to Germany
+## Landed Cost by Market
+
+Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
+
+| Destination | Region | Total landed (USD) | Premium |
+|---|---|---|---|
+| Germany | EU | $32,726 | +94.8% |
+| United Kingdom | Non-EU Europe | $28,426 | +69.2% |
+| Netherlands | EU | $33,065 | +96.8% |
+| France | EU | $32,845 | +95.5% |
+| United Arab Emirates | Middle East | $22,972 | +36.7% |
+| Saudi Arabia | Middle East | $24,736 | +47.2% |
+| Australia | Oceania | $24,330 | +44.8% |
+
+## Detailed Breakdown — Germany
 
 | Cost item | Amount (USD) |
 |---|---|
@@ -53,9 +68,6 @@ Xpeng Mona M03 is a suv from Xpeng, offering 515 km of CLTC range a 51.8 kWh bat
 | Certification | $3,250 |
 | Registration | $500 |
 | Inland transport | $500 |
-| **Total landed** | **$32,725** |
+| **Total landed** | **$32,726** |
 
 **Premium over base price**: +94.8%
-
-[Source: EU Official Journal, national VAT authority, industry freight benchmarks — via CNEVhub landed-cost-params.json]
-

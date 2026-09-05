@@ -20,11 +20,12 @@ wheelbase_mm: 2150
 weight_kg: 920
 efficiency_kwh_100km: 10.7
 fast_charge: "40 min (30-80%)"
-landed_cost: {"market": "Germany", "base_price_usd": 7730.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 773.0, "countervailing_duty_usd": 1598.56, "vat_usd": 1919.3, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 18620.86, "premium_pct": 140.9}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 18620.86, "premium_pct": 140.9, "breakdown": {"duty_cif_usd": 773.0, "countervailing_duty_usd": 1598.56, "vat_usd": 1919.3, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery-new-energy", "Hatchback", "chinese-ev", "export"]
 image: "/images/vehicles/1762422141919-ctr13hlm3i.jpg"
+landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 18620.86, "premium_pct": 140.9}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 16453.6, "premium_pct": 112.9}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 18722.89, "premium_pct": 142.2}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.2, "total_landed_usd": 18621.88, "premium_pct": 140.9}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 12972.33, "premium_pct": 67.8}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 13783.98, "premium_pct": 78.3}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 14353.0, "premium_pct": 85.7}]
 ---
 
 # Chery New Energy EQ1
@@ -40,22 +41,33 @@ Chery New Energy EQ1 (starting at $7,730) is a Hatchback from CHERY NEW ENERGY.
 
 Chery New Energy EQ1 is a hatchback from Chery New Energy, offering 251 km of CLTC range a 25.05 kWh battery and 36 kW of motor power. Full landed-cost break...
 
-## Landed Cost to Germany
+## Landed Cost by Market
+
+Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
+
+| Destination | Region | Total landed (USD) | Premium |
+|---|---|---|---|
+| Germany | EU | $18,621 | +140.9% |
+| United Kingdom | Non-EU Europe | $16,454 | +112.9% |
+| Netherlands | EU | $18,723 | +142.2% |
+| France | EU | $18,622 | +140.9% |
+| United Arab Emirates | Middle East | $12,972 | +67.8% |
+| Saudi Arabia | Middle East | $13,784 | +78.3% |
+| Australia | Oceania | $14,353 | +85.7% |
+
+## Detailed Breakdown — Germany
 
 | Cost item | Amount (USD) |
 |---|---|
 | Base price | $7,730 |
 | Standard import duty (10%) | $773 |
-| Countervailing duty (18%) | $1,598 |
+| Countervailing duty (18%) | $1,599 |
 | VAT (19%) | $1,919 |
 | RoRo freight | $2,000 |
 | Customs clearance | $350 |
 | Certification | $3,250 |
 | Registration | $500 |
 | Inland transport | $500 |
-| **Total landed** | **$18,620** |
+| **Total landed** | **$18,621** |
 
 **Premium over base price**: +140.9%
-
-[Source: EU Official Journal, national VAT authority, industry freight benchmarks — via CNEVhub landed-cost-params.json]
-

@@ -19,11 +19,12 @@ wheelbase_mm: 3045
 weight_kg: 2470
 efficiency_kwh_100km: 17.8
 fast_charge: "20 min (30-80%)"
-landed_cost: {"market": "Germany", "base_price_usd": 29130.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 2913.0, "countervailing_duty_usd": 5447.31, "vat_usd": 7123.16, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 51213.47, "premium_pct": 75.8}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.19, "total_landed_usd": 51213.47, "premium_pct": 75.8, "breakdown": {"duty_cif_usd": 2913.0, "countervailing_duty_usd": 5447.31, "vat_usd": 7123.16, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1765251426063-j38bpot938r.jpg"
+landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.19, "total_landed_usd": 51213.47, "premium_pct": 75.8}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 44701.6, "premium_pct": 53.5}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.21, "total_landed_usd": 51863.28, "premium_pct": 78.0}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.2, "total_landed_usd": 51488.37, "premium_pct": 76.8}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 36565.82, "premium_pct": 25.5}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 39624.47, "premium_pct": 36.0}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 37893.0, "premium_pct": 30.1}]
 ---
 
 # Byd XIA
@@ -38,7 +39,21 @@ Byd XIA (starting at $29,130) is a SUV from BYD.
 
 Byd XIA is a suv from Byd, a 20.39 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
 
-## Landed Cost to Germany
+## Landed Cost by Market
+
+Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
+
+| Destination | Region | Total landed (USD) | Premium |
+|---|---|---|---|
+| Germany | EU | $51,213 | +75.8% |
+| United Kingdom | Non-EU Europe | $44,702 | +53.5% |
+| Netherlands | EU | $51,863 | +78.0% |
+| France | EU | $51,488 | +76.8% |
+| United Arab Emirates | Middle East | $36,566 | +25.5% |
+| Saudi Arabia | Middle East | $39,624 | +36.0% |
+| Australia | Oceania | $37,893 | +30.1% |
+
+## Detailed Breakdown — Germany
 
 | Cost item | Amount (USD) |
 |---|---|
@@ -54,6 +69,3 @@ Byd XIA is a suv from Byd, a 20.39 kWh battery and 200 kW of motor power. Full l
 | **Total landed** | **$51,213** |
 
 **Premium over base price**: +75.8%
-
-[Source: EU Official Journal, national VAT authority, industry freight benchmarks — via CNEVhub landed-cost-params.json]
-

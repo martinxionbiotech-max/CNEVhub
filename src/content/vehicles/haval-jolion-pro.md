@@ -16,11 +16,12 @@ height_mm: 1625
 wheelbase_mm: 2700
 weight_kg: 1560
 fast_charge: "-"
-landed_cost: {"market": "Germany", "base_price_usd": 18140.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 1814.0, "countervailing_duty_usd": 3751.35, "vat_usd": 4504.02, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 34809.37, "premium_pct": 91.9}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 34809.37, "premium_pct": 91.9, "breakdown": {"duty_cif_usd": 1814.0, "countervailing_duty_usd": 3751.35, "vat_usd": 4504.02, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["haval", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1764854670776-o4pkdo55kg.png"
+landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 34809.37, "premium_pct": 91.9}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 30194.8, "premium_pct": 66.5}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 35183.48, "premium_pct": 94.0}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.2, "total_landed_usd": 34946.42, "premium_pct": 92.6}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 24449.35, "premium_pct": 34.8}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 26354.05, "premium_pct": 45.3}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 25804.0, "premium_pct": 42.2}]
 ---
 
 # Haval Jolion PRO
@@ -33,7 +34,21 @@ Haval Jolion PRO (starting at $18,140) is a SUV from HAVAL.
 
 Haval Jolion PRO is a suv from Haval, and 115 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
 
-## Landed Cost to Germany
+## Landed Cost by Market
+
+Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
+
+| Destination | Region | Total landed (USD) | Premium |
+|---|---|---|---|
+| Germany | EU | $34,809 | +91.9% |
+| United Kingdom | Non-EU Europe | $30,195 | +66.5% |
+| Netherlands | EU | $35,183 | +94.0% |
+| France | EU | $34,946 | +92.6% |
+| United Arab Emirates | Middle East | $24,449 | +34.8% |
+| Saudi Arabia | Middle East | $26,354 | +45.3% |
+| Australia | Oceania | $25,804 | +42.2% |
+
+## Detailed Breakdown — Germany
 
 | Cost item | Amount (USD) |
 |---|---|
@@ -49,6 +64,3 @@ Haval Jolion PRO is a suv from Haval, and 115 kW of motor power. Full landed-cos
 | **Total landed** | **$34,809** |
 
 **Premium over base price**: +91.9%
-
-[Source: EU Official Journal, national VAT authority, industry freight benchmarks — via CNEVhub landed-cost-params.json]
-

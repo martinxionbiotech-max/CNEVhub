@@ -20,11 +20,12 @@ wheelbase_mm: 3130
 weight_kg: 2630
 efficiency_kwh_100km: 16.6
 fast_charge: "-"
-landed_cost: {"market": "Germany", "base_price_usd": 57130.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 5713.0, "countervailing_duty_usd": 11814.48, "vat_usd": 14184.92, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 95442.41, "premium_pct": 67.1}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 95442.41, "premium_pct": 67.1, "breakdown": {"duty_cif_usd": 5713.0, "countervailing_duty_usd": 11814.48, "vat_usd": 14184.92, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["nio", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1761050566157-ojx9xo9wpul.jpg"
+landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 95442.41, "premium_pct": 67.1}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 81661.6, "premium_pct": 42.9}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 96835.56, "premium_pct": 69.5}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.2, "total_landed_usd": 96088.98, "premium_pct": 68.2}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 67435.82, "premium_pct": 18.0}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 73434.48, "premium_pct": 28.5}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 68693.0, "premium_pct": 20.2}]
 ---
 
 # Nio ES8
@@ -40,14 +41,28 @@ Nio ES8 (starting at $57,130) is a SUV from NIO.
 
 Nio ES8 is a suv from Nio, offering 635 km of CLTC range a 102 kWh battery and 520 kW of motor power. Full landed-cost breakdown to the EU/DACH region includ...
 
-## Landed Cost to Germany
+## Landed Cost by Market
+
+Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
+
+| Destination | Region | Total landed (USD) | Premium |
+|---|---|---|---|
+| Germany | EU | $95,442 | +67.1% |
+| United Kingdom | Non-EU Europe | $81,662 | +42.9% |
+| Netherlands | EU | $96,836 | +69.5% |
+| France | EU | $96,089 | +68.2% |
+| United Arab Emirates | Middle East | $67,436 | +18.0% |
+| Saudi Arabia | Middle East | $73,434 | +28.5% |
+| Australia | Oceania | $68,693 | +20.2% |
+
+## Detailed Breakdown — Germany
 
 | Cost item | Amount (USD) |
 |---|---|
 | Base price | $57,130 |
 | Standard import duty (10%) | $5,713 |
 | Countervailing duty (18%) | $11,814 |
-| VAT (19%) | $14,184 |
+| VAT (19%) | $14,185 |
 | RoRo freight | $2,000 |
 | Customs clearance | $350 |
 | Certification | $3,250 |
@@ -56,6 +71,3 @@ Nio ES8 is a suv from Nio, offering 635 km of CLTC range a 102 kWh battery and 5
 | **Total landed** | **$95,442** |
 
 **Premium over base price**: +67.1%
-
-[Source: EU Official Journal, national VAT authority, industry freight benchmarks — via CNEVhub landed-cost-params.json]
-

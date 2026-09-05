@@ -19,11 +19,12 @@ wheelbase_mm: 2820
 weight_kg: 2103
 efficiency_kwh_100km: 18.3
 fast_charge: "-"
-landed_cost: {"market": "Germany", "base_price_usd": 23920.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 2392.0, "countervailing_duty_usd": 4473.04, "vat_usd": 5849.16, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 43234.2, "premium_pct": 80.7}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.19, "total_landed_usd": 43234.2, "premium_pct": 80.7, "breakdown": {"duty_cif_usd": 2392.0, "countervailing_duty_usd": 4473.04, "vat_usd": 5849.16, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1763975912385-gf0hdrpg1tm.png"
+landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.19, "total_landed_usd": 43234.2, "premium_pct": 80.7}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 37824.4, "premium_pct": 58.1}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.21, "total_landed_usd": 43749.9, "premium_pct": 82.9}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.2, "total_landed_usd": 43442.05, "premium_pct": 81.6}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 30821.8, "premium_pct": 28.9}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 33333.4, "premium_pct": 39.4}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 32162.0, "premium_pct": 34.5}]
 ---
 
 # Byd Sealion 07 DM I
@@ -38,7 +39,21 @@ Byd Sealion 07 DM I (starting at $23,920) is a SUV from BYD.
 
 Byd Sealion 07 DM I is a suv from Byd, a 26.6 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import...
 
-## Landed Cost to Germany
+## Landed Cost by Market
+
+Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
+
+| Destination | Region | Total landed (USD) | Premium |
+|---|---|---|---|
+| Germany | EU | $43,234 | +80.7% |
+| United Kingdom | Non-EU Europe | $37,824 | +58.1% |
+| Netherlands | EU | $43,750 | +82.9% |
+| France | EU | $43,442 | +81.6% |
+| United Arab Emirates | Middle East | $30,822 | +28.9% |
+| Saudi Arabia | Middle East | $33,333 | +39.4% |
+| Australia | Oceania | $32,162 | +34.5% |
+
+## Detailed Breakdown — Germany
 
 | Cost item | Amount (USD) |
 |---|---|
@@ -54,6 +69,3 @@ Byd Sealion 07 DM I is a suv from Byd, a 26.6 kWh battery and 200 kW of motor po
 | **Total landed** | **$43,234** |
 
 **Premium over base price**: +80.7%
-
-[Source: EU Official Journal, national VAT authority, industry freight benchmarks — via CNEVhub landed-cost-params.json]
-

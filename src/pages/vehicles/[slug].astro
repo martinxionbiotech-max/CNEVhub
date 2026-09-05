@@ -16,9 +16,9 @@ const vehicle = vehicles.find((v) => v.data.slug === slug);
 const { data } = vehicle;
 const { Content } = await render(vehicle);
 const lc = data.landed_cost || {};
-const multiLc = data.landed_cost_markets || [];
+const multiLc = (data.landed_cost_markets || []).filter((m) => m && m.total_landed_usd);
 
-// 构建规格表数据项
+// 规格表数据项
 const specs = [
   { label: 'Powertrain', value: data.powertrain },
   { label: 'Body type', value: data.type },
@@ -37,7 +37,10 @@ const specs = [
   { label: 'Fast charge', value: data.fast_charge && data.fast_charge !== '-' ? data.fast_charge : null },
 ].filter((s) => s.value);
 
-// JSON-LD Vehicle schema（含完整规格）
+// 多国落地成本的最低价（用于高亮最有优势的市场）
+const lowestTotal = multiLc.length ? Math.min(...multiLc.map((m) => m.total_landed_usd)) : 0;
+
+// JSON-LD Vehicle schema
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Vehicle',
@@ -70,50 +73,91 @@ const breadcrumbLd = {
 
 <SEO title={data.title} description={data.description} />
 
-<article class="max-w-4xl mx-auto px-6 py-12">
+<article class="max-w-5xl mx-auto px-6 py-12">
   <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
-    <a href="/" class="hover:text-green-600">Home</a> / <a href="/vehicles/" class="hover:text-green-600">Vehicles</a> / <span>{data.title}</span>
+    <a href="/" class="hover:text-green-600">Home</a> / <a href="/vehicles/" class="hover:text-green-600">Vehicles</a> / <span class="text-gray-700">{data.title}</span>
   </nav>
 
+  <!-- 标题 + 标签 -->
   <div class="mb-8">
-    <span class="inline-block px-3 py-1 bg-green-600/10 text-green-700 rounded-full text-xs font-medium mr-2">{data.type}</span>
-    <span class="inline-block px-3 py-1 bg-green-600/10 text-green-600 rounded-full text-xs font-medium">{data.powertrain}</span>
-    <span class="inline-block px-3 py-1 bg-gray-600/10 text-gray-600 rounded-full text-xs font-medium ml-2">{data.brand.toUpperCase()}</span>
+    <div class="flex flex-wrap items-center gap-2 mb-4">
+      <span class="inline-block px-3 py-1 bg-green-600/10 text-green-700 rounded-full text-xs font-semibold">{data.type}</span>
+      <span class="inline-block px-3 py-1 bg-green-600/10 text-green-600 rounded-full text-xs font-semibold">{data.powertrain}</span>
+      <span class="inline-block px-3 py-1 bg-gray-600/10 text-gray-600 rounded-full text-xs font-semibold">{data.brand.toUpperCase()}</span>
+    </div>
+    <h1 class="text-4xl md:text-5xl font-bold mb-3 text-gray-900">{data.title}</h1>
+    <p class="text-2xl text-green-700 font-bold">${data.price_usd.toLocaleString()} <span class="text-sm font-normal text-gray-500">starting price (ex-factory China)</span></p>
   </div>
 
+  <!-- 全宽 hero 图片 -->
   {data.image && (
-    <div class="mb-6 overflow-hidden rounded-lg border border-gray-200">
-      <img src={data.image} alt={data.title} class="w-full h-auto object-cover" loading="eager" width="800" height="450" />
+    <div class="mb-10 overflow-hidden rounded-2xl border border-gray-200 shadow-sm">
+      <img src={data.image} alt={data.title} class="w-full h-auto object-cover" loading="eager" width="1200" height="675" />
     </div>
   )}
 
-  <h1 class="text-4xl font-bold mb-2">{data.title}</h1>
-  <p class="text-2xl text-green-700 font-semibold mb-8">${data.price_usd.toLocaleString()} <span class="text-sm font-normal text-gray-500">starting price</span></p>
-
   <!-- 关键指标卡片 -->
-  <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
-    {data.range_cltc_km && <div class="p-4 bg-gray-50 rounded-lg"><div class="text-2xl font-bold text-gray-900">{data.range_cltc_km} km</div><div class="text-xs text-gray-500">Range (CLTC)</div></div>}
-    {data.battery_kwh && <div class="p-4 bg-gray-50 rounded-lg"><div class="text-2xl font-bold text-gray-900">{data.battery_kwh} kWh</div><div class="text-xs text-gray-500">Battery</div></div>}
-    {data.motor_power_kw && <div class="p-4 bg-gray-50 rounded-lg"><div class="text-2xl font-bold text-gray-900">{data.motor_power_kw} kW</div><div class="text-xs text-gray-500">Motor Power</div></div>}
-    {data.accel_0_100_s && <div class="p-4 bg-gray-50 rounded-lg"><div class="text-2xl font-bold text-gray-900">{data.accel_0_100_s}s</div><div class="text-xs text-gray-500">0-100 km/h</div></div>}
+  <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-12">
+    {data.range_cltc_km && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.range_cltc_km} km</div><div class="text-xs text-gray-500 mt-1">Range (CLTC)</div></div>}
+    {data.battery_kwh && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.battery_kwh} kWh</div><div class="text-xs text-gray-500 mt-1">Battery capacity</div></div>}
+    {data.motor_power_kw && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.motor_power_kw} kW</div><div class="text-xs text-gray-500 mt-1">Motor power</div></div>}
+    {data.accel_0_100_s && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.accel_0_100_s}s</div><div class="text-xs text-gray-500 mt-1">0-100 km/h</div></div>}
+    {data.top_speed_kmh && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.top_speed_kmh} km/h</div><div class="text-xs text-gray-500 mt-1">Top speed</div></div>}
+    {data.fast_charge && data.fast_charge !== '-' && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.fast_charge}</div><div class="text-xs text-gray-500 mt-1">Fast charge</div></div>}
   </div>
+
+  <!-- 多国落地成本可视化 -->
+  {multiLc.length > 0 && (
+    <section class="mb-12">
+      <h2 class="text-2xl font-bold mb-2 text-gray-900">Landed Cost by Market</h2>
+      <p class="text-sm text-gray-500 mb-6">Estimated total import cost to each destination — includes duty, countervailing duty, VAT/GST, freight, and compliance.</p>
+      <div class="space-y-3">
+        {multiLc.map((m) => {
+          const isLowest = m.total_landed_usd === lowestTotal;
+          const barWidth = Math.min(100, Math.round((m.total_landed_usd / (lowestTotal || 1)) * 100));
+          return (
+            <a href={`/landed-cost-calculator/`} class="block">
+              <div class="flex items-center gap-4 p-4 rounded-xl border border-gray-200 hover:border-green-300 hover:bg-green-50/50 transition">
+                <div class="w-44 shrink-0">
+                  <div class="font-semibold text-gray-900 text-sm">{m.market}</div>
+                  <div class="text-xs text-gray-400">{m.region}</div>
+                </div>
+                <div class="flex-1 hidden sm:block">
+                  <div class="h-2 bg-gray-100 rounded-full overflow-hidden">
+                    <div class={`h-full rounded-full ${isLowest ? 'bg-green-500' : 'bg-gray-300'}`} style={`width:${barWidth}%`}></div>
+                  </div>
+                </div>
+                <div class="text-right shrink-0">
+                  <div class={`text-xl font-bold ${isLowest ? 'text-green-600' : 'text-gray-900'}`}>${Math.round(m.total_landed_usd).toLocaleString()}</div>
+                  <div class="text-xs text-gray-500">+{m.premium_pct}% over base</div>
+                </div>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  )}
 
   <!-- 完整规格表 -->
-  <h2 class="text-2xl font-bold mb-4">Specifications</h2>
-  <div class="rounded-lg border border-gray-200 overflow-hidden mb-10">
-    <table class="w-full text-sm">
-      <tbody>
-        {specs.map((s, i) => (
-          <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}>
-            <td class="px-4 py-3 font-medium text-gray-700 w-1/3">{s.label}</td>
-            <td class="px-4 py-3 text-gray-900">{s.value}</td>
-          </tr>
-        ))}
-      </tbody>
-    </table>
-  </div>
+  <section class="mb-12">
+    <h2 class="text-2xl font-bold mb-4 text-gray-900">Specifications</h2>
+    <div class="rounded-xl border border-gray-200 overflow-hidden">
+      <table class="w-full text-sm">
+        <tbody>
+          {specs.map((s, i) => (
+            <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}>
+              <td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">{s.label}</td>
+              <td class="px-5 py-3.5 text-gray-900">{s.value}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
 
-  <div class="prose prose-lg max-w-none mb-10">
+  <!-- markdown 正文（含详细 breakdown 表格） -->
+  <div class="prose prose-lg max-w-none mb-12">
     <Content />
   </div>
 

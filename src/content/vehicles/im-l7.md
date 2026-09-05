@@ -20,11 +20,12 @@ wheelbase_mm: 3100
 weight_kg: 2090
 efficiency_kwh_100km: 13.4
 fast_charge: "-"
-landed_cost: {"market": "Germany", "base_price_usd": 42240.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 4224.0, "countervailing_duty_usd": 8735.23, "vat_usd": 10487.85, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 72287.09, "premium_pct": 71.1}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 72287.09, "premium_pct": 71.1, "breakdown": {"duty_cif_usd": 4224.0, "countervailing_duty_usd": 8735.23, "vat_usd": 10487.85, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["im", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1762748307478-znixspimq0q.png"
+landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 72287.09, "premium_pct": 71.1}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 62006.8, "premium_pct": 46.8}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 73291.07, "premium_pct": 73.5}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.2, "total_landed_usd": 72739.08, "premium_pct": 72.2}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 51019.6, "premium_pct": 20.8}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 55454.8, "premium_pct": 31.3}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 52314.0, "premium_pct": 23.8}]
 ---
 
 # Im L7
@@ -40,14 +41,28 @@ Im L7 (starting at $42,240) is a SUV from IM.
 
 Im L7 is a suv from Im, offering 708 km of CLTC range a 90 kWh battery and 250 kW of motor power. Full landed-cost breakdown to the EU/DACH region included f...
 
-## Landed Cost to Germany
+## Landed Cost by Market
+
+Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
+
+| Destination | Region | Total landed (USD) | Premium |
+|---|---|---|---|
+| Germany | EU | $72,287 | +71.1% |
+| United Kingdom | Non-EU Europe | $62,007 | +46.8% |
+| Netherlands | EU | $73,291 | +73.5% |
+| France | EU | $72,739 | +72.2% |
+| United Arab Emirates | Middle East | $51,020 | +20.8% |
+| Saudi Arabia | Middle East | $55,455 | +31.3% |
+| Australia | Oceania | $52,314 | +23.8% |
+
+## Detailed Breakdown — Germany
 
 | Cost item | Amount (USD) |
 |---|---|
 | Base price | $42,240 |
 | Standard import duty (10%) | $4,224 |
 | Countervailing duty (18%) | $8,735 |
-| VAT (19%) | $10,487 |
+| VAT (19%) | $10,488 |
 | RoRo freight | $2,000 |
 | Customs clearance | $350 |
 | Certification | $3,250 |
@@ -56,6 +71,3 @@ Im L7 is a suv from Im, offering 708 km of CLTC range a 90 kWh battery and 250 k
 | **Total landed** | **$72,287** |
 
 **Premium over base price**: +71.1%
-
-[Source: EU Official Journal, national VAT authority, industry freight benchmarks — via CNEVhub landed-cost-params.json]
-

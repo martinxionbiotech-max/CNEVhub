@@ -19,11 +19,12 @@ wheelbase_mm: 3300
 weight_kg: 2850
 efficiency_kwh_100km: 15.9
 fast_charge: "10 min (10-80%)"
-landed_cost: {"market": "Germany", "base_price_usd": 78850.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 7885.0, "countervailing_duty_usd": 16306.18, "vat_usd": 19577.82, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 129219.0, "premium_pct": 63.9}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 129219.0, "premium_pct": 63.9, "breakdown": {"duty_cif_usd": 7885.0, "countervailing_duty_usd": 16306.18, "vat_usd": 19577.82, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["li-auto", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1765274817673-5oo5het0h7h.jpg"
+landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 129219.0, "premium_pct": 63.9}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 110332.0, "premium_pct": 39.9}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 131179.83, "premium_pct": 66.4}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.2, "total_landed_usd": 130149.42, "premium_pct": 65.1}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 91382.12, "premium_pct": 15.9}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 99661.38, "premium_pct": 26.4}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 92585.0, "premium_pct": 17.4}]
 ---
 
 # Li Auto Mega
@@ -38,14 +39,28 @@ Li Auto Mega (starting at $78,850) is a SUV from LI AUTO.
 
 Li Auto Mega is a suv from Li Auto, a 102.7 kWh battery and 400 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import p...
 
-## Landed Cost to Germany
+## Landed Cost by Market
+
+Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
+
+| Destination | Region | Total landed (USD) | Premium |
+|---|---|---|---|
+| Germany | EU | $129,219 | +63.9% |
+| United Kingdom | Non-EU Europe | $110,332 | +39.9% |
+| Netherlands | EU | $131,180 | +66.4% |
+| France | EU | $130,149 | +65.1% |
+| United Arab Emirates | Middle East | $91,382 | +15.9% |
+| Saudi Arabia | Middle East | $99,661 | +26.4% |
+| Australia | Oceania | $92,585 | +17.4% |
+
+## Detailed Breakdown — Germany
 
 | Cost item | Amount (USD) |
 |---|---|
 | Base price | $78,850 |
 | Standard import duty (10%) | $7,885 |
 | Countervailing duty (18%) | $16,306 |
-| VAT (19%) | $19,577 |
+| VAT (19%) | $19,578 |
 | RoRo freight | $2,000 |
 | Customs clearance | $350 |
 | Certification | $3,250 |
@@ -54,6 +69,3 @@ Li Auto Mega is a suv from Li Auto, a 102.7 kWh battery and 400 kW of motor powe
 | **Total landed** | **$129,219** |
 
 **Premium over base price**: +63.9%
-
-[Source: EU Official Journal, national VAT authority, industry freight benchmarks — via CNEVhub landed-cost-params.json]
-

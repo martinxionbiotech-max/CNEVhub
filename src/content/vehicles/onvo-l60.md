@@ -20,11 +20,12 @@ wheelbase_mm: 2950
 weight_kg: 1885
 efficiency_kwh_100km: 11.9
 fast_charge: "25 min (10-80%)"
-landed_cost: {"market": "Germany", "base_price_usd": 29140.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 2914.0, "countervailing_duty_usd": 6026.15, "vat_usd": 7235.23, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 51915.38, "premium_pct": 78.2}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 51915.38, "premium_pct": 78.2, "breakdown": {"duty_cif_usd": 2914.0, "countervailing_duty_usd": 6026.15, "vat_usd": 7235.23, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["onvo", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1763389495133-labq9xqrq8.jpg"
+landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 51915.38, "premium_pct": 78.2}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 44714.8, "premium_pct": 53.4}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 52576.98, "premium_pct": 80.4}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.2, "total_landed_usd": 52196.18, "premium_pct": 79.1}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 36576.85, "premium_pct": 25.5}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 39636.55, "premium_pct": 36.0}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 37904.0, "premium_pct": 30.1}]
 ---
 
 # Onvo L60
@@ -40,7 +41,21 @@ Onvo L60 (starting at $29,140) is a SUV from ONVO.
 
 Onvo L60 is a suv from Onvo, offering 560 km of CLTC range a 60 kWh battery and 240 kW of motor power. Full landed-cost breakdown to the EU/DACH region inclu...
 
-## Landed Cost to Germany
+## Landed Cost by Market
+
+Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
+
+| Destination | Region | Total landed (USD) | Premium |
+|---|---|---|---|
+| Germany | EU | $51,915 | +78.2% |
+| United Kingdom | Non-EU Europe | $44,715 | +53.4% |
+| Netherlands | EU | $52,577 | +80.4% |
+| France | EU | $52,196 | +79.1% |
+| United Arab Emirates | Middle East | $36,577 | +25.5% |
+| Saudi Arabia | Middle East | $39,637 | +36.0% |
+| Australia | Oceania | $37,904 | +30.1% |
+
+## Detailed Breakdown — Germany
 
 | Cost item | Amount (USD) |
 |---|---|
@@ -56,6 +71,3 @@ Onvo L60 is a suv from Onvo, offering 560 km of CLTC range a 60 kWh battery and 
 | **Total landed** | **$51,915** |
 
 **Premium over base price**: +78.2%
-
-[Source: EU Official Journal, national VAT authority, industry freight benchmarks — via CNEVhub landed-cost-params.json]
-

@@ -20,11 +20,12 @@ wheelbase_mm: 2915
 weight_kg: 1985
 efficiency_kwh_100km: 14.8
 fast_charge: "15 min (80%)"
-landed_cost: {"market": "Germany", "base_price_usd": 36170.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 3617.0, "countervailing_duty_usd": 7479.96, "vat_usd": 8980.72, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 62847.68, "premium_pct": 73.8}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 62847.68, "premium_pct": 73.8, "breakdown": {"duty_cif_usd": 3617.0, "countervailing_duty_usd": 7479.96, "vat_usd": 8980.72, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["arcfox", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1762760397819-ob1zvmtxxxi.png"
+landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 62847.68, "premium_pct": 73.8}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 53994.4, "premium_pct": 49.3}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 63693.02, "premium_pct": 76.1}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.2, "total_landed_usd": 63220.35, "premium_pct": 74.8}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 44327.43, "premium_pct": 22.6}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 48125.28, "premium_pct": 33.1}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 45637.0, "premium_pct": 26.2}]
 ---
 
 # Arcfox AS
@@ -40,22 +41,33 @@ Arcfox AS (starting at $36,170) is a SUV from ARCFOX.
 
 Arcfox AS is a suv from Arcfox, offering 602 km of CLTC range a 74.5 kWh battery and 252 kW of motor power. Full landed-cost breakdown to the EU/DACH region ...
 
-## Landed Cost to Germany
+## Landed Cost by Market
+
+Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
+
+| Destination | Region | Total landed (USD) | Premium |
+|---|---|---|---|
+| Germany | EU | $62,848 | +73.8% |
+| United Kingdom | Non-EU Europe | $53,994 | +49.3% |
+| Netherlands | EU | $63,693 | +76.1% |
+| France | EU | $63,220 | +74.8% |
+| United Arab Emirates | Middle East | $44,327 | +22.6% |
+| Saudi Arabia | Middle East | $48,125 | +33.1% |
+| Australia | Oceania | $45,637 | +26.2% |
+
+## Detailed Breakdown — Germany
 
 | Cost item | Amount (USD) |
 |---|---|
 | Base price | $36,170 |
 | Standard import duty (10%) | $3,617 |
-| Countervailing duty (18%) | $7,479 |
-| VAT (19%) | $8,980 |
+| Countervailing duty (18%) | $7,480 |
+| VAT (19%) | $8,981 |
 | RoRo freight | $2,000 |
 | Customs clearance | $350 |
 | Certification | $3,250 |
 | Registration | $500 |
 | Inland transport | $500 |
-| **Total landed** | **$62,847** |
+| **Total landed** | **$62,848** |
 
 **Premium over base price**: +73.8%
-
-[Source: EU Official Journal, national VAT authority, industry freight benchmarks — via CNEVhub landed-cost-params.json]
-
