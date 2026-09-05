@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "data_source": "EU Official Journal, country tax authorities, industry freight benchmarks",
+    "last_updated": "2026-09-05",
+    "currency": "USD",
+    "note": "Rates are benchmark estimates for B2B landed-cost modeling across key export markets. EU countervailing duties by producer; UK/AU/UAE/Saudi have no countervailing duty. Actual costs vary by trim, port, volume, homologation route."
+  },
+  "eu": {
+    "standard_import_duty_rate": 0.1,
+    "duty_basis": "CIF value (car price + freight + insurance)"
+  },
+  "countervailing_duty": {
+    "byd": 0.17,
+    "geely": 0.188,
+    "zeekr": 0.188,
+    "saic": 0.353,
+    "default": 0.188,
+    "note": "EU anti-subsidy (countervailing) duties on Chinese BEVs. Rates vary by producer; default applies to non-cooperating/other producers."
+  },
+  "vat": {
+    "germany": 0.19,
+    "france": 0.2,
+    "netherlands": 0.21,
+    "united_kingdom": 0.2,
+    "italy": 0.22,
+    "spain": 0.21,
+    "portugal": 0.23,
+    "default": 0.21
+  },
+  "freight": {
+    "roro_per_unit_usd": {
+      "min": 1500,
+      "max": 2500,
+      "typical": 2000
+    },
+    "container_per_unit_usd": {
+      "min": 1800,
+      "max": 3200,
+      "typical": 2400
+    },
+    "note": "Roll-on/Roll-off (RoRo) freight China → Europe main ports, per vehicle."
+  },
+  "other_costs": {
+    "customs_clearance_usd": 350,
+    "certification_homologation_usd": {
+      "min": 1500,
+      "max": 5000,
+      "note": "ECWVTA or Small Series type approval"
+    },
+    "registration_fee_usd": {
+      "germany": 500,
+      "default": 400
+    },
+    "inland_transport_usd": 500
+  },
+  "formula": {
+    "landed_price": "base_price * (1 + standard_duty) * (1 + countervailing_duty) * (1 + vat) + freight + clearance + certification + registration + inland",
+    "landed_vs_base_pct": "(landed_price - base_price) / base_price * 100"
+  },
+  "markets": {
+    "germany": {
+      "country": "Germany",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "countervailing_duty": true,
+      "vat_rate": 0.19,
+      "registration_fee_usd": 500,
+      "freight_roro_usd": 2000,
+      "certification_usd": 3250,
+      "note": "EU 10% standard duty + producer-specific countervailing duty + 19% VAT"
+    },
+    "united_kingdom": {
+      "country": "United Kingdom",
+      "region": "Non-EU Europe",
+      "standard_duty_rate": 0.1,
+      "countervailing_duty": false,
+      "vat_rate": 0.2,
+      "registration_fee_usd": 400,
+      "freight_roro_usd": 2000,
+      "certification_usd": 3000,
+      "note": "UK keeps 10% duty, no countervailing duty; 20% VAT"
+    },
+    "netherlands": {
+      "country": "Netherlands",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "countervailing_duty": true,
+      "vat_rate": 0.21,
+      "registration_fee_usd": 400,
+      "freight_roro_usd": 2000,
+      "certification_usd": 3250,
+      "note": "EU 10% duty + countervailing + 21% VAT (Rotterdam entry port)"
+    },
+    "france": {
+      "country": "France",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "countervailing_duty": true,
+      "vat_rate": 0.2,
+      "registration_fee_usd": 400,
+      "freight_roro_usd": 2000,
+      "certification_usd": 3250,
+      "note": "EU 10% duty + countervailing + 20% VAT"
+    },
+    "united_arab_emirates": {
+      "country": "United Arab Emirates",
+      "region": "Middle East",
+      "standard_duty_rate": 0.05,
+      "countervailing_duty": false,
+      "vat_rate": 0.05,
+      "registration_fee_usd": 300,
+      "freight_roro_usd": 1800,
+      "certification_usd": 1500,
+      "note": "UAE 5% import duty + 5% VAT (low tariff market)"
+    },
+    "saudi_arabia": {
+      "country": "Saudi Arabia",
+      "region": "Middle East",
+      "standard_duty_rate": 0.05,
+      "countervailing_duty": false,
+      "vat_rate": 0.15,
+      "registration_fee_usd": 300,
+      "freight_roro_usd": 1800,
+      "certification_usd": 1500,
+      "note": "Saudi 5% import duty + 15% VAT"
+    },
+    "australia": {
+      "country": "Australia",
+      "region": "Oceania",
+      "standard_duty_rate": 0.0,
+      "countervailing_duty": false,
+      "vat_rate": 0.1,
+      "registration_fee_usd": 500,
+      "freight_roro_usd": 2500,
+      "certification_usd": 2000,
+      "note": "China-Australia FTA 0% duty + 10% GST (LCT luxury car tax may apply above threshold)"
+    }
+  }
+}

@@ -17,17 +17,17 @@ const cars = [
   { slug: 'denza-d9', name: 'Denza D9', brand: 'denza', price: 43630, cvd: 0.188 },
 ];
 
+// 多国市场（含反补贴税适用标记，与 landed-cost-params.json 对齐）
 const markets = [
-  { code: 'germany', country: 'Germany', vat: 0.19, reg: 500 },
-  { code: 'france', country: 'France', vat: 0.20, reg: 400 },
-  { code: 'netherlands', country: 'Netherlands', vat: 0.21, reg: 400 },
-  { code: 'united_kingdom', country: 'United Kingdom', vat: 0.20, reg: 400 },
-  { code: 'italy', country: 'Italy', vat: 0.22, reg: 400 },
-  { code: 'spain', country: 'Spain', vat: 0.21, reg: 400 },
-  { code: 'portugal', country: 'Portugal', vat: 0.23, reg: 400 },
+  { code: 'germany', country: 'Germany', region: 'EU', vat: 0.19, reg: 500, duty: 0.10, cvd: true },
+  { code: 'france', country: 'France', region: 'EU', vat: 0.20, reg: 400, duty: 0.10, cvd: true },
+  { code: 'netherlands', country: 'Netherlands', region: 'EU', vat: 0.21, reg: 400, duty: 0.10, cvd: true },
+  { code: 'united_kingdom', country: 'United Kingdom', region: 'Non-EU', vat: 0.20, reg: 400, duty: 0.10, cvd: false },
+  { code: 'united_arab_emirates', country: 'UAE', region: 'Middle East', vat: 0.05, reg: 300, duty: 0.05, cvd: false },
+  { code: 'saudi_arabia', country: 'Saudi Arabia', region: 'Middle East', vat: 0.15, reg: 300, duty: 0.05, cvd: false },
+  { code: 'australia', country: 'Australia', region: 'Oceania', vat: 0.10, reg: 500, duty: 0.00, cvd: false },
 ];
 
-const STD_DUTY = 0.10;
 const FREIGHT = 2000;
 const CLEARANCE = 350;
 const CERTIFICATION = 3250;
@@ -36,7 +36,7 @@ const INLAND = 500;
 
 <SEO
   title="Landed Cost Calculator — Chinese EV Import Price"
-  description="Calculate the real landed cost of importing any Chinese EV to the EU. Itemized duty, VAT, freight, and certification."
+  description="Calculate the real landed cost of importing any Chinese EV across key export markets. Itemized duty, VAT, freight, and certification."
 />
 
 <MarketingLayout title="Landed Cost Calculator">
@@ -44,7 +44,7 @@ const INLAND = 500;
     <div class="text-center mb-12">
       <h1 class="text-4xl font-bold mb-3">Landed Cost Calculator</h1>
       <p class="text-gray-600 max-w-2xl mx-auto">
-        Pick a vehicle and destination country — see the real landed price with every cost itemized.
+        Pick a vehicle and destination — see the real landed price with every cost itemized across 7 key export markets.
       </p>
     </div>
 
@@ -52,27 +52,31 @@ const INLAND = 500;
       <!-- 输入区 -->
       <div class="md:col-span-2 space-y-5">
         <div>
-          <label for="car-select" class="block text-sm font-medium text-gray-300 mb-2">Vehicle</label>
-          <select id="car-select" class="w-full bg-gray-50 border border-gray-300 rounded-lg px-4 py-3 text-gray-100 focus:border-green-500 focus:outline-none">
+          <label for="car-select" class="block text-sm font-medium text-gray-700 mb-2">Vehicle</label>
+          <select id="car-select" class="w-full bg-white border border-gray-300 rounded-lg px-4 py-3 text-gray-900 focus:border-green-500 focus:ring-2 focus:ring-green-200 focus:outline-none">
             {cars.map((c) => <option value={c.slug} data-price={c.price} data-cvd={c.cvd} data-brand={c.brand}>{c.name} — ${c.price.toLocaleString()}</option>)}
           </select>
         </div>
 
         <div>
-          <label for="market-select" class="block text-sm font-medium text-gray-300 mb-2">Destination</label>
-          <select id="market-select" class="w-full bg-gray-50 border border-gray-300 rounded-lg px-4 py-3 text-gray-100 focus:border-green-500 focus:outline-none">
-            {markets.map((m) => <option value={m.code} data-vat={m.vat} data-reg={m.reg}>{m.country} — {(m.vat * 100).toFixed(0)}% VAT</option>)}
+          <label for="market-select" class="block text-sm font-medium text-gray-700 mb-2">Destination</label>
+          <select id="market-select" class="w-full bg-white border border-gray-300 rounded-lg px-4 py-3 text-gray-900 focus:border-green-500 focus:ring-2 focus:ring-green-200 focus:outline-none">
+            {markets.map((m) => <option value={m.code} data-vat={m.vat} data-reg={m.reg} data-duty={m.duty} data-cvd={m.cvd}>{m.country} — {(m.vat * 100).toFixed(0)}% VAT{(m.duty * 100).toFixed(0)}% duty</option>)}
           </select>
         </div>
 
         <div>
-          <label class="block text-sm font-medium text-gray-300 mb-2">Base price (USD)</label>
-          <input id="price-input" type="number" class="w-full bg-gray-50 border border-gray-300 rounded-lg px-4 py-3 text-gray-100 focus:border-green-500 focus:outline-none" />
+          <label for="price-input" class="block text-sm font-medium text-gray-700 mb-2">Base price (USD)</label>
+          <input id="price-input" type="number" class="w-full bg-white border border-gray-300 rounded-lg px-4 py-3 text-gray-900 focus:border-green-500 focus:ring-2 focus:ring-green-200 focus:outline-none" placeholder="e.g. 24000" />
         </div>
+
+        <button id="calc-btn" class="w-full bg-green-600 hover:bg-green-700 text-white font-semibold rounded-lg px-4 py-3 transition-colors">
+          Calculate Landed Cost
+        </button>
 
         <p class="text-xs text-gray-600">
           Base price is editable. Selecting a vehicle fills it automatically. Duties, VAT, and fixed costs
-          use the <a href="/landed-cost-methodology/" class="text-green-600 hover:text-green-400">documented methodology</a>.
+          use the <a href="/landed-cost-methodology/" class="text-green-600 hover:text-green-700">documented methodology</a>.
         </p>
       </div>
 
@@ -101,11 +105,12 @@ const INLAND = 500;
 <script>
   const cars = JSON.parse(`[${cars.map(c => JSON.stringify(c)).join(',')}]`);
   const markets = JSON.parse(`[${markets.map(m => JSON.stringify(m)).join(',')}]`);
-  const STD_DUTY = 0.10, FREIGHT = 2000, CLEARANCE = 350, CERTIFICATION = 3250, INLAND = 500;
+  const FREIGHT = 2000, CLEARANCE = 350, CERTIFICATION = 3250, INLAND = 500;
 
   const carSelect = document.getElementById('car-select');
   const marketSelect = document.getElementById('market-select');
   const priceInput = document.getElementById('price-input');
+  const calcBtn = document.getElementById('calc-btn');
   const totalEl = document.getElementById('total-cost');
   const premiumEl = document.getElementById('premium-pct');
   const breakdownEl = document.getElementById('breakdown');
@@ -119,8 +124,9 @@ const INLAND = 500;
     const market = markets[marketSelect.selectedIndex];
     let base = parseFloat(priceInput.value) || car.price;
 
-    const duty = base * STD_DUTY;
-    const cvd = (base + duty) * car.cvd;
+    const duty = base * market.duty;
+    // 反补贴税仅在欧盟市场（cvd=true）适用
+    const cvd = market.cvd ? (base + duty) * car.cvd : 0;
     const vat = (base + duty + cvd) * market.vat;
     const reg = market.reg;
 
@@ -132,8 +138,8 @@ const INLAND = 500;
 
     const rows = [
       ['Base price', base],
-      [`Standard duty (10%)`, duty],
-      [`Countervailing duty (${(car.cvd * 100).toFixed(1)}%)`, cvd],
+      [`Standard duty (${(market.duty * 100).toFixed(0)}%)`, duty],
+      ...(market.cvd ? [[`Countervailing duty (${(car.cvd * 100).toFixed(1)}%)`, cvd]] : []),
       [`VAT (${(market.vat * 100).toFixed(0)}%)`, vat],
       ['RoRo freight', FREIGHT],
       ['Customs clearance', CLEARANCE],
@@ -155,15 +161,18 @@ const INLAND = 500;
     `;
   }
 
-  // 车型变化 → 更新价格输入
+  // 车型变化 → 更新价格输入 + 自动计算
   carSelect.addEventListener('change', () => {
     const car = cars[carSelect.selectedIndex];
     priceInput.value = car.price;
     calc();
   });
 
+  // 按钮点击 → 计算
+  calcBtn.addEventListener('click', calc);
+
+  // 市场变化 → 自动计算
   marketSelect.addEventListener('change', calc);
-  priceInput.addEventListener('input', calc);
 
   // 初始化
   if (cars.length) priceInput.value = cars[0].price;
