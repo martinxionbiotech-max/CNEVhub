@@ -19,7 +19,7 @@ height_mm: 1480
 wheelbase_mm: 2928
 weight_kg: 1760
 fast_charge: "-"
-landed_cost: {"market": "17670.0", "base_price_usd": 17670.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 1767.0, "countervailing_duty_usd": 3654.16, "vat_usd": 4387.32, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 34078.48, "premium_pct": 92.9}
+landed_cost: {"market": "Germany", "base_price_usd": 17670.0, "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "breakdown": {"duty_cif_usd": 1767.0, "countervailing_duty_usd": 3654.16, "vat_usd": 4387.32, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}, "total_landed_usd": 34078.48, "premium_pct": 92.9}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely-galaxy", "SUV", "chinese-ev", "export"]

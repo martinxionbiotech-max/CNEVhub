@@ -2,121 +2,85 @@
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import PageHeader from '@sections/content/PageHeader.astro';
 import StatsSection from '@sections/social-proof/StatsSection.astro';
-import VideoEmbed from '@sections/content/VideoEmbed.astro';
 import ValuesSection from '@sections/team/ValuesSection.astro';
-import TeamSection from '@sections/team/TeamSection.astro';
 import ContentSection from '@sections/content/ContentSection.astro';
 import CTA from '@sections/marketing/CTA.astro';
 import { siteConfig } from '@/config';
 
-const team = [
-  {
-    name: 'Sarah Mitchell',
-    role: 'CEO & Co-founder',
-    bio: 'Former infrastructure lead at a major cloud provider. Sarah started Virex to make deployment accessible to every developer.',
-    avatar: '/images/team/sarah-mitchell.webp',
-  },
-  {
-    name: 'James Chen',
-    role: 'CTO & Co-founder',
-    bio: 'Built distributed systems at scale for 15 years. James leads our engineering team and architecture decisions.',
-    avatar: '/images/team/james-chen.webp',
-  },
-  {
-    name: 'Maria Rodriguez',
-    role: 'VP of Product',
-    bio: 'Product leader with a passion for developer tools. Maria ensures every feature we ship solves real problems.',
-    avatar: '/images/team/maria-rodriguez.webp',
-  },
-  {
-    name: 'David Kim',
-    role: 'VP of Engineering',
-    bio: 'Scaling expert who loves building reliable systems. David leads our platform and infrastructure teams.',
-    avatar: '/images/team/david-kim.webp',
-  },
-];
-
 const values = [
   {
-    title: 'Developer First',
+    title: 'Transparent Pricing',
     description:
-      'We build for developers because we are developers. Every decision starts with how it impacts the people using our platform.',
+      'We show the full landed cost — vehicle price, duties, countervailing tariffs, VAT, freight, and compliance — so buyers know exactly what they pay before ordering.',
   },
   {
-    title: 'Simplicity Wins',
+    title: 'Verified Data',
     description:
-      'Complex problems deserve simple solutions. We work hard to hide complexity so you can focus on building.',
+      'Every spec, tariff rate, and regulation is cross-checked against authoritative sources (EU Implementing Regulation 2024/2754, manufacturer datasheets, customs guidance).',
   },
   {
-    title: 'Reliability Matters',
+    title: 'Importer-First',
     description:
-      'Your users depend on your app, and you depend on us. We take that responsibility seriously.',
+      'Built for international EV importers and fleet buyers, not casual browsers. We focus on what matters for a compliant, cost-effective import.',
   },
   {
-    title: 'Transparency Always',
+    title: 'Compliance by Default',
     description:
-      'No hidden fees, no surprise limits, no confusing pricing. What you see is what you get.',
+      'WVTA, GB/T battery standards, and EU homologation requirements are folded into every landed-cost estimate so no surprise costs appear at the border.',
   },
 ];
 
 const stats = [
-  { value: '50K+', label: 'Developers' },
-  { value: '10M+', label: 'Deployments' },
-  { value: '99.99%', label: 'Uptime' },
-  { value: '200+', label: 'Edge Locations' },
+  { value: '315+', label: 'Vehicles Cataloged' },
+  { value: '58', label: 'Chinese Brands' },
+  { value: '3', label: 'In-Depth Guides' },
+  { value: '1', label: 'Transparent Formula' },
 ];
 ---
 
 <MarketingLayout
   title={`About - ${siteConfig.name}`}
-  description="Learn about the team and mission behind Virex, the modern deployment platform for developers."
+  description="CNEVhub is an independent information platform for importing Chinese electric vehicles, built on transparent landed-cost data and verified export compliance."
 >
-  <PageHeader title="We're building the future of deployment" align="left" maxWidth="lg">
+  <PageHeader title="Making Chinese EV imports transparent" align="left" maxWidth="lg">
     <p class="mt-6 text-lg text-text-muted leading-relaxed">
-      Virex started with a simple observation: deploying applications shouldn't be hard. Yet
-      developers everywhere were spending hours configuring CI/CD pipelines, managing
-      infrastructure, and debugging deployment issues.
+      CNEVhub exists to solve a single, persistent problem: the price you see on a Chinese EV
+      listing is almost never the price you'll actually pay at port. Duties, countervailing
+      tariffs, VAT, freight, certification, and registration all stack up — and most buyers only
+      discover the true cost after committing.
     </p>
     <p class="mt-4 text-lg text-text-muted leading-relaxed">
-      We founded Virex in 2021 to change that. Our mission is to make deployment so simple that it
-      disappears—letting developers focus entirely on building great products.
+      We built CNEVhub to make that number transparent <em>before</em> you buy. Every vehicle page
+      includes a full landed-cost breakdown, and every tariff rate is pinned to the latest
+      official EU implementing regulation.
     </p>
   </PageHeader>
 
   <StatsSection stats={stats} background="muted" />
 
-  <VideoEmbed
-    title="See Virex in action"
-    subtitle="Watch how easy it is to deploy your first application in under 2 minutes."
-    videoId="dQw4w9WgXcQ"
-    provider="youtube"
-    maxWidth="lg"
-    background="default"
-  />
-
   <ValuesSection
-    title="Our values"
+    title="What we stand for"
     items={values}
     variant="card"
     columns={2}
     background="default"
   />
 
-  <TeamSection title="Meet the team" members={team} columns={4} background="muted" />
-
   <ContentSection
-    title="Backed by the best"
+    title="Independent data, verified sources"
     content={[
-      "We're proud to be backed by leading investors who share our vision for the future of developer tools. Our investors include top-tier venture capital firms and angels who have built and scaled developer-focused companies.",
-      "With their support, we're building a platform that will serve millions of developers worldwide.",
+      "CNEVhub is operated by Guangzhou Banghe Testing Technology Co., Ltd. (MCM) and edited by Wei Wang, with a focus on technical accuracy and regulatory compliance for cross-border EV trade.",
+      "Our landed-cost methodology is published in full, so any importer can reproduce the math. We track EU countervailing duties by brand — BYD, Geely, SAIC, and others all carry different rates — and apply them precisely rather than using a single blanket percentage.",
+      "We do not sell vehicles and are not affiliated with any manufacturer. That independence is what lets us report prices and tariffs without a sales agenda.",
     ]}
     background="default"
   />
 
   <CTA
-    title="Join us on our mission"
-    description="We're always looking for talented people who want to make deployment better for everyone."
-    action={{ label: 'View Open Positions', href: '/careers' }}
+    title="Start with the real cost"
+    description="Browse the full catalog and see the transparent landed cost for any Chinese EV you're considering."
+    action={{ label: 'Explore Vehicles', href: '/vehicles' }}
     background="muted"
   />
 </MarketingLayout>
+

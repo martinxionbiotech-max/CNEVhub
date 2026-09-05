@@ -1,67 +1,51 @@
 /**
- * Navigation Configuration
+ * Navigation Configuration — CNEVhub
  *
- * @description
- * Centralized navigation configuration for header and footer.
- * All navigation items are defined here for consistency and easy maintenance.
- *
- * Items with a `feature` property will only be shown if that feature is enabled
- * in the site config's feature flags.
+ * EV export information platform navigation (header + footer).
+ * Removed SaaS-template residue (pricing/login/dashboard/etc.).
  */
 
 import type { Navigation } from '../lib/types';
 
 export const navigation: Navigation = {
-  /**
-   * Header Navigation
-   * - main: Primary navigation links
-   * - cta: Call-to-action buttons on the right
-   */
   header: {
     main: [
-      { label: 'Features', href: '/features' },
-      { label: 'Pricing', href: '/pricing' },
-      { label: 'Demo', href: '/dashboard' },
-      { label: 'Customers', href: '/customers' },
-      { label: 'Enterprise', href: '/enterprise' },
+      { label: 'Vehicles', href: '/vehicles' },
+      { label: 'Brands', href: '/brands' },
+      { label: 'Landed Cost', href: '/landed-cost-calculator' },
+      { label: 'How It Works', href: '/landed-cost-methodology' },
+      { label: 'Guides', href: '/blog', feature: 'blog' },
       { label: 'Docs', href: '/docs', feature: 'docs' },
-      { label: 'Blog', href: '/blog', feature: 'blog' },
     ],
     cta: [
-      { label: 'Login', href: '/login', variant: 'ghost' },
-      { label: 'Get Started', href: '/register', variant: 'primary' },
+      { label: 'Browse Vehicles', href: '/vehicles', variant: 'primary' },
     ],
   },
 
-  /**
-   * Footer Navigation
-   * Organized into 5 columns: Product, Solutions, Resources, Company, Legal
-   */
   footer: {
     product: [
-      { label: 'Features', href: '/features' },
-      { label: 'Integrations', href: '/integrations' },
-      { label: 'Security', href: '/security' },
-      { label: 'Pricing', href: '/pricing' },
-      { label: 'FAQ', href: '/faq' },
+      { label: 'Vehicles', href: '/vehicles' },
+      { label: 'Brands', href: '/brands' },
+      { label: 'Landed Cost Calculator', href: '/landed-cost-calculator' },
+      { label: 'Methodology', href: '/landed-cost-methodology' },
+      { label: 'Docs', href: '/docs' },
     ],
     solutions: [
-      { label: 'Enterprise', href: '/enterprise' },
-      { label: 'Customers', href: '/customers' },
-      { label: 'Request Demo', href: '/demo' },
-      { label: 'Status', href: '/status' },
+      { label: 'Import Guides', href: '/blog' },
+      { label: 'EU Import Guide', href: '/blog/import-chinese-ev-eu-guide' },
+      { label: 'Export Landscape 2026', href: '/blog/chinese-ev-export-landscape-2026' },
+      { label: 'BYD Seal Review', href: '/blog/byd-seal-deep-review' },
     ],
     resources: [
-      { label: 'Documentation', href: '/docs', feature: 'docs' },
       { label: 'Blog', href: '/blog', feature: 'blog' },
-      { label: 'Changelog', href: '/changelog', feature: 'changelog' },
-      { label: 'Roadmap', href: '/roadmap', feature: 'roadmap' },
+      { label: 'FAQ', href: '/faq' },
+      { label: 'About', href: '/about' },
+      { label: 'Contact', href: '/contact' },
     ],
     company: [
       { label: 'About', href: '/about' },
-      { label: 'Careers', href: '/careers' },
       { label: 'Contact', href: '/contact' },
-      { label: 'Testimonials', href: '/testimonials', feature: 'testimonials' },
+      { label: 'FAQ', href: '/faq' },
     ],
     legal: [
       { label: 'Privacy', href: '/privacy' },
@@ -69,3 +53,4 @@ export const navigation: Navigation = {
     ],
   },
 };
+
