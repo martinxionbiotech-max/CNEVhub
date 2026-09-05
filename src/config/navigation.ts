@@ -10,6 +10,7 @@ import type { Navigation } from '../lib/types';
 export const navigation: Navigation = {
   header: {
     main: [
+      { label: 'Home', href: '/' },
       { label: 'Vehicles', href: '/vehicles' },
       { label: 'Brands', href: '/brands' },
       { label: 'Landed Cost', href: '/landed-cost-calculator' },

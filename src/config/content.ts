@@ -11,7 +11,7 @@ import type { AnnouncementConfig, ContentStrings } from '../lib/types';
 /** Announcement bar configuration */
 export const announcement: AnnouncementConfig = {
   /** Show/hide the announcement bar */
-  enabled: true,
+  enabled: false,
 
   /** Unique ID - change this to reset dismissal for new announcements */
   id: 'launch-2025',
