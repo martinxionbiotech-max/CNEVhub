@@ -103,8 +103,8 @@ const INLAND = 500;
 </MarketingLayout>
 
 <script>
-  const cars = JSON.parse(`[${cars.map(c => JSON.stringify(c)).join(',')}]`);
-  const markets = JSON.parse(`[${markets.map(m => JSON.stringify(m)).join(',')}]`);
+  const CARS = JSON.parse(document.getElementById('calc-cars-data').textContent);
+  const MARKETS = JSON.parse(document.getElementById('calc-markets-data').textContent);
   const FREIGHT = 2000, CLEARANCE = 350, CERTIFICATION = 3250, INLAND = 500;
 
   const carSelect = document.getElementById('car-select');
@@ -120,8 +120,8 @@ const INLAND = 500;
   }
 
   function calc() {
-    const car = cars[carSelect.selectedIndex];
-    const market = markets[marketSelect.selectedIndex];
+    const car = CARS[carSelect.selectedIndex];
+    const market = MARKETS[marketSelect.selectedIndex];
     let base = parseFloat(priceInput.value) || car.price;
 
     const duty = base * market.duty;
@@ -163,7 +163,7 @@ const INLAND = 500;
 
   // 车型变化 → 更新价格输入 + 自动计算
   carSelect.addEventListener('change', () => {
-    const car = cars[carSelect.selectedIndex];
+    const car = CARS[carSelect.selectedIndex];
     priceInput.value = car.price;
     calc();
   });
@@ -175,6 +175,9 @@ const INLAND = 500;
   marketSelect.addEventListener('change', calc);
 
   // 初始化
-  if (cars.length) priceInput.value = cars[0].price;
+  if (CARS.length) priceInput.value = CARS[0].price;
   calc();
 </script>
+
+<script type="application/json" id="calc-cars-data" set:html={JSON.stringify(cars)} />
+<script type="application/json" id="calc-markets-data" set:html={JSON.stringify(markets)} />
