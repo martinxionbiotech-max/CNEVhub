@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 42520.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["m-hero", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1766393738115-dj087h6hvyk.png"
 ---
 
 # M Hero M817

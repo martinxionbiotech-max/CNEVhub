@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 17300.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["leapmotor", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762954819072-anktb1330ut.png"
 ---
 
 # Leapmotor C10

@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 8440.0, "standard_duty_rate
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery-new-energy", "Hatchback", "chinese-ev", "export"]
+image: "/images/vehicles/1762434051399-3dae1nlfr6d.png"
 ---
 
 # Chery New Energy QQ Duomi

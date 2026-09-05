@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 10540.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762950710058-nyw1id5ye2.png"
 ---
 
 # Byd Atto 2

@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 50270.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["nio", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1761051730662-t42ge9l5pxq.png"
 ---
 
 # Nio EC6

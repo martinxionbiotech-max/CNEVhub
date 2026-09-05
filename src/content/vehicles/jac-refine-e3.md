@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 23230.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["jac-refine", "MPV", "chinese-ev", "export"]
+image: "/images/vehicles/1765189643929-5aizblhr5gb.png"
 ---
 
 # Jac Refine E3

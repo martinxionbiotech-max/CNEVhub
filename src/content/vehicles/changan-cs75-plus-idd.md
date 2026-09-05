@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 23930.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["changan", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764844626207-afy1bqtjon.png"
 ---
 
 # Changan Cs75 PLUS IDD

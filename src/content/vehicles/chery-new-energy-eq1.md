@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 7730.0, "standard_duty_rate
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery-new-energy", "Hatchback", "chinese-ev", "export"]
+image: "/images/vehicles/1762422141919-ctr13hlm3i.jpg"
 ---
 
 # Chery New Energy EQ1

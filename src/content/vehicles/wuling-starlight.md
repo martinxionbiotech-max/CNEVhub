@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 11240.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["wuling", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762422596907-6zk5ey70md3.png"
 ---
 
 # Wuling Starlight

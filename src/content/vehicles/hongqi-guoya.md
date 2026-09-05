@@ -21,6 +21,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 197180.0, "standard_duty_ra
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["hongqi", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762749945548-wihh6oq92o.jpg"
 ---
 
 # Hongqi Guoya

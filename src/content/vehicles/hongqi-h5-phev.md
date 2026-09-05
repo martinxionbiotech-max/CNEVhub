@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 26090.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["hongqi", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1761706077814-cml8r9fb0j.png"
 ---
 
 # Hongqi H5 Phev

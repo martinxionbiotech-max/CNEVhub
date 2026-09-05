@@ -19,6 +19,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 42150.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["maxus", "MPV", "chinese-ev", "export"]
+image: "/images/vehicles/1765201651132-dpjquse28rj.jpg"
 ---
 
 # Maxus Eg10

@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 35080.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["li-auto", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1761019514971-b49jl0uzbhw.png"
 ---
 
 # Li Auto L6

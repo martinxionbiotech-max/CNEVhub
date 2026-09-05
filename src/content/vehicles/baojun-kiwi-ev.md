@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 12370.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["baojun", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762748050035-aopkihyx0r.png"
 ---
 
 # Baojun Kiwi EV

@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 11080, "standard_duty_rate"
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "Sedan", "chinese-ev", "export"]
+image: "/images/vehicles/1761103041874-hp415nx0k8q.jpg"
 ---
 
 # BYD Qin Plus

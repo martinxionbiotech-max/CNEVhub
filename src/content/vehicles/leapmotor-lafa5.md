@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 13770.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["leapmotor", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1766377614713-4f3zlw8821l.png"
 ---
 
 # Leapmotor Lafa5

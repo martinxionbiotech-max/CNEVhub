@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 22510.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["saic", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764924393393-ojrkuqphfko.png"
 ---
 
 # Saic H5

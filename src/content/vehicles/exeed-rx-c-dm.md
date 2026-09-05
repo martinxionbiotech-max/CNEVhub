@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 19700.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["exeed", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1766391233182-txckzdkmv4q.jpg"
 ---
 
 # Exeed RX C DM

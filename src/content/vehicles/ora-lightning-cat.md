@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 29410.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["ora", "Sedan", "chinese-ev", "export"]
+image: "/images/vehicles/1762751973525-meol94hfjx.png"
 ---
 
 # Ora Lightning CAT

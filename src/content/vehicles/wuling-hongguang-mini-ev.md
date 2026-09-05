@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 5000.0, "standard_duty_rate
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["wuling", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1761101829816-q78z88soq5m.png"
 ---
 
 # Wuling Hongguang MINI EV

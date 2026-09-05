@@ -19,6 +19,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 8400.0, "standard_duty_rate
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["changan", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763801056739-4sgvpl291xr.png"
 ---
 
 # Changan X5 PLUS

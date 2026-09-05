@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 26730.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["hyptec", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1766385342989-4bdv6tdi6np.png"
 ---
 
 # Hyptec A800

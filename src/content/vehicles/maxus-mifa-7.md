@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 26750.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["maxus", "MPV", "chinese-ev", "export"]
+image: "/images/vehicles/1765199965991-bpcrbfw5ggt.png"
 ---
 
 # Maxus Mifa 7

@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 99720.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["maextro", "Sedan", "chinese-ev", "export"]
+image: "/images/vehicles/1766386240082-mae60anuzra.png"
 ---
 
 # Maextro S800

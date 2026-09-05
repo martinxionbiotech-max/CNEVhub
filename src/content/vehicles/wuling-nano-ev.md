@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 8560.0, "standard_duty_rate
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["wuling", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762955246143-lzldt5pisij.jpg"
 ---
 
 # Wuling Nano EV

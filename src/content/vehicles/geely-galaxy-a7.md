@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 12610.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely-galaxy", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762075825573-qlm135g6lxc.jpg"
 ---
 
 # Geely Galaxy A7

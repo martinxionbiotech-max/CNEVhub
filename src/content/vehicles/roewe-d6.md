@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 16170.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["roewe", "Sedan", "chinese-ev", "export"]
+image: "/images/vehicles/1762159647128-iqpe3d6oco8.jpg"
 ---
 
 # Roewe D6

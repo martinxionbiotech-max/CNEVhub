@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 11960.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["changan", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762747030859-8if68o0cy0v.jpg"
 ---
 
 # Changan Eado

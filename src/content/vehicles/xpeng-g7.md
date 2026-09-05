@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 27580.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xpeng", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763390674163-3yxwbgmy9v7.png"
 ---
 
 # Xpeng G7

@@ -21,6 +21,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 15460.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["forthing", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1765272472197-rw3gc3cfuj.png"
 ---
 
 # Forthing Lingzhi M5 NEV

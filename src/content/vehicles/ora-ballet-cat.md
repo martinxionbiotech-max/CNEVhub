@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 21100.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["ora", "Sedan", "chinese-ev", "export"]
+image: "/images/vehicles/1762750780749-rw7raa9gh1p.jpg"
 ---
 
 # Ora Ballet CAT

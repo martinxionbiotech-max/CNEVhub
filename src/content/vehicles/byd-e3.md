@@ -21,6 +21,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 21800.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "Sedan", "chinese-ev", "export"]
+image: "/images/vehicles/1762762184565-ll3a8zghmdr.jpg"
 ---
 
 # Byd E3

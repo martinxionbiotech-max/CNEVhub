@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 14060.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["baw", "MPV", "chinese-ev", "export"]
+image: "/images/vehicles/1766322509645-8uq6uxer2lh.png"
 ---
 
 # Baw E M7

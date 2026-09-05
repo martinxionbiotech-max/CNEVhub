@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 25340.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["forthing", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1765273424157-au6mbk90v4p.png"
 ---
 
 # Forthing Xinghai V9

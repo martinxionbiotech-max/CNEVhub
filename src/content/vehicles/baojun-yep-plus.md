@@ -23,6 +23,7 @@ landed_cost: {"market": "10820.0", "base_price_usd": 10820.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["baojun", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763375942742-9phlcdq291l.png"
 ---
 
 # Baojun YEP PLUS

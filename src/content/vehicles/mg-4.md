@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 9690.0, "standard_duty_rate
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["mg", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762433807505-0nefhb3uolg.png"
 ---
 
 # Mg 4

@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 9690.0, "standard_duty_rate
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["wuling", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1765205032652-onxhve4zpa.png"
 ---
 
 # Wuling Hongguang BEV

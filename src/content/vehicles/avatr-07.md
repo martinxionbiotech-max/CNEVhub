@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 30970.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["avatr", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763356504133-m9qmlpd8f2.jpg"
 ---
 
 # Avatr 07

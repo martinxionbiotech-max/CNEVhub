@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 20680.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763002846121-l0ox2s7l5do.png"
 ---
 
 # Geely Emgrand EV

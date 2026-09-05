@@ -20,6 +20,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 40390.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["gac-motor", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764839526544-5vxhf0sa5h5.png"
 ---
 
 # Gac Motor M8

@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 16890.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery-fulwin", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763906543811-7whbo6nqzfk.png"
 ---
 
 # Chery Fulwin X3L

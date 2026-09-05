@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 30870.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xpeng", "Sedan", "chinese-ev", "export"]
+image: "/images/vehicles/1761052591777-oqmltvw4548.png"
 ---
 
 # Xpeng P7

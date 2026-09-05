@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 10680.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["wuling", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763903817156-rh55z4jzl5e.png"
 ---
 
 # Wuling Binguo SUV

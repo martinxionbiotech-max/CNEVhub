@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 19130, "standard_duty_rate"
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762962389898-19c6r5fex0k.png"
 ---
 
 # BYD Song Plus

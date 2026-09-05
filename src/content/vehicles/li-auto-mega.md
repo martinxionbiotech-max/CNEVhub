@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 78850.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["li-auto", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1765274817673-5oo5het0h7h.jpg"
 ---
 
 # Li Auto Mega

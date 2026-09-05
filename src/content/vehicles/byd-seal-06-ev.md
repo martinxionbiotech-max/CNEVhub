@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 15460.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "Sedan", "chinese-ev", "export"]
+image: "/images/vehicles/1765274195262-u44n3ee4km8.png"
 ---
 
 # Byd Seal 06 EV

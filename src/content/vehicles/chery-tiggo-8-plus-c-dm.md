@@ -20,6 +20,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 18300.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764598316141-n74k76ha5df.png"
 ---
 
 # Chery Tiggo 8 PLUS C DM

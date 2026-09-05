@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 16890.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["jaecoo", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764852678511-37kvn547zy4.png"
 ---
 
 # Jaecoo J7

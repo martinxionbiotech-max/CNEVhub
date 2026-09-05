@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 88450.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["yangwang", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762745910968-5fv9cattn7w.png"
 ---
 
 # Yangwang U7

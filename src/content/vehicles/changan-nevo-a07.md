@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 19700.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["changan", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762155460928-7irovl8dk8n.jpg"
 ---
 
 # Changan Nevo A07

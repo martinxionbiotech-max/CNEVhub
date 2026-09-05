@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 8940.0, "standard_duty_rate
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "Sedan", "chinese-ev", "export"]
+image: "/images/vehicles/1761101192133-7wkmhleb7y9.png"
 ---
 
 # Byd Seagull

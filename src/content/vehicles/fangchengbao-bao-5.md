@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 33770.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["fangchengbao", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763387318152-okq9qv2z3t.png"
 ---
 
 # Fangchengbao BAO 5

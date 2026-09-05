@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 16800.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xpeng", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1761103519937-35h9yb3mp1x.png"
 ---
 
 # Xpeng Mona M03

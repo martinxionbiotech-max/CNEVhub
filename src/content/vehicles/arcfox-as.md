@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 36170.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["arcfox", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762760397819-ob1zvmtxxxi.png"
 ---
 
 # Arcfox AS

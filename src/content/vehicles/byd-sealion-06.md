@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 20250.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762957547188-jqoq4pjj5rk.png"
 ---
 
 # Byd Sealion 06

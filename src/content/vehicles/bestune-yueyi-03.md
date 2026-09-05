@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 11240.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["bestune", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763376833655-7h2mxzz0zpx.jpg"
 ---
 
 # Bestune Yueyi 03

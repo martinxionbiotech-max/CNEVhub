@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 28150.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["roewe", "MPV", "chinese-ev", "export"]
+image: "/images/vehicles/1765188705471-tld430rceli.jpg"
 ---
 
 # Roewe Imax8

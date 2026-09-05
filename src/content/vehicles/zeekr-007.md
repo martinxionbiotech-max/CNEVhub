@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 29560.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["zeekr", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762157275469-dzzhubgoexv.png"
 ---
 
 # Zeekr 007

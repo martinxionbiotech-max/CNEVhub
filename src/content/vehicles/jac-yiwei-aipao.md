@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 26750.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["jac-yiwei", "Sedan", "chinese-ev", "export"]
+image: "/images/vehicles/1762759917938-fvhxodig6o6.png"
 ---
 
 # Jac Yiwei Aipao

@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 19000.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["deepal", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1766379808717-801yp0t0ezd.jpg"
 ---
 
 # Deepal L06

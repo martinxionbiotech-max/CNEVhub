@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 53510.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["voyah", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1766304200632-4bxg6wvjsi2.png"
 ---
 
 # Voyah Titan

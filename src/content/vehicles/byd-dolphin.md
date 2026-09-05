@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 14020, "standard_duty_rate"
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "Sedan", "chinese-ev", "export"]
+image: "/images/vehicles/1761044270378-vn6yhr6r64s.png"
 ---
 
 # BYD Dolphin

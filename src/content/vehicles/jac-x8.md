@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 26730.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["jac", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764940822397-rzfbg2jhvck.png"
 ---
 
 # Jac X8

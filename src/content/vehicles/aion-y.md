@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 14060, "standard_duty_rate"
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["aion", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763387818127-73vsz9pvcpo.png"
 ---
 
 # GAC Aion Y

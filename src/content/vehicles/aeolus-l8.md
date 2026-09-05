@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 18300.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["aeolus", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764920034547-3pc9o9fi58e.png"
 ---
 
 # Aeolus L8

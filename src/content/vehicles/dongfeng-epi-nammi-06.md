@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 12660.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["dongfeng-e", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763971806220-u64dzfirr9.jpg"
 ---
 
 # Dongfeng E PI Nammi 06

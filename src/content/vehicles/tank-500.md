@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 47180.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["tank", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763389947024-e45l3owtsva.jpg"
 ---
 
 # Tank 500

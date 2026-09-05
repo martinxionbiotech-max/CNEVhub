@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 11250.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery-fulwin", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762424536734-xh2chebxlwk.png"
 ---
 
 # Chery Fulwin A8

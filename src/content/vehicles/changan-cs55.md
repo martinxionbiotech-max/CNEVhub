@@ -17,6 +17,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 11920.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["changan", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764063621025-ss690k8y04h.png"
 ---
 
 # Changan Cs55

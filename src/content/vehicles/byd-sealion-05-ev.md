@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 16590.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762959998008-5qb5hv2dc0n.jpg"
 ---
 
 # Byd Sealion 05 EV

@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 13770.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely-galaxy", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763009132959-0kd54j4zpcfa.png"
 ---
 
 # Geely Galaxy Starship 7

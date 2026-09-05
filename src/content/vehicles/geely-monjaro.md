@@ -21,6 +21,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 22490.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764417012856-jffc29ycue.png"
 ---
 
 # Geely Monjaro

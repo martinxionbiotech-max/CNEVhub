@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 14060.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["forthing", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764921967643-lptjiqxyvg.png"
 ---
 
 # Forthing T5 EVO

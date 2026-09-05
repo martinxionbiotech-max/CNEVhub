@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 30320, "standard_duty_rate"
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xiaomi", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1761102582088-wbuuc1ocifs.png"
 ---
 
 # Xiaomi SU7

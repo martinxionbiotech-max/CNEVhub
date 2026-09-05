@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 32370.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["luxeed", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1766386745234-h6ewb1ipi0r.png"
 ---
 
 # Luxeed S7

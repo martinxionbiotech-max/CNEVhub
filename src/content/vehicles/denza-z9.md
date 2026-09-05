@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 47150.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["denza", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762757892304-l8i80111yl.png"
 ---
 
 # Denza Z9

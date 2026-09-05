@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 23230.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["jetour", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764418190064-mzjyl8lvyvi.png"
 ---
 
 # Jetour X90

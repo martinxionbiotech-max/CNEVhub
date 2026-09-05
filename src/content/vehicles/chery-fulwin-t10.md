@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 26750.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery-fulwin", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764920843375-x35smr5pbq7.png"
 ---
 
 # Chery Fulwin T10

@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 66170.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["aito", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1766389147969-sz4djzbghlc.jpg"
 ---
 
 # Aito M9

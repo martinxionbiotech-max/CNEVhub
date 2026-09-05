@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 21660.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["hyptec", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1766326127425-9mjo0uaxk4d.jpg"
 ---
 
 # Hyptec GT

@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 19690.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762958174101-rz1fvl7he2a.jpeg"
 ---
 
 # Byd Song L DMI

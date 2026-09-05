@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 11240.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely-galaxy", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762433310205-oynwx3krkxo.png"
 ---
 
 # Geely Galaxy L6

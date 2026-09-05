@@ -23,6 +23,7 @@ landed_cost: {"market": "17670.0", "base_price_usd": 17670.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely-galaxy", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1761648183907-8u12fkaudgr.png"
 ---
 
 # Geely Galaxy Starshine 8

@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 12650.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["hongqi", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762156900536-yqhakusion.png"
 ---
 
 # Hongqi E QM5

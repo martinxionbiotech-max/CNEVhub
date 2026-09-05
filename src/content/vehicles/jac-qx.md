@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 18300.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["jac", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764584557916-k98o6ugpop.jpg"
 ---
 
 # Jac QX

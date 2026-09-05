@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 11960.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery-new-energy", "Hatchback", "chinese-ev", "export"]
+image: "/images/vehicles/1762956738073-pf5yeflihjl.jpg"
 ---
 
 # Chery New Energy Wujie PRO

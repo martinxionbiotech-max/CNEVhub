@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 29140.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["onvo", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763389495133-labq9xqrq8.jpg"
 ---
 
 # Onvo L60

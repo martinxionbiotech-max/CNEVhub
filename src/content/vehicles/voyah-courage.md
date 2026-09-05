@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 28580.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["voyah", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763901376905-1366lfx4sju.png"
 ---
 
 # Voyah Courage

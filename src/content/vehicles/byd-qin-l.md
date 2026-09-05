@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 13600.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "Sedan", "chinese-ev", "export"]
+image: "/images/vehicles/1761102783990-8ja6l1rpodq.png"
 ---
 
 # Byd QIN L

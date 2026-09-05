@@ -21,6 +21,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 19690.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["aion", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762158772843-t3eme70vouk.jpg"
 ---
 
 # Aion S

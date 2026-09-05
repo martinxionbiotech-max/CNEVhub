@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 22510.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["maxus", "MPV", "chinese-ev", "export"]
+image: "/images/vehicles/1765268735765-z0ftcztj08.png"
 ---
 
 # Maxus G50

@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 24480.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["lynk-co", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1762159990086-q4m6jd0coic.jpg"
 ---
 
 # Lynk Co 10

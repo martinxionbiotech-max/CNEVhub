@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 43630.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["stelato", "EV", "chinese-ev", "export"]
+image: "/images/vehicles/1763005068417-bj418qeo14i.png"
 ---
 
 # Stelato S9T

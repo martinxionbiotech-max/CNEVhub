@@ -22,6 +22,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 18560.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["arcfox", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1765204714823-5ebn3jizbc.png"
 ---
 
 # Arcfox Kaola

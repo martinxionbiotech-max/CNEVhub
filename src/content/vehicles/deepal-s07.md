@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 21110.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["deepal", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1763391684901-1j8d18z3ht2.png"
 ---
 
 # Deepal S07

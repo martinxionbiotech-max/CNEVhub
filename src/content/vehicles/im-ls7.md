@@ -24,6 +24,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 47870.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["im", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1764425133779-jxm3g7hwugj.png"
 ---
 
 # Im LS7

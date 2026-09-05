@@ -23,6 +23,7 @@ landed_cost: {"market": "Germany", "base_price_usd": 45460.0, "standard_duty_rat
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["gac-motor", "SUV", "chinese-ev", "export"]
+image: "/images/vehicles/1765267528484-dlu7huxlq2q.png"
 ---
 
 # Gac Motor E9
