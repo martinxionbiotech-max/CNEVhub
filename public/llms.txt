@@ -8,25 +8,25 @@ CNEVhub shows the real landed cost of importing Chinese EVs — the itemized dut
 
 ## Key documents
 
-- [Landed Cost Methodology](https://cnevhub.net/landed-cost-methodology/): the formula, data sources, and assumptions behind every estimate.
-- [Vehicle Database](https://cnevhub.net/vehicles/): 10 benchmark hot-selling Chinese EVs with full specs and landed-cost breakdowns.
-- [Home](https://cnevhub.net/): platform overview.
+- [Landed Cost Methodology](https://electricvehiclehub.net/landed-cost-methodology/): the formula, data sources, and assumptions behind every estimate.
+- [Vehicle Database](https://electricvehiclehub.net/vehicles/): 10 benchmark hot-selling Chinese EVs with full specs and landed-cost breakdowns.
+- [Home](https://electricvehiclehub.net/): platform overview.
 
 ## Vehicles
 
-- [BYD Seal](https://cnevhub.net/vehicles/byd-seal/): sporty mid-size RWD sedan, 61.44 kWh Blade battery, $24,690 base → $44,413 landed (Germany, +79.9%).
-- [BYD Song Plus](https://cnevhub.net/vehicles/byd-song-plus/): compact SUV, $19,130 base → $35,898 landed (+87.7%).
-- [BYD Qin Plus](https://cnevhub.net/vehicles/byd-qin-plus/): budget sedan, $11,080 base → $23,569 landed (+112.7%).
-- [BYD Han](https://cnevhub.net/vehicles/byd-han/): premium flagship sedan, $23,700 base → $42,897 landed (+81.0%).
-- [BYD Dolphin](https://cnevhub.net/vehicles/byd-dolphin/): city hatchback, $14,020 base → $28,072 landed (+100.2%).
-- [BYD Atto 3](https://cnevhub.net/vehicles/byd-atto-3/): compact SUV, $16,260 base → $31,503 landed (+93.7%).
-- [Xiaomi SU7](https://cnevhub.net/vehicles/xiaomi-su7/): tech-flagship sedan, $30,320 base → $53,750 landed (+77.3%).
-- [Zeekr 001](https://cnevhub.net/vehicles/zeekr-001/): performance liftback, $38,000 base → $65,694 landed (+72.9%).
-- [GAC Aion Y](https://cnevhub.net/vehicles/aion-y/): spacious urban SUV, $14,060 base → $28,465 landed (+102.5%).
-- [Denza D9](https://cnevhub.net/vehicles/denza-d9/): premium electric MPV, $43,630 base → $74,449 landed (+70.6%).
+- [BYD Seal](https://electricvehiclehub.net/vehicles/byd-seal/): sporty mid-size RWD sedan, 61.44 kWh Blade battery, $24,690 base → $44,413 landed (Germany, +79.9%).
+- [BYD Song Plus](https://electricvehiclehub.net/vehicles/byd-song-plus/): compact SUV, $19,130 base → $35,898 landed (+87.7%).
+- [BYD Qin Plus](https://electricvehiclehub.net/vehicles/byd-qin-plus/): budget sedan, $11,080 base → $23,569 landed (+112.7%).
+- [BYD Han](https://electricvehiclehub.net/vehicles/byd-han/): premium flagship sedan, $23,700 base → $42,897 landed (+81.0%).
+- [BYD Dolphin](https://electricvehiclehub.net/vehicles/byd-dolphin/): city hatchback, $14,020 base → $28,072 landed (+100.2%).
+- [BYD Atto 3](https://electricvehiclehub.net/vehicles/byd-atto-3/): compact SUV, $16,260 base → $31,503 landed (+93.7%).
+- [Xiaomi SU7](https://electricvehiclehub.net/vehicles/xiaomi-su7/): tech-flagship sedan, $30,320 base → $53,750 landed (+77.3%).
+- [Zeekr 001](https://electricvehiclehub.net/vehicles/zeekr-001/): performance liftback, $38,000 base → $65,694 landed (+72.9%).
+- [GAC Aion Y](https://electricvehiclehub.net/vehicles/aion-y/): spacious urban SUV, $14,060 base → $28,465 landed (+102.5%).
+- [Denza D9](https://electricvehiclehub.net/vehicles/denza-d9/): premium electric MPV, $43,630 base → $74,449 landed (+70.6%).
 
 ## Company
 
 - Guangzhou Banghe Testing Technology Co., Ltd. (MCM) — automotive export compliance, testing, and landed-cost intelligence.
 - Author: Wei Wang, Marketing Specialist.
-- Contact: info@cnevhub.net
+- Contact: info@electricvehiclehub.net

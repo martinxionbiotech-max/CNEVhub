@@ -17,11 +17,11 @@ export const features: FeatureFlags = {
   docs: true,
 
   /** Enable changelog section and /changelog route */
-  changelog: true,
+  changelog: false,
 
   /** Enable testimonials section and /testimonials route */
-  testimonials: true,
+  testimonials: false,
 
   /** Enable roadmap section and /roadmap route */
-  roadmap: true,
+  roadmap: false,
 };
