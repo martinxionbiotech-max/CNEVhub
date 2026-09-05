@@ -12,11 +12,11 @@ import { siteConfig, company } from '@/config';
 <MarketingLayout title="Landed Cost Methodology">
   <article class="max-w-3xl mx-auto px-6 py-16">
     <div class="mb-10">
-      <a href="/" class="text-sm text-gray-500 hover:text-green-500">← Back to home</a>
+      <a href="/" class="text-sm text-gray-600 hover:text-green-600">← Back to home</a>
     </div>
 
     <h1 class="text-4xl font-bold mb-3">Landed Cost Methodology</h1>
-    <p class="text-gray-400 mb-10">
+    <p class="text-gray-600 mb-10">
       How CNEVhub estimates the real cost of importing a Chinese EV — the exact formula, data
       sources, and assumptions behind every number on this site.
     </p>
@@ -39,7 +39,7 @@ import { siteConfig, company } from '@/config';
 
       <section>
         <h2 class="text-2xl font-bold mb-3">The formula</h2>
-        <p class="font-mono text-sm bg-gray-900 p-4 rounded-lg">
+        <p class="font-mono text-sm bg-gray-50 p-4 rounded-lg">
           landed_price = base_price × (1 + std_duty) × (1 + countervailing_duty) × (1 + VAT)<br/>
           &nbsp;&nbsp;&nbsp;&nbsp;+ RoRo freight + customs clearance + certification + registration + inland transport
         </p>
@@ -55,7 +55,7 @@ import { siteConfig, company } from '@/config';
         <p>
           All passenger EVs imported into the EU are subject to a <strong>10% most-favoured-nation
           (MFN) import duty</strong>, assessed on the CIF value (car price + insurance + freight).
-          <span class="text-gray-500">[Source: EU Common Customs Tariff, TARIC]</span>
+          <span class="text-gray-600">[Source: EU Common Customs Tariff, TARIC]</span>
         </p>
       </section>
 
@@ -67,16 +67,16 @@ import { siteConfig, company } from '@/config';
         </p>
         <div class="overflow-x-auto">
           <table class="w-full text-sm">
-            <thead><tr class="border-b border-gray-700"><th class="text-left py-2 pr-4">Producer</th><th class="text-left py-2">Rate</th></tr></thead>
+            <thead><tr class="border-b border-gray-300"><th class="text-left py-2 pr-4">Producer</th><th class="text-left py-2">Rate</th></tr></thead>
             <tbody>
-              <tr class="border-b border-gray-800"><td class="py-2">BYD</td><td class="py-2">17.0%</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">Geely (incl. Zeekr, Polestar)</td><td class="py-2">18.8%</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">SAIC (MG)</td><td class="py-2">35.3%</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">Other / non-cooperating producers</td><td class="py-2">18.8% – 35.3%</td></tr>
+              <tr class="border-b border-gray-200"><td class="py-2">BYD</td><td class="py-2">17.0%</td></tr>
+              <tr class="border-b border-gray-200"><td class="py-2">Geely (incl. Zeekr, Polestar)</td><td class="py-2">18.8%</td></tr>
+              <tr class="border-b border-gray-200"><td class="py-2">SAIC (MG)</td><td class="py-2">35.3%</td></tr>
+              <tr class="border-b border-gray-200"><td class="py-2">Other / non-cooperating producers</td><td class="py-2">18.8% – 35.3%</td></tr>
             </tbody>
           </table>
         </div>
-        <p class="text-sm text-gray-500">
+        <p class="text-sm text-gray-600">
           [Source: EU Commission Implementing Regulation on countervailing duties for BEVs from China]
         </p>
       </section>
@@ -85,18 +85,18 @@ import { siteConfig, company } from '@/config';
         <h2 class="text-2xl font-bold mb-3">3. VAT, 19% to 23% by destination</h2>
         <div class="overflow-x-auto">
           <table class="w-full text-sm">
-            <thead><tr class="border-b border-gray-700"><th class="text-left py-2 pr-4">Country</th><th class="text-left py-2">VAT</th></tr></thead>
+            <thead><tr class="border-b border-gray-300"><th class="text-left py-2 pr-4">Country</th><th class="text-left py-2">VAT</th></tr></thead>
             <tbody>
-              <tr class="border-b border-gray-800"><td class="py-2">Germany</td><td class="py-2">19%</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">France</td><td class="py-2">20%</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">Netherlands</td><td class="py-2">21%</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">United Kingdom</td><td class="py-2">20%</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">Italy</td><td class="py-2">22%</td></tr>
-              <tr class="border-b border-gray-800"><td class="py-2">Spain</td><td class="py-2">21%</td></tr>
+              <tr class="border-b border-gray-200"><td class="py-2">Germany</td><td class="py-2">19%</td></tr>
+              <tr class="border-b border-gray-200"><td class="py-2">France</td><td class="py-2">20%</td></tr>
+              <tr class="border-b border-gray-200"><td class="py-2">Netherlands</td><td class="py-2">21%</td></tr>
+              <tr class="border-b border-gray-200"><td class="py-2">United Kingdom</td><td class="py-2">20%</td></tr>
+              <tr class="border-b border-gray-200"><td class="py-2">Italy</td><td class="py-2">22%</td></tr>
+              <tr class="border-b border-gray-200"><td class="py-2">Spain</td><td class="py-2">21%</td></tr>
             </tbody>
           </table>
         </div>
-        <p class="text-sm text-gray-500">[Source: national tax authorities]</p>
+        <p class="text-sm text-gray-600">[Source: national tax authorities]</p>
       </section>
 
       <section>
@@ -108,7 +108,7 @@ import { siteConfig, company } from '@/config';
           <li><strong>Registration</strong>: $400 – $500 (Germany ~$500).</li>
           <li><strong>Inland transport</strong>: ~$500 from port to dealer/registrant.</li>
         </ul>
-        <p class="text-sm text-gray-500">[Source: industry freight and homologation benchmarks]</p>
+        <p class="text-sm text-gray-600">[Source: industry freight and homologation benchmarks]</p>
       </section>
 
       <section>
@@ -121,7 +121,7 @@ import { siteConfig, company } from '@/config';
         </p>
       </section>
 
-      <section class="border-t border-gray-800 pt-8 text-sm text-gray-500">
+      <section class="border-t border-gray-200 pt-8 text-sm text-gray-600">
         <p>
           Published by <strong>{company.name}</strong> · Author: <strong>{company.author}</strong>, {company.authorRole}
           <br/>Last reviewed: {siteConfig.legal.lastUpdated}

@@ -19,15 +19,15 @@ const brands = ['Aeolus','AION','AITO','Arcfox','Avatr','Baojun','BAW','Bestune'
 >
   <!-- HERO -->
   <section class="relative overflow-hidden px-6 py-24 md:py-32 text-center">
-    <div class="absolute inset-0 bg-gradient-to-b from-green-900/30 via-transparent to-transparent pointer-events-none"></div>
+    <div class="absolute inset-0 bg-gradient-to-b from-green-100/60 via-transparent to-transparent pointer-events-none"></div>
     <div class="relative mx-auto max-w-4xl">
-      <span class="inline-block px-4 py-1.5 bg-green-600/10 text-green-500 rounded-full text-sm font-medium mb-6">
+      <span class="inline-block px-4 py-1.5 bg-green-600/10 text-green-600 rounded-full text-sm font-medium mb-6">
         Chinese EV Export Intelligence
       </span>
       <h1 class="text-4xl md:text-6xl font-bold tracking-tight mb-6">
-        The <span class="text-green-500">real landed cost</span> of importing Chinese EVs
+        The <span class="text-green-600">real landed cost</span> of importing Chinese EVs
       </h1>
-      <p class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-10">
+      <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-10">
         A $14,000 car rarely lands at $14,000. CNEVhub breaks down the duties, VAT, freight, and
         certification so you know exactly what you'll pay before you commit.
       </p>
@@ -35,7 +35,7 @@ const brands = ['Aeolus','AION','AITO','Arcfox','Avatr','Baojun','BAW','Bestune'
         <a href="/vehicles/" class="inline-flex items-center justify-center px-8 py-3 rounded-lg bg-green-600 hover:bg-green-500 text-white font-semibold transition">
           Browse the EV database →
         </a>
-        <a href="/landed-cost-calculator/" class="inline-flex items-center justify-center px-8 py-3 rounded-lg border border-gray-700 hover:border-gray-500 text-gray-200 font-semibold transition">
+        <a href="/landed-cost-calculator/" class="inline-flex items-center justify-center px-8 py-3 rounded-lg border border-gray-300 hover:border-gray-500 text-gray-800 font-semibold transition">
           Calculate landed cost
         </a>
       </div>
@@ -45,20 +45,20 @@ const brands = ['Aeolus','AION','AITO','Arcfox','Avatr','Baojun','BAW','Bestune'
   <!-- 落地成本示例条（护城河数据） -->
   <section class="px-6 py-8">
     <div class="mx-auto max-w-6xl grid grid-cols-1 md:grid-cols-3 gap-4">
-      <div class="p-6 rounded-xl border border-gray-800 bg-gray-900/50">
-        <div class="text-sm text-gray-400 mb-1">BYD Qin Plus · Germany</div>
-        <div class="text-3xl font-bold text-green-500">+112.7%</div>
-        <div class="text-sm text-gray-400 mt-1">$11,080 → $23,569 landed</div>
+      <div class="p-6 rounded-xl border border-gray-200 bg-white">
+        <div class="text-sm text-gray-600 mb-1">BYD Qin Plus · Germany</div>
+        <div class="text-3xl font-bold text-green-600">+112.7%</div>
+        <div class="text-sm text-gray-600 mt-1">$11,080 → $23,569 landed</div>
       </div>
-      <div class="p-6 rounded-xl border border-gray-800 bg-gray-900/50">
-        <div class="text-sm text-gray-400 mb-1">BYD Seal · Germany</div>
-        <div class="text-3xl font-bold text-green-500">+79.9%</div>
-        <div class="text-sm text-gray-400 mt-1">$24,690 → $44,413 landed</div>
+      <div class="p-6 rounded-xl border border-gray-200 bg-white">
+        <div class="text-sm text-gray-600 mb-1">BYD Seal · Germany</div>
+        <div class="text-3xl font-bold text-green-600">+79.9%</div>
+        <div class="text-sm text-gray-600 mt-1">$24,690 → $44,413 landed</div>
       </div>
-      <div class="p-6 rounded-xl border border-gray-800 bg-gray-900/50">
-        <div class="text-sm text-gray-400 mb-1">Xiaomi SU7 · Germany</div>
-        <div class="text-3xl font-bold text-green-500">+77.3%</div>
-        <div class="text-sm text-gray-400 mt-1">$30,320 → $53,750 landed</div>
+      <div class="p-6 rounded-xl border border-gray-200 bg-white">
+        <div class="text-sm text-gray-600 mb-1">Xiaomi SU7 · Germany</div>
+        <div class="text-3xl font-bold text-green-600">+77.3%</div>
+        <div class="text-sm text-gray-600 mt-1">$30,320 → $53,750 landed</div>
       </div>
     </div>
   </section>
@@ -68,7 +68,7 @@ const brands = ['Aeolus','AION','AITO','Arcfox','Avatr','Baojun','BAW','Bestune'
     <div class="mx-auto max-w-6xl">
       <div class="text-center mb-12">
         <h2 class="text-3xl md:text-4xl font-bold mb-3">Hot-selling Chinese EVs, priced transparently</h2>
-        <p class="text-gray-400 max-w-2xl mx-auto">
+        <p class="text-gray-600 max-w-2xl mx-auto">
           Starting price vs. what you actually pay after duty, VAT, and freight.
         </p>
       </div>
@@ -78,31 +78,31 @@ const brands = ['Aeolus','AION','AITO','Arcfox','Avatr','Baojun','BAW','Bestune'
           const landed = lc?.total_landed_usd ?? 0;
           const premium = lc?.premium_pct ?? 0;
           return (
-            <a href={`/vehicles/${v.data.slug}/`} class="block p-6 rounded-xl border border-gray-800 bg-gray-900/50 hover:border-green-600/50 transition group">
+            <a href={`/vehicles/${v.data.slug}/`} class="block p-6 rounded-xl border border-gray-200 bg-white hover:border-green-600/50 transition group">
               <div class="flex items-center justify-between mb-4">
-                <span class="px-2.5 py-1 bg-green-600/10 text-green-500 rounded text-xs font-medium">{v.data.brand.toUpperCase()}</span>
-                <span class="text-xs text-gray-500">{v.data.type}</span>
+                <span class="px-2.5 py-1 bg-green-600/10 text-green-600 rounded text-xs font-medium">{v.data.brand.toUpperCase()}</span>
+                <span class="text-xs text-gray-600">{v.data.type}</span>
               </div>
-              <h3 class="text-xl font-bold mb-1 group-hover:text-green-500 transition">{v.data.title}</h3>
+              <h3 class="text-xl font-bold mb-1 group-hover:text-green-600 transition">{v.data.title}</h3>
               <div class="flex items-baseline gap-2 mb-3">
                 <span class="text-2xl font-bold">${v.data.price_usd.toLocaleString()}</span>
-                <span class="text-xs text-gray-500">starting</span>
+                <span class="text-xs text-gray-600">starting</span>
               </div>
-              <div class="text-sm text-gray-400 mb-4">
+              <div class="text-sm text-gray-600 mb-4">
                 {v.data.range_cltc_km && <span>{v.data.range_cltc_km} km CLTC · </span>}
                 {v.data.battery_kwh && <span>{v.data.battery_kwh} kWh</span>}
               </div>
-              <div class="border-t border-gray-800 pt-3 text-sm">
-                <span class="text-gray-400">Landed (DE): </span>
-                <span class="font-semibold text-emerald-500">${landed.toLocaleString()}</span>
-                <span class="text-gray-500 ml-2">+{premium}%</span>
+              <div class="border-t border-gray-200 pt-3 text-sm">
+                <span class="text-gray-600">Landed (DE): </span>
+                <span class="font-semibold text-green-600">${landed.toLocaleString()}</span>
+                <span class="text-gray-600 ml-2">+{premium}%</span>
               </div>
             </a>
           );
         })}
       </div>
       <div class="text-center mt-10">
-        <a href="/vehicles/" class="inline-flex items-center px-6 py-3 rounded-lg border border-gray-700 hover:border-gray-500 text-gray-200 font-medium transition">
+        <a href="/vehicles/" class="inline-flex items-center px-6 py-3 rounded-lg border border-gray-300 hover:border-gray-500 text-gray-800 font-medium transition">
           View all {vehicles.length} vehicles →
         </a>
       </div>
@@ -110,29 +110,29 @@ const brands = ['Aeolus','AION','AITO','Arcfox','Avatr','Baojun','BAW','Bestune'
   </section>
 
   <!-- 核心价值（HowItWorks 改为三步落地成本拆解） -->
-  <section class="px-6 py-16 bg-gray-900/30">
+  <section class="px-6 py-16 bg-gray-50">
     <div class="mx-auto max-w-6xl">
       <div class="text-center mb-12">
         <h2 class="text-3xl md:text-4xl font-bold mb-3">From factory price to landed price, in 3 layers</h2>
-        <p class="text-gray-400 max-w-2xl mx-auto">
+        <p class="text-gray-600 max-w-2xl mx-auto">
           Every export adds three layers of cost. We itemize all of them.
         </p>
       </div>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-        <div class="p-6 rounded-xl border border-gray-800">
-          <div class="text-green-500 text-2xl mb-3">01</div>
+        <div class="p-6 rounded-xl border border-gray-200">
+          <div class="text-green-600 text-2xl mb-3">01</div>
           <h3 class="text-lg font-bold mb-2">Base CIF price</h3>
-          <p class="text-gray-400 text-sm">Factory price + RoRo ocean freight + insurance. This is the value customs duties are calculated on.</p>
+          <p class="text-gray-600 text-sm">Factory price + RoRo ocean freight + insurance. This is the value customs duties are calculated on.</p>
         </div>
-        <div class="p-6 rounded-xl border border-gray-800">
-          <div class="text-green-500 text-2xl mb-3">02</div>
+        <div class="p-6 rounded-xl border border-gray-200">
+          <div class="text-green-600 text-2xl mb-3">02</div>
           <h3 class="text-lg font-bold mb-2">Duties & VAT</h3>
-          <p class="text-gray-400 text-sm">10% standard import duty, plus producer-specific countervailing duties (17%–35.3%), then destination VAT.</p>
+          <p class="text-gray-600 text-sm">10% standard import duty, plus producer-specific countervailing duties (17%–35.3%), then destination VAT.</p>
         </div>
-        <div class="p-6 rounded-xl border border-gray-800">
-          <div class="text-green-500 text-2xl mb-3">03</div>
+        <div class="p-6 rounded-xl border border-gray-200">
+          <div class="text-green-600 text-2xl mb-3">03</div>
           <h3 class="text-lg font-bold mb-2">Certification & registration</h3>
-          <p class="text-gray-400 text-sm">Homologation, customs clearance, and registration fees that turn a "bargain" into a realistic landed price.</p>
+          <p class="text-gray-600 text-sm">Homologation, customs clearance, and registration fees that turn a "bargain" into a realistic landed price.</p>
         </div>
       </div>
     </div>
@@ -143,19 +143,19 @@ const brands = ['Aeolus','AION','AITO','Arcfox','Avatr','Baojun','BAW','Bestune'
     <div class="mx-auto max-w-6xl">
       <div class="text-center mb-10">
         <h2 class="text-3xl md:text-4xl font-bold mb-3">58 Chinese EV brands, one database</h2>
-        <p class="text-gray-400 max-w-2xl mx-auto">
+        <p class="text-gray-600 max-w-2xl mx-auto">
           From BYD to Xiaomi, Yangwang to Leapmotor — every brand that matters for export.
         </p>
       </div>
       <div class="flex flex-wrap justify-center gap-2">
         {brands.map((b) => (
-          <span class="px-4 py-2 rounded-lg border border-gray-800 text-gray-400 hover:text-green-500 hover:border-green-600/40 transition cursor-default text-sm">
+          <span class="px-4 py-2 rounded-lg border border-gray-200 text-gray-600 hover:text-green-600 hover:border-green-600/40 transition cursor-default text-sm">
             {b}
           </span>
         ))}
       </div>
       <div class="text-center mt-8">
-        <a href="/brands/" class="text-green-500 hover:text-green-400 text-sm font-medium">Browse all brands →</a>
+        <a href="/brands/" class="text-green-600 hover:text-green-600 text-sm font-medium">Browse all brands →</a>
       </div>
     </div>
   </section>
@@ -164,14 +164,14 @@ const brands = ['Aeolus','AION','AITO','Arcfox','Avatr','Baojun','BAW','Bestune'
   <section class="px-6 py-20 text-center">
     <div class="mx-auto max-w-3xl">
       <h2 class="text-3xl md:text-5xl font-bold mb-4">Know your landed cost before you buy</h2>
-      <p class="text-gray-400 text-lg mb-8">
+      <p class="text-gray-600 text-lg mb-8">
         Stop guessing. Get a transparent, itemized breakdown for any Chinese EV you're considering.
       </p>
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
         <a href="/landed-cost-calculator/" class="inline-flex items-center justify-center px-8 py-3 rounded-lg bg-green-600 hover:bg-green-500 text-white font-semibold transition">
           Try the calculator
         </a>
-        <a href="/contact/" class="inline-flex items-center justify-center px-8 py-3 rounded-lg border border-gray-700 hover:border-gray-500 text-gray-200 font-semibold transition">
+        <a href="/contact/" class="inline-flex items-center justify-center px-8 py-3 rounded-lg border border-gray-300 hover:border-gray-500 text-gray-800 font-semibold transition">
           Get an export quote
         </a>
       </div>

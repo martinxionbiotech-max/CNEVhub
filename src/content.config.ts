@@ -76,6 +76,7 @@ const vehicles = defineCollection({
     efficiency_kwh_100km: z.number().nullable().optional(),
     fast_charge: z.string().default('-'),
     landed_cost: z.any().optional(),
+    image: z.string().optional(),
     publishedDate: z.coerce.date(),
     author: z.string(),
     tags: z.array(z.string()).default([]),

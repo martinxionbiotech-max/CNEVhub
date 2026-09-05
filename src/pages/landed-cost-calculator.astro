@@ -43,7 +43,7 @@ const INLAND = 500;
   <div class="max-w-4xl mx-auto px-6 py-16">
     <div class="text-center mb-12">
       <h1 class="text-4xl font-bold mb-3">Landed Cost Calculator</h1>
-      <p class="text-gray-400 max-w-2xl mx-auto">
+      <p class="text-gray-600 max-w-2xl mx-auto">
         Pick a vehicle and destination country — see the real landed price with every cost itemized.
       </p>
     </div>
@@ -53,36 +53,36 @@ const INLAND = 500;
       <div class="md:col-span-2 space-y-5">
         <div>
           <label for="car-select" class="block text-sm font-medium text-gray-300 mb-2">Vehicle</label>
-          <select id="car-select" class="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-3 text-gray-100 focus:border-green-500 focus:outline-none">
+          <select id="car-select" class="w-full bg-gray-50 border border-gray-300 rounded-lg px-4 py-3 text-gray-100 focus:border-green-500 focus:outline-none">
             {cars.map((c) => <option value={c.slug} data-price={c.price} data-cvd={c.cvd} data-brand={c.brand}>{c.name} — ${c.price.toLocaleString()}</option>)}
           </select>
         </div>
 
         <div>
           <label for="market-select" class="block text-sm font-medium text-gray-300 mb-2">Destination</label>
-          <select id="market-select" class="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-3 text-gray-100 focus:border-green-500 focus:outline-none">
+          <select id="market-select" class="w-full bg-gray-50 border border-gray-300 rounded-lg px-4 py-3 text-gray-100 focus:border-green-500 focus:outline-none">
             {markets.map((m) => <option value={m.code} data-vat={m.vat} data-reg={m.reg}>{m.country} — {(m.vat * 100).toFixed(0)}% VAT</option>)}
           </select>
         </div>
 
         <div>
           <label class="block text-sm font-medium text-gray-300 mb-2">Base price (USD)</label>
-          <input id="price-input" type="number" class="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-3 text-gray-100 focus:border-green-500 focus:outline-none" />
+          <input id="price-input" type="number" class="w-full bg-gray-50 border border-gray-300 rounded-lg px-4 py-3 text-gray-100 focus:border-green-500 focus:outline-none" />
         </div>
 
-        <p class="text-xs text-gray-500">
+        <p class="text-xs text-gray-600">
           Base price is editable. Selecting a vehicle fills it automatically. Duties, VAT, and fixed costs
-          use the <a href="/landed-cost-methodology/" class="text-green-500 hover:text-green-400">documented methodology</a>.
+          use the <a href="/landed-cost-methodology/" class="text-green-600 hover:text-green-400">documented methodology</a>.
         </p>
       </div>
 
       <!-- 结果区 -->
       <div class="md:col-span-3">
-        <div class="rounded-xl border border-gray-800 bg-gray-900/50 p-6">
-          <div class="text-sm text-gray-400 mb-2">Total landed cost</div>
-          <div class="text-4xl font-bold text-green-500 mb-1" id="total-cost">—</div>
-          <div class="text-sm text-gray-400 mb-6">
-            <span id="premium-pct" class="text-emerald-500 font-semibold">—</span> above base price
+        <div class="rounded-xl border border-gray-200 bg-gray-50 p-6">
+          <div class="text-sm text-gray-600 mb-2">Total landed cost</div>
+          <div class="text-4xl font-bold text-green-600 mb-1" id="total-cost">—</div>
+          <div class="text-sm text-gray-600 mb-6">
+            <span id="premium-pct" class="text-green-600 font-semibold">—</span> above base price
           </div>
 
           <div class="space-y-2 text-sm" id="breakdown">
@@ -92,7 +92,7 @@ const INLAND = 500;
       </div>
     </div>
 
-    <div class="text-center mt-10 text-xs text-gray-500">
+    <div class="text-center mt-10 text-xs text-gray-600">
       Estimates are B2B import figures, not retail quotes. Published by {company.name} · {company.author}.
     </div>
   </div>
@@ -143,14 +143,14 @@ const INLAND = 500;
     ];
 
     breakdownEl.innerHTML = rows.map(([label, val]) => `
-      <div class="flex justify-between border-b border-gray-800 pb-2">
-        <span class="text-gray-400">${label}</span>
-        <span class="text-gray-200 font-medium">${fmt(val)}</span>
+      <div class="flex justify-between border-b border-gray-200 pb-2">
+        <span class="text-gray-600">${label}</span>
+        <span class="text-gray-800 font-medium">${fmt(val)}</span>
       </div>
     `).join('') + `
       <div class="flex justify-between pt-2 font-semibold">
         <span>Total landed</span>
-        <span class="text-green-500">${fmt(total)}</span>
+        <span class="text-green-600">${fmt(total)}</span>
       </div>
     `;
   }

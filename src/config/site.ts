@@ -10,7 +10,7 @@
 import type { SocialLinks, LegalConfig } from '../lib/types';
 
 /** Site name displayed in header, footer, and meta tags */
-export const name = import.meta.env.SITE_NAME || 'CNEVhub';
+export const name = import.meta.env.SITE_NAME || 'EV Hub';
 
 /** Site description for SEO and meta tags */
 export const description =
@@ -18,7 +18,7 @@ export const description =
   'The real landed cost of importing Chinese EVs — transparent breakdown of duties, VAT, freight, and certification.';
 
 /** Production URL of your site (used for sitemap, RSS, canonical URLs) */
-export const url = import.meta.env.SITE_URL || 'https://cnevhub.net';
+export const url = import.meta.env.SITE_URL || 'https://electricvehiclehub.net';
 
 /** Author name for meta tags and copyright */
 export const author = import.meta.env.SITE_AUTHOR || 'Wei Wang';
@@ -42,16 +42,16 @@ export const company = {
   legalName: 'Guangzhou Banghe Testing Technology Co., Ltd.',
   description:
     'Guangzhou Banghe Testing Technology Co., Ltd. (MCM) provides automotive export compliance, testing, and landed-cost intelligence for Chinese EV importers worldwide.',
-  url: 'https://cnevhub.net',
+  url: 'https://electricvehiclehub.net',
   logo: '/logo.svg',
-  email: 'info@cnevhub.net',
+  email: 'info@electricvehiclehub.net',
   author: 'Wei Wang',
   authorRole: 'Marketing Specialist',
 };
 
 /** Legal configuration for privacy policy and terms pages */
 export const legal: LegalConfig = {
-  privacyEmail: 'privacy@cnevhub.net',
-  legalEmail: 'legal@cnevhub.net',
+  privacyEmail: 'privacy@electricvehiclehub.net',
+  legalEmail: 'legal@electricvehiclehub.net',
   lastUpdated: 'September 5, 2026',
 };
