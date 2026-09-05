@@ -53,26 +53,26 @@ const INLAND = 500;
       <div class="md:col-span-2 space-y-5">
         <div>
           <label for="car-select" class="block text-sm font-medium text-gray-300 mb-2">Vehicle</label>
-          <select id="car-select" class="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-3 text-gray-100 focus:border-blue-500 focus:outline-none">
+          <select id="car-select" class="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-3 text-gray-100 focus:border-green-500 focus:outline-none">
             {cars.map((c) => <option value={c.slug} data-price={c.price} data-cvd={c.cvd} data-brand={c.brand}>{c.name} — ${c.price.toLocaleString()}</option>)}
           </select>
         </div>
 
         <div>
           <label for="market-select" class="block text-sm font-medium text-gray-300 mb-2">Destination</label>
-          <select id="market-select" class="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-3 text-gray-100 focus:border-blue-500 focus:outline-none">
+          <select id="market-select" class="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-3 text-gray-100 focus:border-green-500 focus:outline-none">
             {markets.map((m) => <option value={m.code} data-vat={m.vat} data-reg={m.reg}>{m.country} — {(m.vat * 100).toFixed(0)}% VAT</option>)}
           </select>
         </div>
 
         <div>
           <label class="block text-sm font-medium text-gray-300 mb-2">Base price (USD)</label>
-          <input id="price-input" type="number" class="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-3 text-gray-100 focus:border-blue-500 focus:outline-none" />
+          <input id="price-input" type="number" class="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-3 text-gray-100 focus:border-green-500 focus:outline-none" />
         </div>
 
         <p class="text-xs text-gray-500">
           Base price is editable. Selecting a vehicle fills it automatically. Duties, VAT, and fixed costs
-          use the <a href="/landed-cost-methodology/" class="text-blue-500 hover:text-blue-400">documented methodology</a>.
+          use the <a href="/landed-cost-methodology/" class="text-green-500 hover:text-green-400">documented methodology</a>.
         </p>
       </div>
 
@@ -80,7 +80,7 @@ const INLAND = 500;
       <div class="md:col-span-3">
         <div class="rounded-xl border border-gray-800 bg-gray-900/50 p-6">
           <div class="text-sm text-gray-400 mb-2">Total landed cost</div>
-          <div class="text-4xl font-bold text-blue-500 mb-1" id="total-cost">—</div>
+          <div class="text-4xl font-bold text-green-500 mb-1" id="total-cost">—</div>
           <div class="text-sm text-gray-400 mb-6">
             <span id="premium-pct" class="text-emerald-500 font-semibold">—</span> above base price
           </div>
@@ -150,7 +150,7 @@ const INLAND = 500;
     `).join('') + `
       <div class="flex justify-between pt-2 font-semibold">
         <span>Total landed</span>
-        <span class="text-blue-500">${fmt(total)}</span>
+        <span class="text-green-500">${fmt(total)}</span>
       </div>
     `;
   }
