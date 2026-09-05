@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import SEO from '@/components/common/SEO.astro';
 
 const brands = (await getCollection('brands')).sort((a, b) =>
@@ -16,27 +17,33 @@ const jsonLd = {
 
 <SEO title="Chinese EV Brands Directory" description="Complete directory of Chinese EV brands — parent manufacturers, founding details, and model lineups for B2B export buyers." />
 
-<div class="max-w-6xl mx-auto px-6 py-12">
-  <h1 class="text-4xl font-bold mb-2">Chinese EV Brands Directory</h1>
-  <p class="text-lg text-gray-600 mb-10">58 brands, their parent manufacturers, and export-ready model lineups.</p>
+<MarketingLayout title="Chinese EV Brands Directory">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <div class="text-center mb-12">
+      <h1 class="text-4xl sm:text-5xl font-bold mb-4 text-gray-900">Chinese EV Brands Directory</h1>
+      <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+        {brands.length} brands, their parent manufacturers, and export-ready model lineups.
+      </p>
+    </div>
 
-  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-    {brands.map((brand) => (
-      <a
-        href={`/brands/${brand.id.replace(/\.mdx?$/, '')}/`}
-        class="flex items-center gap-4 p-5 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors group"
-      >
-        <div class="w-14 h-14 shrink-0 rounded-xl bg-green-600 flex items-center justify-center text-white text-2xl font-bold group-hover:bg-green-700 transition-colors">
-          {brand.data.brand_name.charAt(0)}
-        </div>
-        <div class="min-w-0">
-          <h2 class="text-lg font-semibold mb-1 text-gray-900">{brand.data.brand_name}</h2>
-          <p class="text-sm text-gray-500 truncate">{brand.data.parent_manufacturer} · {brand.data.parent_location}</p>
-          <p class="text-xs text-green-600 mt-1">{brand.data.model_count} models · Est. {brand.data.established}</p>
-        </div>
-      </a>
-    ))}
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {brands.map((brand) => (
+        <a
+          href={`/brands/${brand.id.replace(/\.mdx?$/, '')}/`}
+          class="flex items-center gap-4 p-5 border border-gray-200 rounded-xl bg-white hover:bg-gray-50 transition-colors group"
+        >
+          <div class="w-14 h-14 shrink-0 rounded-xl bg-green-600 flex items-center justify-center text-white text-2xl font-bold group-hover:bg-green-700 transition-colors">
+            {brand.data.brand_name.charAt(0)}
+          </div>
+          <div class="min-w-0">
+            <h2 class="text-lg font-semibold mb-1 text-gray-900">{brand.data.brand_name}</h2>
+            <p class="text-sm text-gray-500 truncate">{brand.data.parent_manufacturer} · {brand.data.parent_location}</p>
+            <p class="text-xs text-green-600 mt-1">{brand.data.model_count} models · Est. {brand.data.established}</p>
+          </div>
+        </a>
+      ))}
+    </div>
   </div>
-</div>
+</MarketingLayout>
 
 <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />

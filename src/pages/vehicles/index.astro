@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import SEO from '@/components/common/SEO.astro';
 
 const vehicles = await getCollection('vehicles');
@@ -8,28 +9,34 @@ vehicles.sort((a, b) => a.data.price_usd - b.data.price_usd);
 
 <SEO title="Chinese EV Database" description="Browse Chinese EVs with transparent landed-cost breakdowns for export markets." />
 
-<div class="max-w-6xl mx-auto px-6 py-12">
-  <h1 class="text-4xl font-bold mb-2">Chinese EV Database</h1>
-  <p class="text-lg text-gray-600 mb-8">{vehicles.length} vehicles · transparent landed cost to the EU</p>
+<MarketingLayout title="Chinese EV Database">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <div class="text-center mb-12">
+      <h1 class="text-4xl sm:text-5xl font-bold mb-4 text-gray-900">Chinese EV Database</h1>
+      <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+        {vehicles.length} vehicles · transparent landed cost to key export markets
+      </p>
+    </div>
 
-  <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-    {vehicles.map((v) => (
-      <a href={`/vehicles/${v.data.slug}/`} class="block border border-gray-200 rounded-xl overflow-hidden hover:shadow-lg transition group">
-        {v.data.image && (
-          <div class="aspect-[4/3] bg-gray-100 overflow-hidden">
-            <img src={v.data.image} alt={v.data.title} loading="lazy" width="400" height="300" class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {vehicles.map((v) => (
+        <a href={`/vehicles/${v.data.slug}/`} class="block border border-gray-200 rounded-xl overflow-hidden hover:shadow-lg transition group bg-white">
+          {v.data.image && (
+            <div class="aspect-[4/3] bg-gray-100 overflow-hidden">
+              <img src={v.data.image} alt={v.data.title} loading="lazy" width="400" height="300" class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
+            </div>
+          )}
+          <div class="p-6">
+            <div class="flex items-center gap-2 mb-3">
+              <span class="px-2 py-0.5 bg-green-600/10 text-green-600 rounded text-xs font-medium">{v.data.type}</span>
+              <span class="px-2 py-0.5 bg-gray-600/10 text-gray-600 rounded text-xs font-medium">{v.data.brand.toUpperCase()}</span>
+            </div>
+            <h2 class="text-xl font-bold mb-1 text-gray-900">{v.data.title}</h2>
+            <p class="text-green-600 font-semibold mb-2">${v.data.price_usd.toLocaleString()}</p>
+            <p class="text-sm text-gray-500 line-clamp-2">{v.data.description}</p>
           </div>
-        )}
-        <div class="p-6">
-          <div class="flex items-center gap-2 mb-3">
-            <span class="px-2 py-0.5 bg-green-600/10 text-green-600 rounded text-xs">{v.data.type}</span>
-            <span class="px-2 py-0.5 bg-gray-600/10 text-gray-600 rounded text-xs">{v.data.brand.toUpperCase()}</span>
-          </div>
-          <h2 class="text-xl font-bold mb-1 text-gray-900">{v.data.title}</h2>
-          <p class="text-green-600 font-semibold mb-2">${v.data.price_usd.toLocaleString()}</p>
-          <p class="text-sm text-gray-500 line-clamp-2">{v.data.description}</p>
-        </div>
-      </a>
-    ))}
+        </a>
+      ))}
+    </div>
   </div>
-</div>
+</MarketingLayout>

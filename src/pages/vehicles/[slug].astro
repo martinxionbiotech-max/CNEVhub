@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import SEO from '@/components/common/SEO.astro';
 import { url as siteUrl } from '@/config/site';
 
@@ -73,7 +74,8 @@ const breadcrumbLd = {
 
 <SEO title={data.title} description={data.description} />
 
-<article class="max-w-5xl mx-auto px-6 py-12">
+<MarketingLayout title={data.title} description={data.description} type="article" publishedDate={data.publishedDate} author={data.author} tags={data.tags}>
+<article class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
   <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
     <a href="/" class="hover:text-green-600">Home</a> / <a href="/vehicles/" class="hover:text-green-600">Vehicles</a> / <span class="text-gray-700">{data.title}</span>
   </nav>
@@ -168,3 +170,4 @@ const breadcrumbLd = {
 
 <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+</MarketingLayout>

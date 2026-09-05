@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import SEO from '@/components/common/SEO.astro';
 import { url as siteUrl } from '@/config/site';
 
@@ -42,35 +43,37 @@ const breadcrumbLd = {
 
 <SEO title={data.title} description={data.description} />
 
-<article class="max-w-4xl mx-auto px-6 py-12">
-  <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
-    <a href="/" class="hover:text-green-600">Home</a> / <a href="/brands/" class="hover:text-green-600">Brands</a> / <span>{data.brand_name}</span>
-  </nav>
+<MarketingLayout title={data.brand_name}>
+  <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
+      <a href="/" class="hover:text-green-600">Home</a> / <a href="/brands/" class="hover:text-green-600">Brands</a> / <span class="text-gray-700">{data.brand_name}</span>
+    </nav>
 
-  <div class="flex items-center gap-5 mb-8">
-    <div class="w-20 h-20 shrink-0 rounded-2xl bg-green-600 flex items-center justify-center text-white text-4xl font-bold">
-      {data.brand_name.charAt(0)}
+    <div class="flex items-center gap-5 mb-8">
+      <div class="w-20 h-20 shrink-0 rounded-2xl bg-green-600 flex items-center justify-center text-white text-4xl font-bold">
+        {data.brand_name.charAt(0)}
+      </div>
+      <div>
+        <h1 class="text-4xl font-bold mb-1 text-gray-900">{data.brand_name}</h1>
+        <p class="text-lg text-gray-600">Parent: {data.parent_manufacturer} · {data.parent_location} (founded {data.parent_founded})</p>
+      </div>
     </div>
-    <div>
-      <h1 class="text-4xl font-bold mb-1 text-gray-900">{data.brand_name}</h1>
-      <p class="text-lg text-gray-600">Parent: {data.parent_manufacturer} · {data.parent_location} (founded {data.parent_founded})</p>
+
+    <div class="mb-6 flex flex-wrap items-center gap-2">
+      <span class="inline-block px-3 py-1 bg-green-600/10 text-green-600 rounded-full text-xs font-medium">{data.model_count} models</span>
+      <span class="inline-block px-3 py-1 bg-gray-600/10 text-gray-600 rounded-full text-xs font-medium">Est. {data.established}</span>
+      {data.website && <a href={data.website} class="text-sm text-green-600 hover:underline" rel="noopener">Official website ↗</a>}
     </div>
-  </div>
 
-  <div class="mb-6">
-    <span class="inline-block px-3 py-1 bg-green-600/10 text-green-600 rounded-full text-xs font-medium">{data.model_count} models</span>
-    <span class="inline-block px-3 py-1 bg-gray-600/10 text-gray-600 rounded-full text-xs font-medium ml-2">Est. {data.established}</span>
-    {data.website && <span class="inline-block ml-2 text-sm"><a href={data.website} class="text-green-600 hover:underline" rel="noopener">Official website ↗</a></span>}
-  </div>
+    <div class="prose prose-lg max-w-none mb-10">
+      <Content />
+    </div>
 
-  <div class="prose prose-lg max-w-none mb-10">
-    <Content />
-  </div>
-
-  <div class="border-t pt-6 text-sm text-gray-500">
-    Author: Wei Wang (Marketing Specialist) · Guangzhou Banghe Testing Technology Co., Ltd. (MCM) · Contact: Aaron.W · aaron@dinweys.com · WhatsApp/WeChat +86 13313137465 · Updated {data.publishedDate.toISOString().split('T')[0]}
-  </div>
-</article>
+    <div class="border-t pt-6 text-sm text-gray-500">
+      Author: Wei Wang (Marketing Specialist) · Guangzhou Banghe Testing Technology Co., Ltd. (MCM) · Contact: Aaron.W · aaron@dinweys.com · WhatsApp/WeChat +86 13313137465 · Updated {data.publishedDate.toISOString().split('T')[0]}
+    </div>
+  </article>
+</MarketingLayout>
 
 <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
