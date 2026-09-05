@@ -1,0 +1,84 @@
+---
+/**
+ * VehicleSearch — 车型实时搜索框（客户端过滤）
+ * 输入车型名或品牌，即时下拉建议，点击跳转到具体车型页。
+ */
+import { getCollection } from 'astro:content';
+
+const vehicles = await getCollection('vehicles');
+const items = vehicles.map((v) => ({
+  slug: v.data.slug,
+  title: v.data.title,
+  brand: v.data.brand,
+  type: v.data.type,
+  price: v.data.price_usd,
+}));
+const itemsJson = JSON.stringify(items).replace(/</g, '\\u003c');
+---
+
+<div class="vehicle-search relative w-full max-w-xl mx-auto" id="vehicle-search-root">
+  <div class="relative">
+    <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35M17 11a6 6 0 11-12 0 6 6 0 0112 0z" />
+    </svg>
+    <input
+      type="text"
+      id="vehicle-search-input"
+      name="vehicle-search"
+      placeholder="Search model or brand — e.g. BYD, Seal, Xiaomi SU7…"
+      autocomplete="off"
+      class="w-full pl-12 pr-4 py-3.5 rounded-xl border border-gray-300 bg-white text-gray-900 placeholder-gray-400 shadow-sm focus:ring-2 focus:ring-green-500 focus:border-green-500 outline-none transition"
+    />
+  </div>
+  <div id="vehicle-search-results" class="absolute z-50 w-full mt-2 bg-white border border-gray-200 rounded-xl shadow-lg overflow-hidden hidden"></div>
+</div>
+
+<script>
+  const ROOT = document.getElementById('vehicle-search-root');
+  const INPUT = document.getElementById('vehicle-search-input');
+  const RESULTS = document.getElementById('vehicle-search-results');
+  const ITEMS = JSON.parse(document.getElementById('vehicle-search-data').textContent);
+
+  function esc(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function renderResults(term) {
+    const q = term.trim().toLowerCase();
+    if (!q) {
+      RESULTS.classList.add('hidden');
+      RESULTS.innerHTML = '';
+      return;
+    }
+    const matches = ITEMS.filter((it) =>
+      (it.title + ' ' + it.brand + ' ' + it.type).toLowerCase().includes(q)
+    ).slice(0, 8);
+
+    if (!matches.length) {
+      RESULTS.innerHTML = '<div class="px-4 py-3 text-sm text-gray-500">No matching vehicle found.</div>';
+      RESULTS.classList.remove('hidden');
+      return;
+    }
+    RESULTS.innerHTML = matches
+      .map(
+        (it) => `
+        <a href="/vehicles/${esc(it.slug)}/" class="flex items-center justify-between px-4 py-3 hover:bg-green-50 transition border-b border-gray-100 last:border-0">
+          <div>
+            <div class="font-semibold text-gray-900">${esc(it.title)}</div>
+            <div class="text-xs text-gray-500">${esc(it.brand.toUpperCase())} · ${esc(it.type)}</div>
+          </div>
+          <div class="text-sm font-semibold text-green-600">$${it.price.toLocaleString()}</div>
+        </a>`
+      )
+      .join('');
+    RESULTS.classList.remove('hidden');
+  }
+
+  INPUT.addEventListener('input', () => renderResults(INPUT.value));
+  INPUT.addEventListener('focus', () => renderResults(INPUT.value));
+  document.addEventListener('click', (e) => {
+    if (!ROOT.contains(e.target)) RESULTS.classList.add('hidden');
+  });
+</script>
+
+<script type="application/json" id="vehicle-search-data" set:html={itemsJson} />

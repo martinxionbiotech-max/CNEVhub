@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import VehicleSearch from '@/components/VehicleSearch.astro';
 import SEO from '@/components/common/SEO.astro';
 
 const brands = (await getCollection('brands')).sort((a, b) =>
@@ -19,11 +20,12 @@ const jsonLd = {
 
 <MarketingLayout title="Chinese EV Brands Directory">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-    <div class="text-center mb-12">
+    <div class="text-center mb-8">
       <h1 class="text-4xl sm:text-5xl font-bold mb-4 text-gray-900">Chinese EV Brands Directory</h1>
-      <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+      <p class="text-lg text-gray-600 max-w-2xl mx-auto mb-6">
         {brands.length} brands, their parent manufacturers, and export-ready model lineups.
       </p>
+      <VehicleSearch />
     </div>
 
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">

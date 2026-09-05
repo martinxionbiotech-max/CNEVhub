@@ -17,6 +17,12 @@ const brandEntry = brands.find((b) => b.id.replace(/\.mdx?$/, '') === slug);
 const { data } = brandEntry;
 const { Content } = await render(brandEntry);
 
+// 该品牌下的所有车型（brand 字段 = 品牌 slug）
+const allVehicles = await getCollection('vehicles');
+const brandVehicles = allVehicles
+  .filter((v) => v.data.brand === slug)
+  .sort((a, b) => a.data.price_usd - b.data.price_usd);
+
 // Brand JSON-LD schema
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -68,6 +74,42 @@ const breadcrumbLd = {
     <div class="prose prose-lg max-w-none mb-10">
       <Content />
     </div>
+
+    {brandVehicles.length > 0 && (
+      <section class="mb-10">
+        <h2 class="text-2xl font-bold mb-6 text-gray-900">{data.brand_name} Models ({brandVehicles.length})</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {brandVehicles.map((v) => {
+            const lc = v.data.landed_cost;
+            const landed = lc?.total_landed_usd ?? 0;
+            const premium = lc?.premium_pct ?? 0;
+            return (
+              <a href={`/vehicles/${v.data.slug}/`} class="flex items-center gap-4 p-4 border border-gray-200 rounded-xl bg-white hover:border-green-500/60 hover:shadow-md transition group">
+                {v.data.image && (
+                  <div class="w-24 h-18 shrink-0 rounded-lg overflow-hidden bg-gray-100 aspect-[4/3]">
+                    <img src={v.data.image} alt={v.data.title} loading="lazy" width="96" height="72" class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
+                  </div>
+                )}
+                <div class="min-w-0 flex-1">
+                  <h3 class="font-semibold text-gray-900 group-hover:text-green-600 transition">{v.data.title}</h3>
+                  <div class="text-xs text-gray-500 mt-0.5">{v.data.type}
+                    {v.data.range_cltc_km && <> · {v.data.range_cltc_km} km</>}
+                    {v.data.battery_kwh && <> · {v.data.battery_kwh} kWh</>}
+                  </div>
+                  <div class="mt-1 text-sm">
+                    <span class="font-bold text-gray-900">${v.data.price_usd.toLocaleString()}</span>
+                    {landed > 0 && (
+                      <span class="text-gray-500 text-xs ml-2">Landed DE <span class="text-green-600 font-semibold">${landed.toLocaleString()}</span> (+{premium}%)</span>
+                    )}
+                  </div>
+                </div>
+                <svg class="w-5 h-5 text-gray-300 group-hover:text-green-600 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+    )}
 
     <div class="border-t pt-6 text-sm text-gray-500">
       Author: Wei Wang (Marketing Specialist) · Guangzhou Banghe Testing Technology Co., Ltd. (MCM) · Contact: Aaron.W · aaron@dinweys.com · WhatsApp/WeChat +86 13313137465 · Updated {data.publishedDate.toISOString().split('T')[0]}
