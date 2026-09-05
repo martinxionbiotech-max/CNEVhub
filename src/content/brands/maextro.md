@@ -7,7 +7,7 @@ parent_manufacturer: "JAC"
 parent_location: "Hefei, Anhui, China"
 parent_founded: "1964"
 website: "https://hima.auto/zunjie/"
-model_count: 0
+model_count: 1
 publishedDate: "2026-09-05"
 tags: [Maextro, Chinese EV brand, EV export]
 ---
@@ -25,9 +25,13 @@ Maextro is a cutting-edge ultra-luxury electric vehicle brand launched in 2024 b
 - **Parent Founded:** 1964
 - **Official Website:** https://hima.auto/zunjie/
 
-## Vehicle Lineup (0 models)
+## Brand at a Glance
 
-No models listed in current dataset.
+- **Models cataloged:** 1
+- **Base price range:** $99,720 – $99,720
+- **Landed cost (Germany):** $161,674 – $161,674
+- **Landed premium (Germany):** +62% to +62%
+- **Body types:** Sedan
 
 ## Explore Maextro Models
 

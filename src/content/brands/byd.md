@@ -7,7 +7,7 @@ parent_manufacturer: "BYD"
 parent_location: "Shenzhen, Guangdong, China"
 parent_founded: "1995"
 website: "https://www.byd.com/"
-model_count: 6
+model_count: 37
 publishedDate: "2026-09-05"
 tags: [BYD, Chinese EV brand, EV export]
 ---
@@ -25,16 +25,13 @@ BYD is a pioneering Chinese automotive brand under BYD Company Limited, symboliz
 - **Parent Founded:** 1995
 - **Official Website:** https://www.byd.com/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Seal 06 DM-i | Sedan | $14,000 |
-| Qin Plus | Sedan | $11,080 |
-| Seal 06 DM-i Touring | Station Wagon | $15,460 |
-| Han L | Sedan | $29,550 |
-| Qin | Sedan | $23,770 |
-| Atto 2 | SUV | $10,540 |
+- **Models cataloged:** 37
+- **Base price range:** $8,940 – $32,370
+- **Landed cost (Germany):** $20,292 – $56,176
+- **Landed premium (Germany):** +74% to +127%
+- **Body types:** Sedan, SUV, MPV
 
 ## Explore BYD Models
 

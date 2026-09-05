@@ -24,13 +24,13 @@ Refine is a sub-brand of JAC Motors (Anhui Jianghuai Automobile Group Corp., Ltd
 - **Headquarters:** Hefei, Anhui, China
 - **Parent Founded:** 1964
 
-## Vehicle Lineup (3 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| RF8 | Minivan | $29,560 |
-| M3 | Minivan | $15,480 |
-| E3 | Minivan | $19,700 |
+- **Models cataloged:** 3
+- **Base price range:** $0 – $23,230
+- **Landed cost (Germany):** $30,673 – $42,725
+- **Landed premium (Germany):** +84% to +98%
+- **Body types:** MPV
 
 ## Explore JAC Refine Models
 

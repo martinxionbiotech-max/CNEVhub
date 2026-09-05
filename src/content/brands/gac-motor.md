@@ -7,7 +7,7 @@ parent_manufacturer: "GAC"
 parent_location: "Guangzhou, Guangdong, China"
 parent_founded: "1948"
 website: "https://www.gacmotor.com/"
-model_count: 6
+model_count: 9
 publishedDate: "2026-09-05"
 tags: [GAC Motor, Chinese EV brand, EV export]
 ---
@@ -25,16 +25,13 @@ GAC Motor, international brand of Trumpchi, is the flagship automotive brand of 
 - **Parent Founded:** 1948
 - **Official Website:** https://www.gacmotor.com/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Empow | Sedan | $18,030 |
-| M8 | Minivan | $37,580 |
-| GS 8 | SUV | $32,230 |
-| Xiangwang S9 | SUV | $32,380 |
-| E9 | Minivan | $45,040 |
-| Emkoo | SUV | $21,100 |
+- **Models cataloged:** 9
+- **Base price range:** $18,030 – $45,460
+- **Landed cost (Germany):** $34,638 – $77,294
+- **Landed premium (Germany):** +70% to +92%
+- **Body types:** SUV
 
 ## Explore GAC Motor Models
 

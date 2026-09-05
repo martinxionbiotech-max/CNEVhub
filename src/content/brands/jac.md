@@ -24,12 +24,13 @@ JAC (short for Jianghuai Automobile Company) is the core automotive brand under 
 - **Headquarters:** Hefei, Anhui, China
 - **Parent Founded:** 1964
 
-## Vehicle Lineup (2 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| X8 | SUV | $14,620 |
-| QX | SUV | $12,660 |
+- **Models cataloged:** 2
+- **Base price range:** $18,300 – $26,730
+- **Landed cost (Germany):** $35,058 – $48,168
+- **Landed premium (Germany):** +80% to +92%
+- **Body types:** SUV
 
 ## Explore JAC Models
 

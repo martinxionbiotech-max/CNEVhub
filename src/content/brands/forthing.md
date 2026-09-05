@@ -25,16 +25,13 @@ Forthing, also known as Dongfeng Fengxing, is a passenger vehicle brand under Do
 - **Parent Founded:** 1969
 - **Official Website:** https://www.forthingmotor.com/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Lingzhi M5 NEV | MPV | $15,460 |
-| Xinghai X5 | SUV | $21,390 |
-| Xinghai V9 | Minivan | $25,340 |
-| Xinghai S7 | Liftback | $15,480 |
-| S50EV | Sedan | $21,250 |
-| T5 Evo | SUV | $14,060 |
+- **Models cataloged:** 6
+- **Base price range:** $14,060 – $25,340
+- **Landed cost (Germany):** $28,465 – $46,006
+- **Landed premium (Germany):** +82% to +102%
+- **Body types:** SUV
 
 ## Explore Forthing Models
 

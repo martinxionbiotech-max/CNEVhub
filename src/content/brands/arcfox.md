@@ -25,16 +25,13 @@ Arcfox is a premium intelligent electric vehicle brand under BAIC Group, created
 - **Parent Founded:** 1958
 - **Official Website:** https://www.arcfox.com.cn/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| αS5 | Sedan | $18,000 |
-| αT | SUV | $26,170 |
-| αS | Liftback | $26,730 |
-| T1 | Hatchback | $8,850 |
-| Kaola | Minivan | $18,560 |
-| αT5 | SUV | $16,030 |
+- **Models cataloged:** 6
+- **Base price range:** $8,850 – $36,170
+- **Landed cost (Germany):** $20,363 – $62,848
+- **Landed premium (Germany):** +74% to +130%
+- **Body types:** SUV
 
 ## Explore Arcfox Models
 

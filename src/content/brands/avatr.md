@@ -25,14 +25,13 @@ Avatr is a premium intelligent electric vehicle brand jointly developed by Chang
 - **Parent Founded:** 1862
 - **Official Website:** https://www.avatr.com/
 
-## Vehicle Lineup (4 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| 06 | Sedan | $29,560 |
-| 12 | Sedan | $38,010 |
-| 11 | SUV | $40,830 |
-| 07 | SUV | $30,970 |
+- **Models cataloged:** 4
+- **Base price range:** $29,560 – $40,830
+- **Landed cost (Germany):** $52,569 – $70,094
+- **Landed premium (Germany):** +72% to +78%
+- **Body types:** SUV
 
 ## Explore Avatr Models
 

@@ -25,13 +25,13 @@ Chery is the core passenger vehicle brand under Chery Automobile Co., Ltd., repr
 - **Parent Founded:** 1997
 - **Official Website:** https://www.cheryinternational.com/
 
-## Vehicle Lineup (3 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Tiggo 9 | SUV | $23,370 |
-| Tiggo 8 Plus C-DM | SUV | $18,300 |
-| Tiggo 7 Plus New Energy | SUV | $18,300 |
+- **Models cataloged:** 3
+- **Base price range:** $18,300 – $23,370
+- **Landed cost (Germany):** $35,058 – $42,942
+- **Landed premium (Germany):** +84% to +92%
+- **Body types:** SUV
 
 ## Explore Chery Models
 

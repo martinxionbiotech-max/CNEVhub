@@ -25,11 +25,13 @@ Firefly is a new-energy vehicle (NEV) brand under SAIC Motor Corporation Limited
 - **Parent Founded:** 2014
 - **Official Website:** https://www.firefly.world/
 
-## Vehicle Lineup (1 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| firefly | Hatchback | $16,870 |
+- **Models cataloged:** 1
+- **Base price range:** $16,870 – $16,870
+- **Landed cost (Germany):** $32,834 – $32,834
+- **Landed premium (Germany):** +95% to +95%
+- **Body types:** Hatchback
 
 ## Explore firefly Models
 

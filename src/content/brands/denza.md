@@ -25,16 +25,13 @@ DENZA is a premium new-energy vehicle brand jointly developed by BYD and Mercede
 - **Parent Founded:** 1995
 - **Official Website:** https://www.denza.com/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| N8L | SUV | $42,230 |
-| N9 | SUV | $54,900 |
-| N7 | SUV | $36,590 |
-| Z9 GT | Shooting Brake | $47,150 |
-| Z9 | Sedan | $47,150 |
-| D9 | Minivan | $43,630 |
+- **Models cataloged:** 6
+- **Base price range:** $36,590 – $54,900
+- **Landed cost (Germany):** $63,501 – $91,975
+- **Landed premium (Germany):** +68% to +74%
+- **Body types:** SUV
 
 ## Explore Denza Models
 

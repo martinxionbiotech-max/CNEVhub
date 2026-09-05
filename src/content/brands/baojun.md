@@ -25,16 +25,13 @@ Baojun is a dynamic automotive brand under the SAIC-GM-Wuling (SGMW) joint ventu
 - **Parent Founded:** 1955
 - **Official Website:** https://www.sgmw.com.cn/baojun/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Yep Plus | SUV | $10,820 |
-| KiWi EV | Hatchback | $12,370 |
-| Yunduo | Hatchback | $13,490 |
-| Yep | SUV | $11,380 |
-| Xiangjing | Sedan | $18,280 |
-| Yunhai | SUV | $15,460 |
+- **Models cataloged:** 6
+- **Base price range:** $10,820 – $18,280
+- **Landed cost (Germany):** $23,426 – $35,027
+- **Landed premium (Germany):** +92% to +116%
+- **Body types:** SUV
 
 ## Explore Baojun Models
 

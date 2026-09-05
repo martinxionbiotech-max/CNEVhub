@@ -7,7 +7,7 @@ parent_manufacturer: "Chery"
 parent_location: "Wuhu, Anhui, China"
 parent_founded: "1997"
 website: "https://hima.auto/zhijie/"
-model_count: 0
+model_count: 2
 publishedDate: "2026-09-05"
 tags: [Luxeed, Chinese EV brand, EV export]
 ---
@@ -25,9 +25,13 @@ LUXEED is a premium intelligent electric vehicle brand jointly developed by Cher
 - **Parent Founded:** 1997
 - **Official Website:** https://hima.auto/zhijie/
 
-## Vehicle Lineup (0 models)
+## Brand at a Glance
 
-No models listed in current dataset.
+- **Models cataloged:** 2
+- **Base price range:** $32,370 – $35,180
+- **Landed cost (Germany):** $56,938 – $61,308
+- **Landed premium (Germany):** +74% to +76%
+- **Body types:** SUV
 
 ## Explore Luxeed Models
 

@@ -25,13 +25,13 @@ Yangwang is an ultra-premium electric vehicle brand under BYD Group, created to 
 - **Parent Founded:** 1995
 - **Official Website:** https://www.yangwangauto.com/
 
-## Vehicle Lineup (3 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| U7 | Sedan | $88,450 |
-| U8L | SUV | $180,280 |
-| U8 | SUV | $154,650 |
+- **Models cataloged:** 3
+- **Base price range:** $88,450 – $180,280
+- **Landed cost (Germany):** $144,148 – $286,952
+- **Landed premium (Germany):** +59% to +63%
+- **Body types:** SUV
 
 ## Explore Yangwang Models
 

@@ -25,14 +25,13 @@ WEY is a premium SUV brand under Great Wall Motor, founded in 2016 and named aft
 - **Parent Founded:** 1984
 - **Official Website:** https://www.wey.com/
 
-## Vehicle Lineup (4 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| 05 | SUV | $32,650 |
-| 03 | SUV | $32,250 |
-| 80 | Minivan | $40,250 |
-| Lanshan | SUV | $42,230 |
+- **Models cataloged:** 4
+- **Base price range:** $32,250 – $42,230
+- **Landed cost (Germany):** $56,752 – $72,272
+- **Landed premium (Germany):** +71% to +76%
+- **Body types:** SUV
 
 ## Explore WEY Models
 

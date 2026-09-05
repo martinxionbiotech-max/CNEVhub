@@ -7,7 +7,7 @@ parent_manufacturer: "FAW"
 parent_location: "Changchun, Jilin, China"
 parent_founded: "1953"
 website: "https://hongqi.faw.cn/"
-model_count: 6
+model_count: 12
 publishedDate: "2026-09-05"
 tags: [Hongqi, Chinese EV brand, EV export]
 ---
@@ -25,16 +25,13 @@ Hongqi, literally “Red Flag”, is the flagship luxury automobile brand under 
 - **Parent Founded:** 1953
 - **Official Website:** https://hongqi.faw.cn/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| E-QM5 | Sedan | $17,300 |
-| EH5 | Sedan | $22,510 |
-| H5 PHEV | Sedan | $26,090 |
-| HS7 | SUV | $40,960 |
-| E-HS7 | SUV | $30,410 |
-| E-HS9 | SUV | $83,070 |
+- **Models cataloged:** 12
+- **Base price range:** $12,650 – $197,180
+- **Landed cost (Germany):** $26,272 – $313,233
+- **Landed premium (Germany):** +59% to +108%
+- **Body types:** SUV
 
 ## Explore Hongqi Models
 

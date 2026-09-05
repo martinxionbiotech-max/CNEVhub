@@ -25,16 +25,13 @@ Haval is the global SUV brand under Great Wall Motor, dedicated to creating inte
 - **Parent Founded:** 1984
 - **Official Website:** https://www.haval.com.cn/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Shenshou | SUV | $21,660 |
-| Jolion Pro | SUV | $18,140 |
-| H6 | SUV | $22,510 |
-| Big Dog Plus | SUV | $22,930 |
-| Raptor | SUV | $23,350 |
-| Xiaolong | SUV | $19,690 |
+- **Models cataloged:** 6
+- **Base price range:** $18,140 – $24,480
+- **Landed cost (Germany):** $34,809 – $44,669
+- **Landed premium (Germany):** +82% to +92%
+- **Body types:** SUV
 
 ## Explore Haval Models
 

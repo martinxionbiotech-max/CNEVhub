@@ -25,16 +25,13 @@ Changan NEVO is the global new-energy vehicle brand under ChangAn Automobile, cr
 - **Parent Founded:** 1862
 - **Official Website:** https://www.changan.com.cn/qiyuan/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Lumin | Hatchback | $5,300 |
-| Lamore | Sedan | $11,110 |
-| E07 | SUV | $28,150 |
-| Q05 | SUV | $13,650 |
-| Q07 | SUV | $18,280 |
-| A06 | Sedan | $16,890 |
+- **Models cataloged:** 6
+- **Base price range:** $5,300 – $30,970
+- **Landed cost (Germany):** $14,842 – $54,761
+- **Landed premium (Germany):** +77% to +180%
+- **Body types:** SUV
 
 ## Explore ChangAn NEVO Models
 

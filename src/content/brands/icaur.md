@@ -25,12 +25,13 @@ iCAUR, or iCAR in China, is a new-energy vehicle brand under Chery Automobile, c
 - **Parent Founded:** 1997
 - **Official Website:** https://www.icaurglobal.com/
 
-## Vehicle Lineup (2 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| 03 | SUV | $15,460 |
-| V23 | SUV | $15,460 |
+- **Models cataloged:** 2
+- **Base price range:** $15,460 – $17,300
+- **Landed cost (Germany):** $30,642 – $33,503
+- **Landed premium (Germany):** +94% to +98%
+- **Body types:** SUV
 
 ## Explore iCAUR Models
 

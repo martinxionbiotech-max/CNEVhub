@@ -25,15 +25,13 @@ Voyah is a premium intelligent electric vehicle brand under Dongfeng Motor Corpo
 - **Parent Founded:** 1969
 - **Official Website:** https://www.voyah-global.com/
 
-## Vehicle Lineup (5 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Titan | SUV | $53,510 |
-| Passion | Sedan | $35,610 |
-| Dream | Minivan | $46,460 |
-| Free | SUV | $30,970 |
-| Courage | SUV | $27,730 |
+- **Models cataloged:** 5
+- **Base price range:** $28,580 – $53,510
+- **Landed cost (Germany):** $51,045 – $89,813
+- **Landed premium (Germany):** +68% to +79%
+- **Body types:** SUV
 
 ## Explore Voyah Models
 

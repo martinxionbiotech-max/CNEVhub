@@ -25,14 +25,13 @@ Maxus, also known internationally as SAIC Maxus or LDV Maxus, is a global commer
 - **Parent Founded:** 1955
 - **Official Website:** https://www.saicmaxus.com/
 
-## Vehicle Lineup (4 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| G50 | Minivan | $22,510 |
-| Mifa 9 | Minivan | $38,010 |
-| EG10 | Minivan | $42,150 |
-| Mifa 7 | Minivan | $26,750 |
+- **Models cataloged:** 4
+- **Base price range:** $22,510 – $42,150
+- **Landed cost (Germany):** $46,467 – $81,251
+- **Landed premium (Germany):** +93% to +106%
+- **Body types:** MPV
 
 ## Explore Maxus Models
 

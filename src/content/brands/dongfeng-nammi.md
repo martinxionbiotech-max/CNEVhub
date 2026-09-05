@@ -25,11 +25,13 @@ Dongfeng Nammi is a new-energy vehicle brand under Dongfeng Motor Corporation, c
 - **Parent Founded:** 1969
 - **Official Website:** https://www.dna-nev.com.cn/
 
-## Vehicle Lineup (1 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Nammi 01 | Hatchback | $8,420 |
+- **Models cataloged:** 1
+- **Base price range:** $8,420 – $8,420
+- **Landed cost (Germany):** $19,694 – $19,694
+- **Landed premium (Germany):** +134% to +134%
+- **Body types:** SUV
 
 ## Explore Dongfeng Nammi Models
 

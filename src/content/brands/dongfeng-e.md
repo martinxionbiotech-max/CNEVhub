@@ -25,13 +25,13 @@ Dongfeng eπ (pronounced “e-pi”) is a new-energy vehicle brand under Dongfen
 - **Parent Founded:** 1969
 - **Official Website:** https://www.yipai.com.cn/
 
-## Vehicle Lineup (3 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| 007 | Liftback | $16,320 |
-| Nammi 06 | SUV | $12,660 |
-| 008 | SUV | $23,930 |
+- **Models cataloged:** 3
+- **Base price range:** $12,660 – $23,930
+- **Landed cost (Germany):** $26,287 – $43,813
+- **Landed premium (Germany):** +83% to +108%
+- **Body types:** SUV
 
 ## Explore Dongfeng eπ Models
 

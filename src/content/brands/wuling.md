@@ -7,7 +7,7 @@ parent_manufacturer: "SAIC"
 parent_location: "Shanghai, China"
 parent_founded: "1955"
 website: "https://www.sgmw.com.cn/"
-model_count: 6
+model_count: 14
 publishedDate: "2026-09-05"
 tags: [Wuling, Chinese EV brand, EV export]
 ---
@@ -25,16 +25,13 @@ Wuling is one of China’s most recognizable automotive brands, jointly operated
 - **Parent Founded:** 1955
 - **Official Website:** https://www.sgmw.com.cn/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Hongguang Mini EV | Hatchback | $5,000 |
-| Starlight | Sedan | $11,240 |
-| Nebula | SUV | $12,650 |
-| Binguo | Hatchback | $7,980 |
-| Starlight S | SUV | $14,060 |
-| Jiachen | Minivan | $16,310 |
+- **Models cataloged:** 14
+- **Base price range:** $5,000 – $18,280
+- **Landed cost (Germany):** $15,455 – $38,975
+- **Landed premium (Germany):** +113% to +209%
+- **Body types:** SUV
 
 ## Explore Wuling Models
 

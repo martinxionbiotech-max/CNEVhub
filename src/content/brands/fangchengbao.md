@@ -7,7 +7,7 @@ parent_manufacturer: "BYD"
 parent_location: "Shenzhen, Guangdong, China"
 parent_founded: "1995"
 website: "https://www.fangchengbao.com/"
-model_count: 3
+model_count: 4
 publishedDate: "2026-09-05"
 tags: [Fangchengbao, Chinese EV brand, EV export]
 ---
@@ -25,13 +25,13 @@ Fangchengbao, literally “Formula Leopard”, is a premium off-road and perform
 - **Parent Founded:** 1995
 - **Official Website:** https://www.fangchengbao.com/
 
-## Vehicle Lineup (3 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Ti 3 | SUV | $18,850 |
-| Bao 5 | SUV | $33,770 |
-| Bao 8 | SUV | $53,490 |
+- **Models cataloged:** 4
+- **Base price range:** $18,850 – $53,490
+- **Landed cost (Germany):** $35,913 – $89,782
+- **Landed premium (Germany):** +68% to +90%
+- **Body types:** SUV
 
 ## Explore Fangchengbao Models
 

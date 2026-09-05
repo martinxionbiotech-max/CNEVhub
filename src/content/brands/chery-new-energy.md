@@ -24,14 +24,13 @@ Chery New Energy is the dedicated new-energy vehicle (NEV) division of Chery Aut
 - **Headquarters:** Wuhu, Anhui, China
 - **Parent Founded:** 1997
 
-## Vehicle Lineup (4 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| eQ1 | Hatchback | $7,730 |
-| QQ Ice Cream | Hatchback | $5,200 |
-| QQ Duomi | Hatchback | $8,440 |
-| Wujie Pro | Hatchback | $11,960 |
+- **Models cataloged:** 4
+- **Base price range:** $5,200 – $11,960
+- **Landed cost (Germany):** $14,686 – $25,199
+- **Landed premium (Germany):** +111% to +182%
+- **Body types:** Hatchback
 
 ## Explore Chery New Energy Models
 

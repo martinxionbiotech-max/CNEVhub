@@ -7,7 +7,7 @@ parent_manufacturer: "NIO"
 parent_location: "Hefei, Anhui, China"
 parent_founded: "2014"
 website: "https://www.nio.com/"
-model_count: 6
+model_count: 8
 publishedDate: "2026-09-05"
 tags: [NIO, Chinese EV brand, EV export]
 ---
@@ -25,16 +25,13 @@ NIO is a premium Chinese electric vehicle brand recognized globally for its desi
 - **Parent Founded:** 2014
 - **Official Website:** https://www.nio.com/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| ET5T | Station Wagon | $41,970 |
-| ES6 | SUV | $47,460 |
-| ET9 | Sedan | $108,170 |
-| EC6 | Coupe SUV | $50,270 |
-| ES8 | SUV | $57,130 |
-| ET5 | Sedan | $41,850 |
+- **Models cataloged:** 8
+- **Base price range:** $41,850 – $108,170
+- **Landed cost (Germany):** $71,681 – $174,814
+- **Landed premium (Germany):** +62% to +71%
+- **Body types:** SUV
 
 ## Explore NIO Models
 

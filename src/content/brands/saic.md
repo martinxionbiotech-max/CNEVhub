@@ -25,11 +25,13 @@ SAIC is a premium intelligent electric vehicle brand jointly developed by SAIC M
 - **Parent Founded:** 1955
 - **Official Website:** https://hima.auto/shangjie/
 
-## Vehicle Lineup (1 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| H5 | SUV | $22,510 |
+- **Models cataloged:** 1
+- **Base price range:** $22,510 – $22,510
+- **Landed cost (Germany):** $46,467 – $46,467
+- **Landed premium (Germany):** +106% to +106%
+- **Body types:** SUV
 
 ## Explore SAIC Models
 

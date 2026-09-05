@@ -25,11 +25,13 @@ Kaicene is a commercial vehicle brand under Changan Automobile, dedicated to pro
 - **Parent Founded:** 1862
 - **Official Website:** https://www.cakcauto.com/
 
-## Vehicle Lineup (1 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| A600EV | MPV | $21,100 |
+- **Models cataloged:** 1
+- **Base price range:** $21,100 – $21,100
+- **Landed cost (Germany):** $39,412 – $39,412
+- **Landed premium (Germany):** +87% to +87%
+- **Body types:** MPV
 
 ## Explore Kaicene Models
 

@@ -25,14 +25,13 @@ Tank is an off-road and adventure-focused SUV brand under Great Wall Motor (GWM)
 - **Parent Founded:** 1984
 - **Official Website:** https://www.tanksuv.com/
 
-## Vehicle Lineup (4 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| 400 | SUV | $40,250 |
-| 700 | SUV | $60,280 |
-| 300 | SUV | $35,180 |
-| 500 | SUV | $47,180 |
+- **Models cataloged:** 4
+- **Base price range:** $35,180 – $60,280
+- **Landed cost (Germany):** $61,308 – $100,341
+- **Landed premium (Germany):** +66% to +74%
+- **Body types:** SUV
 
 ## Explore Tank Models
 

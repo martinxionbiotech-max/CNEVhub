@@ -7,7 +7,7 @@ parent_manufacturer: "Chery"
 parent_location: "Wuhu, Anhui, China"
 parent_founded: "1997"
 website: "https://jetourglobal.com/"
-model_count: 6
+model_count: 10
 publishedDate: "2026-09-05"
 tags: [Jetour, Chinese EV brand, EV export]
 ---
@@ -25,16 +25,13 @@ Jetour is a dynamic automobile brand under Chery Automobile, established in 2018
 - **Parent Founded:** 1997
 - **Official Website:** https://jetourglobal.com/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Dashing i-DM | SUV | $21,110 |
-| Zongheng G700 | SUV | $46,460 |
-| Jetour T1 | SUV | $19,000 |
-| Shanhai L6 | SUV | $17,450 |
-| X90 | SUV | $23,230 |
-| T2 | SUV | $22,520 |
+- **Models cataloged:** 10
+- **Base price range:** $17,450 – $46,460
+- **Landed cost (Germany):** $33,736 – $78,850
+- **Landed premium (Germany):** +70% to +93%
+- **Body types:** SUV
 
 ## Explore Jetour Models
 

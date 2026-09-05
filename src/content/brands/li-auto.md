@@ -7,7 +7,7 @@ parent_manufacturer: "Li Auto"
 parent_location: "Beijing, China"
 parent_founded: "2015"
 website: "https://www.lixiang.com/"
-model_count: 6
+model_count: 7
 publishedDate: "2026-09-05"
 tags: [Li Auto, Chinese EV brand, EV export]
 ---
@@ -25,16 +25,13 @@ Li Auto is a premium Chinese automotive brand dedicated to redefining family mob
 - **Parent Founded:** 2015
 - **Official Website:** https://www.lixiang.com/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| L9 | SUV | $64,047 |
-| i6 | SUV | $35,180 |
-| L8 | SUV | $45,190 |
-| L6 | SUV | $35,080 |
-| L7 | SUV | $42,380 |
-| Mega | Minivan | $78,850 |
+- **Models cataloged:** 7
+- **Base price range:** $35,080 – $78,850
+- **Landed cost (Germany):** $61,153 – $129,219
+- **Landed premium (Germany):** +64% to +74%
+- **Body types:** SUV
 
 ## Explore Li Auto Models
 

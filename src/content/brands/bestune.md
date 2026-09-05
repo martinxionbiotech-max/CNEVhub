@@ -25,14 +25,13 @@ Bestune, formerly known as Besturn, is a mid-to-premium automotive brand under F
 - **Parent Founded:** 1953
 - **Official Website:** https://benteng.faw.cn/
 
-## Vehicle Lineup (4 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Pony | Hatchback | $3,500 |
-| T90 | SUV | $14,060 |
-| NAT | Minivan | $19,690 |
-| Yueyi 03 | SUV | $11,240 |
+- **Models cataloged:** 4
+- **Base price range:** $3,500 – $19,690
+- **Landed cost (Germany):** $12,043 – $37,220
+- **Landed premium (Germany):** +89% to +244%
+- **Body types:** SUV
 
 ## Explore Bestune Models
 

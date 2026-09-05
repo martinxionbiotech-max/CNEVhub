@@ -7,7 +7,7 @@ parent_manufacturer: "Seres"
 parent_location: "Chongqing, China"
 parent_founded: "1986"
 website: "https://hima.auto/wenjie/"
-model_count: 1
+model_count: 3
 publishedDate: "2026-09-05"
 tags: [AITO, Chinese EV brand, EV export]
 ---
@@ -25,11 +25,13 @@ AITO is a premium intelligent electric vehicle brand co-created by Seres Group a
 - **Parent Founded:** 1986
 - **Official Website:** https://hima.auto/wenjie/
 
-## Vehicle Lineup (1 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| M5 | SUV | $32,370 |
+- **Models cataloged:** 3
+- **Base price range:** $32,370 – $66,170
+- **Landed cost (Germany):** $56,938 – $109,500
+- **Landed premium (Germany):** +66% to +76%
+- **Body types:** SUV
 
 ## Explore AITO Models
 

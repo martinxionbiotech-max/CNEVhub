@@ -7,7 +7,7 @@ parent_manufacturer: "Geely"
 parent_location: "Hangzhou, Zhejiang, China"
 parent_founded: "1986"
 website: "https://www.lynkco.com/"
-model_count: 6
+model_count: 10
 publishedDate: "2026-09-05"
 tags: [Lynk & Co, Chinese EV brand, EV export]
 ---
@@ -25,16 +25,13 @@ Lynk & Co is a global mobility brand jointly created by Geely Auto Group and Vol
 - **Parent Founded:** 1986
 - **Official Website:** https://www.lynkco.com/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| 01 | SUV | $27,580 |
-| 08 | SUV | $24,760 |
-| 05 | SUV | $31,520 |
-| 09 | SUV | $38,850 |
-| 07 | Sedan | $21,940 |
-| Z10 | Sedan | $26,310 |
+- **Models cataloged:** 10
+- **Base price range:** $16,870 – $43,650
+- **Landed cost (Germany):** $32,834 – $74,480
+- **Landed premium (Germany):** +71% to +95%
+- **Body types:** SUV
 
 ## Explore Lynk & Co Models
 

@@ -25,13 +25,13 @@ Ora is the dedicated electric vehicle brand under Great Wall Motor (GWM), create
 - **Parent Founded:** 1984
 - **Official Website:** https://www.oraev.com/
 
-## Vehicle Lineup (3 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Good Cat | Hatchback | $11,800 |
-| Ballet Cat | Hatchback | $21,100 |
-| Lightning Cat | Sedan | $29,410 |
+- **Models cataloged:** 3
+- **Base price range:** $11,800 – $29,410
+- **Landed cost (Germany):** $24,950 – $52,335
+- **Landed premium (Germany):** +78% to +111%
+- **Body types:** Sedan
 
 ## Explore Ora Models
 

@@ -7,7 +7,7 @@ parent_manufacturer: "Chery"
 parent_location: "Wuhu, Anhui, China"
 parent_founded: "1997"
 website: "https://fulwin.chery.cn/"
-model_count: 6
+model_count: 7
 publishedDate: "2026-09-05"
 tags: [Chery Fulwin, Chinese EV brand, EV export]
 ---
@@ -25,16 +25,13 @@ Chery Fulwin is a new-energy vehicle sub-brand under Chery Automobile, created t
 - **Parent Founded:** 1997
 - **Official Website:** https://fulwin.chery.cn/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| A9L | Sedan | $21,050 |
-| T11 | SUV | $26,750 |
-| A8 | Sedan | $11,250 |
-| T10 | SUV | $26,750 |
-| T8 | SUV | $14,630 |
-| T9 | SUV | $18,720 |
+- **Models cataloged:** 7
+- **Base price range:** $11,250 – $26,750
+- **Landed cost (Germany):** $24,095 – $48,199
+- **Landed premium (Germany):** +80% to +114%
+- **Body types:** SUV
 
 ## Explore Chery Fulwin Models
 

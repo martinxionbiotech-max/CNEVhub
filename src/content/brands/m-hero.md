@@ -7,7 +7,7 @@ parent_manufacturer: "Dongfeng"
 parent_location: "Wuhan, Hubei, China"
 parent_founded: "1969"
 website: "https://www.m-hero.com/"
-model_count: 1
+model_count: 2
 publishedDate: "2026-09-05"
 tags: [M-Hero, Chinese EV brand, EV export]
 ---
@@ -25,11 +25,13 @@ M-Hero is a high-performance off-road new-energy vehicle brand under Dongfeng Mo
 - **Parent Founded:** 1969
 - **Official Website:** https://www.m-hero.com/
 
-## Vehicle Lineup (1 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| M817 | SUV | $42,520 |
+- **Models cataloged:** 2
+- **Base price range:** $42,520 – $89,820
+- **Landed cost (Germany):** $72,723 – $146,278
+- **Landed premium (Germany):** +63% to +71%
+- **Body types:** SUV
 
 ## Explore M-Hero Models
 

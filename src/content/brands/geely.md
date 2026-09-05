@@ -25,13 +25,13 @@ Geely is one of China’s most influential automotive groups, known for its rapi
 - **Parent Founded:** 1986
 - **Official Website:** http://www.geelyauto.com.hk/
 
-## Vehicle Lineup (3 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Emgrand L HiP | Sedan | $12,650 |
-| Emgrand EV | Sedan | $20,680 |
-| Monjaro | SUV | $22,490 |
+- **Models cataloged:** 3
+- **Base price range:** $12,650 – $22,490
+- **Landed cost (Germany):** $26,272 – $41,574
+- **Landed premium (Germany):** +85% to +108%
+- **Body types:** SUV
 
 ## Explore Geely Models
 

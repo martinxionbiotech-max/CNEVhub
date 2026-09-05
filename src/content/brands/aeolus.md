@@ -25,15 +25,13 @@ Aeolus, also known as Dongfeng Fengshen, is a core passenger vehicle brand under
 - **Parent Founded:** 1969
 - **Official Website:** http://www.dfpv.com.cn/
 
-## Vehicle Lineup (5 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| E70 | Sedan | $20,110 |
-| L7 | SUV | $13,370 |
-| L8 | SUV | $18,300 |
-| Mage | SUV | $17,170 |
-| Huge | SUV | $19,700 |
+- **Models cataloged:** 5
+- **Base price range:** $13,370 – $20,110
+- **Landed cost (Germany):** $27,392 – $37,873
+- **Landed premium (Germany):** +88% to +105%
+- **Body types:** SUV
 
 ## Explore Aeolus Models
 

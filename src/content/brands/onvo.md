@@ -25,12 +25,13 @@ Onvo is a family-oriented electric vehicle brand created to make premium intelli
 - **Parent Founded:** 2014
 - **Official Website:** https://www.onvo.cn/
 
-## Vehicle Lineup (2 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| L90 | SUV | $37,440 |
-| L60 | SUV | $29,140 |
+- **Models cataloged:** 2
+- **Base price range:** $29,140 – $37,440
+- **Landed cost (Germany):** $51,915 – $64,823
+- **Landed premium (Germany):** +73% to +78%
+- **Body types:** SUV
 
 ## Explore Onvo Models
 

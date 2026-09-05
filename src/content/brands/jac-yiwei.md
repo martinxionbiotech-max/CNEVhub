@@ -25,13 +25,13 @@ JAC Yiwei is a new-energy vehicle brand under Anhui Jianghuai Automobile Group C
 - **Parent Founded:** 1964
 - **Official Website:** https://yiwei.jac.com.cn/
 
-## Vehicle Lineup (3 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Hua Xian Zi | Hatchback | $8,440 |
-| 3 | Hatchback | $9,850 |
-| Aipao | Sedan | $21,540 |
+- **Models cataloged:** 3
+- **Base price range:** $8,440 – $26,750
+- **Landed cost (Germany):** $19,725 – $48,199
+- **Landed premium (Germany):** +80% to +134%
+- **Body types:** Sedan
 
 ## Explore JAC Yiwei Models
 

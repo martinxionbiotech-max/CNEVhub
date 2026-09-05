@@ -7,7 +7,7 @@ parent_manufacturer: "SAIC"
 parent_location: "Shanghai, China"
 parent_founded: "1955"
 website: "https://www.immotors.com/"
-model_count: 4
+model_count: 5
 publishedDate: "2026-09-05"
 tags: [IM, Chinese EV brand, EV export]
 ---
@@ -25,14 +25,13 @@ IM Motors, short for Intelligence in Motion, is a premium intelligent electric v
 - **Parent Founded:** 1955
 - **Official Website:** https://www.immotors.com/
 
-## Vehicle Lineup (4 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| IM L7 | Sedan | $42,240 |
-| L6 | Sedan | $30,970 |
-| LS6 | SUV | $30,690 |
-| LS7 | SUV | $47,860 |
+- **Models cataloged:** 5
+- **Base price range:** $30,690 – $47,870
+- **Landed cost (Germany):** $54,326 – $81,042
+- **Landed premium (Germany):** +69% to +77%
+- **Body types:** SUV
 
 ## Explore IM Models
 

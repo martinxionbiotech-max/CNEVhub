@@ -25,11 +25,13 @@ Jaecoo is an urban off-road and lifestyle vehicle brand under Chery Automobile C
 - **Parent Founded:** 1997
 - **Official Website:** https://www.omodajaecoo.com/
 
-## Vehicle Lineup (1 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| J7 | SUV | $16,890 |
+- **Models cataloged:** 1
+- **Base price range:** $16,890 – $16,890
+- **Landed cost (Germany):** $32,866 – $32,866
+- **Landed premium (Germany):** +95% to +95%
+- **Body types:** SUV
 
 ## Explore Jaecoo Models
 

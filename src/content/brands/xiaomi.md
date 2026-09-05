@@ -25,12 +25,13 @@ Xiaomi Auto is the intelligent electric vehicle brand of Xiaomi Corporation, cre
 - **Parent Founded:** 2010
 - **Official Website:** https://www.mi.com/
 
-## Vehicle Lineup (2 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| YU7 | SUV | $35,700 |
-| SU7 | Sedan | $30,320 |
+- **Models cataloged:** 2
+- **Base price range:** $30,320 – $35,700
+- **Landed cost (Germany):** $53,750 – $62,117
+- **Landed premium (Germany):** +74% to +77%
+- **Body types:** SUV, Sedan
 
 ## Explore Xiaomi Models
 

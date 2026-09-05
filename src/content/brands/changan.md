@@ -7,7 +7,7 @@ parent_manufacturer: "ChangAn"
 parent_location: "Chongqing, China"
 parent_founded: "1862"
 website: "https://www.changan.com.cn/"
-model_count: 6
+model_count: 9
 publishedDate: "2026-09-05"
 tags: [ChangAn, Chinese EV brand, EV export]
 ---
@@ -25,16 +25,13 @@ Changan is the core consumer car brand of Chongqing Changan Automobile, known fo
 - **Parent Founded:** 1862
 - **Official Website:** https://www.changan.com.cn/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| A07 | Liftback | $16,890 |
-| CS75 Plus iDD | SUV | $23,930 |
-| Eado | Sedan | $11,960 |
-| CS55 | SUV | $11,500 |
-| CS75 | SUV | $11,900 |
-| UNI-V iDD | Liftback | $16,180 |
+- **Models cataloged:** 9
+- **Base price range:** $8,400 – $26,460
+- **Landed cost (Germany):** $19,663 – $47,748
+- **Landed premium (Germany):** +80% to +134%
+- **Body types:** SUV
 
 ## Explore ChangAn Models
 

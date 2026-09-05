@@ -25,11 +25,12 @@ Stelato is a premium electric vehicle brand launched in 2024 under the Harmony I
 - **Parent Founded:** 1958
 - **Official Website:** https://hima.auto/xiangjie/
 
-## Vehicle Lineup (1 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| S9T | Station Wagon | $43,630 |
+- **Models cataloged:** 1
+- **Base price range:** $43,630 – $43,630
+- **Landed cost (Germany):** $74,449 – $74,449
+- **Landed premium (Germany):** +71% to +71%
 
 ## Explore Stelato Models
 

@@ -25,12 +25,13 @@ MG is a global automotive brand with British heritage and Chinese innovation, no
 - **Parent Founded:** 1955
 - **Official Website:** https://www.mgmotor.eu/
 
-## Vehicle Lineup (2 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| 4 | Hatchback | $9,690 |
-| S5 EV | SUV | $16,460 |
+- **Models cataloged:** 2
+- **Base price range:** $9,690 – $16,460
+- **Landed cost (Germany):** $23,762 – $35,752
+- **Landed premium (Germany):** +117% to +145%
+- **Body types:** SUV
 
 ## Explore MG Models
 

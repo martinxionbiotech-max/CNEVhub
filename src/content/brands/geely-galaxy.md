@@ -7,7 +7,7 @@ parent_manufacturer: "Geely"
 parent_location: "Hangzhou, Zhejiang, China"
 parent_founded: "1986"
 website: "https://www.galaxy-geely.com/"
-model_count: 6
+model_count: 12
 publishedDate: "2026-09-05"
 tags: [Geely Galaxy, Chinese EV brand, EV export]
 ---
@@ -25,16 +25,13 @@ Geely Galaxy is a premium new-energy vehicle (NEV) brand under Geely Auto Group,
 - **Parent Founded:** 1986
 - **Official Website:** https://www.galaxy-geely.com/
 
-## Vehicle Lineup (6 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| Xingyuan | Hatchback | $9,660 |
-| L6 | Sedan | $11,240 |
-| M9 | SUV | $25,890 |
-| L7 | SUV | $16,310 |
-| A7 | Sedan | $12,610 |
-| Starshine 8 | Sedan | $17,670 |
+- **Models cataloged:** 12
+- **Base price range:** $6,590 – $25,890
+- **Landed cost (Germany):** $16,848 – $46,861
+- **Landed premium (Germany):** +81% to +156%
+- **Body types:** SUV
 
 ## Explore Geely Galaxy Models
 

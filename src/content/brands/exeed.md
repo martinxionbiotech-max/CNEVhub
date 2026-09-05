@@ -7,7 +7,7 @@ parent_manufacturer: "Chery"
 parent_location: "Wuhu, Anhui, China"
 parent_founded: "1997"
 website: "https://www.exeedinternational.com/"
-model_count: 1
+model_count: 6
 publishedDate: "2026-09-05"
 tags: [Exeed, Chinese EV brand, EV export]
 ---
@@ -25,11 +25,13 @@ Exeed is the premium automotive brand under Chery Automobile, created to showcas
 - **Parent Founded:** 1997
 - **Official Website:** https://www.exeedinternational.com/
 
-## Vehicle Lineup (1 models)
+## Brand at a Glance
 
-| Model | Type | Price (China) |
-|-------|------|--------------|
-| LX C-DM | SUV | $19,690 |
+- **Models cataloged:** 6
+- **Base price range:** $19,690 – $29,560
+- **Landed cost (Germany):** $37,220 – $52,569
+- **Landed premium (Germany):** +78% to +89%
+- **Body types:** SUV
 
 ## Explore Exeed Models
 
