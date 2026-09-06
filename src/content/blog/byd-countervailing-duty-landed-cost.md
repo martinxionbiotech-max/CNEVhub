@@ -156,6 +156,7 @@ The definitive duties run for five years from 31 October 2024, but they are subj
 ## Sources
 
 - European Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on Chinese BEVs, October 2024
+- 新华网 (Xinhua) — 欧盟对华电动车反补贴税终裁：比亚迪 17%、吉利 18.8%、上汽 35.3% (2024-10-30)
 - Reuters factbox on EU tariffs on China-made EVs (February 2026)
 - CnEVPost / electrive — reporting on EU preparations to extend tariffs to Chinese PHEVs (June 2026)
 - EV Hub landed-cost records: 37 BYD models × 7 markets, itemized duty/CVD/VAT/freight/certification

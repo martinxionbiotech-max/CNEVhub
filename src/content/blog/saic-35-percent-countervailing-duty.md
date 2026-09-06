@@ -115,6 +115,7 @@ SAIC has announced legal action at the Court of Justice of the EU. Any outcome i
 ## Sources
 
 - European Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on Chinese BEVs
+- 新华网 (Xinhua) — 反补贴税终裁（上汽 35.3%），2024-10-30；新浪科技 — 上汽、吉利、比亚迪起诉欧盟 (2025-01-24)
 - EU Commission press release, 29 October 2024 (duties enter into force 31 October 2024)
 - Reuters factbox on EU tariffs on China-made EVs (February 2026)
 - electrive — SAIC announces legal action against EU special tariffs (31 October 2024)

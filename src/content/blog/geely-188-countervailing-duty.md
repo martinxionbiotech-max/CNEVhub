@@ -122,6 +122,7 @@ The definitive duties run for five years from 31 October 2024, subject to review
 ## Sources
 
 - European Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on Chinese BEVs
+- 新华网 (Xinhua) — 反补贴税终裁（吉利 18.8%），2024-10-30
 - EU Commission press release, 29 October 2024
 - Reuters factbox on EU tariffs on China-made EVs (February 2026)
 - EV Hub landed-cost records: 13 Geely-group BEV models × 7 markets, itemized
