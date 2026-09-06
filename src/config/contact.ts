@@ -4,16 +4,16 @@
  * Real company + author contact information for EEAT.
  * Company: Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.)
  * Author: Wei Wang, EV & Battery Industry Analyst
- * Primary contact: Martin
+ * Primary contact: Aaron.W
  */
 
 import type { ContactInfo, ContactMethod, ContactFAQ } from '../lib/types';
 
 /** Contact information used across contact page and legal pages */
 export const contact: ContactInfo = {
-  email: 'martin@dinweys.com',
-  supportEmail: 'martin@dinweys.com',
-  salesEmail: 'martin@dinweys.com',
+  email: 'aaron@dinweys.com',
+  supportEmail: 'aaron@dinweys.com',
+  salesEmail: 'aaron@dinweys.com',
   address: {
     street: 'Jinzhou, Hebei',
     city: 'Jinzhou',
@@ -28,20 +28,20 @@ export const contactMethods: ContactMethod[] = [
   {
     icon: 'lucide:mail',
     label: 'Email',
-    value: 'martin@dinweys.com',
-    href: 'mailto:martin@dinweys.com',
+    value: 'aaron@dinweys.com',
+    href: 'mailto:aaron@dinweys.com',
   },
   {
     icon: 'lucide:message-circle',
     label: 'WhatsApp / WeChat',
-    value: '+86 13323237275',
-    href: 'https://wa.me/8613323237275',
+    value: '+86 13313137465',
+    href: 'https://wa.me/8613313137465',
   },
   {
     icon: 'lucide:phone',
     label: 'Phone',
-    value: '+86 13323237275',
-    href: 'tel:+8613323237275',
+    value: '+86 13313137465',
+    href: 'tel:+8613313137465',
   },
 ];
 
