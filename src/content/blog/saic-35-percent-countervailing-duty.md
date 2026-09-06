@@ -105,6 +105,13 @@ Because 35.3% is more than double 17%. On a sub-$10,000 car, the CVD alone is ne
 **Will SAIC's lawsuit change anything?**
 SAIC has announced legal action at the Court of Justice of the EU. Any outcome is uncertain and would not be retroactive. Until a ruling, importers should model the 35.3% rate as current.
 
+
+## Related reading
+
+- [BYD's 17% Countervailing Duty](/blog/byd-countervailing-duty-landed-cost/)
+- [Geely's 18.8% Countervailing Duty](/blog/geely-188-countervailing-duty/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - European Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on Chinese BEVs

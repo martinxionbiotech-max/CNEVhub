@@ -80,6 +80,13 @@ Compliance — ADR (Australian Design Rules) certification and RAV (Register of 
 **Can I import a left-hand-drive Chinese EV into Australia?**
 Not for road registration. Australia is RHD, so you need a right-hand-drive export variant. Check whether your model is produced in RHD before planning an import.
 
+
+## Related reading
+
+- [UAE vs Saudi Arabia](/blog/uae-saudi-arabia-import-comparison/)
+- [Germany vs France vs Netherlands](/blog/germany-netherlands-france-import-comparison/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - Australian import duty and GST treatment for EVs (zero duty on mainstream EVs, 10% GST)

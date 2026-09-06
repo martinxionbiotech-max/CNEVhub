@@ -87,6 +87,13 @@ For the Zeekr 001, yes — the UK's no-CVD more than offsets its 20% VAT, landin
 **Should I import a premium EV or a budget EV?**
 It depends on your market's price ceiling, not the tariff. Budget EVs have terrible percentage premiums but low absolute cost; premium EVs have better percentages but much higher absolute exposure. The deciding factor is whether you can sell above the landed cost.
 
+
+## Related reading
+
+- [BYD's Volume EVs (Atto 3, Dolphin, Sealion)](/blog/byd-volume-ev-landed-cost/)
+- [MG's Budget EVs and the Tariff Paradox](/blog/mg-budget-ev-tariff-paradox/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - European Commission Implementing Regulation (EU) 2024/2754 — Geely 18.8% and other cooperating 20.7% countervailing duties

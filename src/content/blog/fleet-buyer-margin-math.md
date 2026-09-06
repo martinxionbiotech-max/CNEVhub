@@ -87,6 +87,12 @@ Some fixed costs (freight, clearance overhead) amortize across units, but certif
 **What's the single biggest mistake buyers make?**
 Running the landed-cost math last — after deciding on the car and market — instead of first. The drive-side, charging, and homologation gates decide *whether* you can import; the tariff decides *how much* it costs.
 
+
+## Related reading
+
+- [CLTC vs WLTP Range](/blog/cltc-vs-wltp-range/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - EV Hub landed-cost records: 315 models × 7 markets, itemized (duty/CVD/VAT/fixed costs)

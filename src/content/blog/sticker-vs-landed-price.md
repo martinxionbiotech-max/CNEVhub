@@ -99,6 +99,16 @@ Certification / homologation ($3,000–$3,250) — it's the largest fixed cost a
 **Does the landed cost vary by destination?**
 Dramatically. The same BYD Seal lands at $44,413 in Germany but $31,671 in the UAE — the difference is the EU's countervailing duty plus higher VAT.
 
+
+## Related reading
+
+- [CLTC vs WLTP Range](/blog/cltc-vs-wltp-range/)
+- [Fleet Buyer's Margin Math](/blog/fleet-buyer-margin-math/)
+- [BYD's Volume EVs (Atto 3, Dolphin, Sealion)](/blog/byd-volume-ev-landed-cost/)
+- [MG's Budget EVs and the Tariff Paradox](/blog/mg-budget-ev-tariff-paradox/)
+- [Xpeng G6 & Zeekr 001](/blog/xpeng-zeekr-premium-ev-landed-cost/)
+- [Wuling & Leapmotor Microcars](/blog/wuling-leapmotor-microcar-import/)
+
 ## Sources
 
 - EU common customs tariff (10%) and Implementing Regulation (EU) 2024/2754 (countervailing duties)

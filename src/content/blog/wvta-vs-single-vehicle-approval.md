@@ -79,6 +79,13 @@ At volume. It's a type-level process with upfront engineering and testing that o
 **Do I need a different route for the UK?**
 Yes — the UK has its own IVA (Individual Vehicle Approval) regime post-Brexit, separate from EU national approvals.
 
+
+## Related reading
+
+- [CCS2 vs GB/T Charging](/blog/ccs2-vs-gbt-charging/)
+- [LHD vs RHD Markets](/blog/lhd-vs-rhd-markets/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - EU type-approval framework and national single-vehicle approval regimes

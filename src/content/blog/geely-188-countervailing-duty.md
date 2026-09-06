@@ -112,6 +112,13 @@ Fixed import costs — freight, certification, clearance, registration, inland �
 **Will the rate change?**
 The definitive duties run for five years from 31 October 2024, subject to review and possible negotiated undertakings. The bigger near-term change is the EU's expected extension of tariffs to PHEVs.
 
+
+## Related reading
+
+- [BYD's 17% Countervailing Duty](/blog/byd-countervailing-duty-landed-cost/)
+- [Why MG/SAIC Pays 35.3%](/blog/saic-35-percent-countervailing-duty/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - European Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on Chinese BEVs

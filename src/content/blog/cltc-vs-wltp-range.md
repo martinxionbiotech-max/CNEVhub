@@ -76,6 +76,12 @@ Because the listing is CLTC, which is optimistic — and even WLTP overstates re
 **Which standard is most realistic?**
 The US EPA cycle is the most conservative and closest to real-world motorway driving, followed by WLTP, then CLTC.
 
+
+## Related reading
+
+- [Fleet Buyer's Margin Math](/blog/fleet-buyer-margin-math/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - CLTC (China Light-duty Vehicle Test Cycle) and WLTP test procedure definitions

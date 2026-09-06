@@ -67,6 +67,13 @@ It can run into the thousands and isn't possible on every model, which is why th
 **Does the UK use CCS2?**
 Yes — the UK uses CCS2 for DC fast charging and Type 2 for AC, same as the EU.
 
+
+## Related reading
+
+- [WVTA vs Single-Vehicle Approval](/blog/wvta-vs-single-vehicle-approval/)
+- [LHD vs RHD Markets](/blog/lhd-vs-rhd-markets/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - GB/T (China) and CCS2 / Type 2 (Europe) charging standards

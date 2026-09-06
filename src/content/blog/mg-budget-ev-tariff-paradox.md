@@ -99,6 +99,13 @@ When base prices are comparable. The MG S5 EV and BYD Atto 3 are within $200 in 
 **Does the 35.3% apply outside the EU?**
 No. It's an EU measure. The same MG4 lands at +56% in the UAE and +70% in Australia, versus +145% in Germany.
 
+
+## Related reading
+
+- [BYD's Volume EVs (Atto 3, Dolphin, Sealion)](/blog/byd-volume-ev-landed-cost/)
+- [Wuling & Leapmotor Microcars](/blog/wuling-leapmotor-microcar-import/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - European Commission Implementing Regulation (EU) 2024/2754 — SAIC's 35.3% countervailing duty

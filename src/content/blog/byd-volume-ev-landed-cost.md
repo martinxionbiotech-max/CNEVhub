@@ -105,6 +105,14 @@ The UAE, consistently — it applies no countervailing duty, a 5% duty, and 5% V
 **Does the PHEV version avoid the countervailing duty?**
 Yes — BYD's DM-i (PHEV) variants currently pay only the 10% standard duty in the EU, though the EU is preparing to extend tariffs to PHEVs.
 
+
+## Related reading
+
+- [MG's Budget EVs and the Tariff Paradox](/blog/mg-budget-ev-tariff-paradox/)
+- [Wuling & Leapmotor Microcars](/blog/wuling-leapmotor-microcar-import/)
+- [Xpeng G6 & Zeekr 001](/blog/xpeng-zeekr-premium-ev-landed-cost/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - European Commission Implementing Regulation (EU) 2024/2754 — BYD's 17% countervailing duty

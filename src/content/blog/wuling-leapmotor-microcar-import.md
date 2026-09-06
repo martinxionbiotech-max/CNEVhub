@@ -100,6 +100,13 @@ Yes, at similar base prices — because Leapmotor pays 20.7% countervailing duty
 **Should I import a microcar to the EU?**
 Generally no — the fixed-cost overhead and tariff stack make it a poor import. It only pencils out for non-EU destinations or genuine niche demand.
 
+
+## Related reading
+
+- [MG's Budget EVs and the Tariff Paradox](/blog/mg-budget-ev-tariff-paradox/)
+- [BYD's Volume EVs (Atto 3, Dolphin, Sealion)](/blog/byd-volume-ev-landed-cost/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - European Commission Implementing Regulation (EU) 2024/2754 — Wuling (SAIC) 35.3% and other cooperating 20.7% countervailing duties

@@ -88,6 +88,13 @@ No, not meaningfully. You pay the VAT of the country of final registration. Tryi
 **Why is the Netherlands the most expensive?**
 Purely its 21% VAT — the highest standard rate among the three. Its actual landed-cost premium over Germany is about 1–1.5%.
 
+
+## Related reading
+
+- [UAE vs Saudi Arabia](/blog/uae-saudi-arabia-import-comparison/)
+- [Australia's Zero-Duty Market](/blog/australia-import-zero-duty/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - EU common customs tariff — 10% standard duty on passenger cars

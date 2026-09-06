@@ -146,6 +146,13 @@ Because fixed import costs (freight, certification, clearance, registration, inl
 **Will the rate change?**
 The definitive duties run for five years from 31 October 2024, but they are subject to review and to possible negotiated adjustments (individual models can be exempted under a price/volume undertaking, as the EU approved for VW's Cupra Tavascan in early 2026). The bigger near-term change is the expected extension of tariffs to PHEVs.
 
+
+## Related reading
+
+- [Why MG/SAIC Pays 35.3%](/blog/saic-35-percent-countervailing-duty/)
+- [Geely's 18.8% Countervailing Duty](/blog/geely-188-countervailing-duty/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - European Commission Implementing Regulation (EU) 2024/2754 — definitive countervailing duties on Chinese BEVs, October 2024

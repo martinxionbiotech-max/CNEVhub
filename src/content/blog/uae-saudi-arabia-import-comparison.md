@@ -85,6 +85,13 @@ The Gulf's 5% duty and 5% VAT beat the UK's 10% duty and 20% VAT. No-CVD markets
 **Is Saudi Arabia ever the better choice?**
 Only if your buyer, homologation route, or incentives are specifically Saudi. On pure landed cost, the UAE wins every time because of the VAT difference.
 
+
+## Related reading
+
+- [Germany vs France vs Netherlands](/blog/germany-netherlands-france-import-comparison/)
+- [Australia's Zero-Duty Market](/blog/australia-import-zero-duty/)
+- [Why the Sticker Price Is Never the Landed Price](/blog/sticker-vs-landed-price/)
+
 ## Sources
 
 - GCC / UAE and Saudi customs duty and VAT rates (5% duty both; 5% and 15% VAT respectively)
