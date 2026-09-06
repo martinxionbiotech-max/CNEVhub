@@ -46,6 +46,51 @@ const relatedPosts: BlogPost[] = allPosts
   })
   .slice(0, 3)
   .map((p: RelatedPostWithScore) => p.post);
+
+// Parse the "## Frequently asked questions" section into structured Q&A for FAQPage schema
+function parseFaq(body: string): { question: string; answer: string }[] {
+  const marker = '## Frequently asked questions';
+  const idx = body.indexOf(marker);
+  if (idx === -1) return [];
+  const strip = (s: string) =>
+    s
+      .replace(/\*\*/g, '')
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+      .trim();
+  const lines = body.slice(idx + marker.length).split('\n');
+  const faqs: { question: string; answer: string }[] = [];
+  let q = '';
+  let a: string[] = [];
+  const flush = () => {
+    if (q) faqs.push({ question: strip(q), answer: strip(a.join(' ')) });
+    a = [];
+  };
+  for (const line of lines) {
+    const qm = line.match(/^\*\*(.+)\*\*\s*$/);
+    if (qm) {
+      flush();
+      q = qm[1];
+    } else if (q && line.trim()) {
+      a.push(line.trim());
+    }
+  }
+  flush();
+  return faqs;
+}
+
+const faqLd = (() => {
+  const faqs = parseFaq(post.body || '');
+  if (!faqs.length) return null;
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.question,
+      acceptedAnswer: { '@type': 'Answer', text: f.answer },
+    })),
+  };
+})();
 ---
 
 <BlogLayout
@@ -90,4 +135,5 @@ const relatedPosts: BlogPost[] = allPosts
       </aside>
     )
   }
+  {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />}
 </BlogLayout>
