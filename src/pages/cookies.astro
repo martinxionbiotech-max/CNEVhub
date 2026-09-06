@@ -1,0 +1,119 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import { siteConfig } from '@/config';
+
+const { legal, contact } = siteConfig;
+const fullAddress = `${contact.address.street}, ${contact.address.city}, ${contact.address.state}, ${contact.address.country}`;
+---
+
+<MarketingLayout
+  title={`Cookie Policy - ${siteConfig.name}`}
+  description={`Cookie Policy for ${siteConfig.name}. Learn about the essential cookies we use and how to manage your preferences.`}
+>
+  <section class="py-section">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+      <header class="mb-12">
+        <h1 class="text-4xl font-bold text-text">Cookie Policy</h1>
+        <p class="mt-4 text-text-muted">Last updated: {legal.lastUpdated}</p>
+      </header>
+
+      <div class="prose prose-lg max-w-none dark:prose-invert">
+        <p>
+          This Cookie Policy explains how {siteConfig.name} uses cookies and similar technologies when you
+          visit our website. It should be read together with our <a href="/privacy">Privacy Policy</a>.
+        </p>
+
+        <h2>What Are Cookies?</h2>
+        <p>
+          Cookies are small text files that are stored on your device (computer, phone, or tablet) when
+          you visit a website. They are widely used to make websites work efficiently and to provide
+          information to the site's operators. Similar technologies include local storage and pixels.
+        </p>
+
+        <h2>How We Use Cookies</h2>
+        <p>
+          {siteConfig.name} is an information platform. We take a privacy-first approach and use only
+          <strong>strictly necessary cookies</strong> that are required for the website to function
+          properly. These do not require consent under most data protection laws.
+        </p>
+
+        <h2>Categories of Cookies We Use</h2>
+        <div class="overflow-x-auto">
+          <table>
+            <thead>
+              <tr>
+                <th>Category</th>
+                <th>Purpose</th>
+                <th>Requires Consent?</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Strictly necessary</td>
+                <td>Enable core functionality, such as basic preferences and site security</td>
+                <td>No</td>
+              </tr>
+              <tr>
+                <td>Analytics / measurement</td>
+                <td>Aggregated, anonymized usage statistics to improve the site</td>
+                <td>Only if not anonymized</td>
+              </tr>
+              <tr>
+                <td>Advertising / marketing</td>
+                <td>Cross-site tracking or targeted advertising</td>
+                <td>We do <strong>not</strong> use these</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          We do not use advertising cookies, and we do not engage in cross-site tracking or the sale of
+          personal information to advertising networks.
+        </p>
+
+        <h2>Third-Party Cookies</h2>
+        <p>
+          Some pages may include embedded content or links to third-party services (for example, external
+          maps, videos, or analytics providers). These third parties may set their own cookies when you
+          interact with their content. We do not control these cookies, and their use is governed by the
+          respective third party's own cookie and privacy policies.
+        </p>
+
+        <h2>Managing Your Cookie Preferences</h2>
+        <p>You can control and delete cookies through your browser settings. Most browsers allow you to:</p>
+        <ul>
+          <li>View the cookies stored on your device</li>
+          <li>Delete individual cookies or all cookies</li>
+          <li>Block cookies from specific sites or all sites</li>
+          <li>Set preferences for how cookies are handled</li>
+        </ul>
+        <p>
+          Please note that disabling strictly necessary cookies may affect the functionality and
+          performance of the website.
+        </p>
+        <p>
+          For step-by-step instructions, refer to your browser's help documentation:
+        </p>
+        <ul>
+          <li><a href="https://support.google.com/chrome/answer/95647" target="_blank" rel="noopener noreferrer">Chrome</a></li>
+          <li><a href="https://support.apple.com/guide/safari/manage-cookies-sfri11471" target="_blank" rel="noopener noreferrer">Safari</a></li>
+          <li><a href="https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer" target="_blank" rel="noopener noreferrer">Firefox</a></li>
+          <li><a href="https://support.microsoft.com/microsoft-edge" target="_blank" rel="noopener noreferrer">Microsoft Edge</a></li>
+        </ul>
+
+        <h2>Changes to This Policy</h2>
+        <p>
+          We may update this Cookie Policy from time to time. Any changes will be posted on this page with
+          an updated "Last updated" date.
+        </p>
+
+        <h2>Contact Us</h2>
+        <p>If you have any questions about our use of cookies, please contact us at:</p>
+        <ul>
+          <li>Email: <a href={`mailto:${legal.privacyEmail}`}>{legal.privacyEmail}</a></li>
+          <li>Address: {fullAddress}</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</MarketingLayout>

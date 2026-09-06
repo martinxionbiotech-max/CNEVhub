@@ -7,122 +7,107 @@ import { siteConfig } from '@/config';
 
 const faqCategories = [
   {
-    name: 'General',
+    name: 'About the Platform',
     faqs: [
       {
         question: 'What is ' + siteConfig.name + '?',
         answer:
           siteConfig.name +
-          ' is a modern deployment platform that helps developers and teams build, deploy, and scale applications without the infrastructure headaches. We handle the complexity so you can focus on building great products.',
+          ' is an independent information platform that helps you understand the real cost of importing a Chinese electric vehicle (EV). We provide model and brand data, transparent landed-cost breakdowns, and educational guides on duties, VAT, freight, and certification.',
       },
       {
-        question: 'Who is ' + siteConfig.name + ' for?',
+        question: 'Do you sell vehicles?',
         answer:
-          'We built ' +
+          'No. ' +
           siteConfig.name +
-          " for developers and teams of all sizes—from solo developers working on side projects to enterprise teams shipping production applications. If you write code and need to deploy it, we're here to help.",
+          ' is not a dealer, importer, or broker. We do not sell vehicles or act on behalf of any manufacturer. We provide independent reference information and landed-cost intelligence only.',
       },
       {
-        question: 'What frameworks do you support?',
+        question: 'Is ' + siteConfig.name + ' affiliated with any manufacturer?',
         answer:
-          'We support all major frameworks including Next.js, Astro, Remix, Nuxt, SvelteKit, and any static site generator. Our platform auto-detects your framework and configures the build process automatically.',
+          'No. We are an independent platform. Vehicle names, brand names, and logos belong to their respective owners and are shown for identification and reference purposes only. Their inclusion does not imply endorsement or affiliation.',
       },
     ],
   },
   {
-    name: 'Pricing & Billing',
+    name: 'Landed Cost',
     faqs: [
       {
-        question: 'Is there a free tier?',
+        question: 'What is "landed cost"?',
         answer:
-          'Yes! Our Hobby plan is completely free and includes 3 projects, 100 GB bandwidth per month, automatic HTTPS, and preview deployments. No credit card required to get started.',
+          'Landed cost is the total cost of getting a vehicle from the factory to your destination, including the vehicle price, freight and insurance, import duties and countervailing tariffs, VAT/taxes, and certification or compliance costs.',
       },
       {
-        question: 'Can I change plans later?',
+        question: 'How accurate are your landed-cost estimates?',
         answer:
-          "Absolutely. You can upgrade or downgrade your plan at any time. When upgrading, you'll be charged the prorated difference. When downgrading, the new rate applies at your next billing cycle.",
+          'Our estimates are approximate and illustrative. Actual costs depend on many factors we cannot know, including current duties, exchange rates, your exact configuration, and freight conditions. Always verify figures with a customs broker or qualified professional before committing to an import.',
       },
       {
-        question: 'What happens if I exceed my bandwidth limit?',
+        question: 'Do your estimates include all taxes and duties?',
         answer:
-          "We'll notify you when you're approaching your limit. If you exceed it, your sites will continue to work—we'll just reach out to discuss upgrading your plan or purchasing additional bandwidth.",
+          'We include the common components — duties, countervailing tariffs where applicable, and VAT — based on publicly available information at the time of writing. However, specific customs classifications and rulings for your exact vehicle can change the result. Treat every figure as a starting point, not a guarantee.',
+      },
+    ],
+  },
+  {
+    name: 'Data & Coverage',
+    faqs: [
+      {
+        question: 'Which vehicles and brands do you cover?',
+        answer:
+          'We cover a broad range of Chinese EV models and brands exported to overseas markets, including major manufacturers and popular models. Coverage is updated as new models are announced for export.',
       },
       {
-        question: 'Do you offer discounts for annual billing?',
+        question: 'Where does your data come from?',
         answer:
-          'Yes! Annual plans come with a 20% discount. You can switch to annual billing from your account settings at any time.',
+          'Our data is compiled from publicly available sources, including manufacturer specifications, official announcements, and trade publications. We aim to keep it accurate, but specifications and prices change frequently and may become outdated.',
       },
       {
-        question: "Can I get a refund if I'm not satisfied?",
+        question: 'How often is the data updated?',
         answer:
-          "Yes, we offer a 30-day money-back guarantee on all paid plans. If you're not happy with " +
+          'We review and update our data periodically, but there is no fixed schedule. Tariffs and regulations in particular can change quickly, so you should always verify current figures with official sources.',
+      },
+    ],
+  },
+  {
+    name: 'Using the Platform',
+    faqs: [
+      {
+        question: 'Do I need to create an account?',
+        answer:
+          'No. ' +
           siteConfig.name +
-          ', contact support for a full refund.',
+          ' does not require an account, subscription, or payment. All information is freely accessible.',
+      },
+      {
+        question: 'Can you help me source a specific vehicle?',
+        answer:
+          'We can provide landed-cost guidance for a specific model and destination country. Send us the model and destination, and we will provide a transparent breakdown. We do not, however, act as a purchasing agent or broker.',
+      },
+      {
+        question: 'How do I contact you?',
+        answer:
+          'You can reach us via email, WhatsApp/WeChat, or phone. See our contact page for full details. We typically respond within 24 hours on business days (GMT+8).',
       },
     ],
   },
   {
-    name: 'Technical',
+    name: 'Legal & Compliance',
     faqs: [
       {
-        question: 'How fast are deployments?',
+        question: 'Is your information legal or financial advice?',
         answer:
-          'Most deployments complete in under 60 seconds. Our optimized build pipeline caches dependencies and uses incremental builds to get your changes live as fast as possible.',
+          'No. Our content is for general informational purposes only and does not constitute legal, tax, customs, financial, or investment advice. Always consult qualified professionals before making import decisions. See our Disclaimer for details.',
       },
       {
-        question: 'Do you support custom domains?',
+        question: 'How do you handle my privacy?',
         answer:
-          'Yes, you can connect unlimited custom domains to your projects. We automatically provision and renew SSL certificates for all domains at no extra cost.',
+          'We collect only minimal personal information — primarily what you choose to send us directly. We do not sell your data and we do not use advertising cookies. See our Privacy Policy and Cookie Policy for full details.',
       },
       {
-        question: 'Can I use environment variables?',
+        question: 'What if I dispute the accuracy of your information?',
         answer:
-          'Yes, you can set environment variables for each project with different values for development, preview, and production environments. All variables are encrypted at rest.',
-      },
-      {
-        question: 'What about serverless functions?',
-        answer:
-          'We support serverless functions out of the box. Deploy API routes alongside your frontend with zero configuration. Functions run on our global edge network for low latency.',
-      },
-    ],
-  },
-  {
-    name: 'Security & Compliance',
-    faqs: [
-      {
-        question: 'Is my data secure?',
-        answer:
-          'Security is our top priority. All data is encrypted in transit and at rest. We use industry-standard security practices and undergo regular security audits.',
-      },
-      {
-        question: 'Do you offer SSO?',
-        answer:
-          'Yes, SSO with SAML is available on our Enterprise plan. We support integration with Okta, Azure AD, Google Workspace, and other identity providers.',
-      },
-      {
-        question: 'Are you SOC 2 compliant?',
-        answer:
-          'Yes, we maintain SOC 2 Type II compliance. Enterprise customers can request our compliance reports and security documentation.',
-      },
-    ],
-  },
-  {
-    name: 'Support',
-    faqs: [
-      {
-        question: 'How can I get help?',
-        answer:
-          'We offer multiple support channels: community Discord for quick questions, email support for all customers, and priority support with dedicated response times for Pro and Enterprise plans.',
-      },
-      {
-        question: 'Do you have documentation?',
-        answer:
-          'Yes! Our comprehensive documentation covers everything from getting started to advanced configurations. Visit our docs section for guides, tutorials, and API references.',
-      },
-      {
-        question: 'What are your support hours?',
-        answer:
-          'Our community Discord is active 24/7. Email support is available Monday-Friday, 9am-6pm PT. Enterprise customers have access to 24/7 priority support.',
+          'If you believe any information is inaccurate or outdated, please contact us and we will review it promptly. We welcome corrections and are committed to keeping our content as accurate as possible.',
       },
     ],
   },
@@ -131,7 +116,7 @@ const faqCategories = [
 
 <MarketingLayout
   title={`FAQ - ${siteConfig.name}`}
-  description={`Frequently asked questions about ${siteConfig.name}. Find answers about pricing, features, security, and more.`}
+  description={`Frequently asked questions about ${siteConfig.name} — importing Chinese EVs, landed cost, data coverage, and using the platform.`}
 >
   <PageHeader
     title="Frequently Asked Questions"
@@ -145,8 +130,7 @@ const faqCategories = [
   <CTA
     title="Still have questions?"
     description="Can't find the answer you're looking for? Our team is here to help."
-    action={{ label: 'Contact Support', href: '/contact' }}
-    secondaryAction={{ label: 'Join Discord Community', href: siteConfig.social.discord || '#' }}
+    action={{ label: 'Contact Us', href: '/contact' }}
     background="muted"
   />
 </MarketingLayout>

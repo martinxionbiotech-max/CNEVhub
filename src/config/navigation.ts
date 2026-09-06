@@ -32,7 +32,6 @@ export const navigation: Navigation = {
       { label: 'Docs', href: '/docs' },
     ],
     solutions: [
-      { label: 'Import Guides', href: '/blog' },
       { label: 'EU Import Guide', href: '/blog/import-chinese-ev-eu-guide' },
       { label: 'Export Landscape 2026', href: '/blog/chinese-ev-export-landscape-2026' },
       { label: 'BYD Seal Review', href: '/blog/byd-seal-deep-review' },
@@ -40,17 +39,16 @@ export const navigation: Navigation = {
     resources: [
       { label: 'Blog', href: '/blog', feature: 'blog' },
       { label: 'FAQ', href: '/faq' },
-      { label: 'About', href: '/about' },
-      { label: 'Contact', href: '/contact' },
     ],
     company: [
       { label: 'About', href: '/about' },
       { label: 'Contact', href: '/contact' },
-      { label: 'FAQ', href: '/faq' },
     ],
     legal: [
       { label: 'Privacy', href: '/privacy' },
       { label: 'Terms', href: '/terms' },
+      { label: 'Cookies', href: '/cookies' },
+      { label: 'Disclaimer', href: '/disclaimer' },
     ],
   },
 };

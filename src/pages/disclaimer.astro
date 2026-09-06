@@ -1,0 +1,103 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import { siteConfig } from '@/config';
+
+const { legal, contact } = siteConfig;
+const fullAddress = `${contact.address.street}, ${contact.address.city}, ${contact.address.state}, ${contact.address.country}`;
+---
+
+<MarketingLayout
+  title={`Disclaimer - ${siteConfig.name}`}
+  description={`Disclaimer for ${siteConfig.name}. Understand the limitations of our information and landed-cost estimates.`}
+>
+  <section class="py-section">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+      <header class="mb-12">
+        <h1 class="text-4xl font-bold text-text">Disclaimer</h1>
+        <p class="mt-4 text-text-muted">Last updated: {legal.lastUpdated}</p>
+      </header>
+
+      <div class="prose prose-lg max-w-none dark:prose-invert">
+        <p>
+          Please read this Disclaimer carefully before relying on any information provided by
+          {siteConfig.name}. By using this website, you acknowledge and agree to the limitations set out
+          below.
+        </p>
+
+        <h2>Information Platform, Not an Advisor or Dealer</h2>
+        <p>
+          {siteConfig.name} is an independent information platform. We are <strong>not</strong> a vehicle
+          dealer, importer, broker, customs agent, financial advisor, or legal professional. We do not sell
+          vehicles, and we do not provide legal, tax, customs, financial, or investment advice. Any
+          decision you make based on information from this website is made at your own risk.
+        </p>
+
+        <h2>Landed-Cost Estimates Are Approximate</h2>
+        <p>
+          The landed-cost calculator and all cost figures on this website are <strong>approximate,
+          illustrative estimates</strong> intended to help you understand the potential components of an
+          import transaction. They are based on information available at the time of writing and on
+          assumptions that may not apply to your specific situation.
+        </p>
+        <p>Actual costs can differ materially due to factors including, but not limited to:</p>
+        <ul>
+          <li>Changes in import duties, tariffs, countervailing duties, and taxes</li>
+          <li>Currency exchange-rate fluctuations</li>
+          <li>Your exact vehicle configuration, trim, and options</li>
+          <li>Freight, insurance, port, and handling charges at the time of shipment</li>
+          <li>Customs classifications and rulings applicable to your transaction</li>
+          <li>Compliance and certification requirements in your destination country</li>
+        </ul>
+        <p>
+          You must verify all duties, taxes, and costs with the relevant customs authority, a licensed
+          customs broker, or another qualified professional before committing to any purchase or import.
+        </p>
+
+        <h2>Accuracy and Currency of Information</h2>
+        <p>
+          We endeavor to keep the information on this website accurate and up to date. However, tariffs,
+          regulations, prices, and vehicle specifications change frequently, and we make no representation
+          or warranty as to the accuracy, completeness, currency, or reliability of any content.
+          Information may become outdated without notice.
+        </p>
+
+        <h2>Third-Party Data and Trademarks</h2>
+        <p>
+          Vehicle names, brand names, logos, specifications, and other third-party data on this website
+          belong to their respective owners and are provided for identification and reference purposes
+          only. Inclusion does not imply affiliation with, endorsement by, or sponsorship by any
+          manufacturer, exporter, or other entity.
+        </p>
+
+        <h2>No Liability</h2>
+        <p>
+          To the maximum extent permitted by law, {siteConfig.name}, its operator, and their respective
+          officers, directors, employees, and agents shall not be liable for any loss or damage arising
+          from your use of, or reliance on, the information provided on this website — whether direct,
+          indirect, incidental, consequential, or otherwise.
+        </p>
+
+        <h2>External Links</h2>
+        <p>
+          This website may contain links to external websites. We are not responsible for the content,
+          accuracy, or practices of any third-party website, and the inclusion of a link does not imply
+          endorsement.
+        </p>
+
+        <h2>Professional Advice Recommended</h2>
+        <p>
+          Before making any purchasing, import, financial, or legal decision, we strongly recommend that
+          you consult with qualified professionals such as a licensed customs broker, a tax advisor, and a
+          legal advisor familiar with the laws of your destination jurisdiction.
+        </p>
+
+        <h2>Contact Us</h2>
+        <p>If you have any questions about this Disclaimer, please contact us at:</p>
+        <ul>
+          <li>Email: <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a></li>
+          <li>Address: {fullAddress}</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</MarketingLayout>
