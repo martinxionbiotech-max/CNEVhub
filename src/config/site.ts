@@ -3,9 +3,9 @@
  *
  * @description
  * CNEVhub: Chinese EV export intelligence platform.
- * Company: Guangzhou Banghe Testing Technology Co., Ltd. (MCM)
- * Author: Wei Wang, Compliance & Import Analyst
- * Primary contact: Aaron.W (aaron@dinweys.com, WhatsApp/WeChat +86 13313137465)
+ * Company: Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.)
+ * Author: Wei Wang, EV & Battery Industry Analyst
+ * Primary contact: Martin (martin@dinweys.com, WhatsApp/WeChat +86 13323237275)
  */
 
 import type { SocialLinks, LegalConfig } from '../lib/types';
@@ -39,18 +39,20 @@ export const social: SocialLinks = {
 
 /** Company (EEAT Organization) */
 export const company = {
-  name: 'Guangzhou Banghe Testing Technology Co., Ltd. (MCM)',
-  legalName: 'Guangzhou Banghe Testing Technology Co., Ltd.',
+  name: 'Chengguang Energy',
+  legalName: 'Jinzhou Chengguang Power Source Co., Ltd.',
   description:
-    'Guangzhou Banghe Testing Technology Co., Ltd. (MCM) provides automotive export compliance, testing, and landed-cost intelligence for Chinese EV importers worldwide.',
+    'Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.) is an IATF 16949-certified automotive battery manufacturer founded in 2002, providing independent landed-cost intelligence and cross-border research for Chinese EV importers.',
   url: 'https://electricvehiclehub.net',
   logo: '/logo.svg',
-  email: 'aaron@dinweys.com',
-  phone: '+86 13313137465',
-  whatsapp: '+86 13313137465',
-  contactPerson: 'Aaron.W',
+  email: 'martin@dinweys.com',
+  phone: '+86 13323237275',
+  whatsapp: '+86 13323237275',
+  contactPerson: 'Martin',
   author: 'Wei Wang',
-  authorRole: 'Compliance & Import Analyst',
+  authorRole: 'EV & Battery Industry Analyst',
+  authorBio:
+    'Wei Wang has spent many years in automotive battery production, and in recent years has focused on commercial research into electric vehicles — import economics, tariffs, and cross-border compliance.',
 };
 
 /** Legal configuration for privacy policy and terms pages */

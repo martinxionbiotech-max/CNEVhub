@@ -2,22 +2,22 @@
  * Contact Page Configuration — EV Hub
  *
  * Real company + author contact information for EEAT.
- * Company: Guangzhou Banghe Testing Technology Co., Ltd. (MCM)
- * Author: Wei Wang, Compliance & Import Analyst
- * Primary contact: Aaron.W
+ * Company: Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.)
+ * Author: Wei Wang, EV & Battery Industry Analyst
+ * Primary contact: Martin
  */
 
 import type { ContactInfo, ContactMethod, ContactFAQ } from '../lib/types';
 
 /** Contact information used across contact page and legal pages */
 export const contact: ContactInfo = {
-  email: 'aaron@dinweys.com',
-  supportEmail: 'aaron@dinweys.com',
-  salesEmail: 'aaron@dinweys.com',
+  email: 'martin@dinweys.com',
+  supportEmail: 'martin@dinweys.com',
+  salesEmail: 'martin@dinweys.com',
   address: {
-    street: 'Guangzhou Banghe Testing Technology Co., Ltd.',
-    city: 'Guangzhou',
-    state: 'Guangdong',
+    street: 'Jinzhou, Hebei',
+    city: 'Jinzhou',
+    state: 'Hebei',
     zip: '',
     country: 'China',
   },
@@ -28,20 +28,20 @@ export const contactMethods: ContactMethod[] = [
   {
     icon: 'lucide:mail',
     label: 'Email',
-    value: 'aaron@dinweys.com',
-    href: 'mailto:aaron@dinweys.com',
+    value: 'martin@dinweys.com',
+    href: 'mailto:martin@dinweys.com',
   },
   {
     icon: 'lucide:message-circle',
     label: 'WhatsApp / WeChat',
-    value: '+86 13313137465',
-    href: 'https://wa.me/8613313137465',
+    value: '+86 13323237275',
+    href: 'https://wa.me/8613323237275',
   },
   {
     icon: 'lucide:phone',
     label: 'Phone',
-    value: '+86 13313137465',
-    href: 'tel:+8613313137465',
+    value: '+86 13323237275',
+    href: 'tel:+8613323237275',
   },
 ];
 

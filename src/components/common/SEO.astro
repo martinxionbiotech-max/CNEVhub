@@ -86,7 +86,7 @@ const websiteSchema = {
 const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
-  name: company.legalName,
+  name: company.name,
   legalName: company.legalName,
   alternateName: siteConfig.name,
   url: company.url || siteConfig.url,
@@ -99,8 +99,8 @@ const organizationSchema = {
   ),
   address: {
     '@type': 'PostalAddress',
-    addressLocality: 'Guangzhou',
-    addressRegion: 'Guangdong',
+    addressLocality: 'Jinzhou',
+    addressRegion: 'Hebei',
     addressCountry: 'CN',
   },
   contactPoint: {
@@ -127,6 +127,7 @@ const articleSchema =
           '@type': 'Person',
           name: author || siteConfig.author,
           jobTitle: company.authorRole,
+          description: company.authorBio,
         },
         publisher: {
           '@type': 'Organization',
