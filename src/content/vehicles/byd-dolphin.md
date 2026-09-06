@@ -39,8 +39,7 @@ BYD Dolphin (starting at $14,020) is a Sedan from BYD.
 
 ## Overview
 
-The Dolphin is BYD's city-car ace — a 4,280 mm hatchback that packs a 45.12 kWh Blade battery and 418 km of CLTC range into a footprint smaller than a Golf. A 70 kW motor is modest by the segment's newer standards, but it suits the car's urban brief: light, maneuverable and cheap to run. The bright two-tone interior and floating center screen give it a younger, more Gen-Z character than most of BYD's lineup. It's built to win in dense European and Asian cities, and it already is — the Dolphin is a natural rival to the ID.3 and the lower end of the European B-segment EV field. For importers, it's an easy first container, low duty exposure and high turnover. Second-car buyers and shared-mobility fleets are where the volume is. [Source: BYD Dolphin EU-market specs via CNEVhub data/vehicles.json]
-
+The BYD Dolphin is a compact sedan battery-electric from BYD, with 418 km of CLTC range, 70 kW of motor power, a 4.3-second 0–100 km/h time. It is positioned as a value-focused import, priced from $14,020 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,907 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 11.2 kWh/100km efficiency is strong for its 1,410 kg curb weight. It suits budget-conscious commuters and ride-hailing fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

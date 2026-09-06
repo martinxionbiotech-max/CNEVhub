@@ -34,8 +34,7 @@ Dongfeng Nammi 01 (starting at $8,420) is a SUV from DONGFENG NAMMI.
 
 ## Overview
 
-Dongfeng Nammi 01 is a suv from Dongfeng Nammi, offering 330 km of CLTC range and 70 kW of motor power. Full landed-cost breakdown to the EU/DACH region incl...
-
+The Dongfeng Nammi 01 is a subcompact SUV battery-electric from DONGFENG-NAMMI, with 330 km of CLTC range, 70 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $8,420 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +63% over base (about $13,733 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits urban families who want a raised driving position.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

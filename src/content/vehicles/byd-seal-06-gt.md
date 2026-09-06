@@ -39,8 +39,7 @@ Byd Seal 06 GT (starting at $19,270) is a Sedan from BYD.
 
 ## Overview
 
-Byd Seal 06 GT is a sedan from Byd, offering 505 km of CLTC range a 59.52 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH re...
-
+The Byd Seal 06 GT is a midsize sedan battery-electric from BYD, with 505 km of CLTC range, 160 kW of motor power, a 7.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,270 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,695 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 13.0 kWh/100km efficiency is strong for its 1,850 kg curb weight. It suits business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

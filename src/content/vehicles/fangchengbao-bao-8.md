@@ -38,8 +38,7 @@ Fangchengbao BAO 8 (starting at $53,490) is a SUV from FANGCHENGBAO.
 
 ## Overview
 
-Fangchengbao BAO 8 is a suv from Fangchengbao, offering 1200 km of CLTC range a 36.8 kWh battery and 500 kW of motor power. Full landed-cost breakdown to the...
-
+The Fangchengbao BAO 8 is a full-size SUV plug-in hybrid from FANGCHENGBAO, with 1,200 km of CLTC range, 500 kW of motor power, a 4.8-second 0–100 km/h time. It is positioned as a premium import, priced from $53,490 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +19% over base (about $63,423 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

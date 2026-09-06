@@ -39,8 +39,7 @@ Xpeng G6 (starting at $24,830) is a SUV from XPENG.
 
 ## Overview
 
-Xpeng G6 is a suv from Xpeng, offering 625 km of CLTC range a 68.5 kWh battery and 218 kW of motor power. Full landed-cost breakdown to the EU/DACH region in...
-
+The Xpeng G6 is a compact SUV battery-electric from XPENG, with 625 km of CLTC range, 218 kW of motor power, a 6.4-second 0–100 km/h time. It is positioned as a value-focused import, priced from $24,830 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $31,825 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.5 kWh/100km efficiency is strong for its 2,030 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

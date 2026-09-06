@@ -4,7 +4,7 @@ import Pagination from '@ui/Pagination.astro';
 import { Icon } from 'astro-icon/components';
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { siteConfig } from '@/config';
-import { calculateReadingTime } from '@/lib/utils';
+import { calculateReadingTime, formatTag } from '@/lib/utils';
 
 type BlogPost = CollectionEntry<'blog'>;
 
@@ -57,7 +57,7 @@ const getTypedTags = (tags: string[]) => tags.slice(0, 3);
                   href={`/blog/tag/${tag}`}
                   class="px-3 py-1.5 text-sm font-medium rounded-md bg-surface text-text-muted hover:bg-primary/10 hover:text-primary transition-colors"
                 >
-                  {tag}
+                  {formatTag(tag)}
                 </a>
               ))}
             </div>
@@ -105,7 +105,7 @@ const getTypedTags = (tags: string[]) => tags.slice(0, 3);
                       <div class="flex flex-wrap gap-2 mt-3">
                         {getTypedTags(post.data.tags).map((tag) => (
                           <span class="px-2 py-0.5 text-xs font-medium bg-surface text-text-muted rounded">
-                            {tag}
+                            {formatTag(tag)}
                           </span>
                         ))}
                       </div>

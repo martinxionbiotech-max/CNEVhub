@@ -35,8 +35,7 @@ Maxus G50 (starting at $22,510) is a MPV from MAXUS.
 
 ## Overview
 
-Maxus G50 is a mpv from Maxus, a 18.65 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Maxus G50 is a MPV plug-in hybrid from MAXUS, with 160 kW of motor power. It is positioned as a value-focused import, priced from $22,510 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $29,267 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 15.1 kWh/100km efficiency is strong for its 1,800 kg curb weight. It suits shuttle operators and large families.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

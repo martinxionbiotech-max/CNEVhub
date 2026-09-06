@@ -39,8 +39,7 @@ Firefly Firefly (starting at $16,870) is a Hatchback from FIREFLY.
 
 ## Overview
 
-Firefly Firefly is a hatchback from Firefly, offering 420 km of CLTC range a 42.1 kWh battery and 105 kW of motor power. Full landed-cost breakdown to the EU...
-
+The Firefly Firefly is a compact hatchback battery-electric from FIREFLY, with 420 km of CLTC range, 105 kW of motor power. It is positioned as a value-focused import, priced from $16,870 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $23,049 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 10.9 kWh/100km efficiency is strong for its 1,492 kg curb weight. It suits city commuters and first-time importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

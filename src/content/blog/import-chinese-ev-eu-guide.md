@@ -4,7 +4,7 @@ description: "A step-by-step guide to importing Chinese EVs into the EU, with th
 author: "Wei Wang"
 publishedDate: "2026-09-05"
 draft: false
-tags: ["import", "EU", "tariff", "countervailing duty", "WLTP", "EV", "China", "BYD", "landed cost"]
+tags: [import, eu, tariff, countervailing-duty, wltp, ev, china, byd, landed-cost]
 ---
 
 ## TL;DR

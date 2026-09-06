@@ -34,8 +34,7 @@ Byd D1 (starting at $23,920) is a MPV from BYD.
 
 ## Overview
 
-Byd D1 is a mpv from Byd, a 53.6 kWh battery and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Byd D1 is a MPV battery-electric from BYD, with 100 kW of motor power. It is positioned as a value-focused import, priced from $23,920 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,822 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, it suits shuttle operators and large families.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

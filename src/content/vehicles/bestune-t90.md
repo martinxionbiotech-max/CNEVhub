@@ -39,8 +39,7 @@ Bestune T90 (starting at $14,060) is a SUV from BESTUNE.
 
 ## Overview
 
-Bestune T90 is a suv from Bestune, offering 1500 km of CLTC range a 21.2 kWh battery and 168 kW of motor power. Full landed-cost breakdown to the EU/DACH reg...
-
+The Bestune T90 is a compact SUV plug-in hybrid from BESTUNE, with 1,500 km of CLTC range, 168 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $14,060 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,951 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.9 kWh/100km efficiency is strong for its 1,750 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

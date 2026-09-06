@@ -36,8 +36,7 @@ Tank 700 (starting at $60,280) is a SUV from TANK.
 
 ## Overview
 
-Tank 700 is a suv from Tank, a 37.1 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Tank 700 is a midsize SUV plug-in hybrid from TANK, with 120 kW of motor power, a 5.6-second 0–100 km/h time. It is positioned as a premium import, priced from $60,280 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +18% over base (about $70,909 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

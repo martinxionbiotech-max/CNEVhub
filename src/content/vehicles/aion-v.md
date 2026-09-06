@@ -39,8 +39,7 @@ Aion V (starting at $15,460) is a SUV from AION.
 
 ## Overview
 
-Aion V is a suv from Aion, offering 520 km of CLTC range a 62.7 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region inclu...
-
+The Aion V is a compact SUV battery-electric from AION, with 520 km of CLTC range, 150 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $15,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,495 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.8 kWh/100km efficiency is strong for its 1,780 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

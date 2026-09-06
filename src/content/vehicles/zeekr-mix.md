@@ -39,8 +39,7 @@ Zeekr MIX (starting at $39,420) is a SUV from ZEEKR.
 
 ## Overview
 
-Zeekr MIX is a suv from Zeekr, offering 550 km of CLTC range a 76 kWh battery and 310 kW of motor power. Full landed-cost breakdown to the EU/DACH region inc...
-
+The Zeekr MIX is a compact SUV battery-electric from ZEEKR, with 550 km of CLTC range, 310 kW of motor power, a 6.8-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $39,420 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $47,911 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.4 kWh/100km efficiency is strong for its 2,739 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

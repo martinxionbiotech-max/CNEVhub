@@ -37,8 +37,7 @@ Gac Motor E8 (starting at $32,790) is a SUV from GAC MOTOR.
 
 ## Overview
 
-Gac Motor E8 is a suv from Gac Motor, a 25.57 kWh battery and 134 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import...
-
+The Gac Motor E8 is a midsize SUV plug-in hybrid from GAC-MOTOR, with 134 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $32,790 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $40,601 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 18.8 kWh/100km efficiency is strong for its 2,175 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

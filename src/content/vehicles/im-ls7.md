@@ -39,8 +39,7 @@ Im LS7 (starting at $47,870) is a SUV from IM.
 
 ## Overview
 
-Im LS7 is a suv from Im, offering 700 km of CLTC range a 100 kWh battery and 579 kW of motor power. Full landed-cost breakdown to the EU/DACH region included...
-
+The Im LS7 is a midsize SUV battery-electric from IM, with 700 km of CLTC range, 579 kW of motor power, a 3.9-second 0–100 km/h time. It is positioned as a premium import, priced from $47,870 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $57,227 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 15.9 kWh/100km efficiency is strong for its 2,490 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

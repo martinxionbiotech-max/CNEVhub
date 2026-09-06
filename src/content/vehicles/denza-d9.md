@@ -37,8 +37,7 @@ Denza D9 (starting at $43,630) is a SUV from DENZA.
 
 ## Overview
 
-The Denza D9 is BYD and Mercedes-Benz's premium MPV — a 5,250 mm luxury people-mover that has become the de facto executive van of choice in China's corporate shuttle and ride-hailing fleets. A 200 kW motor drives the BEV version, while the cavernous 3,110 mm wheelbase delivers first-class second-row space with captain's chairs, ottomans and twin screens. This is a car built for the Gulf and Southeast Asian markets where a chauffeured MPV is a status marker, not a compromise. Denza occupies the same lane Alphard/Vellfire dominates, but with full-electric running costs and a newer tech suite. For exporters, it's the highest-ticket, highest-margin vehicle on this list — a flagship for importers pitching premium EV mobility at hotels, airports and private fleet owners. [Source: Denza D9 official specifications via CNEVhub data/vehicles.json]
-
+The Denza D9 is a full-size SUV battery-electric from DENZA, with 200 kW of motor power. It is positioned as a premium import, priced from $43,630 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $52,552 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.9 kWh/100km efficiency is unremarkable for its 2,695 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -37,8 +37,7 @@ Byd Seal 06 DMI Touring (starting at $15,460) is a Sedan from BYD.
 
 ## Overview
 
-Byd Seal 06 DMI Touring is a sedan from Byd, a 10.08 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B...
-
+The Byd Seal 06 DMI Touring is a midsize sedan plug-in hybrid from BYD, with 120 kW of motor power. It is positioned as a value-focused import, priced from $15,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,495 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 12.1 kWh/100km efficiency is strong for its 1,700 kg curb weight. It suits business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

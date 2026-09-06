@@ -34,8 +34,7 @@ Jac Yiwei 3 (starting at $9,850) is a Sedan from JAC YIWEI.
 
 ## Overview
 
-Jac Yiwei 3 is a sedan from Jac Yiwei, offering 330 km of CLTC range and 60 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for ...
-
+The Jac Yiwei 3 is a compact sedan battery-electric from JAC-YIWEI, with 330 km of CLTC range, 60 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $9,850 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +55% over base (about $15,310 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits budget-conscious commuters and ride-hailing fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

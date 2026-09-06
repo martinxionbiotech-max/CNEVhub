@@ -36,8 +36,7 @@ Denza N9 (starting at $54,900) is a SUV from DENZA.
 
 ## Overview
 
-Denza N9 is a suv from Denza, a 46.9 kWh battery and 680 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Denza N9 is a full-size SUV battery-electric from DENZA, with 680 kW of motor power, a 3.9-second 0–100 km/h time. It is positioned as a premium import, priced from $54,900 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +18% over base (about $64,977 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

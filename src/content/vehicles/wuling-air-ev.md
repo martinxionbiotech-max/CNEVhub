@@ -1,9 +1,9 @@
 ---
 title: "Wuling AIR EV"
-description: "Wuling AIR EV is a suv from Wuling, offering 300 km of CLTC range a 26.7 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the EU/DACH regi..."
+description: "Wuling AIR EV is a hatchback from Wuling, offering 300 km of CLTC range a 26.7 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the EU/DACH regi..."
 slug: "wuling-air-ev"
 brand: "wuling"
-type: "SUV"
+type: "Hatchback"
 powertrain: "BEV"
 price_usd: 8140.0
 currency: "USD"
@@ -22,14 +22,14 @@ fast_charge: "7h 30m"
 landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 21016.57, "premium_pct": 158.2, "breakdown": {"duty_cif_usd": 814.0, "countervailing_duty_usd": 3160.76, "vat_usd": 2301.8, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
-tags: ["wuling", "SUV", "chinese-ev", "export"]
+tags: ["wuling", "Hatchback", "chinese-ev", "export"]
 image: "/images/vehicles/1762761372060-o1g1dl5mzn.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 21016.57, "premium_pct": 158.2}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 16994.8, "premium_pct": 108.8}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.21, "total_landed_usd": 21158.86, "premium_pct": 159.9}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.2, "total_landed_usd": 21037.71, "premium_pct": 158.4}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 13424.35, "premium_pct": 64.9}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 14279.05, "premium_pct": 75.4}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 14804.0, "premium_pct": 81.9}]
 ---
 
 # Wuling AIR EV
 
-Wuling AIR EV (starting at $8,140) is a SUV from WULING.
+Wuling AIR EV (starting at $8,140) is a Hatchback from WULING.
 
 - **Range**: 300 km (CLTC)
 - **Battery**: 26.7 kWh
@@ -37,7 +37,7 @@ Wuling AIR EV (starting at $8,140) is a SUV from WULING.
 
 ## Overview
 
-Wuling AIR EV is a suv from Wuling, offering 300 km of CLTC range a 26.7 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the EU/DACH regi...
+Wuling AIR EV is a hatchback from Wuling, offering 300 km of CLTC range a 26.7 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the EU/DACH regi...
 
 ## Landed Cost by Market
 

@@ -37,8 +37,7 @@ Roewe M7 (starting at $13,770) is a Sedan from ROEWE.
 
 ## Overview
 
-Roewe M7 is a sedan from Roewe, a 19.7 kWh battery and 137 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Roewe M7 is a full-size sedan plug-in hybrid from ROEWE, with 137 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,770 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +43% over base (about $19,631 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 13.9 kWh/100km efficiency is strong for its 1,670 kg curb weight. It suits executive and chauffeur-driven fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

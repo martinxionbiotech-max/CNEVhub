@@ -37,8 +37,7 @@ BYD Song Plus (starting at $19,130) is a SUV from BYD.
 
 ## Overview
 
-The Song Plus is a compact SUV that has quietly become one of BYD's biggest export drivers, and for good reason. A 160 kW electric motor moves a 4,775 mm five-seater with the kind of cabin space European buyers expect from a mid-size SUV, at a price that slots below most B-segment hatchbacks. The upright stance and 1,670 mm roof line make it a practical family hauler with a big trunk and flat rear floor. Battery options span both BEV and DM-i plug-in hybrid, which lets importers tailor the car to markets with weak charging infrastructure. Strong regions are Latin America, the Middle East and Southeast Asia, where buyers want SUV utility without the fuel bill. It's a volume play — the Song Plus is the car to stock in mixed fleets and taxi operations, not a halo product. [Source: BYD SEA/LATAM launch data via CNEVhub data/vehicles.json]
-
+The BYD Song Plus is a compact SUV battery-electric from BYD, with 160 kW of motor power, a 7.7-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,130 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $25,541 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 13.2 kWh/100km efficiency is strong for its 1,785 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -37,8 +37,7 @@ Forthing Xinghai X5 (starting at $21,390) is a SUV from FORTHING.
 
 ## Overview
 
-Forthing Xinghai X5 is a suv from Forthing, offering 530 km of CLTC range a 64.4 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/...
-
+The Forthing Xinghai X5 is a compact SUV battery-electric from FORTHING, with 530 km of CLTC range, 120 kW of motor power. It is positioned as a value-focused import, priced from $21,390 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $28,032 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 14.7 kWh/100km efficiency is strong for its 1,800 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

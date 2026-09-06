@@ -37,8 +37,7 @@ Changan Eado (starting at $11,960) is a SUV from CHANGAN.
 
 ## Overview
 
-Changan Eado is a suv from Changan, a 9.07 kWh battery and 190 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl...
-
+The Changan Eado is a compact SUV plug-in hybrid from CHANGAN, with 190 kW of motor power, a 7.9-second 0–100 km/h time. It sits at the affordable end of the Chinese EV export range, priced from $11,960 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +48% over base (about $17,636 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 10.7 kWh/100km efficiency is strong for its 1,425 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

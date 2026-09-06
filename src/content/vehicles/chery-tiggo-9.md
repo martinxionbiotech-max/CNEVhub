@@ -37,8 +37,7 @@ Chery Tiggo 9 (starting at $23,370) is a SUV from CHERY.
 
 ## Overview
 
-Chery Tiggo 9 is a suv from Chery, a 18.67 kWh battery and 165 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl...
-
+The Chery Tiggo 9 is a midsize SUV plug-in hybrid from CHERY, with 165 kW of motor power. It is positioned as a value-focused import, priced from $23,370 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,215 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 17.0 kWh/100km efficiency is strong for its 1,935 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -37,8 +37,7 @@ Denza Z9 GT (starting at $47,150) is a SUV from DENZA.
 
 ## Overview
 
-Denza Z9 GT is a suv from Denza, a 38.5 kWh battery and 640 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plann...
-
+The Denza Z9 GT is a full-size SUV battery-electric from DENZA, with 640 kW of motor power, a 3.6-second 0–100 km/h time. It is positioned as a premium import, priced from $47,150 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $56,433 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 22.4 kWh/100km efficiency is unremarkable for its 2,740 kg curb weight. It suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

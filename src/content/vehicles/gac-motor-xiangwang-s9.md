@@ -37,8 +37,7 @@ Gac Motor Xiangwang S9 (starting at $32,380) is a SUV from GAC MOTOR.
 
 ## Overview
 
-Gac Motor Xiangwang S9 is a suv from Gac Motor, a 44.5 kWh battery and 250 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B...
-
+The Gac Motor Xiangwang S9 is a midsize SUV plug-in hybrid from GAC-MOTOR, with 250 kW of motor power, a 6.6-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $32,380 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $40,149 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.6 kWh/100km efficiency is unremarkable for its 2,365 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

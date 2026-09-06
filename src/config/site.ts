@@ -4,7 +4,7 @@
  * @description
  * CNEVhub: Chinese EV export intelligence platform.
  * Company: Guangzhou Banghe Testing Technology Co., Ltd. (MCM)
- * Author: Wei Wang, Marketing Specialist
+ * Author: Wei Wang, Compliance & Import Analyst
  * Primary contact: Aaron.W (aaron@dinweys.com, WhatsApp/WeChat +86 13313137465)
  */
 
@@ -50,7 +50,7 @@ export const company = {
   whatsapp: '+86 13313137465',
   contactPerson: 'Aaron.W',
   author: 'Wei Wang',
-  authorRole: 'Marketing Specialist',
+  authorRole: 'Compliance & Import Analyst',
 };
 
 /** Legal configuration for privacy policy and terms pages */

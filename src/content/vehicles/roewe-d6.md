@@ -39,8 +39,7 @@ Roewe D6 (starting at $16,170) is a Sedan from ROEWE.
 
 ## Overview
 
-Roewe D6 is a sedan from Roewe, offering 520 km of CLTC range a 53.95 kWh battery and 105 kW of motor power. Full landed-cost breakdown to the EU/DACH region...
-
+The Roewe D6 is a midsize sedan battery-electric from ROEWE, with 520 km of CLTC range, 105 kW of motor power. It is positioned as a value-focused import, priced from $16,170 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +38% over base (about $22,277 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 11.7 kWh/100km efficiency is strong for its 1,485 kg curb weight. It suits business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

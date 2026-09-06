@@ -3,6 +3,7 @@ import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import { Icon } from 'astro-icon/components';
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { siteConfig } from '@/config';
+import { formatTag } from '@/lib/utils';
 
 type BlogPost = CollectionEntry<'blog'>;
 
@@ -43,8 +44,9 @@ const getTypedTagsWithActive = (tags: string[], activeTag: string) =>
 ---
 
 <MarketingLayout
-  title={`Posts tagged "${tag}"`}
-  description={`Browse all blog posts tagged with "${tag}" on the ${siteConfig.name} blog.`}
+  title={`Posts tagged "${formatTag(tag)}"`}
+  description={`Browse all blog posts tagged with "${formatTag(tag)}" on the ${siteConfig.name} blog.`}
+  robots="noindex,follow"
 >
   <section class="py-section">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -53,7 +55,7 @@ const getTypedTagsWithActive = (tags: string[], activeTag: string) =>
           ← Back to all posts
         </a>
         <h1 class="text-4xl sm:text-5xl font-bold text-text mt-4">
-          Posts tagged "{tag}"
+          Posts tagged "{formatTag(tag)}"
         </h1>
         <p class="mt-4 text-lg text-text-muted">
           {filteredPosts.length}
@@ -83,7 +85,7 @@ const getTypedTagsWithActive = (tags: string[], activeTag: string) =>
                       : 'bg-surface text-text-muted hover:bg-primary/10 hover:text-primary',
                   ]}
                 >
-                  {t}
+                  {formatTag(t)}
                 </a>
               ))}
             </div>
@@ -138,7 +140,7 @@ const getTypedTagsWithActive = (tags: string[], activeTag: string) =>
                                 : 'bg-surface text-text-muted',
                             ]}
                           >
-                            {t}
+                            {formatTag(t)}
                           </span>
                         ))}
                       </div>

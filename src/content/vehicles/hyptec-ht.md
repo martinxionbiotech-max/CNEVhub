@@ -39,8 +39,7 @@ Hyptec HT (starting at $26,750) is a SUV from HYPTEC.
 
 ## Overview
 
-Hyptec HT is a suv from Hyptec, offering 672 km of CLTC range a 83.3 kWh battery and 250 kW of motor power. Full landed-cost breakdown to the EU/DACH region ...
-
+The Hyptec HT is a midsize SUV battery-electric from HYPTEC, with 672 km of CLTC range, 250 kW of motor power, a 5.8-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $26,750 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +27% over base (about $33,942 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.8 kWh/100km efficiency is strong for its 2,120 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

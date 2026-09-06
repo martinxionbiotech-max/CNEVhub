@@ -34,8 +34,7 @@ Aeolus Mage (starting at $17,170) is a SUV from AEOLUS.
 
 ## Overview
 
-Aeolus Mage is a suv from Aeolus, and 105 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Aeolus Mage is a compact SUV plug-in hybrid from AEOLUS, with 105 kW of motor power, a 6.0-second 0–100 km/h time. It is positioned as a value-focused import, priced from $17,170 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +36% over base (about $23,380 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

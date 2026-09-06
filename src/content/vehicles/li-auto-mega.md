@@ -37,8 +37,7 @@ Li Auto Mega (starting at $78,850) is a SUV from LI AUTO.
 
 ## Overview
 
-Li Auto Mega is a suv from Li Auto, a 102.7 kWh battery and 400 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import p...
-
+The Li Auto Mega is a full-size SUV battery-electric from LI-AUTO, with 400 kW of motor power, a 5.5-second 0–100 km/h time. It is a luxury-tier flagship, priced from $78,850 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +16% over base (about $91,382 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 15.9 kWh/100km efficiency is strong for its 2,850 kg curb weight. It suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

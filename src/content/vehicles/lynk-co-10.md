@@ -37,8 +37,7 @@ Lynk Co 10 (starting at $24,480) is a SUV from LYNK CO.
 
 ## Overview
 
-Lynk Co 10 is a suv from Lynk Co, a 18.4 kWh battery and 270 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan...
-
+The Lynk Co 10 is a midsize SUV plug-in hybrid from LYNK-CO, with 270 kW of motor power, a 5.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $24,480 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $31,439 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.7 kWh/100km efficiency is strong for its 2,137 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

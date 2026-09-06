@@ -39,8 +39,7 @@ BYD Atto 3 (starting at $16,260) is a SUV from BYD.
 
 ## Overview
 
-The Atto 3 — sold as the Yuan Plus in China — is the compact SUV that introduced most of the world to BYD. It rides on e-Platform 3.0 with a 49.92 kWh Blade battery, a 150 kW motor and a 430 km CLTC range, wrapped in a 4,455 mm crossover body that splits the gap between the Dolphin and the Seal. The cabin's quirky details — guitar-string door pockets, a rotating screen — make it memorable in a segment that's crowded with beige. It's already proven in right-hand-drive markets like Thailand, Australia and New Zealand, and that track record is exactly what importers cite when negotiating. Strong fit for the Middle East, Southeast Asia and RHD Commonwealth countries. It's the safe, high-volume bet in BYD's export portfolio, not a lottery ticket. [Source: BYD Atto 3 / Yuan Plus global specs via CNEVhub data/vehicles.json]
-
+The BYD Atto 3 is a compact SUV battery-electric from BYD, with 430 km of CLTC range, 150 kW of motor power, a 7.3-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,260 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +38% over base (about $22,377 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 12.2 kWh/100km efficiency is strong for its 1,625 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

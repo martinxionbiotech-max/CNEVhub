@@ -39,8 +39,7 @@ Xpeng P7 PLUS (starting at $28,000) is a SUV from XPENG.
 
 ## Overview
 
-Xpeng P7 PLUS is a suv from Xpeng, offering 725 km of CLTC range a 76.3 kWh battery and 230 kW of motor power. Full landed-cost breakdown to the EU/DACH regi...
-
+The Xpeng P7 PLUS is a midsize SUV battery-electric from XPENG, with 725 km of CLTC range, 230 kW of motor power, a 5.9-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $28,000 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $35,320 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.2 kWh/100km efficiency is strong for its 2,073 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

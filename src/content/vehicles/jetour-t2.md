@@ -35,8 +35,7 @@ Jetour T2 (starting at $22,520) is a SUV from JETOUR.
 
 ## Overview
 
-Jetour T2 is a suv from Jetour, a 27.2 kWh battery and 165 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Jetour T2 is a compact SUV plug-in hybrid from JETOUR, with 165 kW of motor power. It is positioned as a value-focused import, priced from $22,520 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $29,278 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 20.5 kWh/100km efficiency is unremarkable for its 2,097 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

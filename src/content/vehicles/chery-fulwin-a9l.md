@@ -37,8 +37,7 @@ Chery Fulwin A9L (starting at $21,050) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-Chery Fulwin A9L is a suv from Chery Fulwin, a 33.68 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B...
-
+The Chery Fulwin A9L is a midsize SUV plug-in hybrid from CHERY-FULWIN, with 160 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $21,050 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,658 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 17.0 kWh/100km efficiency is strong for its 2,085 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

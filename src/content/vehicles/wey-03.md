@@ -35,8 +35,7 @@ Wey 03 (starting at $32,250) is a SUV from WEY.
 
 ## Overview
 
-Wey 03 is a suv from Wey, a 34 kWh battery and 130 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Wey 03 is a compact SUV plug-in hybrid from WEY, with 130 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $32,250 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $40,006 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 18.6 kWh/100km efficiency is strong for its 1,998 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

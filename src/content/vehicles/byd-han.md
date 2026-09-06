@@ -37,8 +37,7 @@ BYD Han (starting at $23,700) is a Sedan from BYD.
 
 ## Overview
 
-The Han is BYD's flagship sedan — a long, 4,995 mm executive four-door that takes direct aim at the German establishment on comfort and technology while undercutting it on price. The BEV version pairs a 200 kW motor with BYD's Blade battery for brisk, quiet progress and a cabin trimmed in soft-touch materials, ventilated seats and a big touchscreen. It's the car Chinese corporate buyers were already using as a chauffeured option before it ever shipped abroad. For exporters, the Han plays best in markets that value presence and rear-seat comfort: the Gulf, Eastern Europe and price-conscious EU fleets where a Mercedes E-Class budget is out of reach. It won't convert brand-loyal German buyers overnight, but it's a strong value statement for dealers building a flagship Chinese-EV story. [Source: BYD Han EV official specs via CNEVhub data/vehicles.json]
-
+The BYD Han is a full-size sedan battery-electric from BYD, with 200 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $23,700 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,579 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 15.0 kWh/100km efficiency is strong for its 1,910 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits executive and chauffeur-driven fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

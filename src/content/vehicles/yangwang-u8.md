@@ -38,8 +38,7 @@ Yangwang U8 (starting at $154,650) is a SUV from YANGWANG.
 
 ## Overview
 
-Yangwang U8 is a suv from Yangwang, offering 780 km of CLTC range a 49.05 kWh battery and 880 kW of motor power. Full landed-cost breakdown to the EU/DACH re...
-
+The Yangwang U8 is a full-size SUV extended-range electric from YANGWANG, with 780 km of CLTC range, 880 kW of motor power, a 3.9-second 0–100 km/h time. It is a luxury-tier flagship, priced from $154,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +13% over base (about $174,952 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

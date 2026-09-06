@@ -39,8 +39,7 @@ Forthing Xinghai S7 (starting at $16,890) is a SUV from FORTHING.
 
 ## Overview
 
-Forthing Xinghai S7 is a suv from Forthing, offering 565 km of CLTC range a 59.4 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the EU/...
-
+The Forthing Xinghai S7 is a midsize SUV battery-electric from FORTHING, with 565 km of CLTC range, 160 kW of motor power, a 6.7-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,890 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $23,071 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.9 kWh/100km efficiency is strong for its 1,730 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

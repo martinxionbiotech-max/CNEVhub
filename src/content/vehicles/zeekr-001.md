@@ -38,8 +38,7 @@ Zeekr 001 (starting at $38,000) is a SUV from ZEEKR.
 
 ## Overview
 
-The Zeekr 001 is a 4,977 mm shooting-brake/liftback that reads more like a performance GT than a family EV. The flagship dual-motor version churns out 680 kW and hits 100 km/h in barely over three seconds, with a 95 kWh pack good for 710 km of CLTC range and ultra-fast charging. It sits on Geely's SEA platform, sharing bones with the Lotus Eletre, and it shows in the way it handles. Zeekr has pushed aggressively into Europe and the Middle East, and the 001 is its headline act — the car that says 'Chinese EVs can do luxury and speed, not just cheap.' For exporters, it's a premium-margin product aimed at buyers cross-shopping a Taycan or an i5 but willing to trade the badge for near-equal hardware at a fraction of the price. [Source: Zeekr 001 official specifications via CNEVhub data/vehicles.json]
-
+The Zeekr 001 is a midsize SUV battery-electric from ZEEKR, with 710 km of CLTC range, 680 kW of motor power, a 3.08-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $38,000 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $46,345 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

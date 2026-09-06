@@ -37,8 +37,7 @@ Gac Motor ES9 (starting at $32,370) is a SUV from GAC MOTOR.
 
 ## Overview
 
-Gac Motor ES9 is a suv from Gac Motor, a 25.57 kWh battery and 134 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impor...
-
+The Gac Motor ES9 is a midsize SUV plug-in hybrid from GAC-MOTOR, with 134 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $32,370 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $40,138 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 22.0 kWh/100km efficiency is unremarkable for its 2,220 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

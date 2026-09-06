@@ -39,8 +39,7 @@ Byd Sealion 05 EV (starting at $16,590) is a SUV from BYD.
 
 ## Overview
 
-Byd Sealion 05 EV is a suv from Byd, offering 430 km of CLTC range a 50.05 kWh battery and 140 kW of motor power. Full landed-cost breakdown to the EU/DACH r...
-
+The Byd Sealion 05 EV is a compact SUV battery-electric from BYD, with 430 km of CLTC range, 140 kW of motor power, a 7.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,590 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,740 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 12.5 kWh/100km efficiency is strong for its 1,670 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

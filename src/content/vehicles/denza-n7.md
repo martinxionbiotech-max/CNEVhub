@@ -39,8 +39,7 @@ Denza N7 (starting at $36,590) is a SUV from DENZA.
 
 ## Overview
 
-Denza N7 is a suv from Denza, offering 702 km of CLTC range a 91.3 kWh battery and 230 kW of motor power. Full landed-cost breakdown to the EU/DACH region in...
-
+The Denza N7 is a midsize SUV battery-electric from DENZA, with 702 km of CLTC range, 230 kW of motor power, a 6.8-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $36,590 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $44,790 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 14.9 kWh/100km efficiency is strong for its 2,320 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

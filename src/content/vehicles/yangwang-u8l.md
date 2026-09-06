@@ -38,8 +38,7 @@ Yangwang U8L (starting at $180,280) is a SUV from YANGWANG.
 
 ## Overview
 
-Yangwang U8L is a suv from Yangwang, offering 1160 km of CLTC range a 55.53 kWh battery and 880 kW of motor power. Full landed-cost breakdown to the EU/DACH ...
-
+The Yangwang U8L is a full-size SUV extended-range electric from YANGWANG, with 1,160 km of CLTC range, 880 kW of motor power, a 3.5-second 0–100 km/h time. It is a luxury-tier flagship, priced from $180,280 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +13% over base (about $203,209 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

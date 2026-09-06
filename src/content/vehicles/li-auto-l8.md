@@ -37,8 +37,7 @@ Li Auto L8 (starting at $45,190) is a SUV from LI AUTO.
 
 ## Overview
 
-Li Auto L8 is a suv from Li Auto, a 42.8 kWh battery and 330 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan...
-
+The Li Auto L8 is a midsize SUV extended-range electric from LI-AUTO, with 330 kW of motor power, a 5.3-second 0–100 km/h time. It is positioned as a premium import, priced from $45,190 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $54,272 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 22.9 kWh/100km efficiency is unremarkable for its 2,490 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

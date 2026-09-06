@@ -37,8 +37,7 @@ Jac Yiwei HUA Xian ZI (starting at $8,440) is a Sedan from JAC YIWEI.
 
 ## Overview
 
-Jac Yiwei HUA Xian ZI is a sedan from Jac Yiwei, offering 301 km of CLTC range a 30.2 kWh battery and 36 kW of motor power. Full landed-cost breakdown to the...
-
+The Jac Yiwei HUA Xian ZI is a compact sedan battery-electric from JAC-YIWEI, with 301 km of CLTC range, 36 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $8,440 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +63% over base (about $13,755 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.1 kWh/100km efficiency is strong for its 1,100 kg curb weight. It suits budget-conscious commuters and ride-hailing fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

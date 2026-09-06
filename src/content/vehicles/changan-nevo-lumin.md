@@ -1,9 +1,9 @@
 ---
 title: "Changan Nevo Lumin"
-description: "Changan Nevo Lumin is a suv from Changan Nevo, offering 130 km of CLTC range a 13.41 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the ..."
+description: "Changan Nevo Lumin is a hatchback from Changan Nevo, offering 130 km of CLTC range a 13.41 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the ..."
 slug: "changan-nevo-lumin"
 brand: "changan-nevo"
-type: "SUV"
+type: "Hatchback"
 powertrain: "BEV"
 price_usd: 5300.0
 currency: "USD"
@@ -22,14 +22,14 @@ fast_charge: "6h"
 landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 14841.99, "premium_pct": 180.0, "breakdown": {"duty_cif_usd": 530.0, "countervailing_duty_usd": 1096.04, "vat_usd": 1315.95, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
-tags: ["changan-nevo", "SUV", "chinese-ev", "export"]
+tags: ["changan-nevo", "Hatchback", "chinese-ev", "export"]
 image: "/images/vehicles/1761100450823-v5scbosfvij.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 14841.99, "premium_pct": 180.0}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 13246.0, "premium_pct": 149.9}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 14880.51, "premium_pct": 180.8}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.2, "total_landed_usd": 14811.25, "premium_pct": 179.5}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 10293.25, "premium_pct": 94.2}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 10849.75, "premium_pct": 104.7}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 11680.0, "premium_pct": 120.4}]
 ---
 
 # Changan Nevo Lumin
 
-Changan Nevo Lumin (starting at $5,300) is a SUV from CHANGAN NEVO.
+Changan Nevo Lumin (starting at $5,300) is a Hatchback from CHANGAN NEVO.
 
 - **Range**: 130 km (CLTC)
 - **Battery**: 13.41 kWh
@@ -38,7 +38,7 @@ Changan Nevo Lumin (starting at $5,300) is a SUV from CHANGAN NEVO.
 
 ## Overview
 
-Changan Nevo Lumin is a suv from Changan Nevo, offering 130 km of CLTC range a 13.41 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the ...
+Changan Nevo Lumin is a hatchback from Changan Nevo, offering 130 km of CLTC range a 13.41 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the ...
 
 ## Landed Cost by Market
 

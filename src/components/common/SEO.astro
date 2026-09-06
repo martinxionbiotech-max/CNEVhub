@@ -29,6 +29,7 @@
  * ```
  */
 import { siteConfig } from '@/config';
+import { company } from '@/config/site';
 
 interface Props {
   /** Page title (will be appended with site name) */
@@ -47,6 +48,8 @@ interface Props {
   author?: string;
   /** Article tags/keywords */
   tags?: string[];
+  /** Robots directive override (e.g. "noindex,follow" for thin faceted pages) */
+  robots?: string;
 }
 
 const {
@@ -58,6 +61,7 @@ const {
   modifiedDate,
   author,
   tags = [],
+  robots,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, siteConfig.url);
@@ -82,12 +86,31 @@ const websiteSchema = {
 const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
-  name: siteConfig.name,
-  url: siteConfig.url,
-  logo: new URL(siteConfig.logo, siteConfig.url).href,
+  name: company.legalName,
+  legalName: company.legalName,
+  alternateName: siteConfig.name,
+  url: company.url || siteConfig.url,
+  logo: new URL(company.logo || siteConfig.logo, siteConfig.url).href,
+  email: company.email,
+  telephone: company.phone,
+  description: company.description,
   sameAs: [siteConfig.social.twitter, siteConfig.social.github, siteConfig.social.discord].filter(
     Boolean
   ),
+  address: {
+    '@type': 'PostalAddress',
+    addressLocality: 'Guangzhou',
+    addressRegion: 'Guangdong',
+    addressCountry: 'CN',
+  },
+  contactPoint: {
+    '@type': 'ContactPoint',
+    contactType: 'sales',
+    name: company.contactPerson,
+    email: company.email,
+    telephone: company.phone,
+    availableLanguage: ['English', 'Chinese'],
+  },
 };
 
 const articleSchema =
@@ -103,6 +126,7 @@ const articleSchema =
         author: {
           '@type': 'Person',
           name: author || siteConfig.author,
+          jobTitle: company.authorRole,
         },
         publisher: {
           '@type': 'Organization',
@@ -153,6 +177,7 @@ const breadcrumbSchema = {
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
+{robots && <meta name="robots" content={robots} />}
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content={type} />

@@ -37,8 +37,7 @@ Arcfox AT5 (starting at $16,030) is a SUV from ARCFOX.
 
 ## Overview
 
-Arcfox AT5 is a suv from Arcfox, a 27.4 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plann...
-
+The Arcfox AT5 is a compact SUV battery-electric from ARCFOX, with 200 kW of motor power, a 6.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,030 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +38% over base (about $22,123 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.5 kWh/100km efficiency is strong for its 1,970 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

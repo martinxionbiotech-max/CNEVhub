@@ -37,8 +37,7 @@ Changan Nevo A07 (starting at $19,700) is a SUV from CHANGAN.
 
 ## Overview
 
-Changan Nevo A07 is a suv from Changan, a 35.07 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impo...
-
+The Changan Nevo A07 is a midsize SUV battery-electric from CHANGAN, with 200 kW of motor power, a 6.7-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,700 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $26,169 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 15.8 kWh/100km efficiency is strong for its 1,875 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

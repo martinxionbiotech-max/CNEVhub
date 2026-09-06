@@ -36,8 +36,7 @@ Hongqi HQ9 (starting at $50,540) is a SUV from HONGQI.
 
 ## Overview
 
-Hongqi HQ9 is a suv from Hongqi, a 20.14 kWh battery and 210 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan...
-
+The Hongqi HQ9 is a full-size SUV plug-in hybrid from HONGQI, with 210 kW of motor power. It is positioned as a premium import, priced from $50,540 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +19% over base (about $60,170 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 24.5 kWh/100km efficiency is unremarkable for its 2,605 kg curb weight. It suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

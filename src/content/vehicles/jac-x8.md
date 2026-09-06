@@ -37,8 +37,7 @@ Jac X8 (starting at $26,730) is a SUV from JAC.
 
 ## Overview
 
-Jac X8 is a suv from Jac, a 19.01 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Jac X8 is a midsize SUV plug-in hybrid from JAC, with 150 kW of motor power, a 7.7-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $26,730 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +27% over base (about $33,920 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 17.4 kWh/100km efficiency is strong for its 1,835 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

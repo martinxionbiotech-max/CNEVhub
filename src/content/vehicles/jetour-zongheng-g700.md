@@ -37,8 +37,7 @@ Jetour Zongheng G700 (starting at $46,460) is a SUV from JETOUR.
 
 ## Overview
 
-Jetour Zongheng G700 is a suv from Jetour, a 34.13 kWh battery and 510 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B i...
-
+The Jetour Zongheng G700 is a full-size SUV plug-in hybrid from JETOUR, with 510 kW of motor power, a 4.6-second 0–100 km/h time. It is positioned as a premium import, priced from $46,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $55,672 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 25.6 kWh/100km efficiency is unremarkable for its 3,063 kg curb weight. It suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

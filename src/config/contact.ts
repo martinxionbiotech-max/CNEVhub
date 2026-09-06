@@ -3,7 +3,7 @@
  *
  * Real company + author contact information for EEAT.
  * Company: Guangzhou Banghe Testing Technology Co., Ltd. (MCM)
- * Author: Wei Wang, Marketing Specialist
+ * Author: Wei Wang, Compliance & Import Analyst
  * Primary contact: Aaron.W
  */
 

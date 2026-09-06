@@ -4,7 +4,7 @@ description: "BYD Seal landed cost to Germany breaks down to $44,413 (+79.9% ove
 author: "Wei Wang"
 publishedDate: "2026-09-05"
 draft: false
-tags: [BYD Seal, EV import, landed cost, Germany, B2B, EU tariff, countervailing duty, electric sedan]
+tags: [byd-seal, ev-import, landed-cost, germany, b2b, eu-tariff, countervailing-duty, electric-sedan]
 ---
 
 ## TL;DR

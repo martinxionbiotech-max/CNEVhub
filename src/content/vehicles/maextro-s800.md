@@ -37,8 +37,7 @@ Maextro S800 (starting at $99,720) is a Sedan from MAEXTRO.
 
 ## Overview
 
-Maextro S800 is a sedan from Maextro, a 65 kWh battery and 390 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl...
-
+The Maextro S800 is a full-size sedan battery-electric from MAEXTRO, with 390 kW of motor power, a 4.9-second 0–100 km/h time. It is a luxury-tier flagship, priced from $99,720 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +15% over base (about $114,391 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.5 kWh/100km efficiency is unremarkable for its 2,770 kg curb weight. It suits executive and chauffeur-driven fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

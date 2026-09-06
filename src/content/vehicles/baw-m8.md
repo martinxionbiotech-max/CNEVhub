@@ -36,8 +36,7 @@ Baw M8 (starting at $22,510) is a MPV from BAW.
 
 ## Overview
 
-Baw M8 is a mpv from Baw, offering 1370 km of CLTC range a 35 kWh battery and 170 kW of motor power. Full landed-cost breakdown to the EU/DACH region include...
-
+The Baw M8 is a MPV battery-electric from BAW, with 1,370 km of CLTC range, 170 kW of motor power. It is positioned as a value-focused import, priced from $22,510 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $29,267 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits shuttle operators and large families.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

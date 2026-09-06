@@ -39,8 +39,7 @@ Xiaomi SU7 (starting at $30,320) is a Sedan from XIAOMI.
 
 ## Overview
 
-The SU7 is Xiaomi's first car, and it landed like a product from a tech company, not a carmaker. A 4,997 mm sports sedan with a 73.6 kWh pack, a 220 kW motor and 700 km of CLTC range, it matches the Model 3 on paper and beats it on interior polish and software integration. Xiaomi's HyperOS ties the car to the phone, TV and home ecosystem — a genuine differentiator for brand-loyal buyers in Asia. Performance credentials are real: the top trim's acceleration numbers made headlines. For exporters, the SU7 is a statement vehicle and a supply-constrained scarcity play rather than a volume product. Best fit for the Gulf, Southeast Asia and tech-forward EU dealers who can sell the ecosystem story. Buyers cross-shopping a Model 3 but wanting a fresher, more connected cabin are the target. [Source: Xiaomi SU7 launch specifications via CNEVhub data/vehicles.json]
-
+The Xiaomi SU7 is a full-size sedan battery-electric from XIAOMI, with 700 km of CLTC range, 220 kW of motor power, a 5.28-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $30,320 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $37,878 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.3 kWh/100km efficiency is strong for its 1,980 kg curb weight. It suits executive and chauffeur-driven fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

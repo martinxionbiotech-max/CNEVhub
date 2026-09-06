@@ -37,8 +37,7 @@ Chery New Energy QQ ICE Cream (starting at $5,200) is a Hatchback from CHERY NEW
 
 ## Overview
 
-Chery New Energy QQ ICE Cream is a hatchback from Chery New Energy, offering 155 km of CLTC range a 13.98 kWh battery and 20 kW of motor power. Full landed-c...
-
+The Chery New Energy QQ ICE Cream is a micro hatchback battery-electric from CHERY-NEW-ENERGY, with 155 km of CLTC range, 20 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $5,200 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +96% over base (about $10,183 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, its short range suits urban and last-mile use rather than long trips; the 9.3 kWh/100km efficiency is strong for its 757 kg curb weight. It suits private urban buyers and small delivery fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -37,8 +37,7 @@ Changan UNI Z (starting at $17,590) is a SUV from CHANGAN.
 
 ## Overview
 
-Changan UNI Z is a suv from Changan, a 18.4 kWh battery and 158 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import p...
-
+The Changan UNI Z is a compact SUV plug-in hybrid from CHANGAN, with 158 kW of motor power, a 7.4-second 0–100 km/h time. It is positioned as a value-focused import, priced from $17,590 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +36% over base (about $23,843 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 15.2 kWh/100km efficiency is strong for its 1,720 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

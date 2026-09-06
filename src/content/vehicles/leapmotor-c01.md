@@ -38,8 +38,7 @@ Leapmotor C01 (starting at $19,270) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-Leapmotor C01 is a suv from Leapmotor, offering 1175 km of CLTC range a 30.1 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH...
-
+The Leapmotor C01 is a midsize SUV battery-electric from LEAPMOTOR, with 1,175 km of CLTC range, 200 kW of motor power, a 7.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,270 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,695 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

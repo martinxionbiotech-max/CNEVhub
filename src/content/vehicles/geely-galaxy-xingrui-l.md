@@ -34,8 +34,7 @@ Geely Galaxy Xingrui L (starting at $17,850) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-Geely Galaxy Xingrui L is a suv from Geely Galaxy, and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Geely Galaxy Xingrui L is a midsize SUV plug-in hybrid from GEELY-GALAXY, with 100 kW of motor power, a 7.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $17,850 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,130 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

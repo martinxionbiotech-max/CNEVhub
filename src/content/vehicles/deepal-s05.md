@@ -38,8 +38,7 @@ Deepal S05 (starting at $16,460) is a SUV from DEEPAL.
 
 ## Overview
 
-Deepal S05 is a suv from Deepal, offering 520 km of CLTC range a 56.12 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH regio...
-
+The Deepal S05 is a compact SUV battery-electric from DEEPAL, with 520 km of CLTC range, 200 kW of motor power, a 6.28-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,597 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.3 kWh/100km efficiency is strong for its 1,770 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

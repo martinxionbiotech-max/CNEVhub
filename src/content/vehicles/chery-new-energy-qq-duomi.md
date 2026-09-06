@@ -37,8 +37,7 @@ Chery New Energy QQ Duomi (starting at $8,440) is a Hatchback from CHERY NEW ENE
 
 ## Overview
 
-Chery New Energy QQ Duomi is a hatchback from Chery New Energy, offering 305 km of CLTC range a 28.5 kWh battery and 40 kW of motor power. Full landed-cost b...
-
+The Chery New Energy QQ Duomi is a compact hatchback battery-electric from CHERY-NEW-ENERGY, with 305 km of CLTC range, 40 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $8,440 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +63% over base (about $13,755 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 10.2 kWh/100km efficiency is strong for its 1,115 kg curb weight. It suits city commuters and first-time importers.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

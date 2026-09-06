@@ -37,8 +37,7 @@ Roewe D7 (starting at $17,440) is a Sedan from ROEWE.
 
 ## Overview
 
-Roewe D7 is a sedan from Roewe, a 19.7 kWh battery and 137 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Roewe D7 is a midsize sedan battery-electric from ROEWE, with 137 kW of motor power. It is positioned as a value-focused import, priced from $17,440 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +36% over base (about $23,678 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 13.9 kWh/100km efficiency is strong for its 1,670 kg curb weight. It suits business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

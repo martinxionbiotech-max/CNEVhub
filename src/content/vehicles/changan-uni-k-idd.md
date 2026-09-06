@@ -37,8 +37,7 @@ Changan UNI K IDD (starting at $26,460) is a SUV from CHANGAN.
 
 ## Overview
 
-Changan UNI K IDD is a suv from Changan, a 28.4 kWh battery and 110 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impo...
-
+The Changan UNI K IDD is a midsize SUV plug-in hybrid from CHANGAN, with 110 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $26,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +27% over base (about $33,622 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 17.4 kWh/100km efficiency is strong for its 2,075 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

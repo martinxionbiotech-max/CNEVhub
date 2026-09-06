@@ -39,8 +39,7 @@ Mg 4 (starting at $9,690) is a SUV from MG.
 
 ## Overview
 
-Mg 4 is a suv from Mg, offering 437 km of CLTC range a 42.8 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included ...
-
+The Mg 4 is a subcompact SUV battery-electric from MG, with 437 km of CLTC range, 120 kW of motor power, a 3.0-second 0–100 km/h time. It sits at the affordable end of the Chinese EV export range, priced from $9,690 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +56% over base (about $15,133 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 10.4 kWh/100km efficiency is strong for its 1,415 kg curb weight. It suits urban families who want a raised driving position.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -37,8 +37,7 @@ Chery Fulwin T9 (starting at $18,720) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-Chery Fulwin T9 is a suv from Chery Fulwin, a 18.67 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B ...
-
+The Chery Fulwin T9 is a compact SUV plug-in hybrid from CHERY-FULWIN, with 150 kW of motor power, a 7.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,720 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $25,089 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.5 kWh/100km efficiency is strong for its 1,970 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -37,8 +37,7 @@ Byd Frigate 07 (starting at $25,320) is a SUV from BYD.
 
 ## Overview
 
-Byd Frigate 07 is a suv from Byd, a 18.3 kWh battery and 145 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan...
-
+The Byd Frigate 07 is a midsize SUV plug-in hybrid from BYD, with 145 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $25,320 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $32,365 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 21.5 kWh/100km efficiency is unremarkable for its 2,047 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

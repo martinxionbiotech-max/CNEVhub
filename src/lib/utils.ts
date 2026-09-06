@@ -53,3 +53,35 @@ export function formatDate(
 ): string {
   return new Intl.DateTimeFormat('en-US', options).format(date);
 }
+
+/**
+ * Normalize a tag into a URL-safe lowercase kebab-case slug.
+ * Collapses case and whitespace variants so "BYD", "byd" and "BYD Seal"
+ * never generate duplicate tag pages.
+ */
+export function slugifyTag(tag: string): string {
+  return tag
+    .trim()
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+const TAG_ACRONYMS = new Set([
+  'byd', 'ev', 'eu', 'b2b', 'wltp', 'suv', 'mpv', 'bev', 'phev', 'erev',
+  'hev', 'usd', 'uk', 'uae', 'ne', 'mg', 'nv', 'gt',
+]);
+
+/**
+ * Prettify a kebab-case tag slug for display ("byd-seal" -> "BYD Seal").
+ */
+export function formatTag(tag: string): string {
+  return tag
+    .split('-')
+    .map((w) =>
+      TAG_ACRONYMS.has(w.toLowerCase())
+        ? w.toUpperCase()
+        : w.charAt(0).toUpperCase() + w.slice(1)
+    )
+    .join(' ');
+}

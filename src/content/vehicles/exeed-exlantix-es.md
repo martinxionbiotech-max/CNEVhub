@@ -37,8 +37,7 @@ Exeed Exlantix ES (starting at $21,520) is a SUV from EXEED.
 
 ## Overview
 
-Exeed Exlantix ES is a suv from Exeed, a 34.7 kWh battery and 195 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import...
-
+The Exeed Exlantix ES is a midsize SUV battery-electric from EXEED, with 195 kW of motor power, a 7.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $21,520 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $28,176 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.4 kWh/100km efficiency is strong for its 2,080 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

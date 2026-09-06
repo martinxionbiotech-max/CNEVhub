@@ -35,8 +35,7 @@ Chery Fulwin X3L (starting at $16,890) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-Chery Fulwin X3L is a suv from Chery Fulwin, a 20.64 kWh battery and 185 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B...
-
+The Chery Fulwin X3L is a compact SUV extended-range electric from CHERY-FULWIN, with 185 kW of motor power. It is positioned as a value-focused import, priced from $16,890 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $23,071 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 18.7 kWh/100km efficiency is strong for its 1,842 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

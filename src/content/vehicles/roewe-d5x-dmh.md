@@ -37,8 +37,7 @@ Roewe D5X DMH (starting at $18,280) is a SUV from ROEWE.
 
 ## Overview
 
-Roewe D5X DMH is a suv from Roewe, a 21.4 kWh battery and 145 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pla...
-
+The Roewe D5X DMH is a compact SUV plug-in hybrid from ROEWE, with 145 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,280 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,604 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 16.4 kWh/100km efficiency is strong for its 1,880 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

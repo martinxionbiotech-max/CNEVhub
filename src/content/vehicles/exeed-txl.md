@@ -37,8 +37,7 @@ Exeed TXL (starting at $20,410) is a SUV from EXEED.
 
 ## Overview
 
-Exeed TXL is a suv from Exeed, a 32.66 kWh battery and 195 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Exeed TXL is a compact SUV extended-range electric from EXEED, with 195 kW of motor power, a 7.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $20,410 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +32% over base (about $26,952 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 19.5 kWh/100km efficiency is strong for its 2,065 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

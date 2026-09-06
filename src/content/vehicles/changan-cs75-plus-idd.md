@@ -36,8 +36,7 @@ Changan Cs75 PLUS IDD (starting at $23,930) is a SUV from CHANGAN.
 
 ## Overview
 
-Changan Cs75 PLUS IDD is a suv from Changan, a 28.39 kWh battery and 110 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B...
-
+The Changan Cs75 PLUS IDD is a compact SUV plug-in hybrid from CHANGAN, with 110 kW of motor power, a 7.1-second 0–100 km/h time. It is positioned as a value-focused import, priced from $23,930 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,833 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -4,7 +4,7 @@ description: "A data-backed look at China's EV export surge in 2026: tiered bran
 author: "Wei Wang"
 publishedDate: "2026-09-05"
 draft: false
-tags: [chinese-ev-export, byd, ev-tariffs, ne-sub, china-ev, eu-tariff, leapmotor, xiaomi-su7]
+tags: [chinese-ev-export, byd, ev-tariff, ne-sub, china-ev, eu-tariff, leapmotor, xiaomi-su7]
 ---
 
 ## TL;DR

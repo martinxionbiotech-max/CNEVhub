@@ -32,8 +32,7 @@ Wuling Nebula (starting at $12,650) is a SUV from WULING.
 
 ## Overview
 
-Wuling Nebula is a suv from Wuling, and 130 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Wuling Nebula is a compact SUV plug-in hybrid from WULING, with 130 kW of motor power. It is positioned as a value-focused import, priced from $12,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +45% over base (about $18,397 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

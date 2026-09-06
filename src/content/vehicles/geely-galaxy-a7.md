@@ -36,8 +36,7 @@ Geely Galaxy A7 (starting at $12,610) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-Geely Galaxy A7 is a suv from Geely Galaxy, a 8.5 kWh battery and 175 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B im...
-
+The Geely Galaxy A7 is a midsize SUV plug-in hybrid from GEELY-GALAXY, with 175 kW of motor power, a 7.1-second 0–100 km/h time. It is positioned as a value-focused import, priced from $12,610 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +46% over base (about $18,353 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

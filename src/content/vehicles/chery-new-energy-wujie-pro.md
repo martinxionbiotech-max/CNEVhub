@@ -39,8 +39,7 @@ Chery New Energy Wujie PRO (starting at $11,960) is a Hatchback from CHERY NEW E
 
 ## Overview
 
-Chery New Energy Wujie PRO is a hatchback from Chery New Energy, offering 301 km of CLTC range a 28.86 kWh battery and 55 kW of motor power. Full landed-cost...
-
+The Chery New Energy Wujie PRO is a micro hatchback battery-electric from CHERY-NEW-ENERGY, with 301 km of CLTC range, 55 kW of motor power, a 5.5-second 0–100 km/h time. It sits at the affordable end of the Chinese EV export range, priced from $11,960 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +48% over base (about $17,636 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 9.7 kWh/100km efficiency is strong for its 970 kg curb weight. It suits private urban buyers and small delivery fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

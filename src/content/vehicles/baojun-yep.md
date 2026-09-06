@@ -37,8 +37,7 @@ Baojun YEP (starting at $11,380) is a SUV from BAOJUN.
 
 ## Overview
 
-Baojun YEP is a suv from Baojun, offering 303 km of CLTC range a 28.1 kWh battery and 50 kW of motor power. Full landed-cost breakdown to the EU/DACH region ...
-
+The Baojun YEP is a subcompact SUV battery-electric from BAOJUN, with 303 km of CLTC range, 50 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $11,380 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +49% over base (about $16,996 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.0 kWh/100km efficiency is strong for its 1,006 kg curb weight. It suits urban families who want a raised driving position.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -37,8 +37,7 @@ Zeekr 9X (starting at $65,620) is a SUV from ZEEKR.
 
 ## Overview
 
-Zeekr 9X is a suv from Zeekr, a 55 kWh battery and 660 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Zeekr 9X is a full-size SUV plug-in hybrid from ZEEKR, with 660 kW of motor power, a 3.9-second 0–100 km/h time. It is a luxury-tier flagship, priced from $65,620 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +17% over base (about $76,796 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 22.9 kWh/100km efficiency is unremarkable for its 2,840 kg curb weight. It suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

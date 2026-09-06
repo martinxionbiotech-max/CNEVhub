@@ -37,8 +37,7 @@ Byd M9 (starting at $32,370) is a MPV from BYD.
 
 ## Overview
 
-Byd M9 is a mpv from Byd, a 20.39 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Byd M9 is a MPV plug-in hybrid from BYD, with 200 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $32,370 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $40,138 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 17.8 kWh/100km efficiency is strong for its 2,470 kg curb weight. It suits shuttle operators and large families.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

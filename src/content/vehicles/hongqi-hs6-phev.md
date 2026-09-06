@@ -37,8 +37,7 @@ Hongqi HS6 Phev (starting at $25,180) is a SUV from HONGQI.
 
 ## Overview
 
-Hongqi HS6 Phev is a suv from Hongqi, a 23 kWh battery and 168 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl...
-
+The Hongqi HS6 Phev is a midsize SUV plug-in hybrid from HONGQI, with 168 kW of motor power, a 7.9-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $25,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $32,211 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 17.5 kWh/100km efficiency is strong for its 2,040 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

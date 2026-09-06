@@ -37,8 +37,7 @@ M Hero M817 (starting at $42,520) is a SUV from M HERO.
 
 ## Overview
 
-M Hero M817 is a suv from M Hero, a 31.7 kWh battery and 405 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan...
-
+The M Hero M817 is a full-size SUV plug-in hybrid from M-HERO, with 405 kW of motor power, a 5.2-second 0–100 km/h time. It is positioned as a premium import, priced from $42,520 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $51,328 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 24.8 kWh/100km efficiency is unremarkable for its 2,817 kg curb weight. It suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

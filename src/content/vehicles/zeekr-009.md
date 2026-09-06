@@ -39,8 +39,7 @@ Zeekr 009 (starting at $61,830) is a SUV from ZEEKR.
 
 ## Overview
 
-Zeekr 009 is a suv from Zeekr, offering 740 km of CLTC range a 108 kWh battery and 310 kW of motor power. Full landed-cost breakdown to the EU/DACH region in...
-
+The Zeekr 009 is a full-size SUV battery-electric from ZEEKR, with 740 km of CLTC range, 310 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a premium import, priced from $61,830 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +17% over base (about $72,618 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.8 kWh/100km efficiency is strong for its 2,783 kg curb weight. It suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

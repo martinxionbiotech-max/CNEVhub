@@ -37,8 +37,7 @@ Li Auto L6 (starting at $35,080) is a SUV from LI AUTO.
 
 ## Overview
 
-Li Auto L6 is a suv from Li Auto, a 36.8 kWh battery and 300 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan...
-
+The Li Auto L6 is a midsize SUV extended-range electric from LI-AUTO, with 300 kW of motor power, a 5.4-second 0–100 km/h time. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $35,080 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $43,126 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.1 kWh/100km efficiency is unremarkable for its 2,330 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

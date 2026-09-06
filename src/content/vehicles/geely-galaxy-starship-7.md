@@ -39,8 +39,7 @@ Geely Galaxy Starship 7 (starting at $13,770) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-Geely Galaxy Starship 7 is a suv from Geely Galaxy, offering 1355 km of CLTC range a 8.5 kWh battery and 160 kW of motor power. Full landed-cost breakdown to...
-
+The Geely Galaxy Starship 7 is a compact SUV plug-in hybrid from GEELY-GALAXY, with 1,355 km of CLTC range, 160 kW of motor power, a 7.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,770 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +43% over base (about $19,631 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.0 kWh/100km efficiency is strong for its 1,610 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

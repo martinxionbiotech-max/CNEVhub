@@ -32,8 +32,7 @@ Gac Motor M8 (starting at $40,390) is a SUV from GAC MOTOR.
 
 ## Overview
 
-Gac Motor M8 is a suv from Gac Motor, and 134 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Gac Motor M8 is a full-size SUV plug-in hybrid from GAC-MOTOR, with 134 kW of motor power. It is positioned as a premium import, priced from $40,390 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $48,980 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

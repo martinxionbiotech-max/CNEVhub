@@ -37,8 +37,7 @@ Byd Destroyer 05 (starting at $14,340) is a Sedan from BYD.
 
 ## Overview
 
-Byd Destroyer 05 is a sedan from Byd, a 8.3 kWh battery and 132 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import p...
-
+The Byd Destroyer 05 is a midsize sedan plug-in hybrid from BYD, with 132 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $14,340 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +41% over base (about $20,260 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 11.4 kWh/100km efficiency is strong for its 1,515 kg curb weight. It suits business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

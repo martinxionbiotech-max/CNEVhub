@@ -12,6 +12,7 @@ interface Props {
   modifiedDate?: Date;
   author?: string;
   tags?: string[];
+  robots?: string;
 }
 
 const {
@@ -23,6 +24,7 @@ const {
   modifiedDate,
   author,
   tags,
+  robots,
 } = Astro.props;
 ---
 
@@ -44,6 +46,7 @@ const {
       modifiedDate={modifiedDate}
       author={author}
       tags={tags}
+      robots={robots}
     />
     <!-- Theme and announcement initialization - runs before page render to prevent flash -->
     <script is:inline>

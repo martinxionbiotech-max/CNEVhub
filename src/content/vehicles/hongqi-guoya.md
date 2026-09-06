@@ -34,8 +34,7 @@ Hongqi Guoya (starting at $197,180) is a SUV from HONGQI.
 
 ## Overview
 
-Hongqi Guoya is a suv from Hongqi, and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Hongqi Guoya is a full-size SUV plug-in hybrid from HONGQI, with 160 kW of motor power, a 4.8-second 0–100 km/h time. It is a luxury-tier flagship, priced from $197,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +12% over base (about $221,841 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

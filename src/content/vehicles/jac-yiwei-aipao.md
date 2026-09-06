@@ -39,8 +39,7 @@ Jac Yiwei Aipao (starting at $26,750) is a Sedan from JAC YIWEI.
 
 ## Overview
 
-Jac Yiwei Aipao is a sedan from Jac Yiwei, offering 502 km of CLTC range a 54.2 kWh battery and 130 kW of motor power. Full landed-cost breakdown to the EU/D...
-
+The Jac Yiwei Aipao is a midsize sedan battery-electric from JAC-YIWEI, with 502 km of CLTC range, 130 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $26,750 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +27% over base (about $33,942 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.3 kWh/100km efficiency is strong for its 1,690 kg curb weight. It suits business fleets and long-distance commuters.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

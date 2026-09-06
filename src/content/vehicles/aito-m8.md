@@ -37,8 +37,7 @@ Aito M8 (starting at $50,680) is a SUV from AITO.
 
 ## Overview
 
-Aito M8 is a suv from Aito, a 37 kWh battery and 392 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Aito M8 is a full-size SUV battery-electric from AITO, with 392 kW of motor power, a 5.3-second 0–100 km/h time. It is positioned as a premium import, priced from $50,680 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +19% over base (about $60,325 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 22.6 kWh/100km efficiency is unremarkable for its 2,640 kg curb weight. It suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

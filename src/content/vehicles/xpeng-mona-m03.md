@@ -39,8 +39,7 @@ Xpeng Mona M03 (starting at $16,800) is a SUV from XPENG.
 
 ## Overview
 
-Xpeng Mona M03 is a suv from Xpeng, offering 515 km of CLTC range a 51.8 kWh battery and 140 kW of motor power. Full landed-cost breakdown to the EU/DACH reg...
-
+The Xpeng Mona M03 is a compact SUV battery-electric from XPENG, with 515 km of CLTC range, 140 kW of motor power, a 7.4-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,800 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,972 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.5 kWh/100km efficiency is strong for its 1,661 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -34,8 +34,7 @@ Aion S (starting at $19,690) is a SUV from AION.
 
 ## Overview
 
-Aion S is a suv from Aion, a 46.76 kWh battery and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Aion S is a midsize SUV battery-electric from AION, with 100 kW of motor power. It is positioned as a value-focused import, priced from $19,690 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $26,158 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, only slow AC charging is listed, which affects fleet turnaround. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

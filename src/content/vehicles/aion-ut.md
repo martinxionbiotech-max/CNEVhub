@@ -37,8 +37,7 @@ Aion UT (starting at $9,830) is a SUV from AION.
 
 ## Overview
 
-Aion UT is a suv from Aion, offering 330 km of CLTC range a 34.87 kWh battery and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region inc...
-
+The Aion UT is a subcompact SUV battery-electric from AION, with 330 km of CLTC range, 100 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $9,830 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +56% over base (about $15,288 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.4 kWh/100km efficiency is strong for its 1,510 kg curb weight. It suits urban families who want a raised driving position.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

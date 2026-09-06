@@ -36,8 +36,7 @@ Xpeng X9 (starting at $43,630) is a SUV from XPENG.
 
 ## Overview
 
-Xpeng X9 is a suv from Xpeng, a 63.3 kWh battery and 210 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
-
+The Xpeng X9 is a full-size SUV battery-electric from XPENG, with 210 kW of motor power. It is positioned as a premium import, priced from $43,630 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $52,552 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

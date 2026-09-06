@@ -39,8 +39,7 @@ Icaur V23 (starting at $17,300) is a SUV from ICAUR.
 
 ## Overview
 
-Icaur V23 is a suv from Icaur, offering 401 km of CLTC range a 59.93 kWh battery and 185 kW of motor power. Full landed-cost breakdown to the EU/DACH region ...
-
+The Icaur V23 is a subcompact SUV battery-electric from ICAUR, with 401 km of CLTC range, 185 kW of motor power, a 7.1-second 0–100 km/h time. It is positioned as a value-focused import, priced from $17,300 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +36% over base (about $23,523 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.0 kWh/100km efficiency is strong for its 1,735 kg curb weight. It suits urban families who want a raised driving position.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

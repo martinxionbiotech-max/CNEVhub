@@ -1,9 +1,9 @@
 ---
 title: "Stelato S9T"
-description: "Stelato S9T is a  from Stelato, a 37 kWh battery and 227 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Stelato S9T is a sedan from Stelato, a 37 kWh battery and 227 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
 slug: "stelato-s9t"
 brand: "stelato"
-type: ""
+type: "Sedan"
 powertrain: "BEV"
 price_usd: 43630.0
 currency: "USD"
@@ -29,7 +29,7 @@ landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "
 
 # Stelato S9T
 
-Stelato S9T (starting at $43,630) is a  from STELATO.
+Stelato S9T (starting at $43,630) is a Sedan from STELATO.
 
 - **Battery**: 37.0 kWh
 - **Motor power**: 227 kW
@@ -37,7 +37,7 @@ Stelato S9T (starting at $43,630) is a  from STELATO.
 
 ## Overview
 
-Stelato S9T is a  from Stelato, a 37 kWh battery and 227 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
+Stelato S9T is a sedan from Stelato, a 37 kWh battery and 227 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning.
 
 ## Landed Cost by Market
 

@@ -35,8 +35,7 @@ Haval BIG DOG PLUS (starting at $24,480) is a SUV from HAVAL.
 
 ## Overview
 
-Haval BIG DOG PLUS is a suv from Haval, a 18.74 kWh battery and 220 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impo...
-
+The Haval BIG DOG PLUS is a compact SUV plug-in hybrid from HAVAL, with 220 kW of motor power. It is positioned as a value-focused import, priced from $24,480 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $31,439 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.5 kWh/100km efficiency is strong for its 2,080 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

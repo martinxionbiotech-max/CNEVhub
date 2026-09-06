@@ -39,8 +39,7 @@ Nio EC6 (starting at $50,270) is a SUV from NIO.
 
 ## Overview
 
-Nio EC6 is a suv from Nio, offering 655 km of CLTC range a 100 kWh battery and 360 kW of motor power. Full landed-cost breakdown to the EU/DACH region includ...
-
+The Nio EC6 is a midsize SUV battery-electric from NIO, with 655 km of CLTC range, 360 kW of motor power, a 4.4-second 0–100 km/h time. It is positioned as a premium import, priced from $50,270 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +19% over base (about $59,873 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 15.9 kWh/100km efficiency is strong for its 2,323 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

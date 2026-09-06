@@ -37,8 +37,7 @@ Gac Motor E9 (starting at $45,460) is a SUV from GAC MOTOR.
 
 ## Overview
 
-Gac Motor E9 is a suv from Gac Motor, a 25.5 kWh battery and 134 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import ...
-
+The Gac Motor E9 is a full-size SUV plug-in hybrid from GAC-MOTOR, with 134 kW of motor power. It is positioned as a premium import, priced from $45,460 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $54,570 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 21.5 kWh/100km efficiency is unremarkable for its 2,420 kg curb weight. It suits large families and executive fleets.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

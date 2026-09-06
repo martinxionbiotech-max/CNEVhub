@@ -39,8 +39,7 @@ Nio ET5 (starting at $41,850) is a SUV from NIO.
 
 ## Overview
 
-Nio ET5 is a suv from Nio, offering 740 km of CLTC range a 100 kWh battery and 360 kW of motor power. Full landed-cost breakdown to the EU/DACH region includ...
-
+The Nio ET5 is a compact SUV battery-electric from NIO, with 740 km of CLTC range, 360 kW of motor power, a 4.0-second 0–100 km/h time. It is positioned as a premium import, priced from $41,850 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $50,590 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 14.1 kWh/100km efficiency is strong for its 2,690 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

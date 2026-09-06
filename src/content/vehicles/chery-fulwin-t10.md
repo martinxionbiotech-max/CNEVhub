@@ -37,8 +37,7 @@ Chery Fulwin T10 (starting at $26,750) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-Chery Fulwin T10 is a suv from Chery Fulwin, a 34.46 kWh battery and 165 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B...
-
+The Chery Fulwin T10 is a midsize SUV plug-in hybrid from CHERY-FULWIN, with 165 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $26,750 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +27% over base (about $33,942 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 19.2 kWh/100km efficiency is strong for its 2,028 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

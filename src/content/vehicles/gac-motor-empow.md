@@ -34,8 +34,7 @@ Gac Motor Empow (starting at $18,030) is a SUV from GAC MOTOR.
 
 ## Overview
 
-Gac Motor Empow is a suv from Gac Motor, a 2.1 kWh battery and 134 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impor...
-
+The Gac Motor Empow is a compact SUV plug-in hybrid from GAC-MOTOR, with 134 kW of motor power. It is positioned as a value-focused import, priced from $18,030 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,328 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -39,8 +39,7 @@ Jac QX (starting at $18,300) is a SUV from JAC.
 
 ## Overview
 
-Jac QX is a suv from Jac, offering 1300 km of CLTC range a 21.68 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region incl...
-
+The Jac QX is a compact SUV plug-in hybrid from JAC, with 1,300 km of CLTC range, 150 kW of motor power, a 7.3-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,300 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +35% over base (about $24,626 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.1 kWh/100km efficiency is strong for its 1,765 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -39,8 +39,7 @@ Arcfox AT (starting at $28,990) is a SUV from ARCFOX.
 
 ## Overview
 
-Arcfox AT is a suv from Arcfox, offering 480 km of CLTC range a 65.6 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH region ...
-
+The Arcfox AT is a compact SUV battery-electric from ARCFOX, with 480 km of CLTC range, 160 kW of motor power. It lands in the mid-market segment where spec-to-price ratio matters most, priced from $28,990 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $36,411 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.0 kWh/100km efficiency is strong for its 1,935 kg curb weight. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -35,8 +35,7 @@ Wuling Starlight (starting at $11,240) is a SUV from WULING.
 
 ## Overview
 
-Wuling Starlight is a suv from Wuling, a 9.5 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import ...
-
+The Wuling Starlight is a midsize SUV battery-electric from WULING, with 150 kW of motor power. It sits at the affordable end of the Chinese EV export range, priced from $11,240 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +50% over base (about $16,842 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. In practice, the 11.1 kWh/100km efficiency is strong for its 1,605 kg curb weight. It suits family and executive buyers prioritizing space.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
