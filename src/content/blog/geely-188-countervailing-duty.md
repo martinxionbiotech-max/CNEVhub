@@ -77,7 +77,7 @@ All 13 Geely-group BEV models in our [catalog](/vehicles/), base vs. landed in G
 
 The spread runs from +156% on the $6,590 Galaxy LC to +66% on the $61,830 Zeekr 009 — the same inverse relationship between price and premium percentage we see across the whole catalog.
 
-The absolute-dollar story is what matters for premium buyers: the Zeekr 009 carries a countervailing duty of roughly **$11,700** (18.8% on its customs value), which dwarfs the entire landed cost of a Galaxy LC. A percentage tariff scales with price — so Geely's premium EVs are where the 18.8% generates the largest *dollar* bills, even though the *percentage* premium looks smaller.
+The absolute-dollar story is what matters for premium buyers: the Zeekr 009 carries a countervailing duty of roughly **$12,800** (18.8% on its customs value) — about three-quarters of the entire landed cost of a Galaxy LC. A percentage tariff scales with price — so Geely's premium EVs are where the 18.8% generates the largest *dollar* bills, even though the *percentage* premium looks smaller.
 
 ## Same car, different market: where the 18.8% disappears
 
@@ -94,7 +94,7 @@ A **$9,000 difference on a $15,460 car**, almost entirely the 18.8% countervaili
 
 1. **"Which group does this brand actually belong to?"** — Zeekr, Lynk & Co, and Geely Galaxy all carry 18.8%. A premium badge does not mean a lower tariff.
 2. **"Is this a BEV or a PHEV?"** — the 18.8% applies to BEVs. Geely PHEVs currently pay only the 10% standard duty, though EU PHEV tariffs are being prepared.
-3. **"What's the absolute duty bill, not just the rate?"** — 18.8% on a $61,830 Zeekr 009 is ~$11,700. Always ask for the dollar figure, not the percentage.
+3. **"What's the absolute duty bill, not just the rate?"** — 18.8% on a $61,830 Zeekr 009 is ~$12,800. Always ask for the dollar figure, not the percentage.
 4. **"Am I registering in the EU?"** — if not, the 18.8% may not apply. Get the landed cost for your actual destination.
 5. **"How does this compare to BYD at the same price point?"** — Geely's 18.8% vs BYD's 17% is only a 1.8-point gap. On most models the practical difference is modest; don't over-weight the rate difference when comparing cars.
 

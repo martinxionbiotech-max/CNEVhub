@@ -9,7 +9,7 @@ tags: [eu-import, germany, netherlands, france, vat, landed-cost, market-compari
 
 ## TL;DR
 
-If you're choosing between importing a Chinese EV into Germany, France, or the Netherlands, the honest answer is: **the landed-cost difference is small enough to ignore — roughly 1% of the car's price — and Germany is only marginally cheapest because it has the lowest VAT.**
+If you're choosing between importing a Chinese EV into Germany, France, or the Netherlands, the honest answer is: **the landed-cost difference is small enough to ignore — roughly 1% of the landed cost — and Germany is only marginally cheapest because it has the lowest VAT.**
 
 Here's the thing most buyers don't realize until they run the numbers: **the EU is a customs union.** The 10% standard duty and the brand-specific countervailing duty (17% for BYD, 18.8% for Geely, 35.3% for SAIC) are identical no matter which EU country the car enters. The *only* variable that changes between Germany, France, and the Netherlands is the VAT rate — 19%, 20%, and 21% respectively.
 
