@@ -20,7 +20,7 @@ The UAE stack:
 | Countervailing duty | none |
 | VAT | 5% |
 
-With no countervailing duty and only 5% VAT, a Chinese EV lands in the UAE at a fraction of the EU figure. A BYD Seal at $24,690 lands around **$31,673** — a +28.3% premium, versus +79.9% in Germany.
+With no countervailing duty and only 5% VAT, a Chinese EV lands in the UAE at a fraction of the EU figure. A BYD Seal at $24,690 lands around **$31,671** — a +28.3% premium, versus +79.9% in Germany.
 
 ## Saudi Arabia
 
@@ -32,7 +32,7 @@ Saudi Arabia applies:
 | Countervailing duty | none |
 | VAT | 15% |
 
-The 15% VAT makes Saudi Arabia more expensive than the UAE, but still far below the EU. The same BYD Seal lands around **$34,270** — a +38.8% premium.
+The 15% VAT makes Saudi Arabia more expensive than the UAE, but still far below the EU. The same BYD Seal lands around **$34,263** — a +38.8% premium.
 
 ## Why the Gulf is cheap — and what's different
 

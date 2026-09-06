@@ -11,21 +11,21 @@ tags: [australia, gst, adr, rav, right-hand-drive, landed-cost, market-compariso
 
 Australia looks like the dream import market on paper: **zero import duty on EVs, no countervailing duty, and a moderate 10% GST.** But two realities complicate the picture. First, on pure landed cost Australia is actually **slightly more expensive than the UAE**, because a flat 10% GST costs more than the UAE's 5% duty plus 5% VAT. Second — and far more important — Australia's real hurdle is **compliance, not cost**: the Australian Design Rules (ADRs), the Register of Approved Vehicles (RAV), and the fact that Australia is **right-hand drive**, so a left-hand-drive China-market car can't simply be shipped over and registered.
 
-The upshot: a $24,690 BYD Seal lands in Australia at about **$33,009 (+34%)** — far below Germany's $44,413, but the genuinely hard part is getting a China-market car through ADR compliance and, for most models, sourcing a right-hand-drive variant in the first place.
+The upshot: a $24,690 BYD Seal lands in Australia at about **$33,009 (+33.7%)** — far below Germany's $44,413, but the genuinely hard part is getting a China-market car through ADR compliance and, for most models, sourcing a right-hand-drive variant in the first place.
 
 ## Key statistics
 
 - **Import duty (EVs):** 0% — Australia removed the duty on mainstream EVs
 - **Countervailing duty:** none (no equivalent to the EU's anti-subsidy tariff)
 - **GST:** 10% — lower than EU VAT and recoverable for GST-registered businesses
-- **Worked example:** BYD Seal → $33,009 landed in Australia (+34%), vs $31,671 UAE and $44,413 Germany
+- **Worked example:** BYD Seal → $33,009 landed in Australia (+33.7%), vs $31,671 UAE and $44,413 Germany
 - **The real hurdle:** ADR + RAV compliance, and right-hand-drive
 
 ## Why the tax treatment is genuinely attractive
 
 Australia's import tax story is the cleanest of any market we track. On mainstream EVs, the import duty is **zero** — Australia removed the 5% duty on many EVs under the Luxury Car Tax fuel-efficiency threshold. There is **no countervailing duty** of the kind the EU imposes. And the GST is 10%, which is both lower than EU VAT and recoverable for businesses registered for GST.
 
-That's why Australia lands a Chinese EV at roughly a +34% premium (BYD Seal) versus Germany's +80%. The difference is almost entirely the EU's brand-specific countervailing duty plus its higher VAT, neither of which exists in Australia.
+That's why Australia lands a Chinese EV at roughly a +33.7% premium (BYD Seal) versus Germany's +80%. The difference is almost entirely the EU's brand-specific countervailing duty plus its higher VAT, neither of which exists in Australia.
 
 ## The subtle catch: Australia is slightly pricier than the UAE
 

@@ -18,7 +18,7 @@ Australia is one of the most attractive destinations for Chinese EVs — on the 
 | Countervailing duty | none |
 | GST | 10% |
 
-With zero duty and no countervailing duty, a Chinese EV lands in Australia at a minimal tax premium. A BYD Seal at $24,690 base lands around **$33,016** — a +33.7% premium, driven mostly by freight, certification, and fixed costs rather than tax.
+With zero duty and no countervailing duty, a Chinese EV lands in Australia at a minimal tax premium. A BYD Seal at $24,690 base lands around **$33,009** — a +33.7% premium, driven mostly by freight, certification, and fixed costs rather than tax.
 
 ## Why Australia is structurally cheap
 

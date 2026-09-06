@@ -55,7 +55,7 @@ Premium: **+57.3%**.
 | Countervailing duty | $0 |
 | VAT (5%) | $1,296 |
 | Fixed costs | ~$6,250 |
-| **Total landed** | **$31,673** |
+| **Total landed** | **$31,671** |
 
 Premium: **+28.3%**.
 
@@ -70,13 +70,13 @@ Premium: **+28.3%**.
 | Countervailing duty | $0 |
 | GST (10%) | $2,469 |
 | Fixed costs + compliance | ~$6,250 |
-| **Total landed** | **$33,016** |
+| **Total landed** | **$33,009** |
 
 Premium: **+33.7%**.
 
 ## What the spread teaches you
 
-The same car lands anywhere from **$31,673 (UAE)** to **$44,413 (Germany)** — a **$12,740** swing driven almost entirely by tax policy differences:
+The same car lands anywhere from **$31,671 (UAE)** to **$44,413 (Germany)** — a **$12,742** swing driven almost entirely by tax policy differences:
 
 1. **The countervailing duty is the biggest single variable.** The EU's producer-specific CVD adds $4,600+ to a BYD, and over $9,000 to an SAIC/MG vehicle at 35.3%.
 2. **VAT/GST is the second lever.** 5% (UAE) versus 19% (Germany) on a $24,690 base is a four-figure difference.
