@@ -1,15 +1,15 @@
 ---
-title: "Changan Nevo Lamore"
-description: "Changan Nevo Lamore is a suv from Changan Nevo, a 9.07 kWh battery and 140 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+title: "Changan Lamore"
+description: "Changan Lamore is a sedan from Changan. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-nevo-lamore"
-brand: "changan-nevo"
-type: "SUV"
-powertrain: "PHEV"
+brand: "changan"
+type: "Sedan"
+powertrain: "Petrol"
 price_usd: 11110.0
 currency: "USD"
 range_cltc_km: null
-battery_kwh: 9.07
-motor_power_kw: 140
+battery_kwh: null
+motor_power_kw: null
 torque_nm: 330
 accel_0_100_s: 7.9
 top_speed_kmh: 185

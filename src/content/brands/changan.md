@@ -7,7 +7,7 @@ parent_manufacturer: "ChangAn"
 parent_location: "Chongqing, China"
 parent_founded: "1862"
 website: "https://www.changan.com.cn/"
-model_count: 9
+model_count: 10
 publishedDate: "2026-09-05"
 tags: [ChangAn, Chinese EV brand, EV export]
 ---

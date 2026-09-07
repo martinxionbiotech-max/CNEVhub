@@ -7,7 +7,7 @@ parent_manufacturer: "ChangAn"
 parent_location: "Chongqing, China"
 parent_founded: "1862"
 website: "https://www.changan.com.cn/qiyuan/"
-model_count: 6
+model_count: 5
 publishedDate: "2026-09-05"
 tags: [ChangAn NEVO, Chinese EV brand, EV export]
 ---
