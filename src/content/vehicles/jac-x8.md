@@ -29,6 +29,7 @@ data_tier: 2
 data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
 data_updated: "2026-09-07"
 data_reviewed: false
+family: "X8"
 ---
 
 # Jac X8
