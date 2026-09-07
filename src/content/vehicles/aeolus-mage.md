@@ -4,7 +4,7 @@ description: "Aeolus Mage is a suv from Aeolus, and 105 kW of motor power. Full 
 slug: "aeolus-mage"
 brand: "aeolus"
 type: "SUV"
-powertrain: "PHEV"
+powertrain: "HEV"
 price_usd: 17170.0
 currency: "USD"
 range_cltc_km: null

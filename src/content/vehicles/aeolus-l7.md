@@ -1,14 +1,14 @@
 ---
 title: "Aeolus L7"
-description: "Aeolus L7 is a suv from Aeolus, offering 430 km of CLTC range a 50.8 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Aeolus L7 is a suv from Aeolus, offering 205 km of pure-electric CLTC range, a 30.3 kWh battery, and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aeolus-l7"
 brand: "aeolus"
 type: "SUV"
-powertrain: "BEV"
+powertrain: "PHEV"
 price_usd: 13370.0
 currency: "USD"
-range_cltc_km: 430
-battery_kwh: 50.8
+range_cltc_km: 205
+battery_kwh: 30.3
 motor_power_kw: 120
 torque_nm: 240
 top_speed_kmh: 160
