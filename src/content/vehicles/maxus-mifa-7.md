@@ -18,7 +18,7 @@ wheelbase_mm: 2975
 weight_kg: 2165
 efficiency_kwh_100km: 16.3
 fast_charge: "30 min (20-80%)"
-landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 53976.31, "premium_pct": 101.8, "breakdown": {"duty_cif_usd": 2675.0, "countervailing_duty_usd": 10387.03, "vat_usd": 7564.28, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 53976.32, "premium_pct": 101.8, "breakdown": {"duty_cif_usd": 2675.0, "countervailing_duty_usd": 10387.03, "vat_usd": 7564.29, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["maxus", "MPV", "chinese-ev", "export"]

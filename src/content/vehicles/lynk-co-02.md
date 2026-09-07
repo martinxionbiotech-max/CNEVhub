@@ -17,7 +17,7 @@ height_mm: 1572
 wheelbase_mm: 2702
 weight_kg: 1475
 fast_charge: "-"
-landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 32834.4, "premium_pct": 94.6, "breakdown": {"duty_cif_usd": 1687.0, "countervailing_duty_usd": 3488.72, "vat_usd": 4188.69, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 32834.41, "premium_pct": 94.6, "breakdown": {"duty_cif_usd": 1687.0, "countervailing_duty_usd": 3488.72, "vat_usd": 4188.69, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["lynk-co", "SUV", "chinese-ev", "export"]

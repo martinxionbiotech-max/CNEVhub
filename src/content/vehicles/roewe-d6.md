@@ -20,7 +20,7 @@ wheelbase_mm: 2750
 weight_kg: 1485
 efficiency_kwh_100km: 11.7
 fast_charge: "20 min (30-80%)"
-landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 35238.32, "premium_pct": 117.9, "breakdown": {"duty_cif_usd": 1617.0, "countervailing_duty_usd": 6278.81, "vat_usd": 4572.5, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 35238.31, "premium_pct": 117.9, "breakdown": {"duty_cif_usd": 1617.0, "countervailing_duty_usd": 6278.81, "vat_usd": 4572.5, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["roewe", "Sedan", "chinese-ev", "export"]

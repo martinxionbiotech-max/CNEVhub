@@ -19,7 +19,7 @@ wheelbase_mm: 1635
 weight_kg: 818
 efficiency_kwh_100km: 9.5
 fast_charge: "7h 30m"
-landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 21016.57, "premium_pct": 158.2, "breakdown": {"duty_cif_usd": 814.0, "countervailing_duty_usd": 3160.76, "vat_usd": 2301.8, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 21016.56, "premium_pct": 158.2, "breakdown": {"duty_cif_usd": 814.0, "countervailing_duty_usd": 3160.76, "vat_usd": 2301.8, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["wuling", "Hatchback", "chinese-ev", "export"]

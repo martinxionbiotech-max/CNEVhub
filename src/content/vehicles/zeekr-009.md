@@ -20,7 +20,7 @@ wheelbase_mm: 3205
 weight_kg: 2783
 efficiency_kwh_100km: 16.8
 fast_charge: "10 min (10-80%)"
-landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 102751.34, "premium_pct": 66.2, "breakdown": {"duty_cif_usd": 6183.0, "countervailing_duty_usd": 12786.44, "vat_usd": 15351.89, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 102751.33, "premium_pct": 66.2, "breakdown": {"duty_cif_usd": 6183.0, "countervailing_duty_usd": 12786.44, "vat_usd": 15351.89, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["zeekr", "SUV", "chinese-ev", "export"]

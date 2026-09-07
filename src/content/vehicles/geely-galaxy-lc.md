@@ -19,7 +19,7 @@ wheelbase_mm: 2015
 weight_kg: 815
 efficiency_kwh_100km: 9.1
 fast_charge: "30 min (30-80%)"
-landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 16848.06, "premium_pct": 155.7, "breakdown": {"duty_cif_usd": 659.0, "countervailing_duty_usd": 1362.81, "vat_usd": 1636.24, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
+landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 16848.05, "premium_pct": 155.7, "breakdown": {"duty_cif_usd": 659.0, "countervailing_duty_usd": 1362.81, "vat_usd": 1636.24, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely-galaxy", "Hatchback", "chinese-ev", "export"]
