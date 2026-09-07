@@ -4,7 +4,7 @@ description: "Haval Shenshou is a suv from Haval, a 1.69 kWh battery and 130 kW 
 slug: "haval-shenshou"
 brand: "haval"
 type: "SUV"
-powertrain: "PHEV"
+powertrain: "HEV"
 price_usd: 21660.0
 currency: "USD"
 range_cltc_km: null

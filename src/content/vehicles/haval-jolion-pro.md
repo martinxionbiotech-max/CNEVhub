@@ -4,7 +4,7 @@ description: "Haval Jolion Pro is a suv from Haval, and 115 kW of motor power. F
 slug: "haval-jolion-pro"
 brand: "haval"
 type: "SUV"
-powertrain: "PHEV"
+powertrain: "HEV"
 price_usd: 18140.0
 currency: "USD"
 range_cltc_km: null

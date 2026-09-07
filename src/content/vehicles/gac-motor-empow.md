@@ -4,7 +4,7 @@ description: "GAC Motor Empow is a suv from GAC Motor, a 2.1 kWh battery and 134
 slug: "gac-motor-empow"
 brand: "gac-motor"
 type: "SUV"
-powertrain: "PHEV"
+powertrain: "HEV"
 price_usd: 18030.0
 currency: "USD"
 range_cltc_km: null

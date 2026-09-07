@@ -4,7 +4,7 @@ description: "Wuling Nebula is a suv from Wuling, and 130 kW of motor power. Ful
 slug: "wuling-nebula"
 brand: "wuling"
 type: "SUV"
-powertrain: "PHEV"
+powertrain: "HEV"
 price_usd: 12650.0
 currency: "USD"
 range_cltc_km: null

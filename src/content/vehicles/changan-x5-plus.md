@@ -4,7 +4,7 @@ description: "Changan X5 Plus is a suv from Changan,. Full landed-cost breakdown
 slug: "changan-x5-plus"
 brand: "changan"
 type: "SUV"
-powertrain: "BEV"
+powertrain: "Petrol"
 price_usd: 8400.0
 currency: "USD"
 range_cltc_km: null

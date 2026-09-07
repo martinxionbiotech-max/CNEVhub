@@ -4,7 +4,7 @@ description: "GAC Motor GS8 is a suv from GAC Motor, and 134 kW of motor power. 
 slug: "gac-motor-gs8"
 brand: "gac-motor"
 type: "SUV"
-powertrain: "PHEV"
+powertrain: "HEV"
 price_usd: 32230.0
 currency: "USD"
 range_cltc_km: null

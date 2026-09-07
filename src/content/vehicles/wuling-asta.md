@@ -4,7 +4,7 @@ description: "Wuling Asta is a suv from Wuling, and 130 kW of motor power. Full 
 slug: "wuling-asta"
 brand: "wuling"
 type: "SUV"
-powertrain: "PHEV"
+powertrain: "HEV"
 price_usd: 14060.0
 currency: "USD"
 range_cltc_km: null

@@ -4,7 +4,7 @@ description: "GAC Motor Emkoo is a suv from GAC Motor, and 134 kW of motor power
 slug: "gac-motor-emkoo"
 brand: "gac-motor"
 type: "SUV"
-powertrain: "PHEV"
+powertrain: "HEV"
 price_usd: 21100.0
 currency: "USD"
 range_cltc_km: null

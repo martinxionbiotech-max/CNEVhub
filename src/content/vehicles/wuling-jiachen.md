@@ -4,7 +4,7 @@ description: "Wuling Jiachen is a suv from Wuling, and 130 kW of motor power. Fu
 slug: "wuling-jiachen"
 brand: "wuling"
 type: "SUV"
-powertrain: "PHEV"
+powertrain: "Petrol"
 price_usd: 16310.0
 currency: "USD"
 range_cltc_km: null

@@ -4,7 +4,7 @@ description: "Geely Galaxy Xingrui L is a suv from Geely Galaxy, and 100 kW of m
 slug: "geely-galaxy-xingrui-l"
 brand: "geely-galaxy"
 type: "SUV"
-powertrain: "PHEV"
+powertrain: "HEV"
 price_usd: 17850.0
 currency: "USD"
 range_cltc_km: null

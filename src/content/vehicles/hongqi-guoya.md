@@ -4,7 +4,7 @@ description: "Hongqi Guoya is a suv from Hongqi, and 160 kW of motor power. Full
 slug: "hongqi-guoya"
 brand: "hongqi"
 type: "SUV"
-powertrain: "PHEV"
+powertrain: "Petrol"
 price_usd: 197180.0
 currency: "USD"
 range_cltc_km: null
