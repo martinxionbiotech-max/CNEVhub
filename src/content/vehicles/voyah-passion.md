@@ -8,7 +8,7 @@ powertrain: "BEV"
 price_usd: 35610.0
 currency: "USD"
 range_cltc_km: 730
-battery_kwh: 43.0
+battery_kwh: 108.7
 motor_power_kw: 290
 accel_0_100_s: 5.9
 top_speed_kmh: 200

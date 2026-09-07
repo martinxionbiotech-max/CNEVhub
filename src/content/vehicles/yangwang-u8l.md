@@ -7,7 +7,7 @@ type: "SUV"
 powertrain: "EREV"
 price_usd: 180280.0
 currency: "USD"
-range_cltc_km: 1160
+range_cltc_km: 200
 battery_kwh: 55.53
 motor_power_kw: 880
 torque_nm: 1520

@@ -9,7 +9,7 @@ price_usd: 66170.0
 currency: "USD"
 range_cltc_km: 630
 range_long_km: 750
-battery_kwh: 52.0
+battery_kwh: 100
 motor_power_kw: 365
 torque_nm: 675
 accel_0_100_s: 4.9

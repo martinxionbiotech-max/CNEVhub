@@ -8,7 +8,7 @@ powertrain: "PHEV"
 price_usd: 24480.0
 currency: "USD"
 range_cltc_km: 240
-battery_kwh: 18.4
+battery_kwh: 38.2
 motor_power_kw: 270
 torque_nm: 500
 accel_0_100_s: 5.9
