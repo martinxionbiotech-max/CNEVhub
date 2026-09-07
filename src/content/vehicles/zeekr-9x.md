@@ -25,6 +25,10 @@ author: "Wei Wang"
 tags: ["zeekr", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1764927701712-dshn8xvv0hf.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 92496.58, "premium_pct": 41.0}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 92868.4, "premium_pct": 41.5}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 93840.22, "premium_pct": 43.0}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 93118.4, "premium_pct": 41.9}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 76796.05, "premium_pct": 17.0}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 83686.15, "premium_pct": 27.5}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 78032.0, "premium_pct": 18.9}]
+data_tier: 2
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Zeekr 9X

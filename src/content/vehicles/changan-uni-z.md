@@ -25,6 +25,10 @@ author: "Wei Wang"
 tags: ["changan", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1763377991574-gsr6mkhsptv.jpg"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 29625.31, "premium_pct": 68.4}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 29468.8, "premium_pct": 67.5}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 29912.29, "premium_pct": 70.1}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 29718.8, "premium_pct": 69.0}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 23842.97, "premium_pct": 35.5}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 25689.92, "premium_pct": 46.0}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 25199.0, "premium_pct": 43.3}]
+data_tier: 2
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Changan UNI Z

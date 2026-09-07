@@ -21,6 +21,10 @@ author: "Wei Wang"
 tags: ["changan", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1764065372619-dsvo008izzp.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 25654.35, "premium_pct": 112.7}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 25464.47, "premium_pct": 111.1}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 25874.6, "premium_pct": 114.5}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 25714.47, "premium_pct": 113.2}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.05, "total_landed_usd": 20498.45, "premium_pct": 70.0}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.15, "total_landed_usd": 22026.88, "premium_pct": 82.6}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.207, "vat_rate": 0.1, "total_landed_usd": 21862.06, "premium_pct": 81.3}]
+data_tier: 3
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Changan Cs75

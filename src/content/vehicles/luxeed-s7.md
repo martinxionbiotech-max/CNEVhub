@@ -25,6 +25,10 @@ author: "Wei Wang"
 tags: ["luxeed", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1766386745234-h6ewb1ipi0r.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 57743.4, "premium_pct": 78.4}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 57823.18, "premium_pct": 78.6}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 58502.95, "premium_pct": 80.7}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 58073.18, "premium_pct": 79.4}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.05, "total_landed_usd": 47525.33, "premium_pct": 46.8}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.15, "total_landed_usd": 51627.74, "premium_pct": 59.5}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.207, "vat_rate": 0.1, "total_landed_usd": 48827.65, "premium_pct": 50.8}]
+data_tier: 1
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Luxeed S7

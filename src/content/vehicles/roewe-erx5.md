@@ -25,6 +25,10 @@ author: "Wei Wang"
 tags: ["roewe", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1764585877748-la9e8eb1el.jpg"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 34979.12, "premium_pct": 61.3}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 34867.6, "premium_pct": 60.8}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 35356.08, "premium_pct": 63.1}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 35117.6, "premium_pct": 62.0}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 28352.2, "premium_pct": 30.8}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 30628.6, "premium_pct": 41.3}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 29698.0, "premium_pct": 37.0}]
+data_tier: 2
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Roewe Erx5

@@ -26,6 +26,10 @@ author: "Wei Wang"
 tags: ["yangwang", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1762745910968-5fv9cattn7w.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.19, "total_landed_usd": 142063.83, "premium_pct": 60.6}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.2, "total_landed_usd": 142852.18, "premium_pct": 61.5}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.21, "total_landed_usd": 144240.53, "premium_pct": 63.1}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.2, "total_landed_usd": 143102.18, "premium_pct": 61.8}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.17, "vat_rate": 0.05, "total_landed_usd": 118543.86, "premium_pct": 34.0}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.17, "vat_rate": 0.15, "total_landed_usd": 129409.95, "premium_pct": 46.3}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.17, "vat_rate": 0.1, "total_landed_usd": 119685.15, "premium_pct": 35.3}]
+data_tier: 1
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Yangwang U7

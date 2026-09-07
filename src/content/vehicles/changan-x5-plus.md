@@ -1,6 +1,6 @@
 ---
-title: "Changan X5 PLUS"
-description: "Changan X5 PLUS is a suv from Changan,. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+title: "Changan X5 Plus"
+description: "Changan X5 Plus is a suv from Changan,. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
 slug: "changan-x5-plus"
 brand: "changan"
 type: "SUV"
@@ -21,6 +21,10 @@ author: "Wei Wang"
 tags: ["changan", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1763801056739-4sgvpl291xr.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 19871.69, "premium_pct": 136.6}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 19633.22, "premium_pct": 133.7}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 19994.75, "premium_pct": 138.0}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 19883.21, "premium_pct": 136.7}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.05, "total_landed_usd": 15628.03, "premium_pct": 86.0}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.15, "total_landed_usd": 16692.6, "premium_pct": 98.7}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.207, "vat_rate": 0.1, "total_landed_usd": 17002.68, "premium_pct": 102.4}]
+data_tier: 3
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Changan X5 PLUS

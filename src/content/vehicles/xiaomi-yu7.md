@@ -26,6 +26,10 @@ author: "Wei Wang"
 tags: ["xiaomi", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1762961617556-r8xxhhclz69.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 63004.67, "premium_pct": 76.5}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 63128.67, "premium_pct": 76.8}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 63852.66, "premium_pct": 78.9}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 63378.67, "premium_pct": 77.5}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.05, "total_landed_usd": 51956.61, "premium_pct": 45.5}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.15, "total_landed_usd": 56481.05, "premium_pct": 58.2}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.207, "vat_rate": 0.1, "total_landed_usd": 53248.89, "premium_pct": 49.2}]
+data_tier: 1
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Xiaomi YU7

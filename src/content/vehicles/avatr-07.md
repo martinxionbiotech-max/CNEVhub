@@ -25,6 +25,10 @@ author: "Wei Wang"
 tags: ["avatr", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1763356504133-m9qmlpd8f2.jpg"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 55531.45, "premium_pct": 79.3}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 55592.64, "premium_pct": 79.5}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 56253.83, "premium_pct": 81.6}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 55842.65, "premium_pct": 80.3}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.05, "total_landed_usd": 45662.33, "premium_pct": 47.4}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.15, "total_landed_usd": 49587.31, "premium_pct": 60.1}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.207, "vat_rate": 0.1, "total_landed_usd": 46968.87, "premium_pct": 51.7}]
+data_tier: 2
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Avatr 07

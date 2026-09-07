@@ -1,6 +1,6 @@
 ---
-title: "Byd Seal 06 GT"
-description: "Byd Seal 06 GT is a sedan from Byd, offering 505 km of CLTC range a 59.52 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH re..."
+title: "BYD Seal 06 GT"
+description: "BYD Seal 06 GT is a sedan from Byd, offering 505 km of CLTC range a 59.52 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH re..."
 slug: "byd-seal-06-gt"
 brand: "byd"
 type: "Sedan"
@@ -26,6 +26,10 @@ author: "Wei Wang"
 tags: ["byd", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1762159384048-8987br75ni5.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.19, "total_landed_usd": 36112.58, "premium_pct": 87.4}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 31686.4, "premium_pct": 64.4}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.21, "total_landed_usd": 36508.59, "premium_pct": 89.5}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.2, "total_landed_usd": 36260.59, "premium_pct": 88.2}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 25695.17, "premium_pct": 33.3}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 27718.53, "premium_pct": 43.8}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 27047.0, "premium_pct": 40.4}]
+data_tier: 1
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Byd Seal 06 GT

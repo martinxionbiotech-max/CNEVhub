@@ -1,6 +1,6 @@
 ---
-title: "Jac Yiwei 3"
-description: "Jac Yiwei 3 is a sedan from Jac Yiwei, offering 330 km of CLTC range and 60 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for ..."
+title: "JAC Yiwei 3"
+description: "JAC Yiwei 3 is a sedan from JAC Yiwei, offering 330 km of CLTC range and 60 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for ..."
 slug: "jac-yiwei-3"
 brand: "jac-yiwei"
 type: "Sedan"
@@ -23,6 +23,10 @@ author: "Wei Wang"
 tags: ["jac-yiwei", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1762759526308-8wtwwanfvd9.jpg"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 22162.64, "premium_pct": 125.0}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 21943.41, "premium_pct": 122.8}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 22324.2, "premium_pct": 126.6}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 22193.42, "premium_pct": 125.3}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.05, "total_landed_usd": 17557.56, "premium_pct": 78.2}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.15, "total_landed_usd": 18805.91, "premium_pct": 90.9}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.207, "vat_rate": 0.1, "total_landed_usd": 18927.85, "premium_pct": 92.2}]
+data_tier: 2
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Jac Yiwei 3

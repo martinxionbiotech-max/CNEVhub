@@ -1,6 +1,6 @@
 ---
-title: "Jac Refine RF8"
-description: "Jac Refine RF8 is an MPV (PHEV) from JAC Refine, offering 252 km of electric range, a 44.5 kWh battery, and 160 kW of motor power. Full landed-cost breakdown across key export markets."
+title: "JAC Refine RF8"
+description: "JAC Refine RF8 is an MPV (PHEV) from JAC Refine, offering 252 km of electric range, a 44.5 kWh battery, and 160 kW of motor power. Full landed-cost breakdown across key export markets."
 slug: "jac-refine-rf8"
 brand: "jac-refine"
 type: "MPV"
@@ -26,6 +26,10 @@ author: "Wei Wang"
 tags: ["jac-refine", "MPV", "PHEV", "chinese-ev", "export"]
 image: "/images/vehicles/1765190561277-l25z35cwhhk.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 74798.9, "premium_pct": 43.6}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 75022.0, "premium_pct": 44.0}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 75845.1, "premium_pct": 45.6}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 75272.0, "premium_pct": 44.5}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 61890.25, "premium_pct": 18.8}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 67360.75, "premium_pct": 29.3}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 63160.0, "premium_pct": 21.2}]
+data_tier: 1
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Jac Refine RF8

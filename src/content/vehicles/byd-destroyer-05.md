@@ -1,6 +1,6 @@
 ---
-title: "Byd Destroyer 05"
-description: "Byd Destroyer 05 is a sedan from Byd, a 8.3 kWh battery and 132 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import p..."
+title: "BYD Destroyer 05"
+description: "BYD Destroyer 05 is a sedan from Byd, a 8.3 kWh battery and 132 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import p..."
 slug: "byd-destroyer-05"
 brand: "byd"
 type: "Sedan"
@@ -25,6 +25,10 @@ author: "Wei Wang"
 tags: ["byd", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1762157969313-iifks2i73ir.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 25371.06, "premium_pct": 76.9}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 25178.8, "premium_pct": 75.6}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 25586.54, "premium_pct": 78.4}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 25428.8, "premium_pct": 77.3}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 20259.85, "premium_pct": 41.3}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 21765.55, "premium_pct": 51.8}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 21624.0, "premium_pct": 50.8}]
+data_tier: 2
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Byd Destroyer 05

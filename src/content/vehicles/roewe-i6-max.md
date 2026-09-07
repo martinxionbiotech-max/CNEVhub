@@ -1,6 +1,6 @@
 ---
-title: "Roewe I6 MAX"
-description: "Roewe I6 MAX is a sedan from Roewe, a 51 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+title: "Roewe I6 Max"
+description: "Roewe I6 Max is a sedan from Roewe, a 51 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
 slug: "roewe-i6-max"
 brand: "roewe"
 type: "Sedan"
@@ -22,6 +22,10 @@ author: "Wei Wang"
 tags: ["roewe", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1762427348851-3mkpmj5pou9.jpg"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 71403.71, "premium_pct": 95.1}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 54548.8, "premium_pct": 49.1}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.21, "total_landed_usd": 72392.85, "premium_pct": 97.8}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.2, "total_landed_usd": 71848.28, "premium_pct": 96.4}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 44790.47, "premium_pct": 22.4}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 48632.43, "premium_pct": 32.9}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 46099.0, "premium_pct": 26.0}]
+data_tier: 2
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Roewe I6 MAX

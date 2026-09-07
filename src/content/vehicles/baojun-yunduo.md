@@ -25,6 +25,10 @@ author: "Wei Wang"
 tags: ["baojun", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1762760806417-uq6m71zjky.jpg"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 30491.83, "premium_pct": 126.0}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.2, "total_landed_usd": 30342.6, "premium_pct": 124.9}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.21, "total_landed_usd": 30793.38, "premium_pct": 128.3}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.2, "total_landed_usd": 30592.6, "premium_pct": 126.8}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.353, "vat_rate": 0.05, "total_landed_usd": 24572.79, "premium_pct": 82.2}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.353, "vat_rate": 0.15, "total_landed_usd": 26489.25, "premium_pct": 96.4}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.353, "vat_rate": 0.1, "total_landed_usd": 25927.17, "premium_pct": 92.2}]
+data_tier: 1
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Baojun Yunduo

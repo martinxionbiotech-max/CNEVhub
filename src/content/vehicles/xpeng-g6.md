@@ -1,6 +1,6 @@
 ---
-title: "Xpeng G6"
-description: "Xpeng G6 is a suv from Xpeng, offering 625 km of CLTC range a 68.5 kWh battery and 218 kW of motor power. Full landed-cost breakdown to the EU/DACH region in..."
+title: "XPENG G6"
+description: "XPENG G6 is a suv from Xpeng, offering 625 km of CLTC range a 68.5 kWh battery and 218 kW of motor power. Full landed-cost breakdown to the EU/DACH region in..."
 slug: "xpeng-g6"
 brand: "xpeng"
 type: "SUV"
@@ -26,6 +26,10 @@ author: "Wei Wang"
 tags: ["xpeng", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1761053100254-23bhjsg2nxb.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 45830.48, "premium_pct": 84.6}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 45810.15, "premium_pct": 84.5}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 46389.82, "premium_pct": 86.8}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 46060.15, "premium_pct": 85.5}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.05, "total_landed_usd": 37491.72, "premium_pct": 51.0}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.15, "total_landed_usd": 40638.54, "premium_pct": 63.7}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.207, "vat_rate": 0.1, "total_landed_usd": 38816.79, "premium_pct": 56.3}]
+data_tier: 1
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Xpeng G6

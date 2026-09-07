@@ -1,6 +1,6 @@
 ---
-title: "Gac Motor Xiangwang S9"
-description: "Gac Motor Xiangwang S9 is a suv from Gac Motor, a 44.5 kWh battery and 250 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B..."
+title: "GAC Motor Xiangwang S9"
+description: "GAC Motor Xiangwang S9 is a suv from GAC Motor, a 44.5 kWh battery and 250 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B..."
 slug: "gac-motor-xiangwang-s9"
 brand: "gac-motor"
 type: "SUV"
@@ -25,6 +25,10 @@ author: "Wei Wang"
 tags: ["gac-motor", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1764405898401-eo2hc1ysxpn.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 48985.42, "premium_pct": 51.3}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 48991.6, "premium_pct": 51.3}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 49597.78, "premium_pct": 53.2}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 49241.6, "premium_pct": 52.1}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 40148.95, "premium_pct": 24.0}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 43548.85, "premium_pct": 34.5}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 41468.0, "premium_pct": 28.1}]
+data_tier: 2
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Gac Motor Xiangwang S9

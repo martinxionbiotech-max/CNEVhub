@@ -26,6 +26,10 @@ author: "Wei Wang"
 tags: ["denza", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1764416087653-u0a8c2lhiup.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.19, "total_landed_usd": 62638.69, "premium_pct": 71.2}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.2, "total_landed_usd": 62759.6, "premium_pct": 71.5}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.21, "total_landed_usd": 63480.51, "premium_pct": 73.5}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.2, "total_landed_usd": 63009.59, "premium_pct": 72.2}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.17, "vat_rate": 0.05, "total_landed_usd": 51648.35, "premium_pct": 41.2}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.17, "vat_rate": 0.15, "total_landed_usd": 56143.44, "premium_pct": 53.4}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.17, "vat_rate": 0.1, "total_landed_usd": 52941.33, "premium_pct": 44.7}]
+data_tier: 1
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Denza N7

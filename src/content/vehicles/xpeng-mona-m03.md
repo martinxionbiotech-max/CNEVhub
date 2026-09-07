@@ -1,6 +1,6 @@
 ---
-title: "Xpeng Mona M03"
-description: "Xpeng Mona M03 is a suv from Xpeng, offering 515 km of CLTC range a 51.8 kWh battery and 140 kW of motor power. Full landed-cost breakdown to the EU/DACH reg..."
+title: "XPENG Mona M03"
+description: "XPENG Mona M03 is a suv from Xpeng, offering 515 km of CLTC range a 51.8 kWh battery and 140 kW of motor power. Full landed-cost breakdown to the EU/DACH reg..."
 slug: "xpeng-mona-m03"
 brand: "xpeng"
 type: "SUV"
@@ -26,6 +26,10 @@ author: "Wei Wang"
 tags: ["xpeng", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1761103519937-35h9yb3mp1x.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 33143.38, "premium_pct": 97.3}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 33016.43, "premium_pct": 96.5}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 33489.49, "premium_pct": 99.3}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 33266.43, "premium_pct": 98.0}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.05, "total_landed_usd": 26806.05, "premium_pct": 59.6}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.15, "total_landed_usd": 28935.2, "premium_pct": 72.2}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.207, "vat_rate": 0.1, "total_landed_usd": 28155.36, "premium_pct": 67.6}]
+data_tier: 1
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Xpeng Mona M03

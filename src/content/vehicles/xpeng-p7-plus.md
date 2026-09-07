@@ -1,6 +1,6 @@
 ---
-title: "Xpeng P7 PLUS"
-description: "Xpeng P7 PLUS is a suv from Xpeng, offering 725 km of CLTC range a 76.3 kWh battery and 230 kW of motor power. Full landed-cost breakdown to the EU/DACH regi..."
+title: "XPENG P7 Plus"
+description: "XPENG P7 Plus is a suv from Xpeng, offering 725 km of CLTC range a 76.3 kWh battery and 230 kW of motor power. Full landed-cost breakdown to the EU/DACH regi..."
 slug: "xpeng-p7-plus"
 brand: "xpeng"
 type: "SUV"
@@ -26,6 +26,10 @@ author: "Wei Wang"
 tags: ["xpeng", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1762156245959-xungx9trtb.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 50838.97, "premium_pct": 81.6}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 50860.72, "premium_pct": 81.6}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 51482.47, "premium_pct": 83.9}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 51110.72, "premium_pct": 82.5}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.05, "total_landed_usd": 41710.09, "premium_pct": 49.0}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.15, "total_landed_usd": 45258.67, "premium_pct": 61.6}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.207, "vat_rate": 0.1, "total_landed_usd": 43025.6, "premium_pct": 53.7}]
+data_tier: 1
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Xpeng P7 PLUS

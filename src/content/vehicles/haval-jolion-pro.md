@@ -1,6 +1,6 @@
 ---
-title: "Haval Jolion PRO"
-description: "Haval Jolion PRO is a suv from Haval, and 115 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+title: "Haval Jolion Pro"
+description: "Haval Jolion Pro is a suv from Haval, and 115 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
 slug: "haval-jolion-pro"
 brand: "haval"
 type: "SUV"
@@ -22,6 +22,10 @@ author: "Wei Wang"
 tags: ["haval", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1764854670776-o4pkdo55kg.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 30345.26, "premium_pct": 67.3}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 30194.8, "premium_pct": 66.5}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 30644.34, "premium_pct": 68.9}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 30444.8, "premium_pct": 67.8}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 24449.35, "premium_pct": 34.8}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 26354.05, "premium_pct": 45.3}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 25804.0, "premium_pct": 42.2}]
+data_tier: 3
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Haval Jolion PRO

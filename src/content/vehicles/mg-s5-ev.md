@@ -1,6 +1,6 @@
 ---
-title: "Mg S5 EV"
-description: "Mg S5 EV is a suv from Mg, offering 425 km of CLTC range a 49.1 kWh battery and 125 kW of motor power. Full landed-cost breakdown to the EU/DACH region inclu..."
+title: "MG S5 EV"
+description: "MG S5 EV is a suv from Mg, offering 425 km of CLTC range a 49.1 kWh battery and 125 kW of motor power. Full landed-cost breakdown to the EU/DACH region inclu..."
 slug: "mg-s5-ev"
 brand: "mg"
 type: "SUV"
@@ -26,6 +26,10 @@ author: "Wei Wang"
 tags: ["mg", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1763886214916-v9unlrndgdl.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 35751.93, "premium_pct": 117.2}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 27977.2, "premium_pct": 70.0}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.21, "total_landed_usd": 36141.88, "premium_pct": 119.6}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.2, "total_landed_usd": 35896.9, "premium_pct": 118.1}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 22597.15, "premium_pct": 37.3}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 24325.45, "premium_pct": 47.8}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 23956.0, "premium_pct": 45.5}]
+data_tier: 1
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Mg S5 EV

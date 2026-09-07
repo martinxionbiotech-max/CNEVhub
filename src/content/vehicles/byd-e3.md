@@ -1,6 +1,6 @@
 ---
-title: "Byd E3"
-description: "Byd E3 is a sedan from Byd, a 43.2 kWh battery and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+title: "BYD E3"
+description: "BYD E3 is a sedan from Byd, a 43.2 kWh battery and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
 slug: "byd-e3"
 brand: "byd"
 type: "Sedan"
@@ -23,6 +23,10 @@ author: "Wei Wang"
 tags: ["byd", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1762762184565-ll3a8zghmdr.jpg"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.19, "total_landed_usd": 39987.35, "premium_pct": 83.4}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 35026.0, "premium_pct": 60.7}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.21, "total_landed_usd": 40448.49, "premium_pct": 85.5}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.17, "vat_rate": 0.2, "total_landed_usd": 40167.92, "premium_pct": 84.3}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 28484.5, "premium_pct": 30.7}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 30773.5, "premium_pct": 41.2}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 29830.0, "premium_pct": 36.8}]
+data_tier: 2
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Byd E3

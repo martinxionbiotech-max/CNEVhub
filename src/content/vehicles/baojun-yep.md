@@ -1,6 +1,6 @@
 ---
-title: "Baojun YEP"
-description: "Baojun YEP is a suv from Baojun, offering 303 km of CLTC range a 28.1 kWh battery and 50 kW of motor power. Full landed-cost breakdown to the EU/DACH region ..."
+title: "Baojun Yep"
+description: "Baojun Yep is a suv from Baojun, offering 303 km of CLTC range a 28.1 kWh battery and 50 kW of motor power. Full landed-cost breakdown to the EU/DACH region ..."
 slug: "baojun-yep"
 brand: "baojun"
 type: "SUV"
@@ -25,6 +25,10 @@ author: "Wei Wang"
 tags: ["baojun", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1764430841214-aw6y19qlkr6.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 26754.86, "premium_pct": 135.1}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.2, "total_landed_usd": 26574.22, "premium_pct": 133.5}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.21, "total_landed_usd": 26993.59, "premium_pct": 137.2}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.2, "total_landed_usd": 26824.22, "premium_pct": 135.7}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.353, "vat_rate": 0.05, "total_landed_usd": 21425.35, "premium_pct": 88.3}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.353, "vat_rate": 0.15, "total_landed_usd": 23042.05, "premium_pct": 102.5}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.353, "vat_rate": 0.1, "total_landed_usd": 22786.85, "premium_pct": 100.2}]
+data_tier: 1
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Baojun YEP

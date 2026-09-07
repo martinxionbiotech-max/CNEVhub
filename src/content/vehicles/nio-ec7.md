@@ -1,6 +1,6 @@
 ---
-title: "Nio EC7"
-description: "Nio EC7 is a suv from Nio, offering 635 km of CLTC range a 100 kWh battery and 480 kW of motor power. Full landed-cost breakdown to the EU/DACH region includ..."
+title: "NIO EC7"
+description: "NIO EC7 is a suv from Nio, offering 635 km of CLTC range a 100 kWh battery and 480 kW of motor power. Full landed-cost breakdown to the EU/DACH region includ..."
 slug: "nio-ec7"
 brand: "nio"
 type: "SUV"
@@ -26,6 +26,10 @@ author: "Wei Wang"
 tags: ["nio", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1764407077209-gx0r5tkjbpi.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 108523.41, "premium_pct": 68.2}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 109029.91, "premium_pct": 69.0}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 110136.41, "premium_pct": 70.7}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 109279.91, "premium_pct": 69.4}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.05, "total_landed_usd": 90294.58, "premium_pct": 40.0}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.15, "total_landed_usd": 98470.26, "premium_pct": 52.6}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.207, "vat_rate": 0.1, "total_landed_usd": 91499.93, "premium_pct": 41.8}]
+data_tier: 1
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Nio EC7

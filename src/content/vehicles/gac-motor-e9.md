@@ -1,6 +1,6 @@
 ---
-title: "Gac Motor E9"
-description: "Gac Motor E9 is a suv from Gac Motor, a 25.5 kWh battery and 134 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import ..."
+title: "GAC Motor E9"
+description: "GAC Motor E9 is a suv from GAC Motor, a 25.5 kWh battery and 134 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import ..."
 slug: "gac-motor-e9"
 brand: "gac-motor"
 type: "SUV"
@@ -25,6 +25,10 @@ author: "Wei Wang"
 tags: ["gac-motor", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1765267528484-dlu7huxlq2q.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 66107.14, "premium_pct": 45.4}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 66257.2, "premium_pct": 45.7}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 67007.26, "premium_pct": 47.4}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 66507.2, "premium_pct": 46.3}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 54569.65, "premium_pct": 20.0}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 59342.95, "premium_pct": 30.5}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 55856.0, "premium_pct": 22.9}]
+data_tier: 2
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Gac Motor E9

@@ -1,6 +1,6 @@
 ---
-title: "Byd Seal 05 MD I"
-description: "Byd Seal 05 MD I is a sedan from Byd, a 15.87 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import..."
+title: "BYD Seal 05 MD I"
+description: "BYD Seal 05 MD I is a sedan from Byd, a 15.87 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import..."
 slug: "byd-seal-05-md-i"
 brand: "byd"
 type: "Sedan"
@@ -25,6 +25,10 @@ author: "Wei Wang"
 tags: ["byd", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1761652987457-n96vwtez84.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 21273.89, "premium_pct": 89.8}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 21047.2, "premium_pct": 87.8}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 21420.51, "premium_pct": 91.1}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 21297.2, "premium_pct": 90.0}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 16809.03, "premium_pct": 49.9}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 17986.08, "premium_pct": 60.4}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 18181.0, "premium_pct": 62.2}]
+data_tier: 2
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Byd Seal 05 MD I

@@ -1,6 +1,6 @@
 ---
-title: "Byd Seal 06 DMI Touring"
-description: "Byd Seal 06 DMI Touring is a sedan from Byd, a 10.08 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B..."
+title: "BYD Seal 06 DM-i Touring"
+description: "BYD Seal 06 DM-i Touring is a sedan from Byd, a 10.08 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B..."
 slug: "byd-seal-06-dmi-touring"
 brand: "byd"
 type: "Sedan"
@@ -25,6 +25,10 @@ author: "Wei Wang"
 tags: ["byd", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1762160168421-ltobjejvjl.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 26837.14, "premium_pct": 73.6}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 26657.2, "premium_pct": 72.4}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 27077.26, "premium_pct": 75.1}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 26907.2, "premium_pct": 74.0}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 21494.65, "premium_pct": 39.0}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 23117.95, "premium_pct": 49.5}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 22856.0, "premium_pct": 47.8}]
+data_tier: 2
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Byd Seal 06 DMI Touring

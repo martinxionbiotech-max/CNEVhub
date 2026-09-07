@@ -81,10 +81,12 @@ const vehicles = defineCollection({
     publishedDate: z.coerce.date(),
     author: z.string(),
     tags: z.array(z.string()).default([]),
+    data_tier: z.number().optional(),
+    data_source: z.string().optional(),
+    data_updated: z.string().optional(),
+    data_reviewed: z.boolean().optional(),
   }),
 });
-
-
 
 const brands = defineCollection({
   loader: glob({ pattern: "**/*.{md,mdx}", base: "./src/content/brands" }),

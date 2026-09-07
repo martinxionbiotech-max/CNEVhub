@@ -1,6 +1,6 @@
 ---
-title: "Xpeng G7"
-description: "Xpeng G7 is a suv from Xpeng, offering 602 km of CLTC range and 218 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impo..."
+title: "XPENG G7"
+description: "XPENG G7 is a suv from Xpeng, offering 602 km of CLTC range and 218 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impo..."
 slug: "xpeng-g7"
 brand: "xpeng"
 type: "SUV"
@@ -25,6 +25,10 @@ author: "Wei Wang"
 tags: ["xpeng", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1763390674163-3yxwbgmy9v7.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 50175.38, "premium_pct": 81.9}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 50191.56, "premium_pct": 82.0}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 50807.74, "premium_pct": 84.2}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 50441.56, "premium_pct": 82.9}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.05, "total_landed_usd": 41151.19, "premium_pct": 49.2}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.207, "vat_rate": 0.15, "total_landed_usd": 44646.54, "premium_pct": 61.9}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.207, "vat_rate": 0.1, "total_landed_usd": 42467.97, "premium_pct": 54.0}]
+data_tier: 2
+data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
+data_updated: "2026-09-07"
+data_reviewed: false
 ---
 
 # Xpeng G7
