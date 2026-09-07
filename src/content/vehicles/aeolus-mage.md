@@ -7,6 +7,7 @@ type: "SUV"
 powertrain: "PHEV"
 price_usd: 17170.0
 currency: "USD"
+range_cltc_km: null
 motor_power_kw: 105
 torque_nm: 210
 accel_0_100_s: 6.0

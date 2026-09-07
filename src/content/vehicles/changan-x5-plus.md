@@ -7,6 +7,7 @@ type: "SUV"
 powertrain: "BEV"
 price_usd: 8400.0
 currency: "USD"
+range_cltc_km: null
 accel_0_100_s: 14.2
 top_speed_kmh: 160
 length_mm: 4540

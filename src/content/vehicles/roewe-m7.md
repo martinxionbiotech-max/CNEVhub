@@ -7,6 +7,7 @@ type: "Sedan"
 powertrain: "PHEV"
 price_usd: 13770.0
 currency: "USD"
+range_cltc_km: 160
 battery_kwh: 19.7
 motor_power_kw: 137
 torque_nm: 330

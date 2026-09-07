@@ -7,6 +7,7 @@ type: "SUV"
 powertrain: "PHEV"
 price_usd: 60280.0
 currency: "USD"
+range_cltc_km: 90
 battery_kwh: 37.1
 motor_power_kw: 120
 torque_nm: 400

@@ -63,6 +63,7 @@ const vehicles = defineCollection({
     price_usd: z.number(),
     currency: z.string().default('USD'),
     range_cltc_km: z.number().nullable().optional(),
+    range_long_km: z.number().nullable().optional(),
     battery_kwh: z.number().nullable().optional(),
     motor_power_kw: z.number().nullable().optional(),
     torque_nm: z.number().nullable().optional(),

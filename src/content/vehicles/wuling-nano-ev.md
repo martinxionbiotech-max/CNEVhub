@@ -7,6 +7,7 @@ type: "Hatchback"
 powertrain: "BEV"
 price_usd: 8560.0
 currency: "USD"
+range_cltc_km: 305
 battery_kwh: 28.0
 motor_power_kw: 24
 torque_nm: 85

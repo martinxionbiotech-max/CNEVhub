@@ -7,6 +7,7 @@ type: "Sedan"
 powertrain: "BEV"
 price_usd: 21800.0
 currency: "USD"
+range_cltc_km: 401
 battery_kwh: 43.2
 motor_power_kw: 100
 torque_nm: 180

@@ -7,6 +7,7 @@ type: "SUV"
 powertrain: "BEV"
 price_usd: 19700.0
 currency: "USD"
+range_cltc_km: 710
 battery_kwh: 35.07
 motor_power_kw: 200
 torque_nm: 290

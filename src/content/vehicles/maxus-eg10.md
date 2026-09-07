@@ -7,6 +7,7 @@ type: "MPV"
 powertrain: "BEV"
 price_usd: 42150.0
 currency: "USD"
+range_cltc_km: 300
 battery_kwh: 71.8
 motor_power_kw: 150
 torque_nm: 800
