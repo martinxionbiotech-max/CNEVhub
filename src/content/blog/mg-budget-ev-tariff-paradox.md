@@ -1,6 +1,7 @@
 ---
 title: "MG4 and MG S5 EV: SAIC's Budget EVs and the Tariff Paradox"
 description: "MG's budget EVs carry the EU's highest 35.3% countervailing duty — yet the MG4 still lands cheaper than a BYD Dolphin. The reason is a tariff paradox: base price, not the rate, decides the budget segment. Full landed-cost math."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

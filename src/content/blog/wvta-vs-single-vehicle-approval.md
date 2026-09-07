@@ -1,6 +1,7 @@
 ---
 title: "WVTA vs Single-Vehicle Approval: Which Homologation Route for a Chinese EV?"
 description: "A Chinese-market EV usually isn't built to EU type-approval, so you can't just register it. Here's the decision framework for WVTA, Small Series, and national single-vehicle approval — with real costs and timelines."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

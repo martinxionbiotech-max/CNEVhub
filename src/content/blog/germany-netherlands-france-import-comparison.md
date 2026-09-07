@@ -1,6 +1,7 @@
 ---
 title: "Germany vs Netherlands vs France: Which EU Market Is Cheapest to Import a Chinese EV Into?"
 description: "Inside the EU, the tariff stack is identical — the only variable is VAT (Germany 19%, France 20%, Netherlands 21%). The real landed-cost spread is ~1%, and it's almost never the deciding factor. Here's the honest math."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

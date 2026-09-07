@@ -1,6 +1,7 @@
 ---
 title: "Wuling and Leapmotor Microcars: The Cheapest Chinese EV Is the Worst Import"
 description: "A $5,000 Wuling Hongguang MINI EV lands in Germany at $15,455 (+209%) — because the $6,600 of fixed import costs exceeds the car's own price. The honest math on why microcars are terrible import economics."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

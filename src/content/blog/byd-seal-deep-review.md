@@ -1,6 +1,7 @@
 ---
 title: "BYD Seal Deep Review: Real Landed Cost & Import Math for B2B Buyers"
 description: "BYD Seal landed cost to Germany breaks down to $44,413 (+79.9% over China price). Export specs, WLTP vs CLTC gap, CCS2 and importer margin, fully sourced."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-05"
 draft: false

@@ -1,6 +1,7 @@
 ---
 title: "Xpeng G6 and Zeekr 001: The Landed-Cost Math for Premium Chinese EVs"
 description: "Premium Chinese EVs carry lower percentage premiums but far higher absolute tariffs — a Zeekr 001 pays $7,858 in countervailing duty alone. The honest math on whether premium imports beat budget ones."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

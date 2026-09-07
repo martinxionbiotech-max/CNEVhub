@@ -1,6 +1,7 @@
 ---
 title: "How to Import a Chinese EV to the EU: Complete 2026 Guide"
 description: "A step-by-step guide to importing Chinese EVs into the EU, with the full tariff stack (10% duty + countervailing duty + VAT), a landed-cost formula, and a worked BYD Seal example."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-05"
 draft: false

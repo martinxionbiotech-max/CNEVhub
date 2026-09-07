@@ -1,6 +1,7 @@
 ---
 title: "Importing a Chinese EV to Australia: The Zero-Duty Market (and Its Real Hidden Cost)"
 description: "Australia has zero import duty on EVs and no countervailing duty — but it's not the cheapest market, and the real hurdle isn't tax, it's ADR/RAV compliance and right-hand drive. Here's the honest math."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

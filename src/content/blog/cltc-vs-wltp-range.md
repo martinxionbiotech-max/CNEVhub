@@ -1,6 +1,7 @@
 ---
 title: "CLTC vs WLTP: Why the Range Number Drops (and How to Estimate It)"
 description: "Chinese EVs quote CLTC range, Europe quotes WLTP — and CLTC is systematically more optimistic. Here's why the number drops, a rough conversion rule of thumb, and why real-world range is lower still."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

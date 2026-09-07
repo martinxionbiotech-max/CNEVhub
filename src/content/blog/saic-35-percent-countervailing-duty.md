@@ -1,6 +1,7 @@
 ---
 title: "Why MG/SAIC Pays 35.3%: The Most Tariff-Hit Chinese EV Brand (2026)"
 description: "SAIC — parent of MG, Maxus, Roewe and Wuling — pays a 35.3% countervailing duty, more than double BYD's 17%. Full tariff-stack math, worked MG4 example, and 20-model landed-cost comparison."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

@@ -1,6 +1,7 @@
 ---
 title: "BYD Atto 3, Dolphin, and Sealion: The Landed-Cost Math for BYD's Volume EVs"
 description: "BYD's volume EV lineup — Atto 3, Dolphin, and the Sealion SUVs — spans $14k to $27k in China but lands at +78% to +100% in Germany. Model-by-model landed-cost comparison across 7 markets and the importer-margin math."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

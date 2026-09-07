@@ -1,6 +1,7 @@
 ---
 title: "Fleet Buyer's Guide: Private Importer vs Dealer — The Margin Math That Decides"
 description: "The landed cost is only half the question. Whether a Chinese EV import works depends on who's buying it and how much margin they need. The honest math for private importers, fleet buyers, and dealers."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

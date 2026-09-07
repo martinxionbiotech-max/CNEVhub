@@ -1,6 +1,7 @@
 ---
 title: "UAE vs Saudi Arabia: Which Gulf Market Lands a Chinese EV Cheaper?"
 description: "Both Gulf markets escape the EU's countervailing duty entirely — but the UAE beats Saudi Arabia on VAT (5% vs 15%). The landed-cost spread, model by model, and why the Gulf is structurally the cheapest region to import into."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

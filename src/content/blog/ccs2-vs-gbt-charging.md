@@ -1,6 +1,7 @@
 ---
 title: "CCS2 vs GB/T: The Charging Compatibility Cost of a Chinese EV"
 description: "China's EVs charge on GB/T, Europe on CCS2. A China-market car won't plug into a European fast charger without an adapter or a port conversion — here's what that actually costs and what to check first."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

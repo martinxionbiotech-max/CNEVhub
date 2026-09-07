@@ -1,6 +1,7 @@
 ---
 title: "Geely's 18.8% Countervailing Duty: What It Means for Zeekr, Lynk & Co, and Galaxy Buyers"
 description: "Geely Group pays an 18.8% countervailing duty — more than BYD's 17%, far less than SAIC's 35.3%. Full tariff-stack math, worked Galaxy E5 example, and a 13-model landed-cost comparison across Zeekr, Lynk & Co and Galaxy."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

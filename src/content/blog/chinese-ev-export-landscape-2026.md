@@ -1,6 +1,7 @@
 ---
 title: "Chinese EV Export Landscape 2026: Brands, Tariffs, and Where the Volume Is Really Going"
 description: "A data-backed look at China's EV export surge in 2026: tiered brands, EU countervailing tariffs, and the shift from exports to local production."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-05"
 draft: false

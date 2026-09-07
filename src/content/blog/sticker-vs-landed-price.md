@@ -1,6 +1,7 @@
 ---
 title: "Why the Sticker Price Is Never the Landed Price: The Complete Import Cost Stack"
 description: "A Chinese EV advertised at $14,000 can land in Germany at over $28,000. Here's the complete formula — duty, countervailing duty, VAT, freight, certification — and the one rule that explains every surprise."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

@@ -1,6 +1,7 @@
 ---
 title: "LHD vs RHD: Which Markets Can a Chinese EV Actually Serve?"
 description: "China builds left-hand-drive cars, but the UK, Ireland, Australia, and Japan drive on the left. A China-market EV can't be registered in RHD markets without conversion — here's the real market map and why it matters more than the tariff."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false

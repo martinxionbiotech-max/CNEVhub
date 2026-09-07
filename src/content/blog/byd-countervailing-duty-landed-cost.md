@@ -1,6 +1,7 @@
 ---
 title: "BYD's 17% Countervailing Duty: The Complete Landed-Cost Math (2026)"
 description: "Every BYD BEV pays a 17% countervailing duty on top of the EU's 10% tariff — 27% total. Full tariff-stack breakdown, a worked BYD Seal example, and a 37-model landed-cost comparison across 7 markets."
+image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-06"
 draft: false
