@@ -1,6 +1,6 @@
 ---
 title: "Jetour X70 C DM"
-description: "Jetour X70 C DM is a suv from Jetour, a 19.43 kWh battery and 199 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import..."
+description: "Jetour X70 C DM is a suv from Jetour, a 19.43 kWh battery and 199 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jetour-x70-c-dm"
 brand: "jetour"
 type: "SUV"

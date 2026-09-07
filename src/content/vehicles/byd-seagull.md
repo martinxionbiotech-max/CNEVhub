@@ -1,6 +1,6 @@
 ---
 title: "BYD Seagull"
-description: "BYD Seagull is a sedan from Byd, offering 305 km of CLTC range a 30.08 kWh battery and 55 kW of motor power. Full landed-cost breakdown to the EU/DACH region..."
+description: "BYD Seagull is a sedan from Byd, offering 305 km of CLTC range a 30.08 kWh battery and 55 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-seagull"
 brand: "byd"
 type: "Sedan"

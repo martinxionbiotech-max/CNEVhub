@@ -1,6 +1,6 @@
 ---
 title: "Haval BIG DOG Plus"
-description: "Haval BIG DOG Plus is a suv from Haval, a 18.74 kWh battery and 220 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impo..."
+description: "Haval BIG DOG Plus is a suv from Haval, a 18.74 kWh battery and 220 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "haval-big-dog-plus"
 brand: "haval"
 type: "SUV"

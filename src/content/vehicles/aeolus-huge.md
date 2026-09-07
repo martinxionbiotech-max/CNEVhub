@@ -1,6 +1,6 @@
 ---
 title: "Aeolus Huge"
-description: "Aeolus Huge is a suv from Aeolus,. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Aeolus Huge is a suv from Aeolus,. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aeolus-huge"
 brand: "aeolus"
 type: "SUV"

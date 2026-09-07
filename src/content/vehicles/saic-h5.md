@@ -1,6 +1,6 @@
 ---
 title: "SAIC H5"
-description: "SAIC H5 is a suv from Saic, a 32.6 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "SAIC H5 is a suv from Saic, a 32.6 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "saic-h5"
 brand: "saic"
 type: "SUV"

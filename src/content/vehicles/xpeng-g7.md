@@ -1,6 +1,6 @@
 ---
 title: "XPENG G7"
-description: "XPENG G7 is a suv from Xpeng, offering 602 km of CLTC range and 218 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impo..."
+description: "XPENG G7 is a suv from Xpeng, offering 602 km of CLTC range and 218 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "xpeng-g7"
 brand: "xpeng"
 type: "SUV"

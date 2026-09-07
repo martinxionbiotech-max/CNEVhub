@@ -1,6 +1,6 @@
 ---
 title: "Forthing S50Ev"
-description: "Forthing S50Ev is a suv from Forthing, offering 410 km of CLTC range a 44.51 kWh battery and 110 kW of motor power. Full landed-cost breakdown to the EU/DACH..."
+description: "Forthing S50Ev is a suv from Forthing, offering 410 km of CLTC range a 44.51 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "forthing-s50ev"
 brand: "forthing"
 type: "SUV"

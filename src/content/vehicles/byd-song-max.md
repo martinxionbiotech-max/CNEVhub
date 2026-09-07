@@ -1,6 +1,6 @@
 ---
 title: "BYD Song Max"
-description: "BYD Song Max is a mpv from Byd, a 8.3 kWh battery and 132 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "BYD Song Max is a mpv from Byd, a 8.3 kWh battery and 132 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-song-max"
 brand: "byd"
 type: "MPV"

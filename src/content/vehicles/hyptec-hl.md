@@ -1,6 +1,6 @@
 ---
 title: "Hyptec HL"
-description: "Hyptec HL is a suv from Hyptec, a 60.33 kWh battery and 250 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plann..."
+description: "Hyptec HL is a suv from Hyptec, a 60.33 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hyptec-hl"
 brand: "hyptec"
 type: "SUV"

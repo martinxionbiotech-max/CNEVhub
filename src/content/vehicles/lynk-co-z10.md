@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co Z10"
-description: "Lynk Co Z10 is a suv from Lynk Co, offering 702 km of CLTC range a 95 kWh battery and 580 kW of motor power. Full landed-cost breakdown to the EU/DACH region..."
+description: "Lynk Co Z10 is a suv from Lynk Co, offering 702 km of CLTC range a 95 kWh battery and 580 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "lynk-co-z10"
 brand: "lynk-co"
 type: "SUV"

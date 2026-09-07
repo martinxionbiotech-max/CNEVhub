@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal 06 GT"
-description: "BYD Seal 06 GT is a sedan from Byd, offering 505 km of CLTC range a 59.52 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH re..."
+description: "BYD Seal 06 GT is a sedan from Byd, offering 505 km of CLTC range a 59.52 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-seal-06-gt"
 brand: "byd"
 type: "Sedan"

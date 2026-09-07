@@ -1,6 +1,6 @@
 ---
 title: "Baojun Kiwi EV"
-description: "Baojun Kiwi EV is a hatchback from Baojun, a 31.9 kWh battery and 40 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl..."
+description: "Baojun Kiwi EV is a hatchback from Baojun, a 31.9 kWh battery and 40 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "baojun-kiwi-ev"
 brand: "baojun"
 type: "Hatchback"
@@ -39,7 +39,7 @@ Baojun Kiwi EV (starting at $12,370) is a Hatchback from BAOJUN.
 
 ## Overview
 
-Baojun Kiwi EV is a hatchback from Baojun, a 31.9 kWh battery and 40 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl...
+Baojun Kiwi EV is a hatchback from Baojun, a 31.9 kWh battery and 40 kW of motor power. Full landed-cost breakdown across 7 export markets included for B2B import pl...
 
 ## Landed Cost by Market
 

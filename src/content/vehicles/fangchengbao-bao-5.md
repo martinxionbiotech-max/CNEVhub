@@ -1,6 +1,6 @@
 ---
 title: "Fangchengbao BAO 5"
-description: "Fangchengbao BAO 5 is a suv from Fangchengbao, a 31.8 kWh battery and 485 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2..."
+description: "Fangchengbao BAO 5 is a suv from Fangchengbao, a 31.8 kWh battery and 485 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "fangchengbao-bao-5"
 brand: "fangchengbao"
 type: "SUV"

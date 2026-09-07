@@ -1,6 +1,6 @@
 ---
 title: "XPENG P7 Plus"
-description: "XPENG P7 Plus is a suv from Xpeng, offering 725 km of CLTC range a 76.3 kWh battery and 230 kW of motor power. Full landed-cost breakdown to the EU/DACH regi..."
+description: "XPENG P7 Plus is a suv from Xpeng, offering 725 km of CLTC range a 76.3 kWh battery and 230 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "xpeng-p7-plus"
 brand: "xpeng"
 type: "SUV"

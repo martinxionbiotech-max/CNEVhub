@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 900"
-description: "Lynk Co 900 is a suv from Lynk Co, a 44.85 kWh battery and 390 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl..."
+description: "Lynk Co 900 is a suv from Lynk Co, a 44.85 kWh battery and 390 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "lynk-co-900"
 brand: "lynk-co"
 type: "SUV"

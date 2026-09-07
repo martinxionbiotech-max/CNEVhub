@@ -1,6 +1,6 @@
 ---
 title: "Wey 80"
-description: "Wey 80 is a suv from Wey, a 44.28 kWh battery and 215 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Wey 80 is a suv from Wey, a 44.28 kWh battery and 215 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "wey-80"
 brand: "wey"
 type: "SUV"

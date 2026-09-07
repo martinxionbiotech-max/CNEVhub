@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo Q07"
-description: "Changan Nevo Q07 is a suv from Changan Nevo, a 21.5 kWh battery and 165 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B ..."
+description: "Changan Nevo Q07 is a suv from Changan Nevo, a 21.5 kWh battery and 165 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-nevo-q07"
 brand: "changan-nevo"
 type: "SUV"

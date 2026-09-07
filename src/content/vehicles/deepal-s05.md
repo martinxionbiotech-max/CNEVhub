@@ -1,6 +1,6 @@
 ---
 title: "Deepal S05"
-description: "Deepal S05 is a suv from Deepal, offering 520 km of CLTC range a 56.12 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH regio..."
+description: "Deepal S05 is a suv from Deepal, offering 520 km of CLTC range a 56.12 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "deepal-s05"
 brand: "deepal"
 type: "SUV"

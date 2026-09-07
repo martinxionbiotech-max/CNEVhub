@@ -1,6 +1,6 @@
 ---
 title: "Jetour X90"
-description: "Jetour X90 is a suv from Jetour, a 19.43 kWh battery and 199 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "Jetour X90 is a suv from Jetour, a 19.43 kWh battery and 199 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jetour-x90"
 brand: "jetour"
 type: "SUV"

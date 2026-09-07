@@ -1,6 +1,6 @@
 ---
 title: "Baw E M7"
-description: "Baw E M7 is a mpv from Baw, offering 340 km of CLTC range a 50 kWh battery and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region includ..."
+description: "Baw E M7 is a mpv from Baw, offering 340 km of CLTC range a 50 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "baw-e-m7"
 brand: "baw"
 type: "MPV"

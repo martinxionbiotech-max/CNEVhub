@@ -1,6 +1,6 @@
 ---
 title: "Avatr 06"
-description: "Avatr 06 is a suv from Avatr, offering 1190 km of CLTC range a 31.7 kWh battery and 231 kW of motor power. Full landed-cost breakdown to the EU/DACH region i..."
+description: "Avatr 06 is a suv from Avatr, offering 1190 km of CLTC range a 31.7 kWh battery and 231 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "avatr-06"
 brand: "avatr"
 type: "SUV"

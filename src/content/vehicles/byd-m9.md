@@ -1,6 +1,6 @@
 ---
 title: "BYD M9"
-description: "BYD M9 is a mpv from Byd, a 20.39 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "BYD M9 is a mpv from Byd, a 20.39 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-m9"
 brand: "byd"
 type: "MPV"

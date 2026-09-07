@@ -1,6 +1,6 @@
 ---
 title: "Exeed VX C DM"
-description: "Exeed VX C DM is a suv from Exeed, a 34.46 kWh battery and 340 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl..."
+description: "Exeed VX C DM is a suv from Exeed, a 34.46 kWh battery and 340 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "exeed-vx-c-dm"
 brand: "exeed"
 type: "SUV"

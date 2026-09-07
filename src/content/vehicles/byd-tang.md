@@ -1,6 +1,6 @@
 ---
 title: "BYD Tang"
-description: "BYD Tang is a suv from Byd, a 21.5 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "BYD Tang is a suv from Byd, a 21.5 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-tang"
 brand: "byd"
 type: "SUV"

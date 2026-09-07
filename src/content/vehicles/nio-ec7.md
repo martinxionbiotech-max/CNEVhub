@@ -1,6 +1,6 @@
 ---
 title: "NIO EC7"
-description: "NIO EC7 is a suv from Nio, offering 635 km of CLTC range a 100 kWh battery and 480 kW of motor power. Full landed-cost breakdown to the EU/DACH region includ..."
+description: "NIO EC7 is a suv from Nio, offering 635 km of CLTC range a 100 kWh battery and 480 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "nio-ec7"
 brand: "nio"
 type: "SUV"

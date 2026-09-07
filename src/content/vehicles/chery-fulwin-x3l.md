@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin X3L"
-description: "Chery Fulwin X3L is a suv from Chery Fulwin, a 20.64 kWh battery and 185 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B..."
+description: "Chery Fulwin X3L is a suv from Chery Fulwin, a 20.64 kWh battery and 185 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-fulwin-x3l"
 brand: "chery-fulwin"
 type: "SUV"

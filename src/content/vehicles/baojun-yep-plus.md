@@ -1,6 +1,6 @@
 ---
 title: "Baojun Yep Plus"
-description: "Baojun Yep Plus is a suv from Baojun, offering 301 km of CLTC range a 31.9 kWh battery and 75 kW of motor power. Full landed-cost breakdown to the EU/DACH re..."
+description: "Baojun Yep Plus is a suv from Baojun, offering 301 km of CLTC range a 31.9 kWh battery and 75 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "baojun-yep-plus"
 brand: "baojun"
 type: "SUV"

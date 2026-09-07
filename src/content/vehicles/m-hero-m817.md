@@ -1,6 +1,6 @@
 ---
 title: "M Hero M817"
-description: "M Hero M817 is a suv from M Hero, a 31.7 kWh battery and 405 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "M Hero M817 is a suv from M Hero, a 31.7 kWh battery and 405 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "m-hero-m817"
 brand: "m-hero"
 type: "SUV"

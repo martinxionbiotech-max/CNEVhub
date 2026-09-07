@@ -1,6 +1,6 @@
 ---
 title: "Arcfox AT5"
-description: "Arcfox AT5 is a suv from Arcfox, a 27.4 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plann..."
+description: "Arcfox AT5 is a suv from Arcfox, a 27.4 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "arcfox-at5"
 brand: "arcfox"
 type: "SUV"

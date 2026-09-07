@@ -1,6 +1,6 @@
 ---
 title: "Changan Cs75"
-description: "Changan Cs75 is a suv from Changan,. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Changan Cs75 is a suv from Changan,. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-cs75"
 brand: "changan"
 type: "SUV"

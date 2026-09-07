@@ -1,6 +1,6 @@
 ---
 title: "Roewe D7"
-description: "Roewe D7 is a sedan from Roewe, a 19.7 kWh battery and 137 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Roewe D7 is a sedan from Roewe, a 19.7 kWh battery and 137 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "roewe-d7"
 brand: "roewe"
 type: "Sedan"

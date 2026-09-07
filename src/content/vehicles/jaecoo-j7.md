@@ -1,6 +1,6 @@
 ---
 title: "Jaecoo J7"
-description: "Jaecoo J7 is a suv from Jaecoo, a 18.3 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Jaecoo J7 is a suv from Jaecoo, a 18.3 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jaecoo-j7"
 brand: "jaecoo"
 type: "SUV"

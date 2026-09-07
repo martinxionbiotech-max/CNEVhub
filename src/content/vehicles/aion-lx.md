@@ -1,6 +1,6 @@
 ---
 title: "Aion LX"
-description: "Aion LX is a suv from Aion, a 93.3 kWh battery and 180 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Aion LX is a suv from Aion, a 93.3 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aion-lx"
 brand: "aion"
 type: "SUV"

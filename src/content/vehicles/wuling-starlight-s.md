@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight S"
-description: "Wuling Starlight S is a suv from Wuling, a 9.5 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impor..."
+description: "Wuling Starlight S is a suv from Wuling, a 9.5 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "wuling-starlight-s"
 brand: "wuling"
 type: "SUV"

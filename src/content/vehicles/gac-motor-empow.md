@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor Empow"
-description: "GAC Motor Empow is a suv from GAC Motor, a 2.1 kWh battery and 134 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impor..."
+description: "GAC Motor Empow is a suv from GAC Motor, a 2.1 kWh battery and 134 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "gac-motor-empow"
 brand: "gac-motor"
 type: "SUV"

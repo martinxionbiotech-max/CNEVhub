@@ -1,6 +1,6 @@
 ---
 title: "BYD Sealion 06"
-description: "BYD Sealion 06 is a suv from Byd, offering 520 km of CLTC range a 65.28 kWh battery and 170 kW of motor power. Full landed-cost breakdown to the EU/DACH regi..."
+description: "BYD Sealion 06 is a suv from Byd, offering 520 km of CLTC range a 65.28 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-sealion-06"
 brand: "byd"
 type: "SUV"

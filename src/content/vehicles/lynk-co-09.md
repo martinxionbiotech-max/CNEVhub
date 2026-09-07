@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 09"
-description: "Lynk Co 09 is a suv from Lynk Co, a 40.1 kWh battery and 256 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "Lynk Co 09 is a suv from Lynk Co, a 40.1 kWh battery and 256 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "lynk-co-09"
 brand: "lynk-co"
 type: "SUV"

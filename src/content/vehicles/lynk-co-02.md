@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 02"
-description: "Lynk Co 02 is a suv from Lynk Co, and 115 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Lynk Co 02 is a suv from Lynk Co, and 115 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "lynk-co-02"
 brand: "lynk-co"
 type: "SUV"

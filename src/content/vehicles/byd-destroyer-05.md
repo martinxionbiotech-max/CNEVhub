@@ -1,6 +1,6 @@
 ---
 title: "BYD Destroyer 05"
-description: "BYD Destroyer 05 is a sedan from Byd, a 8.3 kWh battery and 132 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import p..."
+description: "BYD Destroyer 05 is a sedan from Byd, a 8.3 kWh battery and 132 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-destroyer-05"
 brand: "byd"
 type: "Sedan"

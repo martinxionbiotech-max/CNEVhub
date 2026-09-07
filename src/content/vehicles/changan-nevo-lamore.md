@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo Lamore"
-description: "Changan Nevo Lamore is a suv from Changan Nevo, a 9.07 kWh battery and 140 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B..."
+description: "Changan Nevo Lamore is a suv from Changan Nevo, a 9.07 kWh battery and 140 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-nevo-lamore"
 brand: "changan-nevo"
 type: "SUV"

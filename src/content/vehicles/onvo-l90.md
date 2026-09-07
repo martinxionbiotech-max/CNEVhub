@@ -1,6 +1,6 @@
 ---
 title: "Onvo L90"
-description: "Onvo L90 is a suv from Onvo, offering 605 km of CLTC range a 85 kWh battery and 340 kW of motor power. Full landed-cost breakdown to the EU/DACH region inclu..."
+description: "Onvo L90 is a suv from Onvo, offering 605 km of CLTC range a 85 kWh battery and 340 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "onvo-l90"
 brand: "onvo"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Arcfox T1"
-description: "Arcfox T1 is a suv from Arcfox, offering 320 km of CLTC range a 33.4 kWh battery and 95 kW of motor power. Full landed-cost breakdown to the EU/DACH region i..."
+description: "Arcfox T1 is a suv from Arcfox, offering 320 km of CLTC range a 33.4 kWh battery and 95 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "arcfox-t1"
 brand: "arcfox"
 type: "SUV"

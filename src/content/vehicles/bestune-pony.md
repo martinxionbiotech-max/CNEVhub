@@ -1,6 +1,6 @@
 ---
 title: "Bestune Pony"
-description: "Bestune Pony is a hatchback from Bestune, offering 122 km of CLTC range a 9.4 kWh battery and 20 kW of motor power. Full landed-cost breakdown to the EU/DACH regio..."
+description: "Bestune Pony is a hatchback from Bestune, offering 122 km of CLTC range a 9.4 kWh battery and 20 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "bestune-pony"
 brand: "bestune"
 type: "Hatchback"
@@ -40,7 +40,7 @@ Bestune Pony (starting at $3,500) is a Hatchback from BESTUNE.
 
 ## Overview
 
-Bestune Pony is a hatchback from Bestune, offering 122 km of CLTC range a 9.4 kWh battery and 20 kW of motor power. Full landed-cost breakdown to the EU/DACH regio...
+Bestune Pony is a hatchback from Bestune, offering 122 km of CLTC range a 9.4 kWh battery and 20 kW of motor power. Full landed-cost breakdown across 7 export markets regio...
 
 ## Landed Cost by Market
 

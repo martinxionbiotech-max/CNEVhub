@@ -1,6 +1,6 @@
 ---
 title: "Li Auto L6"
-description: "Li Auto L6 is a suv from Li Auto, a 36.8 kWh battery and 300 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "Li Auto L6 is a suv from Li Auto, a 36.8 kWh battery and 300 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "li-auto-l6"
 brand: "li-auto"
 type: "SUV"

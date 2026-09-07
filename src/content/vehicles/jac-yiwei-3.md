@@ -1,6 +1,6 @@
 ---
 title: "JAC Yiwei 3"
-description: "JAC Yiwei 3 is a sedan from JAC Yiwei, offering 330 km of CLTC range and 60 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for ..."
+description: "JAC Yiwei 3 is a sedan from JAC Yiwei, offering 330 km of CLTC range and 60 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jac-yiwei-3"
 brand: "jac-yiwei"
 type: "Sedan"

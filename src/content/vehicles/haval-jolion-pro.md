@@ -1,6 +1,6 @@
 ---
 title: "Haval Jolion Pro"
-description: "Haval Jolion Pro is a suv from Haval, and 115 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Haval Jolion Pro is a suv from Haval, and 115 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "haval-jolion-pro"
 brand: "haval"
 type: "SUV"

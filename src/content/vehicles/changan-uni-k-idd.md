@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI K IDD"
-description: "Changan UNI K IDD is a suv from Changan, a 28.4 kWh battery and 110 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impo..."
+description: "Changan UNI K IDD is a suv from Changan, a 28.4 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-uni-k-idd"
 brand: "changan"
 type: "SUV"

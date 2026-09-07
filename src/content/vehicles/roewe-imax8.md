@@ -1,6 +1,6 @@
 ---
 title: "Roewe Imax8"
-description: "Roewe Imax8 is a mpv from Roewe, a 24.7 kWh battery and 176 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plann..."
+description: "Roewe Imax8 is a mpv from Roewe, a 24.7 kWh battery and 176 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "roewe-imax8"
 brand: "roewe"
 type: "MPV"

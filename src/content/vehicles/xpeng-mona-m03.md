@@ -1,6 +1,6 @@
 ---
 title: "XPENG Mona M03"
-description: "XPENG Mona M03 is a suv from Xpeng, offering 515 km of CLTC range a 51.8 kWh battery and 140 kW of motor power. Full landed-cost breakdown to the EU/DACH reg..."
+description: "XPENG Mona M03 is a suv from Xpeng, offering 515 km of CLTC range a 51.8 kWh battery and 140 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "xpeng-mona-m03"
 brand: "xpeng"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng E PI 008"
-description: "Dongfeng E PI 008 is a suv from Dongfeng E, a 34.32 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B ..."
+description: "Dongfeng E PI 008 is a suv from Dongfeng E, a 34.32 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "dongfeng-epi-008"
 brand: "dongfeng-e"
 type: "SUV"

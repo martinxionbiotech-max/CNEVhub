@@ -1,6 +1,6 @@
 ---
 title: "Changan Cs55"
-description: "Changan Cs55 is a suv from Changan,. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Changan Cs55 is a suv from Changan,. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-cs55"
 brand: "changan"
 type: "SUV"

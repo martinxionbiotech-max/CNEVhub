@@ -1,6 +1,6 @@
 ---
 title: "Aeolus L8"
-description: "Aeolus L8 is a suv from Aeolus, a 18.1 kWh battery and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Aeolus L8 is a suv from Aeolus, a 18.1 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aeolus-l8"
 brand: "aeolus"
 type: "SUV"

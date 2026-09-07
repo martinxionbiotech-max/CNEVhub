@@ -1,6 +1,6 @@
 ---
 title: "MG 4"
-description: "MG 4 is a suv from Mg, offering 437 km of CLTC range a 42.8 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included ..."
+description: "MG 4 is a suv from Mg, offering 437 km of CLTC range a 42.8 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "mg-4"
 brand: "mg"
 type: "SUV"

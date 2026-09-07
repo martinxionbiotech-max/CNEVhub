@@ -1,6 +1,6 @@
 ---
 title: "Geely Emgrand EV"
-description: "Geely Emgrand EV is a suv from Geely, offering 430 km of CLTC range a 51.8 kWh battery and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH r..."
+description: "Geely Emgrand EV is a suv from Geely, offering 430 km of CLTC range a 51.8 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "geely-emgrand-ev"
 brand: "geely"
 type: "SUV"

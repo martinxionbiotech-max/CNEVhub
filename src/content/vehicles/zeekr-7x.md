@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 7X"
-description: "Zeekr 7X is a suv from Zeekr, offering 620 km of CLTC range a 75 kWh battery and 370 kW of motor power. Full landed-cost breakdown to the EU/DACH region incl..."
+description: "Zeekr 7X is a suv from Zeekr, offering 620 km of CLTC range a 75 kWh battery and 370 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "zeekr-7x"
 brand: "zeekr"
 type: "SUV"

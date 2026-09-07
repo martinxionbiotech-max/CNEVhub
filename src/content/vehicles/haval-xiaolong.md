@@ -1,6 +1,6 @@
 ---
 title: "Haval Xiaolong"
-description: "Haval Xiaolong is a suv from Haval, a 9.41 kWh battery and 115 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl..."
+description: "Haval Xiaolong is a suv from Haval, a 9.41 kWh battery and 115 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "haval-xiaolong"
 brand: "haval"
 type: "SUV"

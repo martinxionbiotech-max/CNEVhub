@@ -1,6 +1,6 @@
 ---
 title: "Jetour Zongheng G700"
-description: "Jetour Zongheng G700 is a suv from Jetour, a 34.13 kWh battery and 510 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B i..."
+description: "Jetour Zongheng G700 is a suv from Jetour, a 34.13 kWh battery and 510 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jetour-zongheng-g700"
 brand: "jetour"
 type: "SUV"

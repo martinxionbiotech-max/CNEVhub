@@ -1,6 +1,6 @@
 ---
 title: "Haval Shenshou"
-description: "Haval Shenshou is a suv from Haval, a 1.69 kWh battery and 130 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl..."
+description: "Haval Shenshou is a suv from Haval, a 1.69 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "haval-shenshou"
 brand: "haval"
 type: "SUV"

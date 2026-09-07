@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 8 Plus C DM"
-description: "Chery Tiggo 8 Plus C DM is a suv from Chery, and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Chery Tiggo 8 Plus C DM is a suv from Chery, and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-tiggo-8-plus-c-dm"
 brand: "chery"
 type: "SUV"

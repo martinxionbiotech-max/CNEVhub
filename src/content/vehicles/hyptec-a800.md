@@ -1,6 +1,6 @@
 ---
 title: "Hyptec A800"
-description: "Hyptec A800 is a suv from Hyptec, a 35 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Hyptec A800 is a suv from Hyptec, a 35 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hyptec-a800"
 brand: "hyptec"
 type: "SUV"

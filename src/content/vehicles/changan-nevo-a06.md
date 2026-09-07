@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo A06"
-description: "Changan Nevo A06 is a suv from Changan Nevo, a 28.39 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B..."
+description: "Changan Nevo A06 is a suv from Changan Nevo, a 28.39 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-nevo-a06"
 brand: "changan-nevo"
 type: "SUV"

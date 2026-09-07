@@ -1,6 +1,6 @@
 ---
 title: "Yangwang U8"
-description: "Yangwang U8 is a suv from Yangwang, offering 780 km of CLTC range a 49.05 kWh battery and 880 kW of motor power. Full landed-cost breakdown to the EU/DACH re..."
+description: "Yangwang U8 is a suv from Yangwang, offering 780 km of CLTC range a 49.05 kWh battery and 880 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "yangwang-u8"
 brand: "yangwang"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Baojun Xiangjing"
-description: "Baojun Xiangjing is a suv from Baojun, a 20.5 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import..."
+description: "Baojun Xiangjing is a suv from Baojun, a 20.5 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "baojun-xiangjing"
 brand: "baojun"
 type: "SUV"

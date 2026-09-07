@@ -1,6 +1,6 @@
 ---
 title: "BYD Sealion 05 DM I"
-description: "BYD Sealion 05 DM I is a suv from Byd, a 12.9 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import..."
+description: "BYD Sealion 05 DM I is a suv from Byd, a 12.9 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-sealion-05-dm-i"
 brand: "byd"
 type: "SUV"

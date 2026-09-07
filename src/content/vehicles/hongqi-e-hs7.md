@@ -1,6 +1,6 @@
 ---
 title: "Hongqi E HS7"
-description: "Hongqi E HS7 is a suv from Hongqi, offering 605 km of CLTC range a 85 kWh battery and 253 kW of motor power. Full landed-cost breakdown to the EU/DACH region..."
+description: "Hongqi E HS7 is a suv from Hongqi, offering 605 km of CLTC range a 85 kWh battery and 253 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hongqi-e-hs7"
 brand: "hongqi"
 type: "SUV"

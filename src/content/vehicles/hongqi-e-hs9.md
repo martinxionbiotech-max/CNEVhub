@@ -1,6 +1,6 @@
 ---
 title: "Hongqi E HS9"
-description: "Hongqi E HS9 is a suv from Hongqi, a 120 kWh battery and 320 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "Hongqi E HS9 is a suv from Hongqi, a 120 kWh battery and 320 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hongqi-e-hs9"
 brand: "hongqi"
 type: "SUV"

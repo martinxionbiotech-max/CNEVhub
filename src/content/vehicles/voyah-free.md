@@ -1,6 +1,6 @@
 ---
 title: "Voyah Free"
-description: "Voyah Free is a suv from Voyah, a 45 kWh battery and 215 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Voyah Free is a suv from Voyah, a 45 kWh battery and 215 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "voyah-free"
 brand: "voyah"
 type: "SUV"

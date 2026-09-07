@@ -1,6 +1,6 @@
 ---
 title: "XPENG P7"
-description: "XPENG P7 is a sedan from Xpeng, offering 702 km of CLTC range a 74.9 kWh battery and 270 kW of motor power. Full landed-cost breakdown to the EU/DACH region ..."
+description: "XPENG P7 is a sedan from Xpeng, offering 702 km of CLTC range a 74.9 kWh battery and 270 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "xpeng-p7"
 brand: "xpeng"
 type: "Sedan"

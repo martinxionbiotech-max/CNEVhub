@@ -1,6 +1,6 @@
 ---
 title: "BYD Atto 2"
-description: "BYD Atto 2 is a suv from Byd, offering 301 km of CLTC range a 32 kWh battery and 70 kW of motor power. Full landed-cost breakdown to the EU/DACH region inclu..."
+description: "BYD Atto 2 is a suv from Byd, offering 301 km of CLTC range a 32 kWh battery and 70 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-atto-2"
 brand: "byd"
 type: "SUV"

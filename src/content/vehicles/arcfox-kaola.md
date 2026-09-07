@@ -1,6 +1,6 @@
 ---
 title: "Arcfox Kaola"
-description: "Arcfox Kaola is a suv from Arcfox, offering 500 km of CLTC range a 58.86 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH reg..."
+description: "Arcfox Kaola is a suv from Arcfox, offering 500 km of CLTC range a 58.86 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "arcfox-kaola"
 brand: "arcfox"
 type: "SUV"

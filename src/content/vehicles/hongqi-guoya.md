@@ -1,6 +1,6 @@
 ---
 title: "Hongqi Guoya"
-description: "Hongqi Guoya is a suv from Hongqi, and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Hongqi Guoya is a suv from Hongqi, and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hongqi-guoya"
 brand: "hongqi"
 type: "SUV"

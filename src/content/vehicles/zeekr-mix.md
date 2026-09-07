@@ -1,6 +1,6 @@
 ---
 title: "Zeekr MIX"
-description: "Zeekr MIX is a suv from Zeekr, offering 550 km of CLTC range a 76 kWh battery and 310 kW of motor power. Full landed-cost breakdown to the EU/DACH region inc..."
+description: "Zeekr MIX is a suv from Zeekr, offering 550 km of CLTC range a 76 kWh battery and 310 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "zeekr-mix"
 brand: "zeekr"
 type: "SUV"

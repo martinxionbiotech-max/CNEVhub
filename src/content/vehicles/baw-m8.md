@@ -1,6 +1,6 @@
 ---
 title: "Baw M8"
-description: "Baw M8 is a mpv from Baw, offering 1370 km of CLTC range a 35 kWh battery and 170 kW of motor power. Full landed-cost breakdown to the EU/DACH region include..."
+description: "Baw M8 is a mpv from Baw, offering 1370 km of CLTC range a 35 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "baw-m8"
 brand: "baw"
 type: "MPV"

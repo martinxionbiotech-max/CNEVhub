@@ -1,6 +1,6 @@
 ---
 title: "Hongqi HQ9"
-description: "Hongqi HQ9 is a suv from Hongqi, a 20.14 kWh battery and 210 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "Hongqi HQ9 is a suv from Hongqi, a 20.14 kWh battery and 210 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hongqi-hq9"
 brand: "hongqi"
 type: "SUV"

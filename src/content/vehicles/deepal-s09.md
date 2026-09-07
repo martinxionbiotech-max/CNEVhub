@@ -1,6 +1,6 @@
 ---
 title: "Deepal S09"
-description: "Deepal S09 is a suv from Deepal, a 40.18 kWh battery and 231 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "Deepal S09 is a suv from Deepal, a 40.18 kWh battery and 231 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "deepal-s09"
 brand: "deepal"
 type: "SUV"

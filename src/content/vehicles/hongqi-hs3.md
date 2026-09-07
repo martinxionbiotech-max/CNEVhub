@@ -1,6 +1,6 @@
 ---
 title: "Hongqi HS3"
-description: "Hongqi HS3 is a suv from Hongqi, a 18.4 kWh battery and 168 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plann..."
+description: "Hongqi HS3 is a suv from Hongqi, a 18.4 kWh battery and 168 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hongqi-hs3"
 brand: "hongqi"
 type: "SUV"

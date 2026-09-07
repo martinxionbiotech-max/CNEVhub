@@ -1,6 +1,6 @@
 ---
 title: "Exeed RX C DM"
-description: "Exeed RX C DM is a suv from Exeed, a 19.53 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl..."
+description: "Exeed RX C DM is a suv from Exeed, a 19.53 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "exeed-rx-c-dm"
 brand: "exeed"
 type: "SUV"

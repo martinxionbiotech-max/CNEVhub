@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C11"
-description: "Leapmotor C11 is a suv from Leapmotor, a 41.7 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import..."
+description: "Leapmotor C11 is a suv from Leapmotor, a 41.7 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "leapmotor-c11"
 brand: "leapmotor"
 type: "SUV"

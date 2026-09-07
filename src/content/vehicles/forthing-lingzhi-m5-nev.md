@@ -1,6 +1,6 @@
 ---
 title: "Forthing Lingzhi M5 NEV"
-description: "Forthing Lingzhi M5 NEV is a suv from Forthing, a 19.09 kWh battery and 60 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B..."
+description: "Forthing Lingzhi M5 NEV is a suv from Forthing, a 19.09 kWh battery and 60 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "forthing-lingzhi-m5-nev"
 brand: "forthing"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Tank 500"
-description: "Tank 500 is a suv from Tank, a 37.1 kWh battery and 130 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Tank 500 is a suv from Tank, a 37.1 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "tank-500"
 brand: "tank"
 type: "SUV"

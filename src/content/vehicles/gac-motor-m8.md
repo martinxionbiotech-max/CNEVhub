@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor M8"
-description: "GAC Motor M8 is a suv from GAC Motor, and 134 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "GAC Motor M8 is a suv from GAC Motor, and 134 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "gac-motor-m8"
 brand: "gac-motor"
 type: "SUV"

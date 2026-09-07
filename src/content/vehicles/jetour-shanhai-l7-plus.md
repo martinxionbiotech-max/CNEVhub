@@ -1,6 +1,6 @@
 ---
 title: "Jetour Shanhai L7 Plus"
-description: "Jetour Shanhai L7 Plus is a suv from Jetour, a 18.37 kWh battery and 199 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B..."
+description: "Jetour Shanhai L7 Plus is a suv from Jetour, a 18.37 kWh battery and 199 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jetour-shanhai-l7-plus"
 brand: "jetour"
 type: "SUV"

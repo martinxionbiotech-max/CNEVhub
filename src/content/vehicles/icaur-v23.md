@@ -1,6 +1,6 @@
 ---
 title: "Icaur V23"
-description: "Icaur V23 is a suv from Icaur, offering 401 km of CLTC range a 59.93 kWh battery and 185 kW of motor power. Full landed-cost breakdown to the EU/DACH region ..."
+description: "Icaur V23 is a suv from Icaur, offering 401 km of CLTC range a 59.93 kWh battery and 185 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "icaur-v23"
 brand: "icaur"
 type: "SUV"

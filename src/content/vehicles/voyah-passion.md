@@ -1,6 +1,6 @@
 ---
 title: "Voyah Passion"
-description: "Voyah Passion is a suv from Voyah, a 43 kWh battery and 290 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plann..."
+description: "Voyah Passion is a suv from Voyah, a 43 kWh battery and 290 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "voyah-passion"
 brand: "voyah"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "NIO ET7"
-description: "NIO ET7 is a suv from Nio, offering 675 km of CLTC range a 185.44 kWh battery and 480 kW of motor power. Full landed-cost breakdown to the EU/DACH region inc..."
+description: "NIO ET7 is a suv from Nio, offering 675 km of CLTC range a 185.44 kWh battery and 480 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "nio-et7"
 brand: "nio"
 type: "SUV"

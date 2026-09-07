@@ -1,6 +1,6 @@
 ---
 title: "JAC QX"
-description: "JAC QX is a suv from Jac, offering 1300 km of CLTC range a 21.68 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region incl..."
+description: "JAC QX is a suv from Jac, offering 1300 km of CLTC range a 21.68 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jac-qx"
 brand: "jac"
 type: "SUV"

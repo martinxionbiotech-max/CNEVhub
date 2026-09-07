@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C01"
-description: "Leapmotor C01 is a suv from Leapmotor, offering 1175 km of CLTC range a 30.1 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH..."
+description: "Leapmotor C01 is a suv from Leapmotor, offering 1175 km of CLTC range a 30.1 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "leapmotor-c01"
 brand: "leapmotor"
 type: "SUV"

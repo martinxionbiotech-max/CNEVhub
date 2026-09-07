@@ -1,6 +1,6 @@
 ---
 title: "Denza Z9"
-description: "Denza Z9 is a suv from Denza, offering 1101 km of CLTC range a 38.5 kWh battery and 640 kW of motor power. Full landed-cost breakdown to the EU/DACH region i..."
+description: "Denza Z9 is a suv from Denza, offering 1101 km of CLTC range a 38.5 kWh battery and 640 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "denza-z9"
 brand: "denza"
 type: "SUV"

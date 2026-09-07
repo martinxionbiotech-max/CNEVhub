@@ -1,6 +1,6 @@
 ---
 title: "BYD Han L"
-description: "BYD Han L is a sedan from Byd, a 29.4 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "BYD Han L is a sedan from Byd, a 29.4 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-han-l"
 brand: "byd"
 type: "Sedan"

@@ -1,6 +1,6 @@
 ---
 title: "Hongqi E HS5"
-description: "Hongqi E HS5 is a suv from Hongqi, offering 520 km of CLTC range a 62 kWh battery and 210 kW of motor power. Full landed-cost breakdown to the EU/DACH region..."
+description: "Hongqi E HS5 is a suv from Hongqi, offering 520 km of CLTC range a 62 kWh battery and 210 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hongqi-e-hs5"
 brand: "hongqi"
 type: "SUV"

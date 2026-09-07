@@ -1,6 +1,6 @@
 ---
 title: "Wuling Nano EV"
-description: "Wuling Nano EV is a hatchback from Wuling, a 28 kWh battery and 24 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "Wuling Nano EV is a hatchback from Wuling, a 28 kWh battery and 24 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "wuling-nano-ev"
 brand: "wuling"
 type: "Hatchback"
@@ -39,7 +39,7 @@ Wuling Nano EV (starting at $8,560) is a Hatchback from WULING.
 
 ## Overview
 
-Wuling Nano EV is a hatchback from Wuling, a 28 kWh battery and 24 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan...
+Wuling Nano EV is a hatchback from Wuling, a 28 kWh battery and 24 kW of motor power. Full landed-cost breakdown across 7 export markets included for B2B import plan...
 
 ## Landed Cost by Market
 

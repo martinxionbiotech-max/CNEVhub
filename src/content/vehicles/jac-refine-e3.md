@@ -1,6 +1,6 @@
 ---
 title: "JAC Refine E3"
-description: "JAC Refine E3 is a mpv from JAC Refine, offering 450 km of CLTC range a 76.5 kWh battery and 130 kW of motor power. Full landed-cost breakdown to the EU/DACH..."
+description: "JAC Refine E3 is a mpv from JAC Refine, offering 450 km of CLTC range a 76.5 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jac-refine-e3"
 brand: "jac-refine"
 type: "MPV"

@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin"
-description: "BYD Qin is a sedan from Byd, offering 450 km of CLTC range a 52.8 kWh battery and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region inc..."
+description: "BYD Qin is a sedan from Byd, offering 450 km of CLTC range a 52.8 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-qin"
 brand: "byd"
 type: "Sedan"

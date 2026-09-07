@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng Nammi 01"
-description: "Dongfeng Nammi 01 is a suv from Dongfeng Nammi, offering 330 km of CLTC range and 70 kW of motor power. Full landed-cost breakdown to the EU/DACH region incl..."
+description: "Dongfeng Nammi 01 is a suv from Dongfeng Nammi, offering 330 km of CLTC range and 70 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "dongfeng-nammi-01"
 brand: "dongfeng-nammi"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Li Auto L9"
-description: "Li Auto L9 is a suv from Li Auto, a 52.3 kWh battery and 330 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "Li Auto L9 is a suv from Li Auto, a 52.3 kWh battery and 330 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "li-auto-l9"
 brand: "li-auto"
 type: "SUV"

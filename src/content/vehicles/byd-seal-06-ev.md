@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal 06 EV"
-description: "BYD Seal 06 EV is a sedan from Byd, offering 470 km of CLTC range a 46.08 kWh battery and 110 kW of motor power. Full landed-cost breakdown to the EU/DACH re..."
+description: "BYD Seal 06 EV is a sedan from Byd, offering 470 km of CLTC range a 46.08 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-seal-06-ev"
 brand: "byd"
 type: "Sedan"

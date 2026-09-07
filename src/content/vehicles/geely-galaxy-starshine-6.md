@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Starshine 6"
-description: "Geely Galaxy Starshine 6 is a suv from Geely Galaxy, a 8.5 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included f..."
+description: "Geely Galaxy Starshine 6 is a suv from Geely Galaxy, a 8.5 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "geely-galaxy-starshine-6"
 brand: "geely-galaxy"
 type: "SUV"

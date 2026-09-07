@@ -1,6 +1,6 @@
 ---
 title: "Changan Cs75 Plus IDD"
-description: "Changan Cs75 Plus IDD is a suv from Changan, a 28.39 kWh battery and 110 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B..."
+description: "Changan Cs75 Plus IDD is a suv from Changan, a 28.39 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-cs75-plus-idd"
 brand: "changan"
 type: "SUV"

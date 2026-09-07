@@ -1,6 +1,6 @@
 ---
 title: "Maxus G50"
-description: "Maxus G50 is a mpv from Maxus, a 18.65 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Maxus G50 is a mpv from Maxus, a 18.65 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "maxus-g50"
 brand: "maxus"
 type: "MPV"

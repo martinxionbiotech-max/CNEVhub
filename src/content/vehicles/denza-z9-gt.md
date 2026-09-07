@@ -1,6 +1,6 @@
 ---
 title: "Denza Z9 GT"
-description: "Denza Z9 GT is a suv from Denza, a 38.5 kWh battery and 640 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plann..."
+description: "Denza Z9 GT is a suv from Denza, a 38.5 kWh battery and 640 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "denza-z9-gt"
 brand: "denza"
 type: "SUV"

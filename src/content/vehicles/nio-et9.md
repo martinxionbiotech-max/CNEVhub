@@ -1,6 +1,6 @@
 ---
 title: "NIO ET9"
-description: "NIO ET9 is a suv from Nio, offering 650 km of CLTC range a 102 kWh battery and 520 kW of motor power. Full landed-cost breakdown to the EU/DACH region includ..."
+description: "NIO ET9 is a suv from Nio, offering 650 km of CLTC range a 102 kWh battery and 520 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "nio-et9"
 brand: "nio"
 type: "SUV"

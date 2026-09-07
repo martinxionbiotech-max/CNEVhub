@@ -1,6 +1,6 @@
 ---
 title: "Bestune NAT"
-description: "Bestune NAT is a suv from Bestune, offering 425 km of CLTC range a 54.8 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH regi..."
+description: "Bestune NAT is a suv from Bestune, offering 425 km of CLTC range a 54.8 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "bestune-nat"
 brand: "bestune"
 type: "SUV"

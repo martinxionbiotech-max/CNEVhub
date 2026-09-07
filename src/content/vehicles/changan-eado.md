@@ -1,6 +1,6 @@
 ---
 title: "Changan Eado"
-description: "Changan Eado is a suv from Changan, a 9.07 kWh battery and 190 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl..."
+description: "Changan Eado is a suv from Changan, a 9.07 kWh battery and 190 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-eado"
 brand: "changan"
 type: "SUV"

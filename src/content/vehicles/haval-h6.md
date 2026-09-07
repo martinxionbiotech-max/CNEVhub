@@ -1,6 +1,6 @@
 ---
 title: "Haval H6"
-description: "Haval H6 is a suv from Haval, a 9.4 kWh battery and 130 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Haval H6 is a suv from Haval, a 9.4 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "haval-h6"
 brand: "haval"
 type: "SUV"

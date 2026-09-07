@@ -1,6 +1,6 @@
 ---
 title: "Aeolus Mage"
-description: "Aeolus Mage is a suv from Aeolus, and 105 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Aeolus Mage is a suv from Aeolus, and 105 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aeolus-mage"
 brand: "aeolus"
 type: "SUV"

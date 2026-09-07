@@ -1,6 +1,6 @@
 ---
 title: "NIO Et5T"
-description: "NIO Et5T is a suv from Nio, offering 710 km of CLTC range a 100 kWh battery and 360 kW of motor power. Full landed-cost breakdown to the EU/DACH region inclu..."
+description: "NIO Et5T is a suv from Nio, offering 710 km of CLTC range a 100 kWh battery and 360 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "nio-et5t"
 brand: "nio"
 type: "SUV"

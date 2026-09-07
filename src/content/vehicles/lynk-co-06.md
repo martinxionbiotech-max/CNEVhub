@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 06"
-description: "Lynk Co 06 is a suv from Lynk Co, offering 1280 km of CLTC range a 19.09 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH reg..."
+description: "Lynk Co 06 is a suv from Lynk Co, offering 1280 km of CLTC range a 19.09 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "lynk-co-06"
 brand: "lynk-co"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Aion UT"
-description: "Aion UT is a suv from Aion, offering 330 km of CLTC range a 34.87 kWh battery and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region inc..."
+description: "Aion UT is a suv from Aion, offering 330 km of CLTC range a 34.87 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aion-ut"
 brand: "aion"
 type: "SUV"

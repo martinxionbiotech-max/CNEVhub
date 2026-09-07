@@ -1,6 +1,6 @@
 ---
 title: "Deepal L06"
-description: "Deepal L06 is a suv from Deepal, offering 560 km of CLTC range a 56.12 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH regio..."
+description: "Deepal L06 is a suv from Deepal, offering 560 km of CLTC range a 56.12 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "deepal-l06"
 brand: "deepal"
 type: "SUV"

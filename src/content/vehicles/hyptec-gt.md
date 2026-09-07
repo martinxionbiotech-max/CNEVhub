@@ -1,6 +1,6 @@
 ---
 title: "Hyptec GT"
-description: "Hyptec GT is a suv from Hyptec, offering 560 km of CLTC range a 60 kWh battery and 180 kW of motor power. Full landed-cost breakdown to the EU/DACH region in..."
+description: "Hyptec GT is a suv from Hyptec, offering 560 km of CLTC range a 60 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hyptec-gt"
 brand: "hyptec"
 type: "SUV"

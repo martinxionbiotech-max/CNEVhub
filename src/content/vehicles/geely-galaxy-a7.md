@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy A7"
-description: "Geely Galaxy A7 is a suv from Geely Galaxy, a 8.5 kWh battery and 175 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B im..."
+description: "Geely Galaxy A7 is a suv from Geely Galaxy, a 8.5 kWh battery and 175 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "geely-galaxy-a7"
 brand: "geely-galaxy"
 type: "SUV"

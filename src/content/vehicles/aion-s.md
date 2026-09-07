@@ -1,6 +1,6 @@
 ---
 title: "Aion S"
-description: "Aion S is a suv from Aion, a 46.76 kWh battery and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Aion S is a suv from Aion, a 46.76 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aion-s"
 brand: "aion"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C16"
-description: "Leapmotor C16 is a suv from Leapmotor, a 28.4 kWh battery and 170 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import..."
+description: "Leapmotor C16 is a suv from Leapmotor, a 28.4 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "leapmotor-c16"
 brand: "leapmotor"
 type: "SUV"

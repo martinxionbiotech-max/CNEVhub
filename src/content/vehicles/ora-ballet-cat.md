@@ -1,6 +1,6 @@
 ---
 title: "Ora Ballet CAT"
-description: "Ora Ballet CAT is a sedan from Ora, offering 401 km of CLTC range a 49.92 kWh battery and 126 kW of motor power. Full landed-cost breakdown to the EU/DACH re..."
+description: "Ora Ballet CAT is a sedan from Ora, offering 401 km of CLTC range a 49.92 kWh battery and 126 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "ora-ballet-cat"
 brand: "ora"
 type: "Sedan"

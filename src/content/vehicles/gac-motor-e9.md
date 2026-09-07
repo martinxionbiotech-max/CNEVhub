@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor E9"
-description: "GAC Motor E9 is a suv from GAC Motor, a 25.5 kWh battery and 134 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import ..."
+description: "GAC Motor E9 is a suv from GAC Motor, a 25.5 kWh battery and 134 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "gac-motor-e9"
 brand: "gac-motor"
 type: "SUV"

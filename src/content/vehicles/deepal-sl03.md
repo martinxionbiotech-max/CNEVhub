@@ -1,6 +1,6 @@
 ---
 title: "Deepal Sl03"
-description: "Deepal Sl03 is a suv from Deepal, a 18.99 kWh battery and 175 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pla..."
+description: "Deepal Sl03 is a suv from Deepal, a 18.99 kWh battery and 175 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "deepal-sl03"
 brand: "deepal"
 type: "SUV"

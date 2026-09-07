@@ -1,6 +1,6 @@
 ---
 title: "M Hero 917"
-description: "M Hero 917 is a suv from M Hero, offering 1026 km of CLTC range a 65.8 kWh battery and 600 kW of motor power. Full landed-cost breakdown to the EU/DACH regio..."
+description: "M Hero 917 is a suv from M Hero, offering 1026 km of CLTC range a 65.8 kWh battery and 600 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "m-hero-917"
 brand: "m-hero"
 type: "SUV"

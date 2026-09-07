@@ -1,6 +1,6 @@
 ---
 title: "Hongqi EH7"
-description: "Hongqi EH7 is a suv from Hongqi, offering 600 km of CLTC range a 75 kWh battery and 253 kW of motor power. Full landed-cost breakdown to the EU/DACH region i..."
+description: "Hongqi EH7 is a suv from Hongqi, offering 600 km of CLTC range a 75 kWh battery and 253 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hongqi-eh7"
 brand: "hongqi"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Exeed TXL"
-description: "Exeed TXL is a suv from Exeed, a 32.66 kWh battery and 195 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Exeed TXL is a suv from Exeed, a 32.66 kWh battery and 195 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "exeed-txl"
 brand: "exeed"
 type: "SUV"

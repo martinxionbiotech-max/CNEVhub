@@ -1,6 +1,6 @@
 ---
 title: "Roewe Erx5"
-description: "Roewe Erx5 is a suv from Roewe, a 12.3 kWh battery and 180 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Roewe Erx5 is a suv from Roewe, a 12.3 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "roewe-erx5"
 brand: "roewe"
 type: "SUV"

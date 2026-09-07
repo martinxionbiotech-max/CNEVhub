@@ -1,6 +1,6 @@
 ---
 title: "GAC Motor GS7"
-description: "GAC Motor GS7 is a suv from GAC Motor, a 36.3 kWh battery and 170 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import..."
+description: "GAC Motor GS7 is a suv from GAC Motor, a 36.3 kWh battery and 170 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "gac-motor-gs7"
 brand: "gac-motor"
 type: "SUV"

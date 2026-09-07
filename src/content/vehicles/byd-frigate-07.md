@@ -1,6 +1,6 @@
 ---
 title: "BYD Frigate 07"
-description: "BYD Frigate 07 is a suv from Byd, a 18.3 kWh battery and 145 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "BYD Frigate 07 is a suv from Byd, a 18.3 kWh battery and 145 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-frigate-07"
 brand: "byd"
 type: "SUV"

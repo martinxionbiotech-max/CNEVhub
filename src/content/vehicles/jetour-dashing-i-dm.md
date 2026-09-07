@@ -1,6 +1,6 @@
 ---
 title: "Jetour Dashing I DM"
-description: "Jetour Dashing I DM is a suv from Jetour, a 19.27 kWh battery and 125 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B im..."
+description: "Jetour Dashing I DM is a suv from Jetour, a 19.27 kWh battery and 125 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jetour-dashing-i-dm"
 brand: "jetour"
 type: "SUV"

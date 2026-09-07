@@ -16,7 +16,7 @@ export const name = import.meta.env.SITE_NAME || 'EV Hub';
 /** Site description for SEO and meta tags */
 export const description =
   import.meta.env.SITE_DESCRIPTION ||
-  'The real landed cost of importing Chinese EVs — transparent breakdown of duties, VAT, freight, and certification.';
+  'The real landed cost of importing Chinese EVs to Europe and key export markets — duties, countervailing tariffs, VAT, freight, and certification, broken down transparently.';
 
 /** Production URL of your site (used for sitemap, RSS, canonical URLs) */
 export const url = import.meta.env.SITE_URL || 'https://electricvehiclehub.net';

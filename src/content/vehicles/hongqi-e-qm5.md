@@ -1,6 +1,6 @@
 ---
 title: "Hongqi E QM5"
-description: "Hongqi E QM5 is a suv from Hongqi, offering 500 km of CLTC range a 56 kWh battery and 110 kW of motor power. Full landed-cost breakdown to the EU/DACH region..."
+description: "Hongqi E QM5 is a suv from Hongqi, offering 500 km of CLTC range a 56 kWh battery and 110 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hongqi-e-qm5"
 brand: "hongqi"
 type: "SUV"

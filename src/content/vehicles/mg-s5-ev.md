@@ -1,6 +1,6 @@
 ---
 title: "MG S5 EV"
-description: "MG S5 EV is a suv from Mg, offering 425 km of CLTC range a 49.1 kWh battery and 125 kW of motor power. Full landed-cost breakdown to the EU/DACH region inclu..."
+description: "MG S5 EV is a suv from Mg, offering 425 km of CLTC range a 49.1 kWh battery and 125 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "mg-s5-ev"
 brand: "mg"
 type: "SUV"

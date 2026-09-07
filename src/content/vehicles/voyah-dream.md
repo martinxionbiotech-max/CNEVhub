@@ -1,6 +1,6 @@
 ---
 title: "Voyah Dream"
-description: "Voyah Dream is a suv from Voyah, a 43.2 kWh battery and 370 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plann..."
+description: "Voyah Dream is a suv from Voyah, a 43.2 kWh battery and 370 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "voyah-dream"
 brand: "voyah"
 type: "SUV"

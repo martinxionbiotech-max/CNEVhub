@@ -1,6 +1,6 @@
 ---
 title: "Roewe D5X DMH"
-description: "Roewe D5X DMH is a suv from Roewe, a 21.4 kWh battery and 145 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pla..."
+description: "Roewe D5X DMH is a suv from Roewe, a 21.4 kWh battery and 145 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "roewe-d5x-dmh"
 brand: "roewe"
 type: "SUV"

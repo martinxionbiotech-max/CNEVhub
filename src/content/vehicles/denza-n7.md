@@ -1,6 +1,6 @@
 ---
 title: "Denza N7"
-description: "Denza N7 is a suv from Denza, offering 702 km of CLTC range a 91.3 kWh battery and 230 kW of motor power. Full landed-cost breakdown to the EU/DACH region in..."
+description: "Denza N7 is a suv from Denza, offering 702 km of CLTC range a 91.3 kWh battery and 230 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "denza-n7"
 brand: "denza"
 type: "SUV"

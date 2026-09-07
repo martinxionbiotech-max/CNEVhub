@@ -1,6 +1,6 @@
 ---
 title: "Arcfox AT"
-description: "Arcfox AT is a suv from Arcfox, offering 480 km of CLTC range a 65.6 kWh battery and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH region ..."
+description: "Arcfox AT is a suv from Arcfox, offering 480 km of CLTC range a 65.6 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "arcfox-at"
 brand: "arcfox"
 type: "SUV"

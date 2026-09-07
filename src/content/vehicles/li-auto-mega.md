@@ -1,6 +1,6 @@
 ---
 title: "Li Auto Mega"
-description: "Li Auto Mega is a suv from Li Auto, a 102.7 kWh battery and 400 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import p..."
+description: "Li Auto Mega is a suv from Li Auto, a 102.7 kWh battery and 400 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "li-auto-mega"
 brand: "li-auto"
 type: "SUV"

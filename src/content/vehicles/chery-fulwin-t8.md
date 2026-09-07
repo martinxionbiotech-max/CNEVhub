@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T8"
-description: "Chery Fulwin T8 is a suv from Chery Fulwin, and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Chery Fulwin T8 is a suv from Chery Fulwin, and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-fulwin-t8"
 brand: "chery-fulwin"
 type: "SUV"

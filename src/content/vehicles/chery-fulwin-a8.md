@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin A8"
-description: "Chery Fulwin A8 is a suv from Chery Fulwin, a 9.53 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B i..."
+description: "Chery Fulwin A8 is a suv from Chery Fulwin, a 9.53 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-fulwin-a8"
 brand: "chery-fulwin"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Tank 300"
-description: "Tank 300 is a suv from Tank, a 37.1 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Tank 300 is a suv from Tank, a 37.1 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "tank-300"
 brand: "tank"
 type: "SUV"

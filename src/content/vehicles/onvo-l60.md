@@ -1,6 +1,6 @@
 ---
 title: "Onvo L60"
-description: "Onvo L60 is a suv from Onvo, offering 560 km of CLTC range a 60 kWh battery and 240 kW of motor power. Full landed-cost breakdown to the EU/DACH region inclu..."
+description: "Onvo L60 is a suv from Onvo, offering 560 km of CLTC range a 60 kWh battery and 240 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "onvo-l60"
 brand: "onvo"
 type: "SUV"

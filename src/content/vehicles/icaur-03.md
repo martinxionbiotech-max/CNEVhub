@@ -1,6 +1,6 @@
 ---
 title: "Icaur 03"
-description: "Icaur 03 is a suv from Icaur, offering 401 km of CLTC range a 50.63 kWh battery and 135 kW of motor power. Full landed-cost breakdown to the EU/DACH region i..."
+description: "Icaur 03 is a suv from Icaur, offering 401 km of CLTC range a 50.63 kWh battery and 135 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "icaur-03"
 brand: "icaur"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng E PI 007"
-description: "Dongfeng E PI 007 is a suv from Dongfeng E, and 160 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Dongfeng E PI 007 is a suv from Dongfeng E, and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "dongfeng-epi-007"
 brand: "dongfeng-e"
 type: "SUV"

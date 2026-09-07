@@ -1,6 +1,6 @@
 ---
 title: "Wuling Jiachen"
-description: "Wuling Jiachen is a suv from Wuling, and 130 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Wuling Jiachen is a suv from Wuling, and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "wuling-jiachen"
 brand: "wuling"
 type: "SUV"

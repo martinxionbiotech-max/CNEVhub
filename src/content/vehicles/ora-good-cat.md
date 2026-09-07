@@ -1,6 +1,6 @@
 ---
 title: "Ora Good CAT"
-description: "Ora Good CAT is a sedan from Ora, offering 401 km of CLTC range a 45.9 kWh battery and 105 kW of motor power. Full landed-cost breakdown to the EU/DACH regio..."
+description: "Ora Good CAT is a sedan from Ora, offering 401 km of CLTC range a 45.9 kWh battery and 105 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "ora-good-cat"
 brand: "ora"
 type: "Sedan"

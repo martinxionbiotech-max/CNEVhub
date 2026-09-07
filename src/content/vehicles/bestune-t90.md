@@ -1,6 +1,6 @@
 ---
 title: "Bestune T90"
-description: "Bestune T90 is a suv from Bestune, offering 1500 km of CLTC range a 21.2 kWh battery and 168 kW of motor power. Full landed-cost breakdown to the EU/DACH reg..."
+description: "Bestune T90 is a suv from Bestune, offering 1500 km of CLTC range a 21.2 kWh battery and 168 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "bestune-t90"
 brand: "bestune"
 type: "SUV"

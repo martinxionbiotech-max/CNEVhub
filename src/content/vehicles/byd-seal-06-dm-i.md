@@ -1,6 +1,6 @@
 ---
 title: "BYD Seal 06 DM I"
-description: "BYD Seal 06 DM I is a sedan from Byd, a 10.08 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import..."
+description: "BYD Seal 06 DM I is a sedan from Byd, a 10.08 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-seal-06-dm-i"
 brand: "byd"
 type: "Sedan"

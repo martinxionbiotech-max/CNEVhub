@@ -1,6 +1,6 @@
 ---
 title: "Wuling Binguo"
-description: "Wuling Binguo is a suv from Wuling, offering 203 km of CLTC range a 17.3 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the EU/DACH regi..."
+description: "Wuling Binguo is a suv from Wuling, offering 203 km of CLTC range a 17.3 kWh battery and 30 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "wuling-binguo"
 brand: "wuling"
 type: "SUV"

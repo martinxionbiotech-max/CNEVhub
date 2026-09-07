@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor T03"
-description: "Leapmotor T03 is a hatchback from Leapmotor, offering 310 km of CLTC range a 31.9 kWh battery and 55 kW of motor power. Full landed-cost breakdown to the EU/DACH r..."
+description: "Leapmotor T03 is a hatchback from Leapmotor, offering 310 km of CLTC range a 31.9 kWh battery and 55 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "leapmotor-t03"
 brand: "leapmotor"
 type: "Hatchback"
@@ -43,7 +43,7 @@ Leapmotor T03 (starting at $8,440) is a Hatchback from LEAPMOTOR.
 
 ## Overview
 
-Leapmotor T03 is a hatchback from Leapmotor, offering 310 km of CLTC range a 31.9 kWh battery and 55 kW of motor power. Full landed-cost breakdown to the EU/DACH r...
+Leapmotor T03 is a hatchback from Leapmotor, offering 310 km of CLTC range a 31.9 kWh battery and 55 kW of motor power. Full landed-cost breakdown across 7 export markets r...
 
 ## Landed Cost by Market
 

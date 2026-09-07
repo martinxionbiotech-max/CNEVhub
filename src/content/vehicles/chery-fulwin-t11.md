@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T11"
-description: "Chery Fulwin T11 is a suv from Chery Fulwin, a 33.68 kWh battery and 195 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B..."
+description: "Chery Fulwin T11 is a suv from Chery Fulwin, a 33.68 kWh battery and 195 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-fulwin-t11"
 brand: "chery-fulwin"
 type: "SUV"

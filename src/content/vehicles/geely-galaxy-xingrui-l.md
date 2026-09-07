@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Xingrui L"
-description: "Geely Galaxy Xingrui L is a suv from Geely Galaxy, and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Geely Galaxy Xingrui L is a suv from Geely Galaxy, and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "geely-galaxy-xingrui-l"
 brand: "geely-galaxy"
 type: "SUV"

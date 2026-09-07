@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 9"
-description: "Chery Tiggo 9 is a suv from Chery, a 18.67 kWh battery and 165 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl..."
+description: "Chery Tiggo 9 is a suv from Chery, a 18.67 kWh battery and 165 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-tiggo-9"
 brand: "chery"
 type: "SUV"

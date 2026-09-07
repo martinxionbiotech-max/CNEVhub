@@ -1,6 +1,6 @@
 ---
 title: "Fangchengbao TI 7"
-description: "Fangchengbao TI 7 is a suv from Fangchengbao, a 26.6 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B..."
+description: "Fangchengbao TI 7 is a suv from Fangchengbao, a 26.6 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "fangchengbao-ti-7"
 brand: "fangchengbao"
 type: "SUV"

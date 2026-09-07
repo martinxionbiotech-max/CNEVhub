@@ -1,6 +1,6 @@
 ---
 title: "Avatr 07"
-description: "Avatr 07 is a suv from Avatr, a 39.05 kWh battery and 231 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Avatr 07 is a suv from Avatr, a 39.05 kWh battery and 231 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "avatr-07"
 brand: "avatr"
 type: "SUV"

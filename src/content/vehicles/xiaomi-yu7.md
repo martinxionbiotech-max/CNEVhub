@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi YU7"
-description: "Xiaomi YU7 is a suv from Xiaomi, offering 835 km of CLTC range a 96.3 kWh battery and 235 kW of motor power. Full landed-cost breakdown to the EU/DACH region..."
+description: "Xiaomi YU7 is a suv from Xiaomi, offering 835 km of CLTC range a 96.3 kWh battery and 235 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "xiaomi-yu7"
 brand: "xiaomi"
 type: "SUV"

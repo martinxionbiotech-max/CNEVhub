@@ -1,6 +1,6 @@
 ---
 title: "Aito M5"
-description: "Aito M5 is a suv from Aito, a 42 kWh battery and 200 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Aito M5 is a suv from Aito, a 42 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aito-m5"
 brand: "aito"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Li Auto I8"
-description: "Li Auto I8 is a suv from Li Auto, a 97.8 kWh battery and 400 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "Li Auto I8 is a suv from Li Auto, a 97.8 kWh battery and 400 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "li-auto-i8"
 brand: "li-auto"
 type: "SUV"

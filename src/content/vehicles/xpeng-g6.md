@@ -1,6 +1,6 @@
 ---
 title: "XPENG G6"
-description: "XPENG G6 is a suv from Xpeng, offering 625 km of CLTC range a 68.5 kWh battery and 218 kW of motor power. Full landed-cost breakdown to the EU/DACH region in..."
+description: "XPENG G6 is a suv from Xpeng, offering 625 km of CLTC range a 68.5 kWh battery and 218 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "xpeng-g6"
 brand: "xpeng"
 type: "SUV"

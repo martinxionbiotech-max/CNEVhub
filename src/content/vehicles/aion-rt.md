@@ -1,6 +1,6 @@
 ---
 title: "Aion RT"
-description: "Aion RT is a suv from Aion, offering 520 km of CLTC range a 55.1 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region incl..."
+description: "Aion RT is a suv from Aion, offering 520 km of CLTC range a 55.1 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aion-rt"
 brand: "aion"
 type: "SUV"

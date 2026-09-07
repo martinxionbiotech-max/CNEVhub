@@ -1,6 +1,6 @@
 ---
 title: "Wey 03"
-description: "Wey 03 is a suv from Wey, a 34 kWh battery and 130 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Wey 03 is a suv from Wey, a 34 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "wey-03"
 brand: "wey"
 type: "SUV"

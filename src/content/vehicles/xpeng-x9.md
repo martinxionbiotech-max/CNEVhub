@@ -1,6 +1,6 @@
 ---
 title: "XPENG X9"
-description: "XPENG X9 is a suv from Xpeng, a 63.3 kWh battery and 210 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "XPENG X9 is a suv from Xpeng, a 63.3 kWh battery and 210 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "xpeng-x9"
 brand: "xpeng"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Im L7"
-description: "Im L7 is a suv from Im, offering 708 km of CLTC range a 90 kWh battery and 250 kW of motor power. Full landed-cost breakdown to the EU/DACH region included f..."
+description: "Im L7 is a suv from Im, offering 708 km of CLTC range a 90 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "im-l7"
 brand: "im"
 type: "SUV"

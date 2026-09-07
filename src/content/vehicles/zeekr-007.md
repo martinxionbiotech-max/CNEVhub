@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 007"
-description: "Zeekr 007 is a suv from Zeekr, offering 688 km of CLTC range a 75 kWh battery and 310 kW of motor power. Full landed-cost breakdown to the EU/DACH region inc..."
+description: "Zeekr 007 is a suv from Zeekr, offering 688 km of CLTC range a 75 kWh battery and 310 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "zeekr-007"
 brand: "zeekr"
 type: "SUV"

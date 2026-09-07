@@ -1,6 +1,6 @@
 ---
 title: "Baojun Yunduo"
-description: "Baojun Yunduo is a suv from Baojun, offering 360 km of CLTC range a 37.9 kWh battery and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH reg..."
+description: "Baojun Yunduo is a suv from Baojun, offering 360 km of CLTC range a 37.9 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "baojun-yunduo"
 brand: "baojun"
 type: "SUV"

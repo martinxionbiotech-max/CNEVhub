@@ -1,6 +1,6 @@
 ---
 title: "Changan X5 Plus"
-description: "Changan X5 Plus is a suv from Changan,. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Changan X5 Plus is a suv from Changan,. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-x5-plus"
 brand: "changan"
 type: "SUV"

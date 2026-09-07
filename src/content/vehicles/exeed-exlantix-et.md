@@ -1,6 +1,6 @@
 ---
 title: "Exeed Exlantix ET"
-description: "Exeed Exlantix ET is a suv from Exeed, a 41.16 kWh battery and 195 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impor..."
+description: "Exeed Exlantix ET is a suv from Exeed, a 41.16 kWh battery and 195 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "exeed-exlantix-et"
 brand: "exeed"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Baojun Yunhai"
-description: "Baojun Yunhai is a suv from Baojun, offering 500 km of CLTC range a 56.7 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH reg..."
+description: "Baojun Yunhai is a suv from Baojun, offering 500 km of CLTC range a 56.7 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "baojun-yunhai"
 brand: "baojun"
 type: "SUV"

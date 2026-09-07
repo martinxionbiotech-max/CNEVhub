@@ -1,6 +1,6 @@
 ---
 title: "Im L6"
-description: "Im L6 is a suv from Im, offering 690 km of CLTC range a 74 kWh battery and 245 kW of motor power. Full landed-cost breakdown to the EU/DACH region included f..."
+description: "Im L6 is a suv from Im, offering 690 km of CLTC range a 74 kWh battery and 245 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "im-l6"
 brand: "im"
 type: "SUV"

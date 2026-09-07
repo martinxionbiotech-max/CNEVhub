@@ -1,6 +1,6 @@
 ---
 title: "Denza N8L"
-description: "Denza N8L is a suv from Denza, offering 1300 km of CLTC range a 46.9 kWh battery and 560 kW of motor power. Full landed-cost breakdown to the EU/DACH region ..."
+description: "Denza N8L is a suv from Denza, offering 1300 km of CLTC range a 46.9 kWh battery and 560 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "denza-n8l"
 brand: "denza"
 type: "SUV"

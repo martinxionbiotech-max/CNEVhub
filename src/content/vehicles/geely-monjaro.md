@@ -1,6 +1,6 @@
 ---
 title: "Geely Monjaro"
-description: "Geely Monjaro is a suv from Geely, and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Geely Monjaro is a suv from Geely, and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "geely-monjaro"
 brand: "geely"
 type: "SUV"

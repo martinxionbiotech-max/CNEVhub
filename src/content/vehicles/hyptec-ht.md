@@ -1,6 +1,6 @@
 ---
 title: "Hyptec HT"
-description: "Hyptec HT is a suv from Hyptec, offering 672 km of CLTC range a 83.3 kWh battery and 250 kW of motor power. Full landed-cost breakdown to the EU/DACH region ..."
+description: "Hyptec HT is a suv from Hyptec, offering 672 km of CLTC range a 83.3 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hyptec-ht"
 brand: "hyptec"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Maxus Eg10"
-description: "Maxus Eg10 is a mpv from Maxus, a 71.8 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Maxus Eg10 is a mpv from Maxus, a 71.8 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "maxus-eg10"
 brand: "maxus"
 type: "MPV"

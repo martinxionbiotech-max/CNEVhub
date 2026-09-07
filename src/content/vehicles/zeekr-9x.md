@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 9X"
-description: "Zeekr 9X is a suv from Zeekr, a 55 kWh battery and 660 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Zeekr 9X is a suv from Zeekr, a 55 kWh battery and 660 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "zeekr-9x"
 brand: "zeekr"
 type: "SUV"

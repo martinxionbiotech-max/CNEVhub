@@ -1,6 +1,6 @@
 ---
 title: "Arcfox AS5"
-description: "Arcfox AS5 is a suv from Arcfox, offering 560 km of CLTC range a 65 kWh battery and 185 kW of motor power. Full landed-cost breakdown to the EU/DACH region i..."
+description: "Arcfox AS5 is a suv from Arcfox, offering 560 km of CLTC range a 65 kWh battery and 185 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "arcfox-as5"
 brand: "arcfox"
 type: "SUV"

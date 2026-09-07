@@ -1,6 +1,6 @@
 ---
 title: "Wey Lanshan"
-description: "Wey Lanshan is a suv from Wey, a 44.5 kWh battery and 300 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Wey Lanshan is a suv from Wey, a 44.5 kWh battery and 300 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "wey-lanshan"
 brand: "wey"
 type: "SUV"

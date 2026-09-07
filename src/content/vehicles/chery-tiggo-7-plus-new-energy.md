@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 7 Plus New Energy"
-description: "Chery Tiggo 7 Plus New Energy is a suv from Chery, a 16.7 kWh battery and 125 kW of motor power. Full landed-cost breakdown to the EU/DACH region included fo..."
+description: "Chery Tiggo 7 Plus New Energy is a suv from Chery, a 16.7 kWh battery and 125 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "chery-tiggo-7-plus-new-energy"
 brand: "chery"
 type: "SUV"
@@ -39,7 +39,7 @@ Chery Tiggo 7 PLUS New Energy (starting at $18,300) is a SUV from CHERY.
 
 ## Overview
 
-Chery Tiggo 7 PLUS New Energy is a suv from Chery, a 16.7 kWh battery and 125 kW of motor power. Full landed-cost breakdown to the EU/DACH region included fo...
+Chery Tiggo 7 PLUS New Energy is a suv from Chery, a 16.7 kWh battery and 125 kW of motor power. Full landed-cost breakdown across 7 export markets included fo...
 
 ## Landed Cost by Market
 

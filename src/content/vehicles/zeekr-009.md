@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 009"
-description: "Zeekr 009 is a suv from Zeekr, offering 740 km of CLTC range a 108 kWh battery and 310 kW of motor power. Full landed-cost breakdown to the EU/DACH region in..."
+description: "Zeekr 009 is a suv from Zeekr, offering 740 km of CLTC range a 108 kWh battery and 310 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "zeekr-009"
 brand: "zeekr"
 type: "SUV"

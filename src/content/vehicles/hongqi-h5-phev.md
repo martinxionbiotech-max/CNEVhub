@@ -1,6 +1,6 @@
 ---
 title: "Hongqi H5 Phev"
-description: "Hongqi H5 Phev is a suv from Hongqi, offering 1560 km of CLTC range a 18.4 kWh battery and 168 kW of motor power. Full landed-cost breakdown to the EU/DACH r..."
+description: "Hongqi H5 Phev is a suv from Hongqi, offering 1560 km of CLTC range a 18.4 kWh battery and 168 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hongqi-h5-phev"
 brand: "hongqi"
 type: "SUV"

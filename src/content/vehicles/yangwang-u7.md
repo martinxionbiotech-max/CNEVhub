@@ -1,6 +1,6 @@
 ---
 title: "Yangwang U7"
-description: "Yangwang U7 is a suv from Yangwang, offering 720 km of CLTC range a 135.5 kWh battery and 960 kW of motor power. Full landed-cost breakdown to the EU/DACH re..."
+description: "Yangwang U7 is a suv from Yangwang, offering 720 km of CLTC range a 135.5 kWh battery and 960 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "yangwang-u7"
 brand: "yangwang"
 type: "SUV"

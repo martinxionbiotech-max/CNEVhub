@@ -1,6 +1,6 @@
 ---
 title: "BYD Song L EV"
-description: "BYD Song L EV is a suv from Byd, offering 550 km of CLTC range a 71.8 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region..."
+description: "BYD Song L EV is a suv from Byd, offering 550 km of CLTC range a 71.8 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-song-l-ev"
 brand: "byd"
 type: "SUV"

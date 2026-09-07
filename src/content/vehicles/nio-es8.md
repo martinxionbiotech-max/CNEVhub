@@ -1,6 +1,6 @@
 ---
 title: "NIO ES8"
-description: "NIO ES8 is a suv from Nio, offering 635 km of CLTC range a 102 kWh battery and 520 kW of motor power. Full landed-cost breakdown to the EU/DACH region includ..."
+description: "NIO ES8 is a suv from Nio, offering 635 km of CLTC range a 102 kWh battery and 520 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "nio-es8"
 brand: "nio"
 type: "SUV"

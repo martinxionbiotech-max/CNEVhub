@@ -1,6 +1,6 @@
 ---
 title: "Maxus Mifa 7"
-description: "Maxus Mifa 7 is a mpv from Maxus, a 24.7 kWh battery and 176 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "Maxus Mifa 7 is a mpv from Maxus, a 24.7 kWh battery and 176 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "maxus-mifa-7"
 brand: "maxus"
 type: "MPV"

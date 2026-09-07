@@ -1,6 +1,6 @@
 ---
 title: "Lynk Co 01"
-description: "Lynk Co 01 is a suv from Lynk Co, a 17.7 kWh battery and 100 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "Lynk Co 01 is a suv from Lynk Co, a 17.7 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "lynk-co-01"
 brand: "lynk-co"
 type: "SUV"

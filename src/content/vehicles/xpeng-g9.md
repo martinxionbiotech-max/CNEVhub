@@ -1,6 +1,6 @@
 ---
 title: "XPENG G9"
-description: "XPENG G9 is a suv from Xpeng, offering 625 km of CLTC range a 79 kWh battery and 285 kW of motor power. Full landed-cost breakdown to the EU/DACH region incl..."
+description: "XPENG G9 is a suv from Xpeng, offering 625 km of CLTC range a 79 kWh battery and 285 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "xpeng-g9"
 brand: "xpeng"
 type: "SUV"

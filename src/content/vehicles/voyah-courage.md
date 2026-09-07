@@ -1,6 +1,6 @@
 ---
 title: "Voyah Courage"
-description: "Voyah Courage is a suv from Voyah, offering 650 km of CLTC range a 81 kWh battery and 230 kW of motor power. Full landed-cost breakdown to the EU/DACH region..."
+description: "Voyah Courage is a suv from Voyah, offering 650 km of CLTC range a 81 kWh battery and 230 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "voyah-courage"
 brand: "voyah"
 type: "SUV"

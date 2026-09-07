@@ -1,6 +1,6 @@
 ---
 title: "Ora Lightning CAT"
-description: "Ora Lightning CAT is a sedan from Ora, offering 555 km of CLTC range a 64.31 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH..."
+description: "Ora Lightning CAT is a sedan from Ora, offering 555 km of CLTC range a 64.31 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "ora-lightning-cat"
 brand: "ora"
 type: "Sedan"

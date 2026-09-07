@@ -1,6 +1,6 @@
 ---
 title: "Roewe I6 Max"
-description: "Roewe I6 Max is a sedan from Roewe, a 51 kWh battery and 120 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import plan..."
+description: "Roewe I6 Max is a sedan from Roewe, a 51 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "roewe-i6-max"
 brand: "roewe"
 type: "Sedan"

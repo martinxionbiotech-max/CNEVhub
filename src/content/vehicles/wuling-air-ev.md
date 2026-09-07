@@ -1,6 +1,6 @@
 ---
 title: "Wuling Air EV"
-description: "Wuling Air EV is a hatchback from Wuling, offering 300 km of CLTC range a 26.7 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the EU/DACH regi..."
+description: "Wuling Air EV is a hatchback from Wuling, offering 300 km of CLTC range a 26.7 kWh battery and 30 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "wuling-air-ev"
 brand: "wuling"
 type: "Hatchback"
@@ -41,7 +41,7 @@ Wuling AIR EV (starting at $8,140) is a Hatchback from WULING.
 
 ## Overview
 
-Wuling AIR EV is a hatchback from Wuling, offering 300 km of CLTC range a 26.7 kWh battery and 30 kW of motor power. Full landed-cost breakdown to the EU/DACH regi...
+Wuling AIR EV is a hatchback from Wuling, offering 300 km of CLTC range a 26.7 kWh battery and 30 kW of motor power. Full landed-cost breakdown across 7 export markets regi...
 
 ## Landed Cost by Market
 

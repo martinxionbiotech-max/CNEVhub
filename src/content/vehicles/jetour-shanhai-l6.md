@@ -1,6 +1,6 @@
 ---
 title: "Jetour Shanhai L6"
-description: "Jetour Shanhai L6 is a suv from Jetour, a 19.43 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B impo..."
+description: "Jetour Shanhai L6 is a suv from Jetour, a 19.43 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jetour-shanhai-l6"
 brand: "jetour"
 type: "SUV"

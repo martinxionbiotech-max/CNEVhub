@@ -1,6 +1,6 @@
 ---
 title: "Jetour T1"
-description: "Jetour T1 is a suv from Jetour, a 18.3 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Jetour T1 is a suv from Jetour, a 18.3 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jetour-t1"
 brand: "jetour"
 type: "SUV"

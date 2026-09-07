@@ -1,6 +1,6 @@
 ---
 title: "Changan UNI Z"
-description: "Changan UNI Z is a suv from Changan, a 18.4 kWh battery and 158 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import p..."
+description: "Changan UNI Z is a suv from Changan, a 18.4 kWh battery and 158 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-uni-z"
 brand: "changan"
 type: "SUV"

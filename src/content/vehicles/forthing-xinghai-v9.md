@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai V9"
-description: "Forthing Xinghai V9 is a suv from Forthing, a 34.9 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B i..."
+description: "Forthing Xinghai V9 is a suv from Forthing, a 34.9 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "forthing-xinghai-v9"
 brand: "forthing"
 type: "SUV"

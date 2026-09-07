@@ -1,6 +1,6 @@
 ---
 title: "Roewe M7"
-description: "Roewe M7 is a sedan from Roewe, a 19.7 kWh battery and 137 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Roewe M7 is a sedan from Roewe, a 19.7 kWh battery and 137 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "roewe-m7"
 brand: "roewe"
 type: "Sedan"

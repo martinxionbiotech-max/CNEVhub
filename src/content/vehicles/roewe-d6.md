@@ -1,6 +1,6 @@
 ---
 title: "Roewe D6"
-description: "Roewe D6 is a sedan from Roewe, offering 520 km of CLTC range a 53.95 kWh battery and 105 kW of motor power. Full landed-cost breakdown to the EU/DACH region..."
+description: "Roewe D6 is a sedan from Roewe, offering 520 km of CLTC range a 53.95 kWh battery and 105 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "roewe-d6"
 brand: "roewe"
 type: "Sedan"

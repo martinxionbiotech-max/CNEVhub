@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight 730"
-description: "Wuling Starlight 730 is a suv from Wuling, a 20.5 kWh battery and 145 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B im..."
+description: "Wuling Starlight 730 is a suv from Wuling, a 20.5 kWh battery and 145 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "wuling-starlight-730"
 brand: "wuling"
 type: "SUV"

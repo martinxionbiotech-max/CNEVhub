@@ -1,6 +1,6 @@
 ---
 title: "BYD E2"
-description: "BYD E2 is a sedan from Byd, offering 405 km of CLTC range a 43.2 kWh battery and 70 kW of motor power. Full landed-cost breakdown to the EU/DACH region inclu..."
+description: "BYD E2 is a sedan from Byd, offering 405 km of CLTC range a 43.2 kWh battery and 70 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "byd-e2"
 brand: "byd"
 type: "Sedan"

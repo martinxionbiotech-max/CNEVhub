@@ -1,6 +1,6 @@
 ---
 title: "Hongqi EH5"
-description: "Hongqi EH5 is a suv from Hongqi, offering 550 km of CLTC range a 62 kWh battery and 210 kW of motor power. Full landed-cost breakdown to the EU/DACH region i..."
+description: "Hongqi EH5 is a suv from Hongqi, offering 550 km of CLTC range a 62 kWh battery and 210 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hongqi-eh5"
 brand: "hongqi"
 type: "SUV"

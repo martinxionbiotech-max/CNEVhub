@@ -1,6 +1,6 @@
 ---
 title: "Maextro S800"
-description: "Maextro S800 is a sedan from Maextro, a 65 kWh battery and 390 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl..."
+description: "Maextro S800 is a sedan from Maextro, a 65 kWh battery and 390 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "maextro-s800"
 brand: "maextro"
 type: "Sedan"

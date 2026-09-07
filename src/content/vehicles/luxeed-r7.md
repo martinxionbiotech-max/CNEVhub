@@ -1,6 +1,6 @@
 ---
 title: "Luxeed R7"
-description: "Luxeed R7 is a suv from Luxeed, offering 667 km of CLTC range a 82 kWh battery and 215 kW of motor power. Full landed-cost breakdown to the EU/DACH region in..."
+description: "Luxeed R7 is a suv from Luxeed, offering 667 km of CLTC range a 82 kWh battery and 215 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "luxeed-r7"
 brand: "luxeed"
 type: "SUV"

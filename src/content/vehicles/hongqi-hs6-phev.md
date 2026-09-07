@@ -1,6 +1,6 @@
 ---
 title: "Hongqi HS6 Phev"
-description: "Hongqi HS6 Phev is a suv from Hongqi, a 23 kWh battery and 168 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pl..."
+description: "Hongqi HS6 Phev is a suv from Hongqi, a 23 kWh battery and 168 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "hongqi-hs6-phev"
 brand: "hongqi"
 type: "SUV"

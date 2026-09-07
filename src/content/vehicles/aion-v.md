@@ -1,6 +1,6 @@
 ---
 title: "Aion V"
-description: "Aion V is a suv from Aion, offering 520 km of CLTC range a 62.7 kWh battery and 150 kW of motor power. Full landed-cost breakdown to the EU/DACH region inclu..."
+description: "Aion V is a suv from Aion, offering 520 km of CLTC range a 62.7 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aion-v"
 brand: "aion"
 type: "SUV"

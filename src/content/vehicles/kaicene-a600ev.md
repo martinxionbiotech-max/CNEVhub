@@ -1,6 +1,6 @@
 ---
 title: "Kaicene A600Ev"
-description: "Kaicene A600Ev is a mpv from Kaicene, a 56.68 kWh battery and 90 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import ..."
+description: "Kaicene A600Ev is a mpv from Kaicene, a 56.68 kWh battery and 90 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "kaicene-a600ev"
 brand: "kaicene"
 type: "MPV"

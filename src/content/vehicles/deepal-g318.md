@@ -1,6 +1,6 @@
 ---
 title: "Deepal G318"
-description: "Deepal G318 is a suv from Deepal, a 35.07 kWh battery and 185 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import pla..."
+description: "Deepal G318 is a suv from Deepal, a 35.07 kWh battery and 185 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "deepal-g318"
 brand: "deepal"
 type: "SUV"

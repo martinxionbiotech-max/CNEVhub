@@ -1,6 +1,6 @@
 ---
 title: "Avatr 11"
-description: "Avatr 11 is a suv from Avatr, a 39.05 kWh battery and 231 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Avatr 11 is a suv from Avatr, a 39.05 kWh battery and 231 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "avatr-11"
 brand: "avatr"
 type: "SUV"

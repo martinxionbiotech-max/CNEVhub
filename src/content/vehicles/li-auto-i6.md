@@ -1,6 +1,6 @@
 ---
 title: "Li Auto I6"
-description: "Li Auto I6 is a suv from Li Auto, offering 720 km of CLTC range a 87.3 kWh battery and 250 kW of motor power. Full landed-cost breakdown to the EU/DACH regio..."
+description: "Li Auto I6 is a suv from Li Auto, offering 720 km of CLTC range a 87.3 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "li-auto-i6"
 brand: "li-auto"
 type: "SUV"

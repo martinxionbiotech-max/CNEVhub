@@ -1,6 +1,6 @@
 ---
 title: "Aito M9"
-description: "Aito M9 is a suv from Aito, a 52 kWh battery and 365 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Aito M9 is a suv from Aito, a 52 kWh battery and 365 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aito-m9"
 brand: "aito"
 type: "SUV"

@@ -1,6 +1,6 @@
 ---
 title: "Jetour T2"
-description: "Jetour T2 is a suv from Jetour, a 27.2 kWh battery and 165 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Jetour T2 is a suv from Jetour, a 27.2 kWh battery and 165 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "jetour-t2"
 brand: "jetour"
 type: "SUV"

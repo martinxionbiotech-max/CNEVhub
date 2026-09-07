@@ -1,6 +1,6 @@
 ---
 title: "Denza N9"
-description: "Denza N9 is a suv from Denza, a 46.9 kWh battery and 680 kW of motor power. Full landed-cost breakdown to the EU/DACH region included for B2B import planning."
+description: "Denza N9 is a suv from Denza, a 46.9 kWh battery and 680 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "denza-n9"
 brand: "denza"
 type: "SUV"
