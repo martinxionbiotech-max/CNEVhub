@@ -1,20 +1,20 @@
 ---
 title: "Introduction"
-description: "What CNEVhub is, how the landed-cost methodology works, and how to use the vehicle database to compare Chinese EV import prices across markets."
+description: "What EV Hub is, how the landed-cost methodology works, and how to use the vehicle database to compare Chinese EV import prices across markets."
 section: "Getting Started"
 order: 1
 draft: false
 ---
 
-# Introduction to CNEVhub
+# Introduction to EV Hub
 
-CNEVhub is a data platform for anyone importing Chinese electric vehicles into Europe, the Middle East, and Oceania. We exist because the sticker price you see in China is almost never the price you actually pay.
+EV Hub is a data platform for anyone importing Chinese electric vehicles into Europe, the Middle East, and Oceania. We exist because the sticker price you see in China is almost never the price you actually pay.
 
 ## The core problem we solve
 
 A Chinese EV advertised at $14,000 can land in Germany at over $28,000 once you stack import duty, countervailing duty, VAT, ocean freight, certification, and registration. That gap — the difference between *factory price* and *landed cost* — is the single biggest surprise for first-time importers.
 
-Most listings show only the FOB or factory price. CNEVhub itemizes the full cost stack so you can see, before you commit, exactly what a vehicle will cost to get legal and drivable in your target market.
+Most listings show only the FOB or factory price. EV Hub itemizes the full cost stack so you can see, before you commit, exactly what a vehicle will cost to get legal and drivable in your target market.
 
 ## What's on the platform
 

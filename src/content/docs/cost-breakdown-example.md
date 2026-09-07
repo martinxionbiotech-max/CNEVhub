@@ -84,7 +84,7 @@ The same car lands anywhere from **$31,671 (UAE)** to **$44,413 (Germany)** — 
 
 ## The margin reality
 
-The "cheap Chinese EV" narrative holds in the Gulf and Australia, where the premium is under 35%. In the EU, the same vehicle costs 57–80% more — and for high-CVD producers, the premium can exceed 100%. That's the difference between a viable import and a financial mistake, and it's exactly the gap CNEVhub exists to make visible before you commit.
+The "cheap Chinese EV" narrative holds in the Gulf and Australia, where the premium is under 35%. In the EU, the same vehicle costs 57–80% more — and for high-CVD producers, the premium can exceed 100%. That's the difference between a viable import and a financial mistake, and it's exactly the gap EV Hub exists to make visible before you commit.
 
 ## Related
 

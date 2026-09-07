@@ -14,8 +14,8 @@ The BYD Seal is a 4,800 mm electric sedan with real export legs, but the number 
 
 ## Key Statistics
 
-• **Base price (China, Premium):** $24,690 [Source: CNEVhub landed-cost record, BYD China MSRP]
-• **Landed cost (Germany, Premium):** $44,413 — a +79.9% premium over China price [Source: CNEVhub landed-cost methodology]
+• **Base price (China, Premium):** $24,690 [Source: EV Hub landed-cost record, BYD China MSRP]
+• **Landed cost (Germany, Premium):** $44,413 — a +79.9% premium over China price [Source: EV Hub landed-cost methodology]
 • **BYD countervailing duty:** 17% (vs. Geely 18.8%, SAIC 35.3%) [Source: European Commission countervailing duty regulation]
 • **WLTP range:** 460 km (Dynamic) / 570 km (Premium) / 520 km (Performance) [Source: BYD Australia official specification sheet]
 • **0–100 km/h:** 7.6s / 5.9s / 3.8s across the three grades [Source: BYD official spec, Zecar review]
@@ -25,7 +25,7 @@ The BYD Seal is a 4,800 mm electric sedan with real export legs, but the number 
 
 ---
 
-When I first sat down to review the BYD Seal for CNEVhub, I made a deliberate choice: I'm not going to tell you how it "feels on a twisty B-road." CarExpert, Carwow, Carbuyer and Zecar already do that, and they do it well. What none of them do is answer the question that actually keeps an importer up at night: *if I ship this thing to Europe, what does it actually cost me on the dock, and can I sell it at a profit?*
+When I first sat down to review the BYD Seal for EV Hub, I made a deliberate choice: I'm not going to tell you how it "feels on a twisty B-road." CarExpert, Carwow, Carbuyer and Zecar already do that, and they do it well. What none of them do is answer the question that actually keeps an importer up at night: *if I ship this thing to Europe, what does it actually cost me on the dock, and can I sell it at a profit?*
 
 That's the gap this review fills. If you're a dealer, a distributor, or a fleet buyer weighing a China-sourced Seal against a Tesla Model 3 or a Polestar 2, read on. If you want to know whether the boot fits two golf bags, there are better pages for that.
 
@@ -87,7 +87,7 @@ Of all the export pitfalls, homologation is the one that surprises people, becau
 
 The full type-approval route is expensive — tens of thousands of euros of testing if you're starting from scratch — but BYD already holds EU type approval for the Seal through its official channel, so a legitimate importer sourcing through BYD-approved channels can often ride that approval rather than paying to establish it. This is a huge practical advantage over a genuinely grey-market car from a brand that never entered Europe.
 
-The individual-approval route is cheaper per car but caps your volume and, in some member states, comes with restrictions — for example, Germany's §21 StVZO single-vehicle approval can limit resale flexibility and may require a full technical inspection. I've priced $3,250 into the landed-cost table as a blended certification figure for small-to-medium batch imports [Source: CNEVhub landed-cost methodology], but if you're doing serious volume you should budget for the type-approval amortization path instead, which spreads a larger fixed cost over a bigger run.
+The individual-approval route is cheaper per car but caps your volume and, in some member states, comes with restrictions — for example, Germany's §21 StVZO single-vehicle approval can limit resale flexibility and may require a full technical inspection. I've priced $3,250 into the landed-cost table as a blended certification figure for small-to-medium batch imports [Source: EV Hub landed-cost methodology], but if you're doing serious volume you should budget for the type-approval amortization path instead, which spreads a larger fixed cost over a bigger run.
 
 ### Warranty and Service: What You're Actually Selling
 
@@ -117,13 +117,13 @@ LFP (lithium iron phosphate) gets a bad rap from people who remember early LFP E
 
 The trade-off is real, though: LFP generally peaks at a lower charge rate than the best NMC, which is why the Seal tops out at 150 kW DC while an 800-volt NMC car will hit 250 kW or more. If your customers are road-trippers who live by the fast-charging stopwatch, this is a genuine weakness. If they're daily commuters charging at home overnight, it's nearly irrelevant. Know your customer.
 
-## The Landed Cost Breakdown (CNEVhub Core Data)
+## The Landed Cost Breakdown (EV Hub Core Data)
 
 This is where we earn our keep versus everyone else. Carwow will tell you the Seal "starts at £45,730." CarExpert gives you an Australian drive-away figure. Neither tells you what happens between the Shenzhen factory gate and a German forecourt.
 
 Before I show the table, one framing point: the order of operations matters for the math. You don't add VAT last on a single lump sum — you add the import duty to the vehicle value first, then the countervailing duty, and *then* VAT on top of that combined customs value. Compounding the duties before VAT is exactly why the percentage keeps climbing past what people expect. A 10% duty plus a 17% duty does not equal 27%; because the VAT is then levied on the duty-inclusive value, the effective total markup lands at ~80% rather than the ~54% a naive add-up would suggest.
 
-Here is the full chain for a **Premium RWD**, using the China base price of $24,690 as the starting point [Source: CNEVhub landed-cost record, BYD China MSRP].
+Here is the full chain for a **Premium RWD**, using the China base price of $24,690 as the starting point [Source: EV Hub landed-cost record, BYD China MSRP].
 
 | Cost Line Item | Amount (USD) | Notes |
 |----------------|-------------|-------|
@@ -138,7 +138,7 @@ Here is the full chain for a **Premium RWD**, using the China base price of $24,
 | Inland transport | $500 | Port → dealer lot |
 | **Total landed** | **$44,413** | **+79.9% over base price** |
 
-[Source: CNEVhub landed-cost methodology]
+[Source: EV Hub landed-cost methodology]
 
 That +79.9% is the number I want every importer to internalize before they even look at a spec sheet. You are not buying a $24,690 car. You are buying a $44,413 car, and that's before any dealer margin, before warranty provisioning, before currency risk on the USD/CNY and EUR/USD legs, and before whatever local market incentives or EV purchase subsidies you can or can't stack.
 
@@ -199,7 +199,7 @@ Let me be blunt, because too many B2B guides dance around this. The Seal is not 
 
 **You should be looking hard at the Seal if:**
 
-• You already have (or can build) a sales and service network in a mainland European market, because a car without service support is a one-sale product, not a business [Source: CNEVhub importer practice].
+• You already have (or can build) a sales and service network in a mainland European market, because a car without service support is a one-sale product, not a business [Source: EV Hub importer practice].
 • Your thesis is strategic positioning in Chinese EVs, not a single-model margin play — you want to be the go-to dealer when BYD's European plants reset the cost base.
 • Your customers care about interior quality, ride comfort, and total cost of ownership over peak charging speed and software polish.
 • You are VAT-registered in the destination market and can recover the 19% input VAT rather than eating it as margin [Source: German VAT recovery rules for B2B importers].
@@ -232,7 +232,7 @@ This is the part where I put the editor hat on and tell you what actually stuck 
 
 ❌ **The countervailing duty erodes the price advantage.** The 17% rate plus 10% standard duty narrows the gap against a China-built Model 3, which pays a lower individual rate [Source: European Commission duty rates].
 
-❌ **Residual-value uncertainty.** BYD is new in Europe, and clean used-EV pricing for Seal is still thin. A dealer taking a trade-in is pricing into the unknown [Source: CNEVhub market observation, mid-2025].
+❌ **Residual-value uncertainty.** BYD is new in Europe, and clean used-EV pricing for Seal is still thin. A dealer taking a trade-in is pricing into the unknown [Source: EV Hub market observation, mid-2025].
 
 ❌ **Software is not Tesla.** The infotainment and driver-assist stack is competent but not class-reference. Buyers cross-shopping a Model 3 will feel the difference in software polish [Source: Carwow review; multiple testers].
 
@@ -240,7 +240,7 @@ This is the part where I put the editor hat on and tell you what actually stuck 
 
 Let me put a concrete number on the anxiety. Take the Premium RWD again.
 
-- Landed cost in Germany: **$44,413** [Source: CNEVhub landed-cost breakdown]
+- Landed cost in Germany: **$44,413** [Source: EV Hub landed-cost breakdown]
 - A realistic German dealer list price for a comparable 2025 Seal Premium, before any national EV bonus, sits around €45,000–€48,000 depending on spec and market timing [Source: Reddit r/BYD owner reports, Germany market prices ≈ €38,000–€41,000 for Comfort trim, higher for top grades].
 
 Convert that back to USD and you're looking at roughly $48,000–$51,000 at a typical mid-2025 USD/EUR rate. That leaves a gross spread of maybe $4,000–$7,000 between landed cost and list — and out of that comes your dealer margin, warranty provisioning, floorplan interest, and any discounting needed to move metal given BYD's own official channel and the Tesla price pressure.
@@ -255,7 +255,7 @@ If your model is thin-margin and high-volume, look elsewhere. If your model is s
 A: WLTP is the honest European standard, unlike CLTC. Expect real-world mixed driving to land 10–15% below the WLTP figure in cold weather, roughly in line with most EVs. The Performance AWD tested at 18.6 kWh/100 km in independent testing, which implies around 440–450 km of real range from its 82.6 kWh pack in mixed conditions [Source: CarExpert road test efficiency figure].
 
 **Q: How much does it actually cost to land a BYD Seal in Germany?**
-A: For the Premium RWD, about $44,413 all-in, a +79.9% markup over the $24,690 China base price, driven by 10% duty, 17% BYD countervailing duty, 19% VAT, freight and certification [Source: CNEVhub landed-cost methodology]. Use our calculator to model your own spec and market.
+A: For the Premium RWD, about $44,413 all-in, a +79.9% markup over the $24,690 China base price, driven by 10% duty, 17% BYD countervailing duty, 19% VAT, freight and certification [Source: EV Hub landed-cost methodology]. Use our calculator to model your own spec and market.
 
 **Q: Does the Seal need CCS2 or GB/T charging?**
 A: For Europe you need CCS2 (DC) and Type 2 (AC). Export-spec Seals come with CCS2. Sourcing a domestic Chinese unit will leave you with GB/T and a retrofit or adapter problem you don't want to explain to a customer.
@@ -268,11 +268,11 @@ A: Not necessarily. The Seal's ex-factory price is lower, but BYD's 17% counterv
 
 ## Key Takeaways
 
-1. **A $24,690 China price becomes a $44,413 German landed cost** — a +79.9% markup — and the 17% BYD countervailing duty is the biggest single hard cost after VAT [Source: CNEVhub landed-cost breakdown].
+1. **A $24,690 China price becomes a $44,413 German landed cost** — a +79.9% markup — and the 17% BYD countervailing duty is the biggest single hard cost after VAT [Source: EV Hub landed-cost breakdown].
 2. **The duty regime is manufacturer-specific, not car-specific.** BYD 17%, Geely 18.8%, SAIC 35.3% — a Tesla built in the same Shanghai region pays less, which changes the import calculus entirely [Source: European Commission countervailing duty regulation].
 3. **Quote WLTP, never CLTC, and spec CCS2.** These two export-adaptation errors are the fastest way to burn dealer credibility in Europe [Source: BYD official spec; charging-standard mapping].
 4. **Stock the Premium RWD.** 570 km WLTP, lowest kerb weight, 5.9s, and the best range-to-price ratio of the three grades [Source: BYD spec sheet].
-5. **This is a strategic, not a high-margin, import.** The gross spread between landed cost and German list price is thin (roughly $4,000–$7,000), so treat the Seal as a market-entry play, not a cash cow [Source: CNEVhub landed-cost + market price analysis].
+5. **This is a strategic, not a high-margin, import.** The gross spread between landed cost and German list price is thin (roughly $4,000–$7,000), so treat the Seal as a market-entry play, not a cash cow [Source: EV Hub landed-cost + market price analysis].
 
 ---
 

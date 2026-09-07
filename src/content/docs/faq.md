@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-description: "Answers to the most common questions about importing Chinese EVs — costs, duties, certification, timelines, and how to use CNEVhub."
+description: "Answers to the most common questions about importing Chinese EVs — costs, duties, certification, timelines, and how to use EV Hub."
 section: "Reference"
 order: 2
 draft: false
@@ -42,9 +42,9 @@ Budget 3–4 months end to end. The two long poles are ocean freight (4–8 week
 
 CLTC (China's test cycle) reports figures typically 15–30% higher than the WLTP figures European buyers expect. A car quoted at "600 km" may deliver closer to 450–500 km in real European conditions. Budget accordingly.
 
-## Using CNEVhub
+## Using EV Hub
 
-### Are the prices on CNEVhub real-time?
+### Are the prices on EV Hub real-time?
 
 Our prices are benchmark estimates compiled at a fixed data date (shown on each page). Base prices come from our vehicle database; tariff and tax rates come from public authorities. Always verify current rates at the time of import, as trade policy can change.
 

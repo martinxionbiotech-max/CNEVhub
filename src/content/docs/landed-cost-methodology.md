@@ -1,6 +1,6 @@
 ---
 title: "Landed Cost Methodology"
-description: "The exact formula, data sources, and assumptions behind every landed-cost number on CNEVhub — transparent, documented, and reproducible."
+description: "The exact formula, data sources, and assumptions behind every landed-cost number on EV Hub — transparent, documented, and reproducible."
 section: "Landed Cost"
 order: 1
 draft: false
@@ -8,7 +8,7 @@ draft: false
 
 # Landed Cost Methodology
 
-Every number on CNEVhub is produced from a single, documented formula using public tariff schedules, national tax rates, and industry freight benchmarks. This page is that documentation, so you can verify — and reproduce — any figure on the site.
+Every number on EV Hub is produced from a single, documented formula using public tariff schedules, national tax rates, and industry freight benchmarks. This page is that documentation, so you can verify — and reproduce — any figure on the site.
 
 ## Why we publish this
 

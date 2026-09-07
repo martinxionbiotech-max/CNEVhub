@@ -1,8 +1,8 @@
 /**
- * Site Configuration — CNEVhub
+ * Site Configuration — EV Hub
  *
  * @description
- * CNEVhub: Chinese EV export intelligence platform.
+ * EV Hub: Chinese EV export intelligence platform.
  * Company: Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.)
  * Author: Wei Wang, EV & Battery Industry Analyst
  * Primary contact: Aaron.W (aaron@dinweys.com, WhatsApp/WeChat +86 13313137465)

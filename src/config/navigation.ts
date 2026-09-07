@@ -1,5 +1,5 @@
 /**
- * Navigation Configuration — CNEVhub
+ * Navigation Configuration — EV Hub
  *
  * EV export information platform navigation (header + footer).
  * Removed SaaS-template residue (pricing/login/dashboard/etc.).
