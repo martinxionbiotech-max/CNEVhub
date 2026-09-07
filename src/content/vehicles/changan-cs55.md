@@ -9,6 +9,7 @@ price_usd: 11920.0
 currency: "USD"
 range_cltc_km: 605
 battery_kwh: 84.2
+motor_power_kw: 160
 length_mm: 4500
 width_mm: 1855
 height_mm: 1690

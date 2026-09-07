@@ -1,0 +1,82 @@
+{
+ "entities": [
+  {
+   "id": "ev-hub",
+   "name": "EV Hub",
+   "type": "Platform",
+   "url": "https://electricvehiclehub.net"
+  },
+  {
+   "id": "chengguang-energy",
+   "name": "Chengguang Energy",
+   "legalName": "Jinzhou Chengguang Power Source Co., Ltd.",
+   "type": "Operator",
+   "founded": "2002"
+  },
+  {
+   "id": "wei-wang",
+   "name": "Wei Wang",
+   "type": "Author",
+   "role": "EV & Battery Industry Analyst"
+  },
+  {
+   "id": "aaron-w",
+   "name": "Aaron.W",
+   "type": "Contact",
+   "role": "Customer Service"
+  },
+  {
+   "id": "vehicle-db",
+   "name": "Vehicle Database",
+   "type": "Database"
+  },
+  {
+   "id": "market-db",
+   "name": "Market Database",
+   "type": "Database"
+  },
+  {
+   "id": "landed-cost-db",
+   "name": "Landed Cost Database",
+   "type": "Database"
+  }
+ ],
+ "relationships": [
+  {
+   "from": "ev-hub",
+   "to": "chengguang-energy",
+   "type": "operated_by"
+  },
+  {
+   "from": "ev-hub",
+   "to": "wei-wang",
+   "type": "edited_by"
+  },
+  {
+   "from": "ev-hub",
+   "to": "aaron-w",
+   "type": "contact_via"
+  },
+  {
+   "from": "ev-hub",
+   "to": "vehicle-db",
+   "type": "contains"
+  },
+  {
+   "from": "ev-hub",
+   "to": "market-db",
+   "type": "contains"
+  },
+  {
+   "from": "ev-hub",
+   "to": "landed-cost-db",
+   "type": "contains"
+  },
+  {
+   "from": "chengguang-energy",
+   "to": "wei-wang",
+   "type": "employs",
+   "status": "NEEDS_REVIEW"
+  }
+ ]
+}

@@ -8,6 +8,7 @@ powertrain: "BEV"
 price_usd: 12060.0
 currency: "USD"
 range_cltc_km: null
+motor_power_kw: 150
 accel_0_100_s: 11.8
 top_speed_kmh: 190
 length_mm: 4742

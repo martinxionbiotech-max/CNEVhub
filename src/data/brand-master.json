@@ -1,0 +1,528 @@
+{
+ "generated": "2026-09-07",
+ "count": 58,
+ "brands": [
+  {
+   "brand_id": "aeolus",
+   "brand_name": "Aeolus",
+   "parent_company": "Dongfeng",
+   "parent_location": "Wuhan, Hubei, China",
+   "established": "2009",
+   "website": "http://www.dfpv.com.cn/",
+   "vehicle_count": 5
+  },
+  {
+   "brand_id": "aion",
+   "brand_name": "AION",
+   "parent_company": "GAC",
+   "parent_location": "Guangzhou, Guangdong, China",
+   "established": "2017",
+   "website": "https://www.aion.com.cn/",
+   "vehicle_count": 7
+  },
+  {
+   "brand_id": "aito",
+   "brand_name": "AITO",
+   "parent_company": "Seres",
+   "parent_location": "Chongqing, China",
+   "established": "2021",
+   "website": "https://hima.auto/wenjie/",
+   "vehicle_count": 4
+  },
+  {
+   "brand_id": "arcfox",
+   "brand_name": "Arcfox",
+   "parent_company": "BAIC",
+   "parent_location": "Beijing, China",
+   "established": "2017",
+   "website": "https://www.arcfox.com.cn/",
+   "vehicle_count": 6
+  },
+  {
+   "brand_id": "avatr",
+   "brand_name": "Avatr",
+   "parent_company": "ChangAn",
+   "parent_location": "Chongqing, China",
+   "established": "2018",
+   "website": "https://www.avatr.com/",
+   "vehicle_count": 4
+  },
+  {
+   "brand_id": "baojun",
+   "brand_name": "Baojun",
+   "parent_company": "SAIC",
+   "parent_location": "Shanghai, China",
+   "established": "2010",
+   "website": "https://www.sgmw.com.cn/baojun/",
+   "vehicle_count": 6
+  },
+  {
+   "brand_id": "baw",
+   "brand_name": "BAW",
+   "parent_company": "BAW",
+   "parent_location": "Qingdao, China",
+   "established": "1953",
+   "website": "https://www.baw.com.cn/",
+   "vehicle_count": 2
+  },
+  {
+   "brand_id": "bestune",
+   "brand_name": "Bestune",
+   "parent_company": "FAW",
+   "parent_location": "Changchun, Jilin, China",
+   "established": "2006",
+   "website": "https://benteng.faw.cn/",
+   "vehicle_count": 4
+  },
+  {
+   "brand_id": "byd",
+   "brand_name": "BYD",
+   "parent_company": "BYD",
+   "parent_location": "Shenzhen, Guangdong, China",
+   "established": "2003",
+   "website": "https://www.byd.com/",
+   "vehicle_count": 37
+  },
+  {
+   "brand_id": "changan-nevo",
+   "brand_name": "ChangAn NEVO",
+   "parent_company": "ChangAn",
+   "parent_location": "Chongqing, China",
+   "established": "2023",
+   "website": "https://www.changan.com.cn/qiyuan/",
+   "vehicle_count": 6
+  },
+  {
+   "brand_id": "changan",
+   "brand_name": "ChangAn",
+   "parent_company": "ChangAn",
+   "parent_location": "Chongqing, China",
+   "established": "1957",
+   "website": "https://www.changan.com.cn/",
+   "vehicle_count": 9
+  },
+  {
+   "brand_id": "chery-fulwin",
+   "brand_name": "Chery Fulwin",
+   "parent_company": "Chery",
+   "parent_location": "Wuhu, Anhui, China",
+   "established": "2023",
+   "website": "https://fulwin.chery.cn/",
+   "vehicle_count": 7
+  },
+  {
+   "brand_id": "chery-new-energy",
+   "brand_name": "Chery New Energy",
+   "parent_company": "Chery",
+   "parent_location": "Wuhu, Anhui, China",
+   "established": "2010",
+   "website": "None",
+   "vehicle_count": 4
+  },
+  {
+   "brand_id": "chery",
+   "brand_name": "Chery",
+   "parent_company": "Chery",
+   "parent_location": "Wuhu, Anhui, China",
+   "established": "1997",
+   "website": "https://www.cheryinternational.com/",
+   "vehicle_count": 3
+  },
+  {
+   "brand_id": "deepal",
+   "brand_name": "Deepal",
+   "parent_company": "ChangAn",
+   "parent_location": "Chongqing, China",
+   "established": "2018",
+   "website": "https://www.deepal.com.cn/",
+   "vehicle_count": 7
+  },
+  {
+   "brand_id": "denza",
+   "brand_name": "Denza",
+   "parent_company": "BYD",
+   "parent_location": "Shenzhen, Guangdong, China",
+   "established": "2010",
+   "website": "https://www.denza.com/",
+   "vehicle_count": 6
+  },
+  {
+   "brand_id": "dongfeng-e",
+   "brand_name": "Dongfeng eπ",
+   "parent_company": "Dongfeng",
+   "parent_location": "Wuhan, Hubei, China",
+   "established": "2023",
+   "website": "https://www.yipai.com.cn/",
+   "vehicle_count": 3
+  },
+  {
+   "brand_id": "dongfeng-nammi",
+   "brand_name": "Dongfeng Nammi",
+   "parent_company": "Dongfeng",
+   "parent_location": "Wuhan, Hubei, China",
+   "established": "2020",
+   "website": "https://www.dna-nev.com.cn/",
+   "vehicle_count": 1
+  },
+  {
+   "brand_id": "exeed",
+   "brand_name": "Exeed",
+   "parent_company": "Chery",
+   "parent_location": "Wuhu, Anhui, China",
+   "established": "2017",
+   "website": "https://www.exeedinternational.com/",
+   "vehicle_count": 6
+  },
+  {
+   "brand_id": "fangchengbao",
+   "brand_name": "Fangchengbao",
+   "parent_company": "BYD",
+   "parent_location": "Shenzhen, Guangdong, China",
+   "established": "2023",
+   "website": "https://www.fangchengbao.com/",
+   "vehicle_count": 4
+  },
+  {
+   "brand_id": "firefly",
+   "brand_name": "firefly",
+   "parent_company": "NIO",
+   "parent_location": "Hefei, Anhui, China",
+   "established": "2024",
+   "website": "https://www.firefly.world/",
+   "vehicle_count": 1
+  },
+  {
+   "brand_id": "forthing",
+   "brand_name": "Forthing",
+   "parent_company": "Dongfeng",
+   "parent_location": "Wuhan, Hubei, China",
+   "established": "2001",
+   "website": "https://www.forthingmotor.com/",
+   "vehicle_count": 6
+  },
+  {
+   "brand_id": "gac-motor",
+   "brand_name": "GAC Motor",
+   "parent_company": "GAC",
+   "parent_location": "Guangzhou, Guangdong, China",
+   "established": "2010",
+   "website": "https://www.gacmotor.com/",
+   "vehicle_count": 9
+  },
+  {
+   "brand_id": "geely-galaxy",
+   "brand_name": "Geely Galaxy",
+   "parent_company": "Geely",
+   "parent_location": "Hangzhou, Zhejiang, China",
+   "established": "2023",
+   "website": "https://www.galaxy-geely.com/",
+   "vehicle_count": 12
+  },
+  {
+   "brand_id": "geely",
+   "brand_name": "Geely",
+   "parent_company": "Geely",
+   "parent_location": "Hangzhou, Zhejiang, China",
+   "established": "1997",
+   "website": "http://www.geelyauto.com.hk/",
+   "vehicle_count": 3
+  },
+  {
+   "brand_id": "haval",
+   "brand_name": "Haval",
+   "parent_company": "Great Wall",
+   "parent_location": "Baoding, Hebei, China",
+   "established": "2013",
+   "website": "https://www.haval.com.cn/",
+   "vehicle_count": 6
+  },
+  {
+   "brand_id": "hongqi",
+   "brand_name": "Hongqi",
+   "parent_company": "FAW",
+   "parent_location": "Changchun, Jilin, China",
+   "established": "1958",
+   "website": "https://hongqi.faw.cn/",
+   "vehicle_count": 12
+  },
+  {
+   "brand_id": "hyptec",
+   "brand_name": "Hyptec",
+   "parent_company": "GAC",
+   "parent_location": "Guangzhou, Guangdong, China",
+   "established": "2022",
+   "website": "https://www.hyptec.com/",
+   "vehicle_count": 4
+  },
+  {
+   "brand_id": "icaur",
+   "brand_name": "iCAUR",
+   "parent_company": "Chery",
+   "parent_location": "Wuhu, Anhui, China",
+   "established": "2023",
+   "website": "https://www.icaurglobal.com/",
+   "vehicle_count": 2
+  },
+  {
+   "brand_id": "im",
+   "brand_name": "IM",
+   "parent_company": "SAIC",
+   "parent_location": "Shanghai, China",
+   "established": "2020",
+   "website": "https://www.immotors.com/",
+   "vehicle_count": 5
+  },
+  {
+   "brand_id": "jac-refine",
+   "brand_name": "JAC Refine",
+   "parent_company": "JAC",
+   "parent_location": "Hefei, Anhui, China",
+   "established": "2002",
+   "website": "None",
+   "vehicle_count": 3
+  },
+  {
+   "brand_id": "jac-yiwei",
+   "brand_name": "JAC Yiwei",
+   "parent_company": "JAC",
+   "parent_location": "Hefei, Anhui, China",
+   "established": "2020",
+   "website": "https://yiwei.jac.com.cn/",
+   "vehicle_count": 3
+  },
+  {
+   "brand_id": "jac",
+   "brand_name": "JAC",
+   "parent_company": "JAC",
+   "parent_location": "Hefei, Anhui, China",
+   "established": "1964",
+   "website": "None",
+   "vehicle_count": 2
+  },
+  {
+   "brand_id": "jaecoo",
+   "brand_name": "Jaecoo",
+   "parent_company": "Chery",
+   "parent_location": "Wuhu, Anhui, China",
+   "established": "2023",
+   "website": "https://www.omodajaecoo.com/",
+   "vehicle_count": 1
+  },
+  {
+   "brand_id": "jetour",
+   "brand_name": "Jetour",
+   "parent_company": "Chery",
+   "parent_location": "Wuhu, Anhui, China",
+   "established": "2018",
+   "website": "https://jetourglobal.com/",
+   "vehicle_count": 10
+  },
+  {
+   "brand_id": "kaicene",
+   "brand_name": "Kaicene",
+   "parent_company": "ChangAn",
+   "parent_location": "Chongqing, China",
+   "established": "2019",
+   "website": "https://www.cakcauto.com/",
+   "vehicle_count": 1
+  },
+  {
+   "brand_id": "leapmotor",
+   "brand_name": "Leapmotor",
+   "parent_company": "Leapmotor",
+   "parent_location": "Hangzhou, Zhejiang, China",
+   "established": "2015",
+   "website": "https://www.leapmotor.net/",
+   "vehicle_count": 8
+  },
+  {
+   "brand_id": "li-auto",
+   "brand_name": "Li Auto",
+   "parent_company": "Li Auto",
+   "parent_location": "Beijing, China",
+   "established": "2015",
+   "website": "https://www.lixiang.com/",
+   "vehicle_count": 7
+  },
+  {
+   "brand_id": "luxeed",
+   "brand_name": "Luxeed",
+   "parent_company": "Chery",
+   "parent_location": "Wuhu, Anhui, China",
+   "established": "2023",
+   "website": "https://hima.auto/zhijie/",
+   "vehicle_count": 2
+  },
+  {
+   "brand_id": "lynk-co",
+   "brand_name": "Lynk & Co",
+   "parent_company": "Geely",
+   "parent_location": "Hangzhou, Zhejiang, China",
+   "established": "2016",
+   "website": "https://www.lynkco.com/",
+   "vehicle_count": 10
+  },
+  {
+   "brand_id": "m-hero",
+   "brand_name": "M-Hero",
+   "parent_company": "Dongfeng",
+   "parent_location": "Wuhan, Hubei, China",
+   "established": "2022",
+   "website": "https://www.m-hero.com/",
+   "vehicle_count": 2
+  },
+  {
+   "brand_id": "maextro",
+   "brand_name": "Maextro",
+   "parent_company": "JAC",
+   "parent_location": "Hefei, Anhui, China",
+   "established": "2024",
+   "website": "https://hima.auto/zunjie/",
+   "vehicle_count": 1
+  },
+  {
+   "brand_id": "maxus",
+   "brand_name": "Maxus",
+   "parent_company": "SAIC",
+   "parent_location": "Shanghai, China",
+   "established": "2011",
+   "website": "https://www.saicmaxus.com/",
+   "vehicle_count": 4
+  },
+  {
+   "brand_id": "mg",
+   "brand_name": "MG",
+   "parent_company": "SAIC",
+   "parent_location": "Shanghai, China",
+   "established": "1029",
+   "website": "https://www.mgmotor.eu/",
+   "vehicle_count": 2
+  },
+  {
+   "brand_id": "nio",
+   "brand_name": "NIO",
+   "parent_company": "NIO",
+   "parent_location": "Hefei, Anhui, China",
+   "established": "2014",
+   "website": "https://www.nio.com/",
+   "vehicle_count": 8
+  },
+  {
+   "brand_id": "onvo",
+   "brand_name": "Onvo",
+   "parent_company": "NIO",
+   "parent_location": "Hefei, Anhui, China",
+   "established": "2024",
+   "website": "https://www.onvo.cn/",
+   "vehicle_count": 2
+  },
+  {
+   "brand_id": "ora",
+   "brand_name": "Ora",
+   "parent_company": "Great Wall",
+   "parent_location": "Baoding, Hebei, China",
+   "established": "2018",
+   "website": "https://www.oraev.com/",
+   "vehicle_count": 3
+  },
+  {
+   "brand_id": "roewe",
+   "brand_name": "Roewe",
+   "parent_company": "SAIC",
+   "parent_location": "Shanghai, China",
+   "established": "2006",
+   "website": "http://www.roewe.com.cn/",
+   "vehicle_count": 7
+  },
+  {
+   "brand_id": "saic",
+   "brand_name": "SAIC",
+   "parent_company": "SAIC",
+   "parent_location": "Shanghai, China",
+   "established": "2025",
+   "website": "https://hima.auto/shangjie/",
+   "vehicle_count": 1
+  },
+  {
+   "brand_id": "stelato",
+   "brand_name": "Stelato",
+   "parent_company": "BAIC",
+   "parent_location": "Beijing, China",
+   "established": "2024",
+   "website": "https://hima.auto/xiangjie/",
+   "vehicle_count": 1
+  },
+  {
+   "brand_id": "tank",
+   "brand_name": "Tank",
+   "parent_company": "Great Wall",
+   "parent_location": "Baoding, Hebei, China",
+   "established": "2021",
+   "website": "https://www.tanksuv.com/",
+   "vehicle_count": 4
+  },
+  {
+   "brand_id": "voyah",
+   "brand_name": "Voyah",
+   "parent_company": "Dongfeng",
+   "parent_location": "Wuhan, Hubei, China",
+   "established": "2019",
+   "website": "https://www.voyah-global.com/",
+   "vehicle_count": 5
+  },
+  {
+   "brand_id": "wey",
+   "brand_name": "WEY",
+   "parent_company": "Great Wall",
+   "parent_location": "Baoding, Hebei, China",
+   "established": "2016",
+   "website": "https://www.wey.com/",
+   "vehicle_count": 4
+  },
+  {
+   "brand_id": "wuling",
+   "brand_name": "Wuling",
+   "parent_company": "SAIC",
+   "parent_location": "Shanghai, China",
+   "established": "2002",
+   "website": "https://www.sgmw.com.cn/",
+   "vehicle_count": 14
+  },
+  {
+   "brand_id": "xiaomi",
+   "brand_name": "Xiaomi",
+   "parent_company": "Xiaomi",
+   "parent_location": "Beijing, China",
+   "established": "2021",
+   "website": "https://www.mi.com/",
+   "vehicle_count": 2
+  },
+  {
+   "brand_id": "xpeng",
+   "brand_name": "XPeng",
+   "parent_company": "XPeng",
+   "parent_location": "Guangzhou, Guangdong, China",
+   "established": "2014",
+   "website": "https://www.xiaopeng.com/",
+   "vehicle_count": 7
+  },
+  {
+   "brand_id": "yangwang",
+   "brand_name": "Yangwang",
+   "parent_company": "BYD",
+   "parent_location": "Shenzhen, Guangdong, China",
+   "established": "2023",
+   "website": "https://www.yangwangauto.com/",
+   "vehicle_count": 3
+  },
+  {
+   "brand_id": "zeekr",
+   "brand_name": "Zeekr",
+   "parent_company": "Geely",
+   "parent_location": "Hangzhou, Zhejiang, China",
+   "established": "2021",
+   "website": "https://www.zeekrlife.com/global/",
+   "vehicle_count": 7
+  }
+ ]
+}

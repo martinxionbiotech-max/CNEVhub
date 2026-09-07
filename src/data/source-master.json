@@ -1,0 +1,55 @@
+{
+ "generated": "2026-09-07",
+ "sources": [
+  {
+   "source_id": "eu-2024-2754",
+   "publisher": "European Commission",
+   "source_type": "regulation",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402754",
+   "tier": 1,
+   "used_for": "countervailing duties (BEV from China)"
+  },
+  {
+   "source_id": "eu-taric",
+   "publisher": "European Commission TARIC",
+   "source_type": "customs tariff",
+   "tier": 1,
+   "used_for": "standard import duty (MFN)"
+  },
+  {
+   "source_id": "national-tax",
+   "publisher": "National tax authorities",
+   "source_type": "tax",
+   "tier": 1,
+   "used_for": "VAT/GST rates"
+  },
+  {
+   "source_id": "manufacturer",
+   "publisher": "Manufacturer datasheets / official sites",
+   "source_type": "spec",
+   "tier": 2,
+   "used_for": "vehicle specs (range/battery/motor)"
+  },
+  {
+   "source_id": "cnevpost-carnewschina",
+   "publisher": "CnEVPost / CarNewsChina",
+   "source_type": "industry media",
+   "tier": 3,
+   "used_for": "vehicle range/battery/pricing"
+  },
+  {
+   "source_id": "autohome-dcd",
+   "publisher": "汽车之家 Autohome / 懂车帝",
+   "source_type": "catalog",
+   "tier": 3,
+   "used_for": "vehicle specs"
+  },
+  {
+   "source_id": "wikipedia",
+   "publisher": "Wikipedia (EN/ZH)",
+   "source_type": "tertiary",
+   "tier": 4,
+   "used_for": "cross-check (not primary reference)"
+  }
+ ]
+}
