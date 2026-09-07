@@ -1,10 +1,10 @@
 ---
-title: "Changan Cs75"
+title: "Changan Cs75 PHEV"
 description: "Changan Cs75 is a suv from Changan,. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-cs75"
 brand: "changan"
 type: "SUV"
-powertrain: "BEV"
+powertrain: "PHEV"
 price_usd: 12060.0
 currency: "USD"
 range_cltc_km: null

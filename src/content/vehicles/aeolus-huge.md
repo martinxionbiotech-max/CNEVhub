@@ -4,11 +4,12 @@ description: "Aeolus Huge is a suv from Aeolus,. Full landed-cost breakdown acro
 slug: "aeolus-huge"
 brand: "aeolus"
 type: "SUV"
-powertrain: "PHEV"
+powertrain: "HEV"
 price_usd: 19700.0
 currency: "USD"
-range_cltc_km: 205
-battery_kwh: 30.3
+range_cltc_km: null
+battery_kwh: 1.8
+motor_power_kw: 130
 top_speed_kmh: 170
 length_mm: 4720
 width_mm: 1910
