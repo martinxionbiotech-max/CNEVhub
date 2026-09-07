@@ -2,36 +2,37 @@
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import SEO from '@/components/common/SEO.astro';
 import { siteConfig, company } from '@/config';
+import tariffs from '@/data/tariffs.json';
 
-// 计算器静态数据（与 data/calculator-data.json 一致）
+// 精选热门车型（价格手选；CVD 从 tariffs.brand_cvd 派生，单源）
 const cars = [
-  { slug: 'byd-qin-plus', name: 'BYD Qin Plus', brand: 'byd', price: 11080, cvd: 0.17 },
-  { slug: 'byd-dolphin', name: 'BYD Dolphin', brand: 'byd', price: 14020, cvd: 0.17 },
-  { slug: 'aion-y', name: 'GAC Aion Y', brand: 'aion', price: 14060, cvd: 0.207 },
-  { slug: 'byd-atto-3', name: 'BYD Atto 3', brand: 'byd', price: 16260, cvd: 0.17 },
-  { slug: 'byd-song-plus', name: 'BYD Song Plus', brand: 'byd', price: 19130, cvd: 0.17 },
-  { slug: 'byd-han', name: 'BYD Han', brand: 'byd', price: 23700, cvd: 0.17 },
-  { slug: 'byd-seal', name: 'BYD Seal', brand: 'byd', price: 24690, cvd: 0.17 },
-  { slug: 'xiaomi-su7', name: 'Xiaomi SU7', brand: 'xiaomi', price: 30320, cvd: 0.207 },
-  { slug: 'zeekr-001', name: 'Zeekr 001', brand: 'zeekr', price: 38000, cvd: 0.188 },
-  { slug: 'denza-d9', name: 'Denza D9', brand: 'denza', price: 43630, cvd: 0.17 },
-];
+  { slug: 'byd-qin-plus', name: 'BYD Qin Plus', brand: 'byd', price: 11080 },
+  { slug: 'byd-dolphin', name: 'BYD Dolphin', brand: 'byd', price: 14020 },
+  { slug: 'aion-y', name: 'GAC Aion Y', brand: 'aion', price: 14060 },
+  { slug: 'byd-atto-3', name: 'BYD Atto 3', brand: 'byd', price: 16260 },
+  { slug: 'byd-song-plus', name: 'BYD Song Plus', brand: 'byd', price: 19130 },
+  { slug: 'byd-han', name: 'BYD Han', brand: 'byd', price: 23700 },
+  { slug: 'byd-seal', name: 'BYD Seal', brand: 'byd', price: 24690 },
+  { slug: 'xiaomi-su7', name: 'Xiaomi SU7', brand: 'xiaomi', price: 30320 },
+  { slug: 'zeekr-001', name: 'Zeekr 001', brand: 'zeekr', price: 38000 },
+  { slug: 'denza-d9', name: 'Denza D9', brand: 'denza', price: 43630 },
+].map((c) => ({ ...c, cvd: tariffs.brand_cvd[c.brand] ?? tariffs.brand_cvd._default }));
 
-// 多国市场（含反补贴税适用标记，与 landed-cost-params.json 对齐）
-const markets = [
-  { code: 'germany', country: 'Germany', region: 'EU', vat: 0.19, reg: 500, duty: 0.10, cvd: true },
-  { code: 'france', country: 'France', region: 'EU', vat: 0.20, reg: 400, duty: 0.10, cvd: true },
-  { code: 'netherlands', country: 'Netherlands', region: 'EU', vat: 0.21, reg: 400, duty: 0.10, cvd: true },
-  { code: 'united_kingdom', country: 'United Kingdom', region: 'Non-EU', vat: 0.20, reg: 400, duty: 0.10, cvd: false },
-  { code: 'united_arab_emirates', country: 'UAE', region: 'Middle East', vat: 0.05, reg: 300, duty: 0.05, cvd: false },
-  { code: 'saudi_arabia', country: 'Saudi Arabia', region: 'Middle East', vat: 0.15, reg: 300, duty: 0.05, cvd: false },
-  { code: 'australia', country: 'Australia', region: 'Oceania', vat: 0.10, reg: 500, duty: 0.00, cvd: false },
-];
+// 市场数据从 tariffs.json 派生（单源）；CVD 仅在 EU 市场适用
+const markets = Object.entries(tariffs.markets).map(([code, m]) => ({
+  code,
+  country: m.label,
+  region: m.region,
+  vat: m.vat_rate,
+  reg: m.registration_fee_usd,
+  duty: m.standard_duty_rate,
+  cvd: m.region === 'EU',
+}));
 
-const FREIGHT = 2000;
-const CLEARANCE = 350;
-const CERTIFICATION = 3250;
-const INLAND = 500;
+const FREIGHT = tariffs.fixed_costs.freight_roro_usd;
+const CLEARANCE = tariffs.fixed_costs.customs_clearance_usd;
+const CERTIFICATION = tariffs.fixed_costs.certification_usd;
+const INLAND = tariffs.fixed_costs.inland_transport_usd;
 ---
 
 <SEO
