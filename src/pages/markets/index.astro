@@ -1,0 +1,112 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import tariffs from '@/data/tariffs.json';
+import { siteConfig } from '@/config';
+
+const marketOrder = [
+  { key: 'germany', label: 'Germany', note: 'EU — 19% VAT, brand CVD applies' },
+  { key: 'france', label: 'France', note: 'EU — 20% VAT, brand CVD applies' },
+  { key: 'netherlands', label: 'Netherlands', note: 'EU — 21% VAT, brand CVD applies' },
+  { key: 'united_kingdom', label: 'United Kingdom', note: 'Non-EU — no CVD, 20% VAT' },
+  { key: 'united_arab_emirates', label: 'UAE', note: 'Middle East — 5% VAT, no CVD' },
+  { key: 'saudi_arabia', label: 'Saudi Arabia', note: 'Middle East — 15% VAT, no CVD' },
+  { key: 'australia', label: 'Australia', note: 'Oceania — 10% GST, no CVD' },
+];
+
+const brandCvd = tariffs.brand_cvd;
+const sampledBrands = [
+  { name: 'BYD', rate: brandCvd.byd },
+  { name: 'Geely / Zeekr / Lynk & Co', rate: brandCvd.geely },
+  { name: 'SAIC / MG / Maxus / Roewe / Wuling', rate: brandCvd.mg },
+  { name: 'Tesla (Shanghai)', rate: brandCvd.tesla },
+  { name: 'Other cooperating producers', rate: brandCvd._default },
+];
+---
+
+<MarketingLayout
+  title={`Market Comparison — ${siteConfig.name}`}
+  description="Compare import duty, VAT, and countervailing duty across all 7 export markets EV Hub tracks — EU, UK, Gulf, and Australia — plus the brand-specific countervailing duty rates."
+>
+  <div class="max-w-5xl mx-auto px-6 py-16">
+    <div class="text-center mb-12">
+      <h1 class="text-4xl font-bold mb-3">Market Comparison</h1>
+      <p class="text-gray-600 max-w-2xl mx-auto">
+        The same Chinese EV lands very differently depending on destination. Here's the tariff
+        structure for every market we track, plus the brand-specific countervailing duty rates.
+      </p>
+    </div>
+
+    <section class="mb-12">
+      <h2 class="text-2xl font-bold mb-4">Import duty & VAT by destination</h2>
+      <div class="rounded-xl border border-gray-200 overflow-hidden">
+        <table class="w-full text-sm">
+          <thead class="bg-gray-50">
+            <tr>
+              <th class="px-5 py-3 text-left font-semibold text-gray-700">Market</th>
+              <th class="px-5 py-3 text-left font-semibold text-gray-700">Region</th>
+              <th class="px-5 py-3 text-right font-semibold text-gray-700">Standard duty</th>
+              <th class="px-5 py-3 text-right font-semibold text-gray-700">VAT / GST</th>
+              <th class="px-5 py-3 text-left font-semibold text-gray-700">Countervailing duty</th>
+            </tr>
+          </thead>
+          <tbody>
+            {marketOrder.map((m) => {
+              const r = tariffs.markets[m.key];
+              const isEU = r.region === 'EU';
+              return (
+                <tr class="border-t border-gray-100">
+                  <td class="px-5 py-3 font-medium text-gray-900">{m.label}</td>
+                  <td class="px-5 py-3 text-gray-600">{r.region}</td>
+                  <td class="px-5 py-3 text-right text-gray-800">{(r.standard_duty_rate * 100).toFixed(0)}%</td>
+                  <td class="px-5 py-3 text-right text-gray-800">{(r.vat_rate * 100).toFixed(0)}%</td>
+                  <td class="px-5 py-3 text-gray-600">{isEU ? 'Brand-specific (17–35.3%)' : 'None'}</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+      <p class="text-xs text-gray-500 mt-3">
+        Source: {tariffs.source}. {tariffs.cvd_scope}.
+      </p>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="text-2xl font-bold mb-4">Countervailing duty by brand (EU only)</h2>
+      <div class="rounded-xl border border-gray-200 overflow-hidden">
+        <table class="w-full text-sm">
+          <thead class="bg-gray-50">
+            <tr>
+              <th class="px-5 py-3 text-left font-semibold text-gray-700">Producer group</th>
+              <th class="px-5 py-3 text-right font-semibold text-gray-700">CVD rate</th>
+              <th class="px-5 py-3 text-right font-semibold text-gray-700">Total with 10% duty</th>
+            </tr>
+          </thead>
+          <tbody>
+            {sampledBrands.map((b) => (
+              <tr class="border-t border-gray-100">
+                <td class="px-5 py-3 font-medium text-gray-900">{b.name}</td>
+                <td class="px-5 py-3 text-right text-gray-800">{(b.rate * 100).toFixed(1)}%</td>
+                <td class="px-5 py-3 text-right text-gray-800">{((b.rate + 0.10) * 100).toFixed(1)}%</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="text-xs text-gray-500 mt-3">
+        Rates effective 31 October 2024 for five years. {tariffs.cvd_scope}.
+      </p>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="text-2xl font-bold mb-4">Deeper reads</h2>
+      <ul class="space-y-2 text-sm">
+        <li><a href="/blog/germany-netherlands-france-import-comparison/" class="text-green-600 hover:text-green-700">Germany vs France vs Netherlands — which EU market is cheapest</a></li>
+        <li><a href="/blog/uae-saudi-arabia-import-comparison/" class="text-green-600 hover:text-green-700">UAE vs Saudi Arabia — the no-CVD Gulf</a></li>
+        <li><a href="/blog/australia-import-zero-duty/" class="text-green-600 hover:text-green-700">Australia — the zero-duty market (and its RHD/ADR catch)</a></li>
+        <li><a href="/blog/sticker-vs-landed-price/" class="text-green-600 hover:text-green-700">Why the sticker price is never the landed price</a></li>
+        <li><a href="/landed-cost-calculator/" class="text-green-600 hover:text-green-700">Landed cost calculator</a></li>
+      </ul>
+    </section>
+  </div>
+</MarketingLayout>
