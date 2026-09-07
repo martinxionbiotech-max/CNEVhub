@@ -14,7 +14,7 @@
     "geely": 0.188,
     "zeekr": 0.188,
     "saic": 0.353,
-    "default": 0.188,
+    "default": 0.207,
     "note": "EU anti-subsidy (countervailing) duties on Chinese BEVs. Rates vary by producer; default applies to non-cooperating/other producers."
   },
   "vat": {

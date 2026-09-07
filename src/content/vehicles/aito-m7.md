@@ -1,8 +1,8 @@
 ---
-title: "Aion Aito M7"
-description: "Aion Aito M7 is a suv from Aion, a 37 kWh battery and 392 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+title: "Aito M7"
+description: "Aito M7 is a suv from AITO, a 100 kWh battery and 392 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "aito-m7"
-brand: "aion"
+brand: "aito"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 39410.0

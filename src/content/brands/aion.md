@@ -7,7 +7,7 @@ parent_manufacturer: "GAC"
 parent_location: "Guangzhou, Guangdong, China"
 parent_founded: "1948"
 website: "https://www.aion.com.cn/"
-model_count: 8
+model_count: 7
 publishedDate: "2026-09-05"
 tags: [AION, Chinese EV brand, EV export]
 ---

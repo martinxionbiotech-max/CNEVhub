@@ -1,8 +1,8 @@
 {
-  "name": "cnevhub",
+  "name": "ev-hub",
   "type": "module",
   "version": "1.4.1",
-  "description": "A production-ready SaaS theme for Astro. Built for those who want to go from zero to launch quickly.",
+  "description": "EV Hub — China EV export intelligence: landed cost, tariffs, vehicle & market data.",
   "keywords": [
     "astro",
     "theme",

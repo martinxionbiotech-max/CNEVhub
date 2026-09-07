@@ -7,7 +7,7 @@ parent_manufacturer: "Seres"
 parent_location: "Chongqing, China"
 parent_founded: "1986"
 website: "https://hima.auto/wenjie/"
-model_count: 3
+model_count: 4
 publishedDate: "2026-09-05"
 tags: [AITO, Chinese EV brand, EV export]
 ---
