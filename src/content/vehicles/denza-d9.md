@@ -3,7 +3,7 @@ title: "Denza D9"
 description: "The Denza D9 is BYD and Mercedes-Benz's premium MPV — a 5,250 mm luxury people-mover that has become the de facto executive van of choice in China's corporate s"
 slug: "denza-d9"
 brand: "denza"
-type: "SUV"
+type: "MPV"
 powertrain: "BEV"
 price_usd: 43630.0
 currency: "USD"

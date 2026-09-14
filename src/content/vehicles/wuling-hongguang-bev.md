@@ -3,7 +3,7 @@ title: "Wuling Hongguang BEV"
 description: "Wuling Hongguang BEV is a suv from Wuling, a 8.5 kWh battery and 75 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "wuling-hongguang-bev"
 brand: "wuling"
-type: "SUV"
+type: "MPV"
 powertrain: "BEV"
 price_usd: 9690.0
 currency: "USD"
