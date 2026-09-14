@@ -81,10 +81,13 @@ def r1(x):
 
 
 def cvd_rate_for(brand, powertrain, region):
-    """CVD applies to EU markets only, and BEVs only."""
+    """EU countervailing duty (Reg 2024/2754) applies to BEVs only.
+
+    PHEV / EREV / HEV / petrol vehicles are NOT subject to the CVD.
+    """
     if region != "EU":
         return 0.0
-    if (powertrain or "BEV").upper() in ("PHEV", "EREV"):
+    if (powertrain or "BEV").upper() != "BEV":
         return 0.0
     return BRAND_CVD.get(brand, BRAND_CVD["_default"])
 

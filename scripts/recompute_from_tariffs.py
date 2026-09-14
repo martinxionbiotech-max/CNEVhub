@@ -28,11 +28,11 @@ MARKET_KEY = {
 
 
 def cvd_rate_for(brand, powertrain, region):
-    # Countervailing duty applies to EU markets only, and to BEVs only.
+    # EU countervailing duty (Reg 2024/2754) applies to BEVs only.
+    # PHEV / EREV / HEV / petrol vehicles are NOT subject to the CVD.
     if region != "EU":
         return 0.0
-    pt = (powertrain or "BEV").upper()
-    if pt in ("PHEV", "EREV"):
+    if (powertrain or "BEV").upper() != "BEV":
         return 0.0
     return TARIFFS["brand_cvd"].get(brand, TARIFFS["brand_cvd"]["_default"])
 
