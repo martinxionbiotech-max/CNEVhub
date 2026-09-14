@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-07",
-  "count": 58,
+  "count": 59,
   "brands": [
     {
       "brand_id": "aeolus",
@@ -9,7 +9,7 @@
       "parent_location": "Wuhan, Hubei, China",
       "established": "2009",
       "website": "http://www.dfpv.com.cn/",
-      "vehicle_count": 5
+      "vehicle_count": 6
     },
     {
       "brand_id": "aion",
@@ -18,7 +18,7 @@
       "parent_location": "Guangzhou, Guangdong, China",
       "established": "2017",
       "website": "https://www.aion.com.cn/",
-      "vehicle_count": 7
+      "vehicle_count": 13
     },
     {
       "brand_id": "aito",
@@ -27,7 +27,7 @@
       "parent_location": "Chongqing, China",
       "established": "2021",
       "website": "https://hima.auto/wenjie/",
-      "vehicle_count": 4
+      "vehicle_count": 6
     },
     {
       "brand_id": "arcfox",
@@ -153,7 +153,7 @@
       "parent_location": "Wuhan, Hubei, China",
       "established": "2023",
       "website": "https://www.yipai.com.cn/",
-      "vehicle_count": 3
+      "vehicle_count": 5
     },
     {
       "brand_id": "dongfeng-nammi",
@@ -189,7 +189,7 @@
       "parent_location": "Hefei, Anhui, China",
       "established": "2024",
       "website": "https://www.firefly.world/",
-      "vehicle_count": 1
+      "vehicle_count": 2
     },
     {
       "brand_id": "forthing",
@@ -198,7 +198,7 @@
       "parent_location": "Wuhan, Hubei, China",
       "established": "2001",
       "website": "https://www.forthingmotor.com/",
-      "vehicle_count": 6
+      "vehicle_count": 11
     },
     {
       "brand_id": "gac-motor",
@@ -207,7 +207,7 @@
       "parent_location": "Guangzhou, Guangdong, China",
       "established": "2010",
       "website": "https://www.gacmotor.com/",
-      "vehicle_count": 9
+      "vehicle_count": 11
     },
     {
       "brand_id": "geely-galaxy",
@@ -234,7 +234,7 @@
       "parent_location": "Baoding, Hebei, China",
       "established": "2013",
       "website": "https://www.haval.com.cn/",
-      "vehicle_count": 6
+      "vehicle_count": 7
     },
     {
       "brand_id": "hongqi",
@@ -243,7 +243,7 @@
       "parent_location": "Changchun, Jilin, China",
       "established": "1958",
       "website": "https://hongqi.faw.cn/",
-      "vehicle_count": 12
+      "vehicle_count": 14
     },
     {
       "brand_id": "hyptec",
@@ -252,7 +252,7 @@
       "parent_location": "Guangzhou, Guangdong, China",
       "established": "2022",
       "website": "https://www.hyptec.com/",
-      "vehicle_count": 4
+      "vehicle_count": 5
     },
     {
       "brand_id": "icaur",
@@ -270,7 +270,7 @@
       "parent_location": "Shanghai, China",
       "established": "2020",
       "website": "https://www.immotors.com/",
-      "vehicle_count": 5
+      "vehicle_count": 6
     },
     {
       "brand_id": "jac-refine",
@@ -297,7 +297,7 @@
       "parent_location": "Hefei, Anhui, China",
       "established": "1964",
       "website": "None",
-      "vehicle_count": 2
+      "vehicle_count": 3
     },
     {
       "brand_id": "jaecoo",
@@ -333,7 +333,7 @@
       "parent_location": "Hangzhou, Zhejiang, China",
       "established": "2015",
       "website": "https://www.leapmotor.net/",
-      "vehicle_count": 8
+      "vehicle_count": 12
     },
     {
       "brand_id": "li-auto",
@@ -387,7 +387,7 @@
       "parent_location": "Shanghai, China",
       "established": "2011",
       "website": "https://www.saicmaxus.com/",
-      "vehicle_count": 4
+      "vehicle_count": 7
     },
     {
       "brand_id": "mg",
@@ -396,7 +396,7 @@
       "parent_location": "Shanghai, China",
       "established": "1029",
       "website": "https://www.mgmotor.eu/",
-      "vehicle_count": 2
+      "vehicle_count": 4
     },
     {
       "brand_id": "nio",
@@ -405,7 +405,7 @@
       "parent_location": "Hefei, Anhui, China",
       "established": "2014",
       "website": "https://www.nio.com/",
-      "vehicle_count": 8
+      "vehicle_count": 10
     },
     {
       "brand_id": "onvo",
@@ -414,7 +414,7 @@
       "parent_location": "Hefei, Anhui, China",
       "established": "2024",
       "website": "https://www.onvo.cn/",
-      "vehicle_count": 2
+      "vehicle_count": 3
     },
     {
       "brand_id": "ora",
@@ -423,7 +423,7 @@
       "parent_location": "Baoding, Hebei, China",
       "established": "2018",
       "website": "https://www.oraev.com/",
-      "vehicle_count": 3
+      "vehicle_count": 4
     },
     {
       "brand_id": "roewe",
@@ -432,7 +432,7 @@
       "parent_location": "Shanghai, China",
       "established": "2006",
       "website": "http://www.roewe.com.cn/",
-      "vehicle_count": 7
+      "vehicle_count": 10
     },
     {
       "brand_id": "saic",
@@ -468,7 +468,7 @@
       "parent_location": "Wuhan, Hubei, China",
       "established": "2019",
       "website": "https://www.voyah-global.com/",
-      "vehicle_count": 5
+      "vehicle_count": 6
     },
     {
       "brand_id": "wey",
@@ -486,7 +486,7 @@
       "parent_location": "Shanghai, China",
       "established": "2002",
       "website": "https://www.sgmw.com.cn/",
-      "vehicle_count": 14
+      "vehicle_count": 16
     },
     {
       "brand_id": "xiaomi",
@@ -495,7 +495,7 @@
       "parent_location": "Beijing, China",
       "established": "2021",
       "website": "https://www.mi.com/",
-      "vehicle_count": 2
+      "vehicle_count": 6
     },
     {
       "brand_id": "xpeng",
@@ -504,7 +504,7 @@
       "parent_location": "Guangzhou, Guangdong, China",
       "established": "2014",
       "website": "https://www.xiaopeng.com/",
-      "vehicle_count": 7
+      "vehicle_count": 10
     },
     {
       "brand_id": "yangwang",
@@ -523,6 +523,15 @@
       "established": "2021",
       "website": "https://www.zeekrlife.com/global/",
       "vehicle_count": 9
+    },
+    {
+      "brand_id": "jmc",
+      "brand_name": "JMC",
+      "parent_company": "JMC (Jiangling Motors)",
+      "parent_location": "Nanchang, Jiangxi, China",
+      "established": "1968",
+      "website": "https://www.jmc.com.cn/",
+      "vehicle_count": 4
     }
   ]
 }
