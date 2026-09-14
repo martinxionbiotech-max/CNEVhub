@@ -3,7 +3,7 @@ title: "Changan Nevo A07"
 description: "Changan Nevo A07 is a suv from Changan, a 35.07 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-nevo-a07"
 brand: "changan-nevo"
-type: "SUV"
+type: "Sedan"
 powertrain: "BEV"
 price_usd: 19700.0
 currency: "USD"
@@ -24,7 +24,7 @@ fast_charge: "15 min (30-80%)"
 landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 37725.27, "premium_pct": 91.5, "breakdown": {"duty_cif_usd": 1970.0, "countervailing_duty_usd": 4485.69, "vat_usd": 4969.58, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
-tags: ["changan", "SUV", "chinese-ev", "export"]
+tags: ["changan", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1762155460928-7irovl8dk8n.jpg"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 37725.27, "premium_pct": 91.5}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 32254.0, "premium_pct": 63.7}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 38148.38, "premium_pct": 93.6}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 37886.83, "premium_pct": 92.3}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 26169.25, "premium_pct": 32.8}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 28237.75, "premium_pct": 43.3}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 27520.0, "premium_pct": 39.7}]
 data_tier: 2

@@ -3,7 +3,7 @@ title: "Avatr 12"
 description: "Avatr 12 is a suv from Avatr, a 52.01 kWh battery and 231 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "avatr-12"
 brand: "avatr"
-type: "SUV"
+type: "Sedan"
 powertrain: "BEV"
 price_usd: 38010.0
 currency: "USD"
@@ -24,7 +24,7 @@ fast_charge: "10 min (30-80%)"
 landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 66654.4, "premium_pct": 75.4, "breakdown": {"duty_cif_usd": 3801.0, "countervailing_duty_usd": 8654.88, "vat_usd": 9588.52, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
-tags: ["avatr", "SUV", "chinese-ev", "export"]
+tags: ["avatr", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1762422114538-kxlbs8q5zi.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 66654.4, "premium_pct": 75.4}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 56423.2, "premium_pct": 48.4}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 67563.71, "premium_pct": 77.8}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 67059.05, "premium_pct": 76.4}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 46356.03, "premium_pct": 22.0}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 50347.07, "premium_pct": 32.5}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 47661.0, "premium_pct": 25.4}]
 data_tier: 2

@@ -3,7 +3,7 @@ title: "Wuling Starlight"
 description: "Wuling Starlight is a suv from Wuling, a 9.5 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "wuling-starlight"
 brand: "wuling"
-type: "SUV"
+type: "Sedan"
 powertrain: "BEV"
 price_usd: 11240.0
 currency: "USD"
@@ -23,7 +23,7 @@ fast_charge: "3h 30m (20-100%)"
 landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 26506.9, "premium_pct": 135.8, "breakdown": {"duty_cif_usd": 1124.0, "countervailing_duty_usd": 4364.49, "vat_usd": 3178.41, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
-tags: ["wuling", "SUV", "chinese-ev", "export"]
+tags: ["wuling", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1762422596907-6zk5ey70md3.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 26506.91, "premium_pct": 135.8}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 21086.8, "premium_pct": 87.6}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.21, "total_landed_usd": 26741.48, "premium_pct": 137.9}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.2, "total_landed_usd": 26574.19, "premium_pct": 136.4}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 16842.1, "premium_pct": 49.8}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 18022.3, "premium_pct": 60.3}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 18214.0, "premium_pct": 62.0}]
 data_tier: 2

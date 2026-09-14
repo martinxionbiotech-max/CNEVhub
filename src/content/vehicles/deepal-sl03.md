@@ -3,7 +3,7 @@ title: "Deepal Sl03"
 description: "Deepal Sl03 is a suv from Deepal, a 18.99 kWh battery and 175 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "deepal-sl03"
 brand: "deepal"
-type: "SUV"
+type: "Sedan"
 powertrain: "BEV"
 price_usd: 16890.0
 currency: "USD"
@@ -24,7 +24,7 @@ fast_charge: "30 min (80%)"
 landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 33285.57, "premium_pct": 97.1, "breakdown": {"duty_cif_usd": 1689.0, "countervailing_duty_usd": 3845.85, "vat_usd": 4260.72, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
-tags: ["deepal", "SUV", "chinese-ev", "export"]
+tags: ["deepal", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1762432137491-g3xhf3hbeuh.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 33285.57, "premium_pct": 97.1}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 28544.8, "premium_pct": 69.0}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 33634.07, "premium_pct": 99.1}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 33409.82, "premium_pct": 97.8}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 23071.22, "premium_pct": 36.6}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 24844.67, "premium_pct": 47.1}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 24429.0, "premium_pct": 44.6}]
 data_tier: 2

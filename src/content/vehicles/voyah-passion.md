@@ -3,7 +3,7 @@ title: "Voyah Passion"
 description: "Voyah Passion is a suv from Voyah, a 43 kWh battery and 290 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "voyah-passion"
 brand: "voyah"
-type: "SUV"
+type: "Sedan"
 powertrain: "BEV"
 price_usd: 35610.0
 currency: "USD"
@@ -23,7 +23,7 @@ fast_charge: "30 min (20-80%)"
 landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 62862.49, "premium_pct": 76.5, "breakdown": {"duty_cif_usd": 3561.0, "countervailing_duty_usd": 8108.4, "vat_usd": 8983.09, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
-tags: ["voyah", "SUV", "chinese-ev", "export"]
+tags: ["voyah", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1762431854534-qn5iwmap9vb.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 62862.49, "premium_pct": 76.5}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 53255.2, "premium_pct": 49.6}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 63708.07, "premium_pct": 78.9}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 63235.28, "premium_pct": 77.6}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 43710.03, "premium_pct": 22.7}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 47449.07, "premium_pct": 33.2}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 45021.0, "premium_pct": 26.4}]
 data_tier: 2

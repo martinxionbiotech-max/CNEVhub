@@ -3,7 +3,7 @@ title: "Exeed Exlantix ES"
 description: "Exeed Exlantix ES is a suv from Exeed, a 34.7 kWh battery and 195 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "exeed-exlantix-es"
 brand: "exeed"
-type: "SUV"
+type: "Sedan"
 powertrain: "BEV"
 price_usd: 21520.0
 currency: "USD"
@@ -24,7 +24,7 @@ fast_charge: "15 min (20-80%)"
 landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 40600.8, "premium_pct": 88.7, "breakdown": {"duty_cif_usd": 2152.0, "countervailing_duty_usd": 4900.1, "vat_usd": 5428.7, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
-tags: ["exeed", "SUV", "chinese-ev", "export"]
+tags: ["exeed", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1766326768369-9s1ew8hs4zg.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 40600.8, "premium_pct": 88.7}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 34656.4, "premium_pct": 61.0}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 41072.25, "premium_pct": 90.9}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 40786.52, "premium_pct": 89.5}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 28175.8, "premium_pct": 30.9}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 30435.4, "premium_pct": 41.4}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 29522.0, "premium_pct": 37.2}]
 data_tier: 2

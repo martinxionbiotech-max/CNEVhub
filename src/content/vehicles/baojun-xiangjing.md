@@ -3,7 +3,7 @@ title: "Baojun Xiangjing"
 description: "Baojun Xiangjing is a suv from Baojun, a 20.5 kWh battery and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "baojun-xiangjing"
 brand: "baojun"
-type: "SUV"
+type: "Sedan"
 powertrain: "BEV"
 price_usd: 18280.0
 currency: "USD"
@@ -24,7 +24,7 @@ fast_charge: "15 min (30-80%)"
 landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 38975.28, "premium_pct": 113.2, "breakdown": {"duty_cif_usd": 1828.0, "countervailing_duty_usd": 7098.12, "vat_usd": 5169.16, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"
-tags: ["baojun", "SUV", "chinese-ev", "export"]
+tags: ["baojun", "Sedan", "chinese-ev", "export"]
 image: "/images/vehicles/1762754879781-1hww9td8xhs.png"
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 38975.29, "premium_pct": 113.2}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 30379.6, "premium_pct": 66.2}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.21, "total_landed_usd": 39419.41, "premium_pct": 115.6}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.2, "total_landed_usd": 39147.34, "premium_pct": 114.2}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 24603.7, "premium_pct": 34.6}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 26523.1, "premium_pct": 45.1}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 25958.0, "premium_pct": 42.0}]
 data_tier: 2

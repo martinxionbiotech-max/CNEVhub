@@ -9,7 +9,7 @@
       "parent_location": "Wuhan, Hubei, China",
       "established": "2009",
       "website": "http://www.dfpv.com.cn/",
-      "vehicle_count": 6
+      "vehicle_count": 7
     },
     {
       "brand_id": "aion",
@@ -27,7 +27,7 @@
       "parent_location": "Chongqing, China",
       "established": "2021",
       "website": "https://hima.auto/wenjie/",
-      "vehicle_count": 6
+      "vehicle_count": 10
     },
     {
       "brand_id": "arcfox",
@@ -36,7 +36,7 @@
       "parent_location": "Beijing, China",
       "established": "2017",
       "website": "https://www.arcfox.com.cn/",
-      "vehicle_count": 6
+      "vehicle_count": 7
     },
     {
       "brand_id": "avatr",
@@ -45,7 +45,7 @@
       "parent_location": "Chongqing, China",
       "established": "2018",
       "website": "https://www.avatr.com/",
-      "vehicle_count": 6
+      "vehicle_count": 9
     },
     {
       "brand_id": "baojun",
@@ -54,7 +54,7 @@
       "parent_location": "Shanghai, China",
       "established": "2010",
       "website": "https://www.sgmw.com.cn/baojun/",
-      "vehicle_count": 6
+      "vehicle_count": 7
     },
     {
       "brand_id": "baw",
@@ -63,7 +63,7 @@
       "parent_location": "Qingdao, China",
       "established": "1953",
       "website": "https://www.baw.com.cn/",
-      "vehicle_count": 2
+      "vehicle_count": 3
     },
     {
       "brand_id": "bestune",
@@ -81,7 +81,7 @@
       "parent_location": "Shenzhen, Guangdong, China",
       "established": "2003",
       "website": "https://www.byd.com/",
-      "vehicle_count": 41
+      "vehicle_count": 46
     },
     {
       "brand_id": "changan-nevo",
@@ -90,7 +90,7 @@
       "parent_location": "Chongqing, China",
       "established": "2023",
       "website": "https://www.changan.com.cn/qiyuan/",
-      "vehicle_count": 7
+      "vehicle_count": 10
     },
     {
       "brand_id": "changan",
@@ -135,7 +135,7 @@
       "parent_location": "Chongqing, China",
       "established": "2018",
       "website": "https://www.deepal.com.cn/",
-      "vehicle_count": 7
+      "vehicle_count": 10
     },
     {
       "brand_id": "denza",
@@ -144,7 +144,7 @@
       "parent_location": "Shenzhen, Guangdong, China",
       "established": "2010",
       "website": "https://www.denza.com/",
-      "vehicle_count": 6
+      "vehicle_count": 9
     },
     {
       "brand_id": "dongfeng-e",
@@ -153,7 +153,7 @@
       "parent_location": "Wuhan, Hubei, China",
       "established": "2023",
       "website": "https://www.yipai.com.cn/",
-      "vehicle_count": 5
+      "vehicle_count": 6
     },
     {
       "brand_id": "dongfeng-nammi",
@@ -171,7 +171,7 @@
       "parent_location": "Wuhu, Anhui, China",
       "established": "2017",
       "website": "https://www.exeedinternational.com/",
-      "vehicle_count": 8
+      "vehicle_count": 10
     },
     {
       "brand_id": "fangchengbao",
@@ -252,7 +252,7 @@
       "parent_location": "Guangzhou, Guangdong, China",
       "established": "2022",
       "website": "https://www.hyptec.com/",
-      "vehicle_count": 5
+      "vehicle_count": 6
     },
     {
       "brand_id": "icaur",
@@ -270,7 +270,7 @@
       "parent_location": "Shanghai, China",
       "established": "2020",
       "website": "https://www.immotors.com/",
-      "vehicle_count": 6
+      "vehicle_count": 7
     },
     {
       "brand_id": "jac-refine",
@@ -333,7 +333,7 @@
       "parent_location": "Hangzhou, Zhejiang, China",
       "established": "2015",
       "website": "https://www.leapmotor.net/",
-      "vehicle_count": 12
+      "vehicle_count": 16
     },
     {
       "brand_id": "li-auto",
@@ -369,7 +369,7 @@
       "parent_location": "Wuhan, Hubei, China",
       "established": "2022",
       "website": "https://www.m-hero.com/",
-      "vehicle_count": 2
+      "vehicle_count": 3
     },
     {
       "brand_id": "maextro",
@@ -432,7 +432,7 @@
       "parent_location": "Shanghai, China",
       "established": "2006",
       "website": "http://www.roewe.com.cn/",
-      "vehicle_count": 10
+      "vehicle_count": 12
     },
     {
       "brand_id": "saic",
@@ -441,7 +441,7 @@
       "parent_location": "Shanghai, China",
       "established": "2025",
       "website": "https://hima.auto/shangjie/",
-      "vehicle_count": 1
+      "vehicle_count": 2
     },
     {
       "brand_id": "stelato",
@@ -450,7 +450,7 @@
       "parent_location": "Beijing, China",
       "established": "2024",
       "website": "https://hima.auto/xiangjie/",
-      "vehicle_count": 2
+      "vehicle_count": 3
     },
     {
       "brand_id": "tank",
@@ -468,7 +468,7 @@
       "parent_location": "Wuhan, Hubei, China",
       "established": "2019",
       "website": "https://www.voyah-global.com/",
-      "vehicle_count": 6
+      "vehicle_count": 8
     },
     {
       "brand_id": "wey",
@@ -486,7 +486,7 @@
       "parent_location": "Shanghai, China",
       "established": "2002",
       "website": "https://www.sgmw.com.cn/",
-      "vehicle_count": 16
+      "vehicle_count": 19
     },
     {
       "brand_id": "xiaomi",
