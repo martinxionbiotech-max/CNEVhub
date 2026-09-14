@@ -1664,7 +1664,7 @@
     {
       "vehicle_id": "changan-nevo-a07",
       "model": "Changan Nevo A07",
-      "brand": "changan",
+      "brand": "changan-nevo",
       "body_type": "SUV",
       "powertrain": "BEV",
       "price_usd": 19700.0,

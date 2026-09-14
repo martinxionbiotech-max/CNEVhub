@@ -2,7 +2,7 @@
 title: "Changan Nevo A07"
 description: "Changan Nevo A07 is a suv from Changan, a 35.07 kWh battery and 200 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
 slug: "changan-nevo-a07"
-brand: "changan"
+brand: "changan-nevo"
 type: "SUV"
 powertrain: "BEV"
 price_usd: 19700.0
