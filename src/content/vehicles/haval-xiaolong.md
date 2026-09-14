@@ -35,7 +35,7 @@ family: "Xiaolong"
 
 Haval Xiaolong (starting at $19,690) is a SUV from HAVAL.
 
-- **Battery**: 9.41 kWh
+- **Battery**: 19.27 kWh
 - **Motor power**: 115 kW
 
 ## Overview

@@ -37,7 +37,7 @@ family: "D9"
 
 Denza D9 (starting at $43,630) is a SUV from DENZA.
 
-- **Battery**: 40.0 kWh
+- **Battery**: 103.36 kWh
 - **Motor power**: 200 kW
 - **0-100 km/h**: 8.6 s
 

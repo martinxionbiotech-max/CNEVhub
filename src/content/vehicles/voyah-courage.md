@@ -38,7 +38,7 @@ family: "Courage"
 Voyah Courage (starting at $28,580) is a SUV from VOYAH.
 
 - **Range**: 650 km (CLTC)
-- **Battery**: 81.0 kWh
+- **Battery**: 81 kWh
 - **Motor power**: 230 kW
 - **0-100 km/h**: 6.8 s
 

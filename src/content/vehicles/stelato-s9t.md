@@ -37,7 +37,7 @@ family: "S9T"
 
 Stelato S9T (starting at $43,630) is a Sedan from STELATO.
 
-- **Battery**: 37.0 kWh
+- **Battery**: 100 kWh
 - **Motor power**: 227 kW
 - **0-100 km/h**: 7.32 s
 

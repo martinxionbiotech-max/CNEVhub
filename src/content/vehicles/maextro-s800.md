@@ -37,7 +37,7 @@ family: "S800"
 
 Maextro S800 (starting at $99,720) is a Sedan from MAEXTRO.
 
-- **Battery**: 65.0 kWh
+- **Battery**: 65 kWh
 - **Motor power**: 390 kW
 - **0-100 km/h**: 4.9 s
 

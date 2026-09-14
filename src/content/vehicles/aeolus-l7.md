@@ -37,7 +37,7 @@ family: "L7"
 Aeolus L7 (starting at $13,370) is a SUV from AEOLUS.
 
 - **Range**: 430 km (CLTC)
-- **Battery**: 50.8 kWh
+- **Battery**: 30.3 kWh
 - **Motor power**: 120 kW
 
 ## Overview

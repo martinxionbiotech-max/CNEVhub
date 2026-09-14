@@ -38,7 +38,7 @@ family: "EC7"
 Nio EC7 (starting at $64,510) is a SUV from NIO.
 
 - **Range**: 635 km (CLTC)
-- **Battery**: 100.0 kWh
+- **Battery**: 100 kWh
 - **Motor power**: 480 kW
 - **0-100 km/h**: 3.8 s
 

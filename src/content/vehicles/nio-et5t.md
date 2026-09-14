@@ -38,7 +38,7 @@ family: "Et5T"
 Nio Et5T (starting at $41,970) is a SUV from NIO.
 
 - **Range**: 710 km (CLTC)
-- **Battery**: 100.0 kWh
+- **Battery**: 100 kWh
 - **Motor power**: 360 kW
 - **0-100 km/h**: 4.0 s
 

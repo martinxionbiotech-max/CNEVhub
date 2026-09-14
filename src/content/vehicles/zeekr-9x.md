@@ -37,7 +37,7 @@ family: "9X"
 
 Zeekr 9X (starting at $65,620) is a SUV from ZEEKR.
 
-- **Battery**: 55.0 kWh
+- **Battery**: 55 kWh
 - **Motor power**: 660 kW
 - **0-100 km/h**: 3.9 s
 

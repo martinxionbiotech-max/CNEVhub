@@ -38,7 +38,7 @@ family: "L7"
 Im L7 (starting at $42,240) is a SUV from IM.
 
 - **Range**: 708 km (CLTC)
-- **Battery**: 90.0 kWh
+- **Battery**: 90 kWh
 - **Motor power**: 250 kW
 - **0-100 km/h**: 5.9 s
 

@@ -38,7 +38,7 @@ family: "MIX"
 Zeekr MIX (starting at $39,420) is a SUV from ZEEKR.
 
 - **Range**: 550 km (CLTC)
-- **Battery**: 76.0 kWh
+- **Battery**: 76 kWh
 - **Motor power**: 310 kW
 - **0-100 km/h**: 6.8 s
 

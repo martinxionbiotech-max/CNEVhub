@@ -37,7 +37,7 @@ family: "07"
 
 Avatr 07 (starting at $30,970) is a SUV from AVATR.
 
-- **Battery**: 39.05 kWh
+- **Battery**: 82.16 kWh
 - **Motor power**: 231 kW
 - **0-100 km/h**: 6.6 s
 

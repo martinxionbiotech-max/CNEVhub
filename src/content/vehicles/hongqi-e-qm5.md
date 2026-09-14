@@ -37,7 +37,7 @@ family: "E QM5"
 Hongqi E QM5 (starting at $12,650) is a SUV from HONGQI.
 
 - **Range**: 500 km (CLTC)
-- **Battery**: 56.0 kWh
+- **Battery**: 56 kWh
 - **Motor power**: 110 kW
 
 ## Overview

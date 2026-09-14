@@ -36,7 +36,7 @@ family: "M8"
 Baw M8 (starting at $22,510) is a MPV from BAW.
 
 - **Range**: 1370 km (CLTC)
-- **Battery**: 35.0 kWh
+- **Battery**: 81 kWh
 - **Motor power**: 170 kW
 
 ## Overview

@@ -37,7 +37,7 @@ family: "M5"
 
 Aito M5 (starting at $32,370) is a SUV from AITO.
 
-- **Battery**: 42.0 kWh
+- **Battery**: 83 kWh
 - **Motor power**: 200 kW
 - **0-100 km/h**: 7.1 s
 

@@ -37,7 +37,7 @@ family: "S07"
 
 Deepal S07 (starting at $21,110) is a SUV from DEEPAL.
 
-- **Battery**: 31.73 kWh
+- **Battery**: 79.97 kWh
 - **Motor power**: 190 kW
 - **0-100 km/h**: 7.5 s
 

@@ -36,7 +36,7 @@ family: "Mifa 7"
 
 Maxus Mifa 7 (starting at $26,750) is a MPV from MAXUS.
 
-- **Battery**: 24.7 kWh
+- **Battery**: 90 kWh
 - **Motor power**: 176 kW
 
 ## Overview

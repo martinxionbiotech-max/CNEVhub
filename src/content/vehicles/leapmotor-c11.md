@@ -38,7 +38,7 @@ family: "C11"
 
 Leapmotor C11 (starting at $21,100) is a SUV from LEAPMOTOR.
 
-- **Battery**: 41.7 kWh
+- **Battery**: 78.5 kWh
 - **Motor power**: 200 kW
 - **0-100 km/h**: 7.6 s
 

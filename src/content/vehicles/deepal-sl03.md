@@ -37,7 +37,7 @@ family: "Sl03"
 
 Deepal Sl03 (starting at $16,890) is a SUV from DEEPAL.
 
-- **Battery**: 18.99 kWh
+- **Battery**: 79.97 kWh
 - **Motor power**: 175 kW
 - **0-100 km/h**: 7.2 s
 

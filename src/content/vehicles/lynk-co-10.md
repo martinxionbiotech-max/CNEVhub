@@ -37,7 +37,7 @@ family: "10"
 
 Lynk Co 10 (starting at $24,480) is a SUV from LYNK CO.
 
-- **Battery**: 18.4 kWh
+- **Battery**: 38.2 kWh
 - **Motor power**: 270 kW
 - **0-100 km/h**: 5.9 s
 

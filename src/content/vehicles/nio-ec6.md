@@ -38,7 +38,7 @@ family: "EC6"
 Nio EC6 (starting at $50,270) is a SUV from NIO.
 
 - **Range**: 655 km (CLTC)
-- **Battery**: 100.0 kWh
+- **Battery**: 100 kWh
 - **Motor power**: 360 kW
 - **0-100 km/h**: 4.4 s
 

@@ -34,7 +34,7 @@ family: "I6 Max"
 
 Roewe I6 MAX (starting at $36,590) is a Sedan from ROEWE.
 
-- **Battery**: 51.0 kWh
+- **Battery**: 69.9 kWh
 - **Motor power**: 120 kW
 
 ## Overview

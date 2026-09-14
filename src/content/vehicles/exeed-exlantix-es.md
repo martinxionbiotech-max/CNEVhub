@@ -37,7 +37,7 @@ family: "Exlantix ES"
 
 Exeed Exlantix ES (starting at $21,520) is a SUV from EXEED.
 
-- **Battery**: 34.7 kWh
+- **Battery**: 97.7 kWh
 - **Motor power**: 195 kW
 - **0-100 km/h**: 7.6 s
 

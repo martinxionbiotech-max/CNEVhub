@@ -37,7 +37,7 @@ family: "HL"
 
 Hyptec HL (starting at $38,000) is a SUV from HYPTEC.
 
-- **Battery**: 60.33 kWh
+- **Battery**: 108.35 kWh
 - **Motor power**: 250 kW
 - **0-100 km/h**: 7.5 s
 

@@ -37,7 +37,7 @@ family: "C10"
 
 Leapmotor C10 (starting at $17,300) is a SUV from LEAPMOTOR.
 
-- **Battery**: 28.4 kWh
+- **Battery**: 69.9 kWh
 - **Motor power**: 170 kW
 - **0-100 km/h**: 7.68 s
 

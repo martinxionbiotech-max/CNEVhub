@@ -37,7 +37,7 @@ family: "E HS9"
 
 Hongqi E HS9 (starting at $83,070) is a SUV from HONGQI.
 
-- **Battery**: 120.0 kWh
+- **Battery**: 120 kWh
 - **Motor power**: 320 kW
 - **0-100 km/h**: 6.5 s
 

@@ -36,7 +36,7 @@ family: "Hongguang"
 
 Wuling Hongguang BEV (starting at $9,690) is a SUV from WULING.
 
-- **Battery**: 8.5 kWh
+- **Battery**: 32.6 kWh
 - **Motor power**: 75 kW
 
 ## Overview

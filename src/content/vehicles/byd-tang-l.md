@@ -37,7 +37,7 @@ family: "Tang L"
 
 Byd Tang L (starting at $32,370) is a SUV from BYD.
 
-- **Battery**: 35.6 kWh
+- **Battery**: 100.5 kWh
 - **Motor power**: 200 kW
 - **0-100 km/h**: 7.9 s
 

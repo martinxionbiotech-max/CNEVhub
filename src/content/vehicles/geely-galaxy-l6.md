@@ -37,7 +37,7 @@ family: "L6"
 
 Geely Galaxy L6 (starting at $11,240) is a SUV from GEELY GALAXY.
 
-- **Battery**: 8.5 kWh
+- **Battery**: 19.1 kWh
 - **Motor power**: 160 kW
 - **0-100 km/h**: 7.4 s
 

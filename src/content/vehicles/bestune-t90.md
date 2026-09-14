@@ -38,7 +38,7 @@ family: "T90"
 Bestune T90 (starting at $14,060) is a SUV from BESTUNE.
 
 - **Range**: 1500 km (CLTC)
-- **Battery**: 21.2 kWh
+- **Battery**: 30.9 kWh
 - **Motor power**: 168 kW
 - **0-100 km/h**: 6.9 s
 

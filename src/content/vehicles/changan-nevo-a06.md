@@ -37,7 +37,7 @@ family: "A06"
 
 Changan Nevo A06 (starting at $16,890) is a SUV from CHANGAN NEVO.
 
-- **Battery**: 28.39 kWh
+- **Battery**: 63.18 kWh
 - **Motor power**: 120 kW
 
 ## Overview

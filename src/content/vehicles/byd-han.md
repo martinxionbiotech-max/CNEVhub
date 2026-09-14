@@ -38,7 +38,7 @@ family: "Han"
 
 BYD Han (starting at $23,700) is a Sedan from BYD.
 
-- **Battery**: 18.32 kWh
+- **Battery**: 72 kWh
 - **Motor power**: 200 kW
 - **0-100 km/h**: 6.9 s
 

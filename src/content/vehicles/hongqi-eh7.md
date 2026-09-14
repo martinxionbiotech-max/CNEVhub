@@ -38,7 +38,7 @@ family: "EH7"
 Hongqi EH7 (starting at $29,410) is a SUV from HONGQI.
 
 - **Range**: 600 km (CLTC)
-- **Battery**: 75.0 kWh
+- **Battery**: 75 kWh
 - **Motor power**: 253 kW
 - **0-100 km/h**: 7.8 s
 

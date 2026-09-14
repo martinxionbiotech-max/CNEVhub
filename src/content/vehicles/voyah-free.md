@@ -37,7 +37,7 @@ family: "Free"
 
 Voyah Free (starting at $30,970) is a SUV from VOYAH.
 
-- **Battery**: 45.0 kWh
+- **Battery**: 45 kWh
 - **Motor power**: 215 kW
 - **0-100 km/h**: 7.8 s
 

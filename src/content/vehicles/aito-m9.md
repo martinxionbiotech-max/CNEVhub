@@ -38,7 +38,7 @@ family: "M9"
 
 Aito M9 (starting at $66,170) is a SUV from AITO.
 
-- **Battery**: 52.0 kWh
+- **Battery**: 100 kWh
 - **Motor power**: 365 kW
 - **0-100 km/h**: 4.9 s
 

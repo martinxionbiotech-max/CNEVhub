@@ -38,7 +38,7 @@ family: "R7"
 Luxeed R7 (starting at $35,180) is a SUV from LUXEED.
 
 - **Range**: 667 km (CLTC)
-- **Battery**: 82.0 kWh
+- **Battery**: 82 kWh
 - **Motor power**: 215 kW
 - **0-100 km/h**: 5.9 s
 

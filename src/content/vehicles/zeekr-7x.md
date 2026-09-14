@@ -38,7 +38,7 @@ family: "7X"
 Zeekr 7X (starting at $32,370) is a SUV from ZEEKR.
 
 - **Range**: 620 km (CLTC)
-- **Battery**: 75.0 kWh
+- **Battery**: 75 kWh
 - **Motor power**: 370 kW
 - **0-100 km/h**: 5.4 s
 

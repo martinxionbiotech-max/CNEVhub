@@ -38,7 +38,7 @@ family: "E8"
 Geely Galaxy E8 (starting at $21,100) is a SUV from GEELY GALAXY.
 
 - **Range**: 575 km (CLTC)
-- **Battery**: 62.0 kWh
+- **Battery**: 62 kWh
 - **Motor power**: 250 kW
 - **0-100 km/h**: 5.49 s
 

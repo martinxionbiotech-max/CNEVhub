@@ -37,7 +37,7 @@ family: "12"
 
 Avatr 12 (starting at $38,010) is a SUV from AVATR.
 
-- **Battery**: 52.01 kWh
+- **Battery**: 94.53 kWh
 - **Motor power**: 231 kW
 - **0-100 km/h**: 6.8 s
 

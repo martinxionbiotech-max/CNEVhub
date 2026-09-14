@@ -37,7 +37,7 @@ family: "HS6 Phev"
 
 Hongqi HS6 Phev (starting at $25,180) is a SUV from HONGQI.
 
-- **Battery**: 23.0 kWh
+- **Battery**: 23 kWh
 - **Motor power**: 168 kW
 - **0-100 km/h**: 7.9 s
 

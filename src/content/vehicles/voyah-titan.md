@@ -37,7 +37,7 @@ family: "Titan"
 
 Voyah Titan (starting at $53,510) is a SUV from VOYAH.
 
-- **Battery**: 65.0 kWh
+- **Battery**: 65 kWh
 - **Motor power**: 380 kW
 - **0-100 km/h**: 5.2 s
 

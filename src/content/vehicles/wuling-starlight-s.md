@@ -37,7 +37,7 @@ family: "Starlight S"
 
 Wuling Starlight S (starting at $14,060) is a SUV from WULING.
 
-- **Battery**: 9.5 kWh
+- **Battery**: 60 kWh
 - **Motor power**: 150 kW
 - **0-100 km/h**: 7.9 s
 

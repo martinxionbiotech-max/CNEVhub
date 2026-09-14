@@ -35,7 +35,7 @@ family: "Shanhai L7 Plus"
 
 Jetour Shanhai L7 PLUS (starting at $21,100) is a SUV from JETOUR.
 
-- **Battery**: 18.37 kWh
+- **Battery**: 32.66 kWh
 - **Motor power**: 199 kW
 
 ## Overview

@@ -36,7 +36,7 @@ family: "Mifa 9"
 
 Maxus Mifa 9 (starting at $38,010) is a MPV from MAXUS.
 
-- **Battery**: 39.7 kWh
+- **Battery**: 90 kWh
 - **Motor power**: 176 kW
 
 ## Overview

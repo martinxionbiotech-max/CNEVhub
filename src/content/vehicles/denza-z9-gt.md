@@ -38,7 +38,7 @@ family: "Z9"
 
 Denza Z9 GT (starting at $47,150) is a SUV from DENZA.
 
-- **Battery**: 38.5 kWh
+- **Battery**: 100 kWh
 - **Motor power**: 640 kW
 - **0-100 km/h**: 3.6 s
 

@@ -35,7 +35,7 @@ family: "Lingzhi M5 NEV"
 
 Forthing Lingzhi M5 NEV (starting at $15,460) is a SUV from FORTHING.
 
-- **Battery**: 19.09 kWh
+- **Battery**: 59.5 kWh
 - **Motor power**: 60 kW
 
 ## Overview

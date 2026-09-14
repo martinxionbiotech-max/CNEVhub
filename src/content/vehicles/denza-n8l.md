@@ -37,7 +37,7 @@ family: "N8L"
 Denza N8L (starting at $42,230) is a SUV from DENZA.
 
 - **Range**: 1300 km (CLTC)
-- **Battery**: 46.9 kWh
+- **Battery**: 46.99 kWh
 - **Motor power**: 560 kW
 - **0-100 km/h**: 3.9 s
 

@@ -37,7 +37,7 @@ family: "Song Plus"
 
 BYD Song Plus (starting at $19,130) is a SUV from BYD.
 
-- **Battery**: 12.9 kWh
+- **Battery**: 87.04 kWh
 - **Motor power**: 160 kW
 - **0-100 km/h**: 7.7 s
 

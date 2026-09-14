@@ -37,7 +37,7 @@ family: "Destroyer 05"
 
 Byd Destroyer 05 (starting at $14,340) is a Sedan from BYD.
 
-- **Battery**: 8.3 kWh
+- **Battery**: 18.3 kWh
 - **Motor power**: 132 kW
 - **0-100 km/h**: 7.9 s
 

@@ -38,7 +38,7 @@ family: "Qin Plus"
 
 BYD Qin Plus (starting at $11,080) is a Sedan from BYD.
 
-- **Battery**: 7.68 kWh
+- **Battery**: 57.6 kWh
 - **Motor power**: 120 kW
 - **0-100 km/h**: 7.6 s
 

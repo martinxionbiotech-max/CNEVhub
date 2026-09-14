@@ -38,7 +38,7 @@ family: "L6"
 Im L6 (starting at $30,970) is a SUV from IM.
 
 - **Range**: 690 km (CLTC)
-- **Battery**: 74.0 kWh
+- **Battery**: 74 kWh
 - **Motor power**: 245 kW
 - **0-100 km/h**: 5.9 s
 

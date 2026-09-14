@@ -38,7 +38,7 @@ family: "11"
 
 Avatr 11 (starting at $40,830) is a SUV from AVATR.
 
-- **Battery**: 39.05 kWh
+- **Battery**: 116.79 kWh
 - **Motor power**: 231 kW
 - **0-100 km/h**: 6.9 s
 

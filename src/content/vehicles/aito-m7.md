@@ -37,7 +37,7 @@ family: "Aito M7"
 
 Aion Aito M7 (starting at $39,410) is a SUV from AION.
 
-- **Battery**: 37.0 kWh
+- **Battery**: 100 kWh
 - **Motor power**: 392 kW
 - **0-100 km/h**: 5.2 s
 

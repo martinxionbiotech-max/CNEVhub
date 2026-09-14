@@ -37,7 +37,7 @@ family: "Qin L"
 
 Byd QIN L (starting at $13,600) is a Sedan from BYD.
 
-- **Battery**: 10.08 kWh
+- **Battery**: 56.64 kWh
 - **Motor power**: 120 kW
 - **0-100 km/h**: 7.9 s
 

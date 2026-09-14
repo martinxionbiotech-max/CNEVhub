@@ -37,7 +37,7 @@ family: "Frigate 07"
 
 Byd Frigate 07 (starting at $25,320) is a SUV from BYD.
 
-- **Battery**: 18.3 kWh
+- **Battery**: 36.8 kWh
 - **Motor power**: 145 kW
 - **0-100 km/h**: 8.5 s
 

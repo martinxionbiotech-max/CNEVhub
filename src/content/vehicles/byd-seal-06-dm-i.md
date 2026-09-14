@@ -37,7 +37,7 @@ family: "Seal 06"
 
 Byd Seal 06 DM I (starting at $14,000) is a Sedan from BYD.
 
-- **Battery**: 10.08 kWh
+- **Battery**: 15.87 kWh
 - **Motor power**: 120 kW
 - **0-100 km/h**: 7.9 s
 

@@ -36,7 +36,7 @@ family: "Starlight 730"
 
 Wuling Starlight 730 (starting at $14,620) is a SUV from WULING.
 
-- **Battery**: 20.5 kWh
+- **Battery**: 60 kWh
 - **Motor power**: 145 kW
 
 ## Overview

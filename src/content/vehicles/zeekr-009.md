@@ -38,7 +38,7 @@ family: "009"
 Zeekr 009 (starting at $61,830) is a SUV from ZEEKR.
 
 - **Range**: 740 km (CLTC)
-- **Battery**: 108.0 kWh
+- **Battery**: 108 kWh
 - **Motor power**: 310 kW
 - **0-100 km/h**: 6.9 s
 

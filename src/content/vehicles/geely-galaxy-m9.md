@@ -37,7 +37,7 @@ family: "M9"
 
 Geely Galaxy M9 (starting at $25,890) is a SUV from GEELY GALAXY.
 
-- **Battery**: 18.4 kWh
+- **Battery**: 41.46 kWh
 - **Motor power**: 180 kW
 - **0-100 km/h**: 7.7 s
 

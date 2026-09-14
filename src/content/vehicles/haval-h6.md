@@ -37,7 +37,7 @@ family: "H6"
 
 Haval H6 (starting at $22,510) is a SUV from HAVAL.
 
-- **Battery**: 9.4 kWh
+- **Battery**: 19.09 kWh
 - **Motor power**: 130 kW
 - **0-100 km/h**: 7.8 s
 

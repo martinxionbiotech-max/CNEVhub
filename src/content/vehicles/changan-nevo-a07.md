@@ -37,7 +37,7 @@ family: "Nevo A07"
 
 Changan Nevo A07 (starting at $19,700) is a SUV from CHANGAN.
 
-- **Battery**: 35.07 kWh
+- **Battery**: 79.97 kWh
 - **Motor power**: 200 kW
 - **0-100 km/h**: 6.7 s
 

@@ -37,7 +37,7 @@ family: "Han L"
 
 Byd HAN L (starting at $29,550) is a Sedan from BYD.
 
-- **Battery**: 29.4 kWh
+- **Battery**: 83.2 kWh
 - **Motor power**: 200 kW
 - **0-100 km/h**: 6.9 s
 

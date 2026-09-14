@@ -37,7 +37,7 @@ family: "E07"
 
 Changan Nevo E07 (starting at $30,970) is a SUV from CHANGAN NEVO.
 
-- **Battery**: 39.05 kWh
+- **Battery**: 89.98 kWh
 - **Motor power**: 231 kW
 - **0-100 km/h**: 7.1 s
 

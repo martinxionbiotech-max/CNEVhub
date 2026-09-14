@@ -38,7 +38,7 @@ family: "Z10"
 Lynk Co Z10 (starting at $32,370) is a SUV from LYNK CO.
 
 - **Range**: 702 km (CLTC)
-- **Battery**: 95.0 kWh
+- **Battery**: 95 kWh
 - **Motor power**: 580 kW
 - **0-100 km/h**: 3.5 s
 

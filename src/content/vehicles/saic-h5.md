@@ -37,7 +37,7 @@ family: "H5"
 
 Saic H5 (starting at $22,510) is a SUV from SAIC.
 
-- **Battery**: 32.6 kWh
+- **Battery**: 80 kWh
 - **Motor power**: 150 kW
 - **0-100 km/h**: 7.8 s
 

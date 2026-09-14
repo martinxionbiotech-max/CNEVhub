@@ -38,7 +38,7 @@ family: "Atto 2"
 Byd Atto 2 (starting at $10,540) is a SUV from BYD.
 
 - **Range**: 301 km (CLTC)
-- **Battery**: 32.0 kWh
+- **Battery**: 32 kWh
 - **Motor power**: 70 kW
 - **0-100 km/h**: 12.0 s
 

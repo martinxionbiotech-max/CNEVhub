@@ -38,7 +38,7 @@ family: "E HS7"
 Hongqi E HS7 (starting at $30,410) is a SUV from HONGQI.
 
 - **Range**: 605 km (CLTC)
-- **Battery**: 85.0 kWh
+- **Battery**: 85 kWh
 - **Motor power**: 253 kW
 - **0-100 km/h**: 6.3 s
 

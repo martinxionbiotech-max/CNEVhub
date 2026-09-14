@@ -38,7 +38,7 @@ family: "G9"
 Xpeng G9 (starting at $43,162) is a SUV from XPENG.
 
 - **Range**: 625 km (CLTC)
-- **Battery**: 79.0 kWh
+- **Battery**: 79 kWh
 - **Motor power**: 285 kW
 - **0-100 km/h**: 6.6 s
 

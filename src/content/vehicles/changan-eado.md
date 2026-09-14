@@ -37,7 +37,7 @@ family: "Eado"
 
 Changan Eado (starting at $11,960) is a SUV from CHANGAN.
 
-- **Battery**: 9.07 kWh
+- **Battery**: 18.4 kWh
 - **Motor power**: 190 kW
 - **0-100 km/h**: 7.9 s
 

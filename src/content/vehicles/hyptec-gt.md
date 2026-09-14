@@ -38,7 +38,7 @@ family: "GT"
 Hyptec GT (starting at $21,660) is a SUV from HYPTEC.
 
 - **Range**: 560 km (CLTC)
-- **Battery**: 60.0 kWh
+- **Battery**: 60 kWh
 - **Motor power**: 180 kW
 - **0-100 km/h**: 6.5 s
 

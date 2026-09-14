@@ -38,7 +38,7 @@ family: "EH5"
 Hongqi EH5 (starting at $22,510) is a SUV from HONGQI.
 
 - **Range**: 550 km (CLTC)
-- **Battery**: 62.0 kWh
+- **Battery**: 62 kWh
 - **Motor power**: 210 kW
 - **0-100 km/h**: 6.9 s
 

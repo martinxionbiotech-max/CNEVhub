@@ -36,7 +36,7 @@ family: "Starlight"
 
 Wuling Starlight (starting at $11,240) is a SUV from WULING.
 
-- **Battery**: 9.5 kWh
+- **Battery**: 54.3 kWh
 - **Motor power**: 150 kW
 
 ## Overview

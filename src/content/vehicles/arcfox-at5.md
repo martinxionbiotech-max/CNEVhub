@@ -37,7 +37,7 @@ family: "AT5"
 
 Arcfox AT5 (starting at $16,030) is a SUV from ARCFOX.
 
-- **Battery**: 27.4 kWh
+- **Battery**: 79.2 kWh
 - **Motor power**: 200 kW
 - **0-100 km/h**: 6.5 s
 

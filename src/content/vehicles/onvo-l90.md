@@ -38,7 +38,7 @@ family: "L90"
 Onvo L90 (starting at $37,440) is a SUV from ONVO.
 
 - **Range**: 605 km (CLTC)
-- **Battery**: 85.0 kWh
+- **Battery**: 85 kWh
 - **Motor power**: 340 kW
 - **0-100 km/h**: 5.9 s
 

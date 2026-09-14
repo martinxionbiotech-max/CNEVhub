@@ -38,7 +38,7 @@ family: "ES6"
 Nio ES6 (starting at $47,460) is a SUV from NIO.
 
 - **Range**: 650 km (CLTC)
-- **Battery**: 100.0 kWh
+- **Battery**: 100 kWh
 - **Motor power**: 360 kW
 - **0-100 km/h**: 4.5 s
 

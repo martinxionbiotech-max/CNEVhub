@@ -37,7 +37,7 @@ family: "Dongfeng E PI 008"
 
 Dongfeng E PI 008 (starting at $23,930) is a SUV from DONGFENG E.
 
-- **Battery**: 34.32 kWh
+- **Battery**: 82.28 kWh
 - **Motor power**: 200 kW
 - **0-100 km/h**: 9.0 s
 

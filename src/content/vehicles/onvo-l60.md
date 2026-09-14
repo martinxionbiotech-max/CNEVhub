@@ -38,7 +38,7 @@ family: "L60"
 Onvo L60 (starting at $29,140) is a SUV from ONVO.
 
 - **Range**: 560 km (CLTC)
-- **Battery**: 60.0 kWh
+- **Battery**: 60 kWh
 - **Motor power**: 240 kW
 - **0-100 km/h**: 5.9 s
 

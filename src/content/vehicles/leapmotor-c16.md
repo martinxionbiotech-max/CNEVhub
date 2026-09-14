@@ -37,7 +37,7 @@ family: "C16"
 
 Leapmotor C16 (starting at $21,380) is a SUV from LEAPMOTOR.
 
-- **Battery**: 28.4 kWh
+- **Battery**: 67.7 kWh
 - **Motor power**: 170 kW
 - **0-100 km/h**: 8.46 s
 

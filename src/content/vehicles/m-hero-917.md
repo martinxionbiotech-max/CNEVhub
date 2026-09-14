@@ -37,7 +37,7 @@ family: "M Hero 917"
 M Hero 917 (starting at $89,820) is a SUV from M HERO.
 
 - **Range**: 1026 km (CLTC)
-- **Battery**: 65.8 kWh
+- **Battery**: 142.7 kWh
 - **Motor power**: 600 kW
 - **0-100 km/h**: 6.0 s
 

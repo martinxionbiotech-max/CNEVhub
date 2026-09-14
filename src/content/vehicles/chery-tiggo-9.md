@@ -37,7 +37,7 @@ family: "Tiggo 9"
 
 Chery Tiggo 9 (starting at $23,370) is a SUV from CHERY.
 
-- **Battery**: 18.67 kWh
+- **Battery**: 34.46 kWh
 - **Motor power**: 165 kW
 - **0-100 km/h**: 8.8 s
 

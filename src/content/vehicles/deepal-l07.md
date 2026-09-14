@@ -38,7 +38,7 @@ family: "L07"
 
 Deepal L07 (starting at $20,550) is a SUV from DEEPAL.
 
-- **Battery**: 28.39 kWh
+- **Battery**: 56.1 kWh
 - **Motor power**: 175 kW
 - **0-100 km/h**: 7.4 s
 

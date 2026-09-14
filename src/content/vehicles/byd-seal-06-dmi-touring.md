@@ -37,7 +37,7 @@ family: "Seal 06 DM-i"
 
 Byd Seal 06 DMI Touring (starting at $15,460) is a Sedan from BYD.
 
-- **Battery**: 10.08 kWh
+- **Battery**: 18.71 kWh
 - **Motor power**: 120 kW
 - **0-100 km/h**: 8.7 s
 

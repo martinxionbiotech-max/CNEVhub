@@ -36,7 +36,7 @@ family: "A8"
 
 Chery Fulwin A8 (starting at $11,250) is a SUV from CHERY FULWIN.
 
-- **Battery**: 9.53 kWh
+- **Battery**: 18.3 kWh
 - **Motor power**: 150 kW
 
 ## Overview

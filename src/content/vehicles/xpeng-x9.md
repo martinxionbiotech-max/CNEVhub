@@ -37,7 +37,7 @@ family: "X9"
 
 Xpeng X9 (starting at $43,630) is a SUV from XPENG.
 
-- **Battery**: 63.3 kWh
+- **Battery**: 101.5 kWh
 - **Motor power**: 210 kW
 - **0-100 km/h**: 8.0 s
 

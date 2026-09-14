@@ -37,7 +37,7 @@ family: "S7"
 Luxeed S7 (starting at $32,370) is a SUV from LUXEED.
 
 - **Range**: 705 km (CLTC)
-- **Battery**: 82.0 kWh
+- **Battery**: 82 kWh
 - **Motor power**: 215 kW
 - **0-100 km/h**: 5.4 s
 

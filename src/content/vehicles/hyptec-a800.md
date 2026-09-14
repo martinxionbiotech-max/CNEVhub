@@ -37,7 +37,7 @@ family: "A800"
 
 Hyptec A800 (starting at $26,730) is a SUV from HYPTEC.
 
-- **Battery**: 35.0 kWh
+- **Battery**: 35 kWh
 - **Motor power**: 200 kW
 - **0-100 km/h**: 7.4 s
 

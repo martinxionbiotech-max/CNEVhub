@@ -38,7 +38,7 @@ family: "Starship 7"
 Geely Galaxy Starship 7 (starting at $13,770) is a SUV from GEELY GALAXY.
 
 - **Range**: 1355 km (CLTC)
-- **Battery**: 8.5 kWh
+- **Battery**: 19.09 kWh
 - **Motor power**: 160 kW
 - **0-100 km/h**: 7.5 s
 

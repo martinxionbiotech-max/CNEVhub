@@ -38,7 +38,7 @@ family: "007"
 Zeekr 007 (starting at $29,560) is a SUV from ZEEKR.
 
 - **Range**: 688 km (CLTC)
-- **Battery**: 75.0 kWh
+- **Battery**: 75 kWh
 - **Motor power**: 310 kW
 - **0-100 km/h**: 5.1 s
 

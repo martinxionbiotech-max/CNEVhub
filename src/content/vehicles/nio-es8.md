@@ -38,7 +38,7 @@ family: "ES8"
 Nio ES8 (starting at $57,130) is a SUV from NIO.
 
 - **Range**: 635 km (CLTC)
-- **Battery**: 102.0 kWh
+- **Battery**: 102 kWh
 - **Motor power**: 520 kW
 - **0-100 km/h**: 3.97 s
 

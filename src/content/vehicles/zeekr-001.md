@@ -37,7 +37,7 @@ family: "001"
 Zeekr 001 (starting at $38,000) is a SUV from ZEEKR.
 
 - **Range**: 710 km (CLTC)
-- **Battery**: 95.0 kWh
+- **Battery**: 95 kWh
 - **Motor power**: 680 kW
 - **0-100 km/h**: 3.08 s
 

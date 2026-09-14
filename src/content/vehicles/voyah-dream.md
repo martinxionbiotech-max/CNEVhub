@@ -37,7 +37,7 @@ family: "Dream"
 
 Voyah Dream (starting at $46,460) is a SUV from VOYAH.
 
-- **Battery**: 43.2 kWh
+- **Battery**: 108.7 kWh
 - **Motor power**: 370 kW
 - **0-100 km/h**: 5.9 s
 

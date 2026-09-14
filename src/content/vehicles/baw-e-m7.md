@@ -37,7 +37,7 @@ family: "E M7"
 Baw E M7 (starting at $14,060) is a MPV from BAW.
 
 - **Range**: 340 km (CLTC)
-- **Battery**: 50.0 kWh
+- **Battery**: 50 kWh
 - **Motor power**: 100 kW
 
 ## Overview

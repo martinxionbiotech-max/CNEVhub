@@ -37,7 +37,7 @@ family: "M8"
 
 Aito M8 (starting at $50,680) is a SUV from AITO.
 
-- **Battery**: 37.0 kWh
+- **Battery**: 100 kWh
 - **Motor power**: 392 kW
 - **0-100 km/h**: 5.3 s
 

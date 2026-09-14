@@ -38,7 +38,7 @@ family: "E7"
 Byd E7 (starting at $14,620) is a Sedan from BYD.
 
 - **Range**: 450 km (CLTC)
-- **Battery**: 48.0 kWh
+- **Battery**: 48 kWh
 - **Motor power**: 100 kW
 - **0-100 km/h**: 4.7 s
 

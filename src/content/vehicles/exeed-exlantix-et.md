@@ -37,7 +37,7 @@ family: "Exlantix ET"
 
 Exeed Exlantix ET (starting at $26,730) is a SUV from EXEED.
 
-- **Battery**: 41.16 kWh
+- **Battery**: 100 kWh
 - **Motor power**: 195 kW
 - **0-100 km/h**: 7.6 s
 

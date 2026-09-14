@@ -36,7 +36,7 @@ family: "03"
 
 Wey 03 (starting at $32,250) is a SUV from WEY.
 
-- **Battery**: 34.0 kWh
+- **Battery**: 34 kWh
 - **Motor power**: 130 kW
 
 ## Overview

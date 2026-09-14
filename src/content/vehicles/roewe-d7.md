@@ -37,7 +37,7 @@ family: "D7"
 
 Roewe D7 (starting at $17,440) is a Sedan from ROEWE.
 
-- **Battery**: 19.7 kWh
+- **Battery**: 68.5 kWh
 - **Motor power**: 137 kW
 - **0-100 km/h**: 8.5 s
 

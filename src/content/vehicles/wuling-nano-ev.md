@@ -36,7 +36,7 @@ family: "Nano"
 
 Wuling Nano EV (starting at $8,560) is a Hatchback from WULING.
 
-- **Battery**: 28.0 kWh
+- **Battery**: 28 kWh
 - **Motor power**: 24 kW
 
 ## Overview

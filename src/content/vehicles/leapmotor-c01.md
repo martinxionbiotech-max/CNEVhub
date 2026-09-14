@@ -37,7 +37,7 @@ family: "C01"
 Leapmotor C01 (starting at $19,270) is a SUV from LEAPMOTOR.
 
 - **Range**: 1175 km (CLTC)
-- **Battery**: 30.1 kWh
+- **Battery**: 90 kWh
 - **Motor power**: 200 kW
 - **0-100 km/h**: 7.6 s
 

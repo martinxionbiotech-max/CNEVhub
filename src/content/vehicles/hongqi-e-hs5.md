@@ -38,7 +38,7 @@ family: "E HS5"
 Hongqi E HS5 (starting at $25,320) is a SUV from HONGQI.
 
 - **Range**: 520 km (CLTC)
-- **Battery**: 62.0 kWh
+- **Battery**: 62 kWh
 - **Motor power**: 210 kW
 - **0-100 km/h**: 7.4 s
 

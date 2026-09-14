@@ -36,7 +36,7 @@ family: "Passion"
 
 Voyah Passion (starting at $35,610) is a SUV from VOYAH.
 
-- **Battery**: 43.0 kWh
+- **Battery**: 108.7 kWh
 - **Motor power**: 290 kW
 - **0-100 km/h**: 5.9 s
 

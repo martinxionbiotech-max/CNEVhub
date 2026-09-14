@@ -36,7 +36,7 @@ family: "X3L"
 
 Chery Fulwin X3L (starting at $16,890) is a SUV from CHERY FULWIN.
 
-- **Battery**: 20.64 kWh
+- **Battery**: 33.68 kWh
 - **Motor power**: 185 kW
 
 ## Overview

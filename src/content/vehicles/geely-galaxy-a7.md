@@ -36,7 +36,7 @@ family: "A7"
 
 Geely Galaxy A7 (starting at $12,610) is a SUV from GEELY GALAXY.
 
-- **Battery**: 8.5 kWh
+- **Battery**: 18.4 kWh
 - **Motor power**: 175 kW
 - **0-100 km/h**: 7.1 s
 

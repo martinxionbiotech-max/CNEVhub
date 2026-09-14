@@ -37,7 +37,7 @@ family: "Song Max"
 
 Byd Song MAX (starting at $20,820) is a MPV from BYD.
 
-- **Battery**: 8.3 kWh
+- **Battery**: 18.3 kWh
 - **Motor power**: 132 kW
 - **0-100 km/h**: 8.5 s
 

@@ -37,7 +37,7 @@ family: "Starshine 8"
 Geely Galaxy Starshine 8 (starting at $17,670) is a SUV from GEELY GALAXY.
 
 - **Range**: 1600 km (CLTC)
-- **Battery**: 8.5 kWh
+- **Battery**: 18.4 kWh
 - **Motor power**: 175 kW
 - **0-100 km/h**: 8.4 s
 

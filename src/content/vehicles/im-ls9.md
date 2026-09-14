@@ -37,7 +37,7 @@ family: "LS9"
 
 Im LS9 (starting at $46,870) is a SUV from IM.
 
-- **Battery**: 52.0 kWh
+- **Battery**: 52 kWh
 - **Motor power**: 380 kW
 - **0-100 km/h**: 4.9 s
 

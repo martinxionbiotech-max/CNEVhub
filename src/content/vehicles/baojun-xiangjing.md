@@ -37,7 +37,7 @@ family: "Xiangjing"
 
 Baojun Xiangjing (starting at $18,280) is a SUV from BAOJUN.
 
-- **Battery**: 20.5 kWh
+- **Battery**: 69.2 kWh
 - **Motor power**: 160 kW
 - **0-100 km/h**: 7.9 s
 

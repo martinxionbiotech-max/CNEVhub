@@ -38,7 +38,7 @@ family: "AS5"
 Arcfox AS5 (starting at $18,000) is a SUV from ARCFOX.
 
 - **Range**: 560 km (CLTC)
-- **Battery**: 65.0 kWh
+- **Battery**: 65 kWh
 - **Motor power**: 185 kW
 - **0-100 km/h**: 7.0 s
 

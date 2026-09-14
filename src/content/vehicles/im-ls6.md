@@ -38,7 +38,7 @@ family: "LS6"
 
 Im LS6 (starting at $30,690) is a SUV from IM.
 
-- **Battery**: 52.0 kWh
+- **Battery**: 100 kWh
 - **Motor power**: 230 kW
 - **0-100 km/h**: 6.4 s
 

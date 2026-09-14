@@ -38,7 +38,7 @@ family: "06"
 Avatr 06 (starting at $29,560) is a SUV from AVATR.
 
 - **Range**: 1190 km (CLTC)
-- **Battery**: 31.7 kWh
+- **Battery**: 72.88 kWh
 - **Motor power**: 231 kW
 - **0-100 km/h**: 6.6 s
 

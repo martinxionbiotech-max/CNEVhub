@@ -38,7 +38,7 @@ family: "LS7"
 Im LS7 (starting at $47,870) is a SUV from IM.
 
 - **Range**: 700 km (CLTC)
-- **Battery**: 100.0 kWh
+- **Battery**: 100 kWh
 - **Motor power**: 579 kW
 - **0-100 km/h**: 3.9 s
 

@@ -36,7 +36,7 @@ family: "Imax8"
 
 Roewe Imax8 (starting at $28,150) is a MPV from ROEWE.
 
-- **Battery**: 24.7 kWh
+- **Battery**: 90 kWh
 - **Motor power**: 176 kW
 
 ## Overview

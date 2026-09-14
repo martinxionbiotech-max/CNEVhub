@@ -38,7 +38,7 @@ family: "ET9"
 Nio ET9 (starting at $108,170) is a SUV from NIO.
 
 - **Range**: 650 km (CLTC)
-- **Battery**: 102.0 kWh
+- **Battery**: 102 kWh
 - **Motor power**: 520 kW
 - **0-100 km/h**: 4.1 s
 
