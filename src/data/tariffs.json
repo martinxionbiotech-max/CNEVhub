@@ -3,21 +3,76 @@
   "source": "EU Implementing Regulation (EU) 2024/2754 + national VAT/GST rates",
   "cvd_scope": "EU markets only + BEV only — non-EU markets (UK/Gulf/Australia) and PHEV/EREV pay no countervailing duty",
   "markets": {
-    "germany": { "label": "Germany", "region": "EU", "standard_duty_rate": 0.10, "vat_rate": 0.19, "registration_fee_usd": 500 },
-    "france": { "label": "France", "region": "EU", "standard_duty_rate": 0.10, "vat_rate": 0.20, "registration_fee_usd": 400 },
-    "netherlands": { "label": "Netherlands", "region": "EU", "standard_duty_rate": 0.10, "vat_rate": 0.21, "registration_fee_usd": 400 },
-    "united_kingdom": { "label": "United Kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.10, "vat_rate": 0.20, "registration_fee_usd": 400 },
-    "united_arab_emirates": { "label": "UAE", "region": "Middle East", "standard_duty_rate": 0.05, "vat_rate": 0.05, "registration_fee_usd": 300 },
-    "saudi_arabia": { "label": "Saudi Arabia", "region": "Middle East", "standard_duty_rate": 0.05, "vat_rate": 0.15, "registration_fee_usd": 300 },
-    "australia": { "label": "Australia", "region": "Oceania", "standard_duty_rate": 0.0, "vat_rate": 0.10, "registration_fee_usd": 500 }
+    "germany": {
+      "label": "Germany",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "vat_rate": 0.19,
+      "registration_fee_usd": 500
+    },
+    "france": {
+      "label": "France",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "vat_rate": 0.2,
+      "registration_fee_usd": 400
+    },
+    "netherlands": {
+      "label": "Netherlands",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "vat_rate": 0.21,
+      "registration_fee_usd": 400
+    },
+    "united_kingdom": {
+      "label": "United Kingdom",
+      "region": "Non-EU Europe",
+      "standard_duty_rate": 0.1,
+      "vat_rate": 0.2,
+      "registration_fee_usd": 400
+    },
+    "united_arab_emirates": {
+      "label": "UAE",
+      "region": "Middle East",
+      "standard_duty_rate": 0.05,
+      "vat_rate": 0.05,
+      "registration_fee_usd": 300
+    },
+    "saudi_arabia": {
+      "label": "Saudi Arabia",
+      "region": "Middle East",
+      "standard_duty_rate": 0.05,
+      "vat_rate": 0.15,
+      "registration_fee_usd": 300
+    },
+    "australia": {
+      "label": "Australia",
+      "region": "Oceania",
+      "standard_duty_rate": 0.0,
+      "vat_rate": 0.1,
+      "registration_fee_usd": 500
+    }
   },
   "brand_cvd": {
-    "byd": 0.17, "denza": 0.17, "yangwang": 0.17, "fangchengbao": 0.17,
-    "geely": 0.188, "geely-galaxy": 0.188, "zeekr": 0.188, "lynk-co": 0.188,
-    "mg": 0.353, "maxus": 0.353, "roewe": 0.353, "saic": 0.353,
-    "wuling": 0.353, "baojun": 0.353, "im": 0.353,
+    "byd": 0.17,
+    "denza": 0.17,
+    "yangwang": 0.17,
+    "fangchengbao": 0.17,
+    "geely": 0.188,
+    "geely-galaxy": 0.188,
+    "zeekr": 0.188,
+    "lynk-co": 0.188,
+    "mg": 0.353,
+    "maxus": 0.353,
+    "roewe": 0.353,
+    "saic": 0.353,
+    "wuling": 0.353,
+    "baojun": 0.353,
+    "im": 0.353,
     "tesla": 0.078,
-    "_default": 0.207
+    "_default": 0.207,
+    "livan": 0.188,
+    "geometry": 0.188
   },
   "fixed_costs": {
     "freight_roro_usd": 2000,

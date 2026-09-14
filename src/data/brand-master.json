@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-07",
-  "count": 59,
+  "count": 67,
   "brands": [
     {
       "brand_id": "aeolus",
@@ -532,6 +532,78 @@
       "established": "1968",
       "website": "https://www.jmc.com.cn/",
       "vehicle_count": 4
+    },
+    {
+      "brand_id": "neta",
+      "brand_name": "Neta",
+      "parent_company": "Hozon Auto",
+      "parent_location": "Jiaxing, Zhejiang, China",
+      "established": "2014",
+      "website": "https://www.hozonauto.com/",
+      "vehicle_count": 5
+    },
+    {
+      "brand_id": "venucia",
+      "brand_name": "Venucia",
+      "parent_company": "Dongfeng-Nissan",
+      "parent_location": "Guangzhou, Guangdong, China",
+      "established": "2010",
+      "website": "https://www.venucia.com.cn/",
+      "vehicle_count": 3
+    },
+    {
+      "brand_id": "cowin",
+      "brand_name": "Cowin",
+      "parent_company": "Chery",
+      "parent_location": "Yibin, Sichuan, China",
+      "established": "2014",
+      "website": "https://www.cowin.com/",
+      "vehicle_count": 2
+    },
+    {
+      "brand_id": "livan",
+      "brand_name": "Livan",
+      "parent_company": "Geely",
+      "parent_location": "Chongqing, China",
+      "established": "2022",
+      "website": "https://www.livan.com.cn/",
+      "vehicle_count": 2
+    },
+    {
+      "brand_id": "skywell",
+      "brand_name": "Skywell",
+      "parent_company": "Skywell Group",
+      "parent_location": "Nanjing, Jiangsu, China",
+      "established": "2019",
+      "website": "https://www.skywellcars.com/",
+      "vehicle_count": 2
+    },
+    {
+      "brand_id": "dayun",
+      "brand_name": "Dayun Yuanhang",
+      "parent_company": "Dayun Group",
+      "parent_location": "Yuncheng, Shanxi, China",
+      "established": "2022",
+      "website": "https://www.dayun.com/",
+      "vehicle_count": 4
+    },
+    {
+      "brand_id": "hycan",
+      "brand_name": "Hycan",
+      "parent_company": "GAC + NIO JV",
+      "parent_location": "Guangzhou, Guangdong, China",
+      "established": "2019",
+      "website": "https://www.hycan.com.cn/",
+      "vehicle_count": 4
+    },
+    {
+      "brand_id": "geometry",
+      "brand_name": "Geometry",
+      "parent_company": "Geely",
+      "parent_location": "Hangzhou, Zhejiang, China",
+      "established": "2019",
+      "website": "https://www.geometryauto.com/",
+      "vehicle_count": 2
     }
   ]
 }
