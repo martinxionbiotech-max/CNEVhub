@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-07",
-  "count": 67,
+  "count": 72,
   "brands": [
     {
       "brand_id": "aeolus",
@@ -63,7 +63,7 @@
       "parent_location": "Qingdao, China",
       "established": "1953",
       "website": "https://www.baw.com.cn/",
-      "vehicle_count": 3
+      "vehicle_count": 4
     },
     {
       "brand_id": "bestune",
@@ -117,7 +117,7 @@
       "parent_location": "Wuhu, Anhui, China",
       "established": "2010",
       "website": "None",
-      "vehicle_count": 5
+      "vehicle_count": 6
     },
     {
       "brand_id": "chery",
@@ -126,7 +126,7 @@
       "parent_location": "Wuhu, Anhui, China",
       "established": "1997",
       "website": "https://www.cheryinternational.com/",
-      "vehicle_count": 3
+      "vehicle_count": 5
     },
     {
       "brand_id": "deepal",
@@ -225,7 +225,7 @@
       "parent_location": "Hangzhou, Zhejiang, China",
       "established": "1997",
       "website": "http://www.geelyauto.com.hk/",
-      "vehicle_count": 3
+      "vehicle_count": 4
     },
     {
       "brand_id": "haval",
@@ -279,7 +279,7 @@
       "parent_location": "Hefei, Anhui, China",
       "established": "2002",
       "website": "None",
-      "vehicle_count": 3
+      "vehicle_count": 5
     },
     {
       "brand_id": "jac-yiwei",
@@ -297,7 +297,7 @@
       "parent_location": "Hefei, Anhui, China",
       "established": "1964",
       "website": "None",
-      "vehicle_count": 3
+      "vehicle_count": 5
     },
     {
       "brand_id": "jaecoo",
@@ -324,7 +324,7 @@
       "parent_location": "Chongqing, China",
       "established": "2019",
       "website": "https://www.cakcauto.com/",
-      "vehicle_count": 1
+      "vehicle_count": 2
     },
     {
       "brand_id": "leapmotor",
@@ -567,7 +567,7 @@
       "parent_location": "Chongqing, China",
       "established": "2022",
       "website": "https://www.livan.com.cn/",
-      "vehicle_count": 2
+      "vehicle_count": 3
     },
     {
       "brand_id": "skywell",
@@ -603,7 +603,52 @@
       "parent_location": "Hangzhou, Zhejiang, China",
       "established": "2019",
       "website": "https://www.geometryauto.com/",
+      "vehicle_count": 5
+    },
+    {
+      "brand_id": "seres",
+      "brand_name": "Seres",
+      "parent_company": "Seres Group",
+      "parent_location": "Chongqing, China",
+      "established": "2016",
+      "website": "https://www.seres.cn/",
+      "vehicle_count": 1
+    },
+    {
+      "brand_id": "landian",
+      "brand_name": "Landian",
+      "parent_company": "Seres Group",
+      "parent_location": "Chongqing, China",
+      "established": "2023",
+      "website": "https://www.landian.cn/",
+      "vehicle_count": 4
+    },
+    {
+      "brand_id": "sehol",
+      "brand_name": "Sehol",
+      "parent_company": "JAC Group",
+      "parent_location": "Hefei, Anhui, China",
+      "established": "2018",
+      "website": "https://www.jac.com.cn/",
+      "vehicle_count": 4
+    },
+    {
+      "brand_id": "yudo",
+      "brand_name": "Yudo",
+      "parent_company": "Yudo Auto",
+      "parent_location": "Putian, Fujian, China",
+      "established": "2015",
+      "website": "https://www.yudoauto.com/",
       "vehicle_count": 2
+    },
+    {
+      "brand_id": "oshan",
+      "brand_name": "Oshan",
+      "parent_company": "Changan",
+      "parent_location": "Chongqing, China",
+      "established": "2018",
+      "website": "https://www.oshan.com.cn/",
+      "vehicle_count": 1
     }
   ]
 }
