@@ -4,7 +4,7 @@ description: "BYD Seal 06 DM I is a sedan from Byd, a 10.08 kWh battery and 120 
 slug: "byd-seal-06-dm-i"
 brand: "byd"
 type: "Sedan"
-powertrain: "BEV"
+powertrain: "PHEV"
 price_usd: 14000.0
 currency: "USD"
 range_cltc_km: 120
