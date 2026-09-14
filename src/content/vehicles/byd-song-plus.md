@@ -9,6 +9,7 @@ price_usd: 19130.0
 currency: "USD"
 range_cltc_km: 605
 battery_kwh: 87.04
+variants: [{"powertrain":"BEV","battery_kwh":[71.8,87.04]},{"powertrain":"PHEV","battery_kwh":[12.9,18.3]}]
 motor_power_kw: 160
 torque_nm: 260
 accel_0_100_s: 7.7

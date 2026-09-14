@@ -9,6 +9,7 @@ price_usd: 21380.0
 currency: "USD"
 range_cltc_km: 520
 battery_kwh: 67.7
+variants: [{"powertrain":"BEV","battery_kwh":[67.7,74.9,81.9]},{"powertrain":"EREV","battery_kwh":[28.4,38.7]}]
 motor_power_kw: 170
 torque_nm: 320
 accel_0_100_s: 8.46

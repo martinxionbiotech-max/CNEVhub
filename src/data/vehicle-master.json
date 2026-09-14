@@ -51,7 +51,23 @@
       "torque_nm": 240.0,
       "data_tier": 1.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            30.3
+          ]
+        },
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            50.8,
+            61.2,
+            62.3
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "aeolus-l8",
@@ -221,7 +237,23 @@
       "torque_nm": 360.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            79.9,
+            83
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            40,
+            42
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "aito-m7",
@@ -238,7 +270,22 @@
       "torque_nm": 563.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            100
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            37,
+            53
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "aito-m8",
@@ -255,7 +302,22 @@
       "torque_nm": 598.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            100
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            36,
+            52
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "aito-m9",
@@ -272,7 +334,22 @@
       "torque_nm": 675.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            100
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            42,
+            52
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "arcfox-as",
@@ -340,7 +417,23 @@
       "torque_nm": 365.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            64.8,
+            74.4,
+            79.2
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            27.4
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "arcfox-kaola",
@@ -391,7 +484,22 @@
       "torque_nm": 367.0,
       "data_tier": 1.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            72.88
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            31.7,
+            45.06
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "avatr-07",
@@ -408,7 +516,22 @@
       "torque_nm": 333.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            82.16
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            39.05,
+            52.01
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "avatr-11",
@@ -442,7 +565,22 @@
       "torque_nm": 333.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            94.53,
+            98.07
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            52.01
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "baojun-kiwi-ev",
@@ -476,7 +614,21 @@
       "torque_nm": 310.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            69.2
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            20.5
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "baojun-yep-plus",
@@ -578,7 +730,23 @@
       "torque_nm": 310.0,
       "data_tier": 1.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            81,
+            92
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            35,
+            46
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "bestune-nat",
@@ -629,7 +797,16 @@
       "torque_nm": 340.0,
       "data_tier": 1.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            21.2,
+            30.9
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "bestune-yueyi-03",
@@ -816,7 +993,21 @@
       "torque_nm": 315.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            83.2
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            29.4
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "byd-han",
@@ -833,7 +1024,23 @@
       "torque_nm": 315.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            60.48,
+            72,
+            85.44
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            18.3
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "byd-m9",
@@ -867,7 +1074,23 @@
       "torque_nm": 210.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            46.08,
+            56.64
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            10.08,
+            15.87
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "byd-qin-plus",
@@ -884,7 +1107,24 @@
       "torque_nm": 210.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            48,
+            57.6,
+            71.7
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            8.32,
+            18.3
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "byd-qin",
@@ -1207,7 +1447,23 @@
       "torque_nm": 260.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            71.8,
+            87.04
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            12.9,
+            18.3
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "byd-song-pro",
@@ -1241,7 +1497,21 @@
       "torque_nm": 315.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            100.5
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            35.62
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "byd-tang",
@@ -1343,7 +1613,21 @@
       "torque_nm": 330.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            18.4
+          ]
+        },
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            52.6
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "changan-nevo-a06",
@@ -1360,7 +1644,22 @@
       "torque_nm": 190.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            51.48,
+            63.18
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            28.39
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "changan-nevo-a07",
@@ -1377,7 +1676,22 @@
       "torque_nm": 290.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            58,
+            79.97
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            28.39
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "changan-nevo-e07",
@@ -1394,7 +1708,21 @@
       "torque_nm": 375.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            89.98
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            39.05
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "changan-nevo-lamore",
@@ -1819,7 +2147,21 @@
       "torque_nm": 290.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            56.12
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            28.4
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "deepal-s05",
@@ -1853,7 +2195,23 @@
       "torque_nm": 290.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            79.97
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            18.99,
+            31.73,
+            39.05
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "deepal-s09",
@@ -1887,7 +2245,26 @@
       "torque_nm": 320.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            56.1,
+            58.89,
+            66.8,
+            79.97
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            18.99,
+            28.39,
+            35.1
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "denza-d9",
@@ -1904,7 +2281,22 @@
       "torque_nm": 315.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            103.36
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            20.39,
+            40.06
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "denza-n7",
@@ -1972,7 +2364,22 @@
       "torque_nm": 1035.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            100,
+            122.5
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            38.5
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "denza-z9",
@@ -1989,7 +2396,21 @@
       "torque_nm": 1035.0,
       "data_tier": 1.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            100
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            38.5
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "dongfeng-epi-007",
@@ -2023,7 +2444,24 @@
       "torque_nm": 340.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            56.83,
+            70.26,
+            82.28
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            28.39,
+            34.3
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "dongfeng-epi-nammi-06",
@@ -2074,7 +2512,24 @@
       "torque_nm": 324.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            77,
+            97.7,
+            100
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            32.7,
+            41.2
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "exeed-exlantix-et",
@@ -2091,7 +2546,24 @@
       "torque_nm": 324.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            77,
+            100
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            32,
+            41.16,
+            43
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "exeed-lx-c-dm",
@@ -2788,7 +3260,17 @@
       "torque_nm": 300.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            19.09,
+            35.4,
+            45
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "haval-jolion-pro",
@@ -3111,7 +3593,22 @@
       "torque_nm": 430.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            95.9,
+            108.35
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            60.33
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "hyptec-ht",
@@ -3213,7 +3710,24 @@
       "torque_nm": 430.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            71,
+            90,
+            100,
+            103
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            52
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "im-ls7",
@@ -3638,7 +4152,24 @@
       "torque_nm": 360.0,
       "data_tier": 1.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            62.8,
+            78.5,
+            90
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            30.1,
+            43.7
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "leapmotor-c10",
@@ -3655,7 +4186,23 @@
       "torque_nm": 320.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            52.9,
+            69.9,
+            81.9
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            28
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "leapmotor-c11",
@@ -3672,7 +4219,22 @@
       "torque_nm": 320.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            78.5,
+            81.9
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            43.74
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "leapmotor-c16",
@@ -3689,7 +4251,24 @@
       "torque_nm": 320.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            67.7,
+            74.9,
+            81.9
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            28.4,
+            38.7
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "leapmotor-lafa5",
@@ -4063,7 +4642,21 @@
       "torque_nm": 1050.0,
       "data_tier": 1.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            142.7
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            65.8
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "m-hero-m817",
@@ -4165,7 +4758,21 @@
       "torque_nm": 390.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            90
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            39.7
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "mg-4",
@@ -4471,7 +5078,22 @@
       "torque_nm": 330.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            59.2,
+            68.5
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            19.7
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "roewe-erx5",
@@ -4505,7 +5127,22 @@
       "torque_nm": 280.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            61.1,
+            69.9
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            9.1
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "roewe-imax8",
@@ -4556,7 +5193,24 @@
       "torque_nm": 350.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            64.6,
+            80
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            32.6,
+            42,
+            52
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "stelato-s9t",
@@ -4573,7 +5227,22 @@
       "torque_nm": 320.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            100
+          ]
+        },
+        {
+          "powertrain": "EREV",
+          "battery_kwh": [
+            36,
+            51.9
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "tank-300",
@@ -4675,7 +5344,22 @@
       "torque_nm": 620.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            108.7
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            25.57,
+            62.5
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "voyah-free",
@@ -4709,7 +5393,23 @@
       "torque_nm": null,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            82.11,
+            108.73
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            43,
+            25.6
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "voyah-titan",
@@ -4981,7 +5681,22 @@
       "torque_nm": 230.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            60,
+            69.2
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            9.5
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "wuling-starlight-s",
@@ -4998,7 +5713,22 @@
       "torque_nm": 310.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            60
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            9.5,
+            20.5
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "wuling-starlight",
@@ -5015,7 +5745,23 @@
       "torque_nm": 310.0,
       "data_tier": 2.0,
       "data_reviewed": false,
-      "data_updated": "2026-09-07"
+      "data_updated": "2026-09-07",
+      "variants": [
+        {
+          "powertrain": "BEV",
+          "battery_kwh": [
+            41.9,
+            54.3
+          ]
+        },
+        {
+          "powertrain": "PHEV",
+          "battery_kwh": [
+            9.5,
+            20.5
+          ]
+        }
+      ]
     },
     {
       "vehicle_id": "wuling-victory",

@@ -10,6 +10,7 @@ currency: "USD"
 range_cltc_km: 580
 range_long_km: 640
 battery_kwh: 78.5
+variants: [{"powertrain":"BEV","battery_kwh":[78.5,81.9]},{"powertrain":"EREV","battery_kwh":[43.74]}]
 motor_power_kw: 200
 torque_nm: 320
 accel_0_100_s: 7.6

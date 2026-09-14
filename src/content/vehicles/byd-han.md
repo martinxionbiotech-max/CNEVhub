@@ -10,6 +10,7 @@ currency: "USD"
 range_cltc_km: 605
 range_long_km: 715
 battery_kwh: 72
+variants: [{"powertrain":"BEV","battery_kwh":[60.48,72,85.44]},{"powertrain":"PHEV","battery_kwh":[18.3]}]
 motor_power_kw: 200
 torque_nm: 315
 accel_0_100_s: 6.9
