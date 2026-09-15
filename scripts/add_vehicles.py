@@ -27,37 +27,79 @@ MASTER = ROOT / "src/data/vehicle-master.json"
 BRAND_MASTER = ROOT / "src/data/brand-master.json"
 TARIFFS = json.loads((ROOT / "src/data/tariffs.json").read_text())
 
+# 30 markets (P3 country database). Ordered by region for stable page display.
 MARKETS_ORDER = [
-    "germany", "united_kingdom", "netherlands", "france",
-    "united_arab_emirates", "saudi_arabia", "australia",
+    # EU (12)
+    "germany", "france", "netherlands", "sweden", "denmark", "spain",
+    "italy", "belgium", "austria", "portugal", "ireland", "poland",
+    # Non-EU Europe (3)
+    "united_kingdom", "norway", "switzerland",
+    # Middle East (5)
+    "united_arab_emirates", "saudi_arabia", "israel", "qatar", "turkey",
+    # Oceania (2)
+    "australia", "new_zealand",
+    # Southeast Asia (4)
+    "thailand", "malaysia", "indonesia", "singapore",
+    # North America (2)
+    "mexico", "canada",
+    # Latin America (1)
+    "brazil",
+    # Africa (1)
+    "south_africa",
 ]
 MARKET_LABEL = {
-    "germany": "Germany", "united_kingdom": "United Kingdom",
-    "netherlands": "Netherlands", "france": "France",
-    "united_arab_emirates": "United Arab Emirates",
-    "saudi_arabia": "Saudi Arabia", "australia": "Australia",
+    "germany": "Germany", "france": "France", "netherlands": "Netherlands",
+    "sweden": "Sweden", "denmark": "Denmark", "spain": "Spain",
+    "italy": "Italy", "belgium": "Belgium", "austria": "Austria",
+    "portugal": "Portugal", "ireland": "Ireland", "poland": "Poland",
+    "united_kingdom": "United Kingdom", "norway": "Norway", "switzerland": "Switzerland",
+    "united_arab_emirates": "United Arab Emirates", "saudi_arabia": "Saudi Arabia",
+    "israel": "Israel", "qatar": "Qatar", "turkey": "Turkey",
+    "australia": "Australia", "new_zealand": "New Zealand",
+    "thailand": "Thailand", "malaysia": "Malaysia", "indonesia": "Indonesia", "singapore": "Singapore",
+    "mexico": "Mexico", "canada": "Canada",
+    "brazil": "Brazil",
+    "south_africa": "South Africa",
 }
 MARKET_REGION = {
-    "germany": "EU", "netherlands": "EU", "france": "EU",
-    "united_kingdom": "Non-EU Europe", "united_arab_emirates": "Middle East",
-    "saudi_arabia": "Middle East", "australia": "Oceania",
+    "germany": "EU", "france": "EU", "netherlands": "EU",
+    "sweden": "EU", "denmark": "EU", "spain": "EU",
+    "italy": "EU", "belgium": "EU", "austria": "EU",
+    "portugal": "EU", "ireland": "EU", "poland": "EU",
+    "united_kingdom": "Non-EU Europe", "norway": "Non-EU Europe", "switzerland": "Non-EU Europe",
+    "united_arab_emirates": "Middle East", "saudi_arabia": "Middle East",
+    "israel": "Middle East", "qatar": "Middle East", "turkey": "Middle East",
+    "australia": "Oceania", "new_zealand": "Oceania",
+    "thailand": "Southeast Asia", "malaysia": "Southeast Asia",
+    "indonesia": "Southeast Asia", "singapore": "Southeast Asia",
+    "mexico": "North America", "canada": "North America",
+    "brazil": "Latin America",
+    "south_africa": "Africa",
 }
 
 FIXED = TARIFFS["fixed_costs"]
 BRAND_CVD = TARIFFS["brand_cvd"]
 
-# Empirical per-market fixed costs (USD), reverse-engineered from the existing
-# 315-vehicle dataset so NEW vehicles stay consistent with the catalog. These
-# differ from tariffs.json's flat fixed_costs + registration_fee for non-EU
-# markets (RoRo freight and landing charges vary by destination distance).
+# Per-market fixed costs (USD) = regional base (freight + clearance +
+# certification + inland) + market registration fee. The regional bases are
+# reverse-engineered from the original 7-market dataset (EU 6100 / Non-EU
+# Europe 5850 / Middle East 4150 / Oceania 5350) and extended by reasonable
+# freight+certification estimates for the new P3 regions (Southeast Asia,
+# North America, Latin America, Africa). Registration fees are the verified
+# per-market values in tariffs.json.
+REGION_BASE_FIXED = {
+    "EU": 6100.0,
+    "Non-EU Europe": 5850.0,
+    "Middle East": 4150.0,
+    "Oceania": 5350.0,
+    "Southeast Asia": 4600.0,
+    "North America": 7000.0,
+    "Latin America": 6500.0,
+    "Africa": 6200.0,
+}
 FIXED_BY_MARKET = {
-    "germany": 6600.0,
-    "united_kingdom": 6250.0,
-    "netherlands": 6500.0,
-    "france": 6500.0,
-    "united_arab_emirates": 4450.0,
-    "saudi_arabia": 4450.0,
-    "australia": 5850.0,
+    key: REGION_BASE_FIXED[MARKET_REGION[key]] + TARIFFS["markets"][key]["registration_fee_usd"]
+    for key in MARKETS_ORDER
 }
 
 # Germany detailed-breakdown line items (matches existing md breakdowns).

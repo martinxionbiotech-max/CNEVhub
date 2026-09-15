@@ -25,14 +25,13 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["changan-nevo", "SUV", "chinese-ev", "export"]
 image: "/images/vehicles/1763910110608-1xas4bcun4j.png"
-landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 24467.85, "premium_pct": 79.3}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 24268.0, "premium_pct": 77.8}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 24668.15, "premium_pct": 80.7}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 24518.0, "premium_pct": 79.6}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 19499.12, "premium_pct": 42.9}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 20932.38, "premium_pct": 53.4}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 20865.0, "premium_pct": 52.9}]
+landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 24467.85, "premium_pct": 79.3}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 24518.0, "premium_pct": 79.6}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 24668.15, "premium_pct": 80.7}, {"market": "Sweden", "market_key": "sweden", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.25, "total_landed_usd": 24938.75, "premium_pct": 82.7}, {"market": "Denmark", "market_key": "denmark", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.25, "total_landed_usd": 28368.75, "premium_pct": 107.8}, {"market": "Spain", "market_key": "spain", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 24378.15, "premium_pct": 78.6}, {"market": "Italy", "market_key": "italy", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.22, "total_landed_usd": 24668.3, "premium_pct": 80.7}, {"market": "Belgium", "market_key": "belgium", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 24418.15, "premium_pct": 78.9}, {"market": "Austria", "market_key": "austria", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 24318.0, "premium_pct": 78.2}, {"market": "Portugal", "market_key": "portugal", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.23, "total_landed_usd": 24768.45, "premium_pct": 81.5}, {"market": "Ireland", "market_key": "ireland", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.23, "total_landed_usd": 24768.45, "premium_pct": 81.5}, {"market": "Poland", "market_key": "poland", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.23, "total_landed_usd": 24623.45, "premium_pct": 80.4}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 24268.0, "premium_pct": 77.8}, {"market": "Norway", "market_key": "norway", "region": "Non-EU Europe", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.25, "total_landed_usd": 24312.5, "premium_pct": 78.1}, {"market": "Switzerland", "market_key": "switzerland", "region": "Non-EU Europe", "standard_duty_rate": 0.04, "countervailing_duty_rate": 0.0, "vat_rate": 0.081, "total_landed_usd": 21395.88, "premium_pct": 56.7}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 19499.13, "premium_pct": 42.9}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 20932.38, "premium_pct": 53.4}, {"market": "Israel", "market_key": "israel", "region": "Middle East", "standard_duty_rate": 0.07, "countervailing_duty_rate": 0.0, "vat_rate": 0.18, "total_landed_usd": 22084.49, "premium_pct": 61.8}, {"market": "Qatar", "market_key": "qatar", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.0, "total_landed_usd": 18512.5, "premium_pct": 35.6}, {"market": "Turkey", "market_key": "turkey", "region": "Middle East", "standard_duty_rate": 0.4, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 27182.0, "premium_pct": 99.1}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 20865.0, "premium_pct": 52.9}, {"market": "New Zealand", "market_key": "new_zealand", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 21070.5, "premium_pct": 54.4}, {"market": "Thailand", "market_key": "thailand", "region": "Southeast Asia", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.07, "total_landed_usd": 19255.5, "premium_pct": 41.1}, {"market": "Malaysia", "market_key": "malaysia", "region": "Southeast Asia", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 20415.75, "premium_pct": 49.6}, {"market": "Indonesia", "market_key": "indonesia", "region": "Southeast Asia", "standard_duty_rate": 0.5, "countervailing_duty_rate": 0.0, "vat_rate": 0.11, "total_landed_usd": 27427.25, "premium_pct": 100.9}, {"market": "Singapore", "market_key": "singapore", "region": "Southeast Asia", "standard_duty_rate": 0.2, "countervailing_duty_rate": 0.0, "vat_rate": 0.09, "total_landed_usd": 22714.2, "premium_pct": 66.4}, {"market": "Mexico", "market_key": "mexico", "region": "North America", "standard_duty_rate": 0.5, "countervailing_duty_rate": 0.0, "vat_rate": 0.16, "total_landed_usd": 30801.0, "premium_pct": 125.6}, {"market": "Canada", "market_key": "canada", "region": "North America", "standard_duty_rate": 0.061, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 22246.78, "premium_pct": 63.0}, {"market": "Brazil", "market_key": "brazil", "region": "Latin America", "standard_duty_rate": 0.35, "countervailing_duty_rate": 0.0, "vat_rate": 0.17, "total_landed_usd": 28130.18, "premium_pct": 106.1}, {"market": "South Africa", "market_key": "south_africa", "region": "Africa", "standard_duty_rate": 0.25, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 25851.88, "premium_pct": 89.4}]
 data_tier: 1
 data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
 data_updated: "2026-09-07"
 data_reviewed: false
 family: "Q05"
 ---
-
 # Changan Nevo Q05
 
 Changan Nevo Q05 (starting at $13,650) is a SUV from CHANGAN NEVO.
@@ -51,14 +50,36 @@ Estimated landed cost to import this vehicle into key export markets, including 
 
 | Destination | Region | Total landed (USD) | Premium |
 |---|---|---|---|
-| Germany | EU | $27,827 | +103.9% |
+| Germany | EU | $24,467 | +79.3% |
+| France | EU | $24,518 | +79.6% |
+| Netherlands | EU | $24,668 | +80.7% |
+| Sweden | EU | $24,938 | +82.7% |
+| Denmark | EU | $28,368 | +107.8% |
+| Spain | EU | $24,378 | +78.6% |
+| Italy | EU | $24,668 | +80.7% |
+| Belgium | EU | $24,418 | +78.9% |
+| Austria | EU | $24,318 | +78.2% |
+| Portugal | EU | $24,768 | +81.5% |
+| Ireland | EU | $24,768 | +81.5% |
+| Poland | EU | $24,623 | +80.4% |
 | United Kingdom | Non-EU Europe | $24,268 | +77.8% |
-| Netherlands | EU | $28,084 | +105.7% |
-| France | EU | $27,905 | +104.4% |
+| Norway | Non-EU Europe | $24,312 | +78.1% |
+| Switzerland | Non-EU Europe | $21,395 | +56.7% |
 | United Arab Emirates | Middle East | $19,499 | +42.9% |
 | Saudi Arabia | Middle East | $20,932 | +53.4% |
+| Israel | Middle East | $22,084 | +61.8% |
+| Qatar | Middle East | $18,512 | +35.6% |
+| Turkey | Middle East | $27,182 | +99.1% |
 | Australia | Oceania | $20,865 | +52.9% |
-
+| New Zealand | Oceania | $21,070 | +54.4% |
+| Thailand | Southeast Asia | $19,255 | +41.1% |
+| Malaysia | Southeast Asia | $20,415 | +49.6% |
+| Indonesia | Southeast Asia | $27,427 | +100.9% |
+| Singapore | Southeast Asia | $22,714 | +66.4% |
+| Mexico | North America | $30,801 | +125.6% |
+| Canada | North America | $22,246 | +63.0% |
+| Brazil | Latin America | $28,130 | +106.1% |
+| South Africa | Africa | $25,851 | +89.4% |
 ## Detailed Breakdown — Germany
 
 | Cost item | Amount (USD) |
