@@ -44,11 +44,11 @@
 - [x] changan-countervailing-duty —— Changan 20.7% CVD（已发布）
 - [x] nio-xpeng-leapmotor-countervailing-duty —— 新势力 20.7% CVD 群像（已发布）
 - [x] zeekr-countervailing-duty —— Zeekr 18.8% CVD（Geely 系）（已发布）
-- [x] xiaomi-hongqi-countervailing-duty —— 小米/红旗 20.7% CVD（draft:true，待发布）
+- [x] xiaomi-hongqi-countervailing-duty —— 小米/红旗 20.7% CVD（已发布）
 
 ### 批次 4 — Pillar D 车型旗舰对比（4 篇）
 状态：`done`（已写完，全部 draft:true 待发布）
-- [x] byd-seal-vs-tesla-model-3 —— BYD Seal vs Tesla Model 3 landed cost（draft:true）
+- [x] byd-seal-vs-tesla-model-3 —— BYD Seal vs Tesla Model 3 landed cost（已发布）
 - [x] byd-han-vs-tesla-model-s —— BYD Han vs Model S（draft:true）
 - [x] xiaomi-su7-vs-tesla-model-3 —— Xiaomi SU7 vs Model 3（draft:true）
 - [x] zeekr-001-vs-tesla-model-s —— Zeekr 001 vs Model S（draft:true）

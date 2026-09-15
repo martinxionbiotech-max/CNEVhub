@@ -4,7 +4,7 @@ description: "Xiaomi and Hongqi both pay the EU's 20.7% countervailing duty, but
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-15"
-draft: true
+draft: false
 tags: [xiaomi, hongqi, countervailing-duty, eu-tariff, landed-cost, germany, ev-import, bevs]
 ---
 

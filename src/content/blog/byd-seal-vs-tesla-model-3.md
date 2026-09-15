@@ -4,7 +4,7 @@ description: "BYD Seal ($24,690 ex-factory) against the Tesla Model 3 — full t
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-15"
-draft: true
+draft: false
 tags: [byd, seal, tesla, model-3, landed-cost, eu-tariff, comparison, ev-import, germany]
 ---
 
