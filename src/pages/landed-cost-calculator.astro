@@ -29,10 +29,17 @@ const markets = Object.entries(tariffs.markets).map(([code, m]) => ({
   cvd: m.region === 'EU',
 }));
 
-const FREIGHT = tariffs.fixed_costs.freight_roro_usd;
-const CLEARANCE = tariffs.fixed_costs.customs_clearance_usd;
-const CERTIFICATION = tariffs.fixed_costs.certification_usd;
-const INLAND = tariffs.fixed_costs.inland_transport_usd;
+// 区域固定成本（运费 + 清关 + 认证 + 内陆运输，USD），与 scripts/add_vehicles.py 的 REGION_BASE_FIXED 一致
+const REGION_BASE_FIXED = {
+  EU: 6100,
+  'Non-EU Europe': 5850,
+  'Middle East': 4150,
+  Oceania: 5350,
+  'Southeast Asia': 4600,
+  'North America': 7000,
+  'Latin America': 6500,
+  Africa: 6200,
+};
 ---
 
 <SEO
@@ -45,7 +52,7 @@ const INLAND = tariffs.fixed_costs.inland_transport_usd;
     <div class="text-center mb-12">
       <h1 class="text-4xl font-bold mb-3">Landed Cost Calculator</h1>
       <p class="text-gray-600 max-w-2xl mx-auto">
-        Pick a vehicle and destination — see the real landed price with every cost itemized across 7 key export markets.
+        Pick a vehicle and destination — see the real landed price with every cost itemized across 30 key export markets.
       </p>
     </div>
 
@@ -111,7 +118,7 @@ const INLAND = tariffs.fixed_costs.inland_transport_usd;
 <script>
   const CARS = JSON.parse(document.getElementById('calc-cars-data').textContent);
   const MARKETS = JSON.parse(document.getElementById('calc-markets-data').textContent);
-  const FREIGHT = 2000, CLEARANCE = 350, CERTIFICATION = 3250, INLAND = 500;
+  const REGION_BASE_FIXED = JSON.parse(document.getElementById('calc-region-fixed-data').textContent);
 
   const carSelect = document.getElementById('car-select');
   const marketSelect = document.getElementById('market-select');
@@ -137,19 +144,20 @@ const INLAND = tariffs.fixed_costs.inland_transport_usd;
     const vat = (base + duty + cvd) * market.vat;
     const reg = market.reg;
 
-    const total = base + duty + cvd + vat + FREIGHT + CLEARANCE + CERTIFICATION + reg + INLAND;
+    const fixedBase = REGION_BASE_FIXED[market.region] ?? 6100;
+    const total = base + duty + cvd + vat + fixedBase + reg;
     const premium = ((total - base) / base) * 100;
 
     totalEl.textContent = fmt(total);
     premiumEl.textContent = '+' + premium.toFixed(1) + '%';
 
-    // 决策推荐：遍历 7 个市场，找落地最便宜的
+    // 决策推荐：遍历全部市场，找落地最便宜的
     let best = null;
     for (const m of MARKETS) {
       const d2 = base * m.duty;
       const c2 = m.cvd ? (base + d2) * car.cvd : 0;
       const v2 = (base + d2 + c2) * m.vat;
-      const t2 = base + d2 + c2 + v2 + FREIGHT + CLEARANCE + CERTIFICATION + m.reg + INLAND;
+      const t2 = base + d2 + c2 + v2 + (REGION_BASE_FIXED[m.region] ?? 6100) + m.reg;
       if (!best || t2 < best.t) best = { country: m.country, t: t2 };
     }
     if (best) cheapestEl.textContent = `${best.country} (${fmt(best.t)})`;
@@ -159,11 +167,8 @@ const INLAND = tariffs.fixed_costs.inland_transport_usd;
       [`Standard duty (${(market.duty * 100).toFixed(0)}%)`, duty],
       ...(market.cvd ? [[`Countervailing duty (${(car.cvd * 100).toFixed(1)}%)`, cvd]] : []),
       [`VAT (${(market.vat * 100).toFixed(0)}%)`, vat],
-      ['RoRo freight', FREIGHT],
-      ['Customs clearance', CLEARANCE],
-      ['Certification', CERTIFICATION],
+      [`Fixed costs (${market.region})`, fixedBase],
       ['Registration', reg],
-      ['Inland transport', INLAND],
     ];
 
     breakdownEl.innerHTML = rows.map(([label, val]) => `
@@ -199,3 +204,4 @@ const INLAND = tariffs.fixed_costs.inland_transport_usd;
 
 <script type="application/json" id="calc-cars-data" set:html={JSON.stringify(cars)} />
 <script type="application/json" id="calc-markets-data" set:html={JSON.stringify(markets)} />
+<script type="application/json" id="calc-region-fixed-data" set:html={JSON.stringify(REGION_BASE_FIXED)} />

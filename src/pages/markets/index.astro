@@ -3,15 +3,11 @@ import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import tariffs from '@/data/tariffs.json';
 import { siteConfig } from '@/config';
 
-const marketOrder = [
-  { key: 'germany', label: 'Germany', note: 'EU — 19% VAT, brand CVD applies' },
-  { key: 'france', label: 'France', note: 'EU — 20% VAT, brand CVD applies' },
-  { key: 'netherlands', label: 'Netherlands', note: 'EU — 21% VAT, brand CVD applies' },
-  { key: 'united_kingdom', label: 'United Kingdom', note: 'Non-EU — no CVD, 20% VAT' },
-  { key: 'united_arab_emirates', label: 'UAE', note: 'Middle East — 5% VAT, no CVD' },
-  { key: 'saudi_arabia', label: 'Saudi Arabia', note: 'Middle East — 15% VAT, no CVD' },
-  { key: 'australia', label: 'Australia', note: 'Oceania — 10% GST, no CVD' },
-];
+// 全部 30 个市场从 tariffs.json 动态读取（单源），不再硬编码 7 个
+const marketOrder = Object.entries(tariffs.markets).map(([key, m]) => ({
+  key,
+  label: m.label,
+}));
 
 const brandCvd = tariffs.brand_cvd;
 const sampledBrands = [
@@ -25,7 +21,7 @@ const sampledBrands = [
 
 <MarketingLayout
   title={`Market Comparison — ${siteConfig.name}`}
-  description="Compare import duty, VAT, and countervailing duty across all 7 export markets EV Hub tracks — EU, UK, Gulf, and Australia — plus the brand-specific countervailing duty rates."
+  description="Compare import duty, VAT, and countervailing duty across all 30 export markets EV Hub tracks — EU, UK, Gulf, Asia-Pacific, and the Americas — plus the brand-specific countervailing duty rates."
 >
   <div class="max-w-5xl mx-auto px-6 py-16">
     <div class="text-center mb-12">
