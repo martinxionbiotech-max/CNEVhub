@@ -4,7 +4,7 @@ description: "Zeekr pays an 18.8% countervailing duty because it is a Geely Grou
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-15"
-draft: true
+draft: false
 tags: [zeekr, geely, countervailing-duty, eu-tariff, landed-cost, germany, ev-import, bevs]
 ---
 

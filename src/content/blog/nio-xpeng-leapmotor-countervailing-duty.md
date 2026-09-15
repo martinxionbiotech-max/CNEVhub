@@ -4,7 +4,7 @@ description: "NIO, XPeng, and Leapmotor all pay the EU's 20.7% countervailing du
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-15"
-draft: true
+draft: false
 tags: [nio, xpeng, leapmotor, countervailing-duty, eu-tariff, landed-cost, germany, ev-import, bevs]
 ---
 
