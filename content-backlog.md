@@ -25,26 +25,26 @@
 ## 批次计划
 
 ### 批次 1 — Pillar C 高关税市场（5 篇）
-状态：`pending`
-- [ ] turkey-import-guide —— Import Chinese EV to Turkey（40% 关税 + 20% VAT + ÖTV）
-- [ ] mexico-import-guide —— Import Chinese EV to Mexico（50% 关税 2026 新政）
-- [ ] brazil-import-guide —— Import Chinese EV to Brazil（35% BEV 进口税）
-- [ ] indonesia-import-guide —— Import Chinese EV to Indonesia（50% 关税，EV 免税到期）
-- [ ] south-africa-import-guide —— Import Chinese EV to South Africa（25% 关税）
+状态：`done`（已上线，draft:false）
+- [x] turkey-import-guide —— Import Chinese EV to Turkey（40% 关税 + 20% VAT + ÖTV）
+- [x] mexico-import-guide —— Import Chinese EV to Mexico（50% 关税 2026 新政）
+- [x] brazil-import-guide —— Import Chinese EV to Brazil（35% BEV 进口税）
+- [x] indonesia-import-guide —— Import Chinese EV to Indonesia（50% 关税，EV 免税到期）
+- [x] south-africa-import-guide —— Import Chinese EV to South Africa（25% 关税）
 
 ### 批次 2 — Pillar C 零/低关税市场（3 篇）
-状态：`pending`
-- [ ] norway-import-guide —— Import Chinese EV to Norway（0% 关税 + EV 免税，北欧标杆）
-- [ ] switzerland-import-guide —— Import Chinese EV to Switzerland（4% 关税 + 8.1% VAT）
-- [ ] canada-import-guide —— Import Chinese EV to Canada（100% 附加税废止，现 6.1%）
+状态：`done`（已上线，draft:false）
+- [x] norway-import-guide —— Import Chinese EV to Norway（0% 关税 + EV 免税，北欧标杆）
+- [x] switzerland-import-guide —— Import Chinese EV to Switzerland（4% 关税 + 8.1% VAT）
+- [x] canada-import-guide —— Import Chinese EV to Canada（100% 附加税废止，现 6.1%）
 
 ### 批次 3 — Pillar B 品牌 CVD 矩阵（20.7% 配合公司品牌，5 篇）
-状态：`pending`
-- [ ] chery-countervailing-duty —— Chery 20.7% CVD
-- [ ] changan-countervailing-duty —— Changan 20.7% CVD
-- [ ] nio-xpeng-leapmotor-countervailing-duty —— 新势力 20.7% CVD 群像
-- [ ] zeekr-countervailing-duty —— Zeekr 18.8% CVD（Geely 系）
-- [ ] xiaomi-hongqi-countervailing-duty —— 小米/红旗 20.7% CVD
+状态：`done`（已写完；chery/changan 已上线，其余 draft:true 待发布）
+- [x] chery-countervailing-duty —— Chery 20.7% CVD（已发布）
+- [x] changan-countervailing-duty —— Changan 20.7% CVD（已发布）
+- [x] nio-xpeng-leapmotor-countervailing-duty —— 新势力 20.7% CVD 群像（draft:true）
+- [x] zeekr-countervailing-duty —— Zeekr 18.8% CVD（Geely 系）（draft:true）
+- [x] xiaomi-hongqi-countervailing-duty —— 小米/红旗 20.7% CVD（draft:true）
 
 ### 批次 4 — Pillar D 车型旗舰对比（4 篇）
 状态：`pending`
@@ -62,6 +62,13 @@
 - `src/data/vehicle-master.json` —— 517 车
 - `src/content/vehicles/*.md` —— 每车 30 市场 landed_cost_markets
 
+## 发布节奏（防 Google spam，硬性规则）
+- **创作与发布分离**：新文章一律 `draft: true`，不渲染、不进 sitemap/rss，Google 看不到。
+- **发布配额**：每个发布时点（北京 20:00 / 23:00 / 次日 02:00）只 flip 2 篇 → `draft: false`，绝不多发。
+- **净上线节奏**：6 篇/天，分 3 批错开。
+- **发布时点之外绝不 flip 超过 2 篇**。
+
 ## 进度追踪
-- 每完成一篇，子代理返回后主 agent 二次检查，通过则 commit。
-- 本文件用 `[x]` 标记已完成文章。
+- 每完成一篇，子代理返回后主 agent 二次检查，通过则标 `[x]`。
+- `draft: true` = 已写完待发布；`draft: false` = 已上线。
+- 发布时按 backlog 顺序取最早完成的 2 篇 flip。
