@@ -72,7 +72,7 @@
       "parent_location": "Changchun, Jilin, China",
       "established": "2006",
       "website": "https://benteng.faw.cn/",
-      "vehicle_count": 4
+      "vehicle_count": 7
     },
     {
       "brand_id": "byd",
@@ -117,7 +117,7 @@
       "parent_location": "Wuhu, Anhui, China",
       "established": "2010",
       "website": "None",
-      "vehicle_count": 6
+      "vehicle_count": 7
     },
     {
       "brand_id": "chery",
@@ -126,7 +126,7 @@
       "parent_location": "Wuhu, Anhui, China",
       "established": "1997",
       "website": "https://www.cheryinternational.com/",
-      "vehicle_count": 5
+      "vehicle_count": 6
     },
     {
       "brand_id": "deepal",
@@ -162,7 +162,7 @@
       "parent_location": "Wuhan, Hubei, China",
       "established": "2020",
       "website": "https://www.dna-nev.com.cn/",
-      "vehicle_count": 1
+      "vehicle_count": 2
     },
     {
       "brand_id": "exeed",
@@ -297,7 +297,7 @@
       "parent_location": "Hefei, Anhui, China",
       "established": "1964",
       "website": "None",
-      "vehicle_count": 5
+      "vehicle_count": 8
     },
     {
       "brand_id": "jaecoo",
@@ -396,7 +396,7 @@
       "parent_location": "Shanghai, China",
       "established": "1029",
       "website": "https://www.mgmotor.eu/",
-      "vehicle_count": 4
+      "vehicle_count": 6
     },
     {
       "brand_id": "nio",
@@ -423,7 +423,7 @@
       "parent_location": "Baoding, Hebei, China",
       "established": "2018",
       "website": "https://www.oraev.com/",
-      "vehicle_count": 4
+      "vehicle_count": 5
     },
     {
       "brand_id": "roewe",
@@ -558,7 +558,7 @@
       "parent_location": "Yibin, Sichuan, China",
       "established": "2014",
       "website": "https://www.cowin.com/",
-      "vehicle_count": 2
+      "vehicle_count": 4
     },
     {
       "brand_id": "livan",
@@ -648,7 +648,7 @@
       "parent_location": "Chongqing, China",
       "established": "2018",
       "website": "https://www.oshan.com.cn/",
-      "vehicle_count": 1
+      "vehicle_count": 3
     }
   ]
 }
