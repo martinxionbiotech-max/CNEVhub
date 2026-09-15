@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-15",
   "source": "EU Implementing Regulation (EU) 2024/2754 + national VAT/GST rates",
   "cvd_scope": "EU markets only + BEV only — non-EU markets (UK/Gulf/Australia) and PHEV/EREV pay no countervailing duty",
   "markets": {
@@ -51,6 +51,167 @@
       "standard_duty_rate": 0.0,
       "vat_rate": 0.1,
       "registration_fee_usd": 500
+    },
+    "norway": {
+      "label": "Norway",
+      "region": "Non-EU Europe",
+      "standard_duty_rate": 0.0,
+      "vat_rate": 0.25,
+      "registration_fee_usd": 1400
+    },
+    "sweden": {
+      "label": "Sweden",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "vat_rate": 0.25,
+      "registration_fee_usd": 70
+    },
+    "denmark": {
+      "label": "Denmark",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "vat_rate": 0.25,
+      "registration_fee_usd": 3500
+    },
+    "spain": {
+      "label": "Spain",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "vat_rate": 0.21,
+      "registration_fee_usd": 110
+    },
+    "italy": {
+      "label": "Italy",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "vat_rate": 0.22,
+      "registration_fee_usd": 250
+    },
+    "belgium": {
+      "label": "Belgium",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "vat_rate": 0.21,
+      "registration_fee_usd": 150
+    },
+    "austria": {
+      "label": "Austria",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "vat_rate": 0.2,
+      "registration_fee_usd": 200
+    },
+    "portugal": {
+      "label": "Portugal",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "vat_rate": 0.23,
+      "registration_fee_usd": 200
+    },
+    "ireland": {
+      "label": "Ireland",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "vat_rate": 0.23,
+      "registration_fee_usd": 200
+    },
+    "poland": {
+      "label": "Poland",
+      "region": "EU",
+      "standard_duty_rate": 0.1,
+      "vat_rate": 0.23,
+      "registration_fee_usd": 55
+    },
+    "switzerland": {
+      "label": "Switzerland",
+      "region": "Non-EU Europe",
+      "standard_duty_rate": 0.04,
+      "vat_rate": 0.081,
+      "registration_fee_usd": 200
+    },
+    "israel": {
+      "label": "Israel",
+      "region": "Middle East",
+      "standard_duty_rate": 0.07,
+      "vat_rate": 0.18,
+      "registration_fee_usd": 700
+    },
+    "qatar": {
+      "label": "Qatar",
+      "region": "Middle East",
+      "standard_duty_rate": 0.05,
+      "vat_rate": 0.0,
+      "registration_fee_usd": 30
+    },
+    "turkey": {
+      "label": "Turkey",
+      "region": "Middle East",
+      "standard_duty_rate": 0.4,
+      "vat_rate": 0.2,
+      "registration_fee_usd": 100
+    },
+    "new_zealand": {
+      "label": "New Zealand",
+      "region": "Oceania",
+      "standard_duty_rate": 0.0,
+      "vat_rate": 0.15,
+      "registration_fee_usd": 23
+    },
+    "thailand": {
+      "label": "Thailand",
+      "region": "Southeast Asia",
+      "standard_duty_rate": 0.0,
+      "vat_rate": 0.07,
+      "registration_fee_usd": 50
+    },
+    "malaysia": {
+      "label": "Malaysia",
+      "region": "Southeast Asia",
+      "standard_duty_rate": 0.05,
+      "vat_rate": 0.1,
+      "registration_fee_usd": 50
+    },
+    "indonesia": {
+      "label": "Indonesia",
+      "region": "Southeast Asia",
+      "standard_duty_rate": 0.5,
+      "vat_rate": 0.11,
+      "registration_fee_usd": 100
+    },
+    "singapore": {
+      "label": "Singapore",
+      "region": "Southeast Asia",
+      "standard_duty_rate": 0.2,
+      "vat_rate": 0.09,
+      "registration_fee_usd": 260
+    },
+    "mexico": {
+      "label": "Mexico",
+      "region": "North America",
+      "standard_duty_rate": 0.5,
+      "vat_rate": 0.16,
+      "registration_fee_usd": 50
+    },
+    "brazil": {
+      "label": "Brazil",
+      "region": "Latin America",
+      "standard_duty_rate": 0.35,
+      "vat_rate": 0.17,
+      "registration_fee_usd": 70
+    },
+    "canada": {
+      "label": "Canada",
+      "region": "North America",
+      "standard_duty_rate": 0.061,
+      "vat_rate": 0.05,
+      "registration_fee_usd": 40
+    },
+    "south_africa": {
+      "label": "South Africa",
+      "region": "Africa",
+      "standard_duty_rate": 0.25,
+      "vat_rate": 0.15,
+      "registration_fee_usd": 30
     }
   },
   "brand_cvd": {
