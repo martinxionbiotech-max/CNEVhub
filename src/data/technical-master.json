@@ -1,0 +1,1224 @@
+{
+  "generated": "2026-09-15",
+  "count": 137,
+  "entities": [
+    {
+      "id": "lfp-battery",
+      "name": "Lithium iron phosphate battery (LFP)",
+      "name_zh": "磷酸铁锂电池 (LFP)",
+      "category": "battery",
+      "definition": "Lithium-ion battery whose cathode is lithium iron phosphate (LiFePO4). It offers high thermal stability and long cycle life but lower energy density than nickel-based chemistries.",
+      "source": "Wikipedia, Lithium iron phosphate battery — https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery",
+      "related_vehicles": [
+        "byd-seal",
+        "byd-dolphin",
+        "byd-atto-3",
+        "byd-han",
+        "byd-seagull",
+        "wuling-hongguang-mini-ev",
+        "byd-song-plus",
+        "leapmotor-c11"
+      ]
+    },
+    {
+      "id": "nmc-battery",
+      "name": "Nickel manganese cobalt battery (NMC)",
+      "name_zh": "三元锂电池 (NMC)",
+      "category": "battery",
+      "definition": "Lithium-ion battery using a layered nickel-manganese-cobalt oxide cathode; higher energy density and better cold-weather performance than LFP at higher cost.",
+      "source": "Wikipedia, Lithium nickel manganese cobalt oxide — https://en.wikipedia.org/wiki/Lithium_nickel_manganese_cobalt_oxide",
+      "related_vehicles": [
+        "nio-et7",
+        "zeekr-001",
+        "avatr-12",
+        "xiaomi-su7",
+        "zeekr-009"
+      ]
+    },
+    {
+      "id": "nca-battery",
+      "name": "Nickel cobalt aluminium battery (NCA)",
+      "name_zh": "镍钴铝电池 (NCA)",
+      "category": "battery",
+      "definition": "Lithium-ion chemistry with a LiNiCoAlO2 cathode, known for very high energy density and used in early long-range EV packs.",
+      "source": "Wikipedia, Lithium nickel cobalt aluminium oxide — https://en.wikipedia.org/wiki/Lithium_nickel_cobalt_aluminium_oxide"
+    },
+    {
+      "id": "lmfp-battery",
+      "name": "Lithium manganese iron phosphate battery (LMFP)",
+      "name_zh": "磷酸锰铁锂电池 (LMFP)",
+      "category": "battery",
+      "definition": "LFP variant with manganese doping that raises the operating voltage, delivering roughly 15-20% higher energy density than plain LFP while keeping olivine safety.",
+      "source": "Wikipedia, Lithium iron phosphate battery — https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery"
+    },
+    {
+      "id": "sodium-ion-battery",
+      "name": "Sodium-ion battery",
+      "name_zh": "钠离子电池",
+      "category": "battery",
+      "definition": "Rechargeable battery that shuttles sodium ions instead of lithium. It uses abundant, low-cost materials and performs well in cold weather but has lower energy density.",
+      "source": "Wikipedia, Sodium-ion battery — https://en.wikipedia.org/wiki/Sodium-ion_battery",
+      "related_vehicles": [
+        "byd-dolphin",
+        "byd-seagull"
+      ]
+    },
+    {
+      "id": "naxtra-battery",
+      "name": "CATL Naxtra sodium-ion battery",
+      "name_zh": "宁德时代 Naxtra 钠新电池",
+      "category": "battery",
+      "definition": "CATL's mass-produced sodium-ion EV battery, rated up to 175 Wh/kg with 5C peak charge and over 90% power retention at -40 degrees C; full-scale mass production targeted for end-2026.",
+      "source": "CATL official news, Super Technology Day / Naxtra Battery — https://www.catl.com/en/news/6401.html"
+    },
+    {
+      "id": "solid-state-battery",
+      "name": "Solid-state battery",
+      "name_zh": "全固态电池",
+      "category": "battery",
+      "definition": "Battery in which the liquid electrolyte is replaced by a solid electrolyte, promising higher energy density and improved safety. Automotive volumes remain in pilot production as of 2026.",
+      "source": "Wikipedia, Solid-state battery — https://en.wikipedia.org/wiki/Solid-state_battery"
+    },
+    {
+      "id": "semi-solid-state-battery",
+      "name": "Semi-solid-state battery",
+      "name_zh": "半固态电池",
+      "category": "battery",
+      "definition": "Intermediate design using a gel or quasi-solid electrolyte with a small liquid fraction. It has already reached limited series production in long-range packs.",
+      "source": "Wikipedia, Solid-state battery — https://en.wikipedia.org/wiki/Solid-state_battery"
+    },
+    {
+      "id": "condensed-matter-battery",
+      "name": "CATL condensed-matter battery",
+      "name_zh": "宁德时代凝聚态电池",
+      "category": "battery",
+      "definition": "CATL high-energy cell built around a condensed electrolyte, announced at 350 Wh/kg at the cell level in 2026.",
+      "source": "CATL official news, Six Major Innovations — https://www.catl.com/en/news/6811.html"
+    },
+    {
+      "id": "blade-battery",
+      "name": "BYD Blade Battery",
+      "name_zh": "比亚迪刀片电池",
+      "category": "battery",
+      "definition": "BYD's long, thin LFP cell (about 960 mm) designed as a structural pack element. Its nail-penetration test results show no fire or explosion.",
+      "source": "BYD official, Blade Battery — https://www.byd.com/en/news (see also ResearchInChina CTP/CTB/CTC report)",
+      "related_vehicles": [
+        "byd-han",
+        "byd-seal",
+        "byd-atto-3",
+        "byd-dolphin",
+        "byd-sealion-07"
+      ]
+    },
+    {
+      "id": "qilin-battery",
+      "name": "CATL Qilin battery",
+      "name_zh": "宁德时代麒麟电池",
+      "category": "battery",
+      "definition": "CATL's third-generation cell-to-pack battery with a system-level energy density of 255 Wh/kg and 72% pack volume utilisation.",
+      "source": "CATL official news, Six Major Innovations — https://www.catl.com/en/news/6811.html"
+    },
+    {
+      "id": "shenxing-battery",
+      "name": "CATL Shenxing superfast charging battery",
+      "name_zh": "宁德时代神行电池",
+      "category": "battery",
+      "definition": "LFP battery line built for very high charge rates: the first generation supported 4C charging and later generations claim up to 12C peak, giving roughly 10-minute 10-80% charging.",
+      "source": "CATL official news, Super Technology Day / Naxtra Battery — https://www.catl.com/en/news/6401.html"
+    },
+    {
+      "id": "freevoy-battery",
+      "name": "CATL Freevoy dual-power battery",
+      "name_zh": "宁德时代骁遥双核电池",
+      "category": "battery",
+      "definition": "Battery that blends LFP and NCM at the particle level, reaching about 230 Wh/kg and supporting pure-electric plus hybrid operation with combined range above 2,000 km.",
+      "source": "CATL official news, Six Major Innovations — https://www.catl.com/en/news/6811.html"
+    },
+    {
+      "id": "ctp-cell-to-pack",
+      "name": "Cell-to-pack (CTP)",
+      "name_zh": "电芯直接集成电池包 (CTP)",
+      "category": "battery",
+      "definition": "Pack architecture that removes modules and places cells directly in the pack enclosure, cutting part count by roughly 40% and lifting volume utilisation to 60-70%.",
+      "source": "Frontiers in Mechanical Engineering, review of CTB battery-structure integration — https://www.frontiersin.org/journals/mechanical-engineering/articles/10.3389/fmech.2026.1825484/full",
+      "related_vehicles": [
+        "byd-seal",
+        "nio-et7",
+        "zeekr-001"
+      ]
+    },
+    {
+      "id": "ctb-cell-to-body",
+      "name": "Cell-to-body (CTB)",
+      "name_zh": "电池车身一体化 (CTB)",
+      "category": "battery",
+      "definition": "Design in which the battery pack's upper cover replaces the car's floor, making the pack a load-bearing part of the body structure; introduced by BYD in 2022.",
+      "source": "ResearchInChina, Passenger Car CTP/CTC/CTB Integrated Battery Industry Report — https://www.researchinchina.com/Htmls/Report/2024/73951.html",
+      "related_vehicles": [
+        "byd-seal",
+        "byd-han"
+      ]
+    },
+    {
+      "id": "ctc-cell-to-chassis",
+      "name": "Cell-to-chassis (CTC)",
+      "name_zh": "电池底盘一体化 (CTC)",
+      "category": "battery",
+      "definition": "Architecture in which cells are integrated directly into the vehicle chassis or underbody, so the battery enclosure acts as a floor panel or structural member.",
+      "source": "ResearchInChina, Passenger Car CTP/CTC/CTB Integrated Battery Industry Report — https://www.researchinchina.com/Htmls/Report/2024/73951.html"
+    },
+    {
+      "id": "ctm-cell-to-module",
+      "name": "Cell-to-module (CTM)",
+      "name_zh": "电芯到模组 (CTM)",
+      "category": "battery",
+      "definition": "Conventional pack architecture in which cells are first assembled into modules that are then installed in the pack, offering easier serviceability at lower volume efficiency.",
+      "source": "Bonnen Battery, EV battery pack designs from modules to body-integrated power — https://www.bonnenbatteries.com/ev-battery-pack-designs-from-modules-to-body-integrated-power"
+    },
+    {
+      "id": "cylindrical-4680-cell",
+      "name": "4680 cylindrical cell",
+      "name_zh": "4680 大圆柱电芯",
+      "category": "battery",
+      "definition": "Tesla's 46 mm diameter by 80 mm tall tabless cylindrical cell, claimed to deliver about five times the energy and six times the power of the 2170 format.",
+      "source": "Tesla Battery Day 2020 / Wikipedia, Tesla 4680 — https://en.wikipedia.org/wiki/Tesla_4680"
+    },
+    {
+      "id": "cylindrical-21700-cell",
+      "name": "21700 cylindrical cell",
+      "name_zh": "21700 圆柱电芯",
+      "category": "battery",
+      "definition": "21 mm diameter by 70 mm cylindrical lithium-ion cell format widely used in EV and power-tool packs.",
+      "source": "Wikipedia, Lithium-ion battery (cylindrical formats) — https://en.wikipedia.org/wiki/Lithium-ion_battery"
+    },
+    {
+      "id": "cylindrical-18650-cell",
+      "name": "18650 cylindrical cell",
+      "name_zh": "18650 圆柱电芯",
+      "category": "battery",
+      "definition": "18 mm diameter by 65 mm cylindrical cell, the format that scaled early EV and consumer battery packs.",
+      "source": "Wikipedia, Lithium-ion battery (cylindrical formats) — https://en.wikipedia.org/wiki/Lithium-ion_battery"
+    },
+    {
+      "id": "prismatic-cell",
+      "name": "Prismatic cell",
+      "name_zh": "方形电芯",
+      "category": "battery",
+      "definition": "Rectangular hard-cased cell format that dominates the Chinese EV market because it packages densely and resists swelling.",
+      "source": "Wikipedia, Lithium-ion battery (cylindrical formats) — https://en.wikipedia.org/wiki/Lithium-ion_battery"
+    },
+    {
+      "id": "pouch-cell",
+      "name": "Pouch cell",
+      "name_zh": "软包电芯",
+      "category": "battery",
+      "definition": "Cell sealed in a laminated foil pouch; it has high packaging efficiency and low weight but needs external compression for mechanical support.",
+      "source": "Wikipedia, Lithium-ion battery (cylindrical formats) — https://en.wikipedia.org/wiki/Lithium-ion_battery"
+    },
+    {
+      "id": "tabless-electrode",
+      "name": "Tabless electrode design",
+      "name_zh": "无极耳(全极耳)设计",
+      "category": "battery",
+      "definition": "Electrode construction that replaces discrete tabs with a continuous current-collector edge, shortening the current path to cut internal resistance and enable high-power cells.",
+      "source": "Tesla, Battery Day 2020 (tabless 4680 cell) — https://www.tesla.com/"
+    },
+    {
+      "id": "dry-electrode-process",
+      "name": "Dry battery electrode process",
+      "name_zh": "干法电极工艺",
+      "category": "battery",
+      "definition": "Solvent-free electrode manufacturing route that avoids large drying ovens, cutting factory energy use and floor space compared with wet slurry coating.",
+      "source": "Tesla, Battery Day 2020 (dry electrode process) — https://www.tesla.com/"
+    },
+    {
+      "id": "battery-management-system",
+      "name": "Battery management system (BMS)",
+      "name_zh": "电池管理系统 (BMS)",
+      "category": "battery",
+      "definition": "Electronics that monitor cell voltage and temperature, estimate state of charge and health, balance cells and enforce protection limits.",
+      "source": "Wikipedia, Battery management system — https://en.wikipedia.org/wiki/Battery_management_system"
+    },
+    {
+      "id": "soc-state-of-charge",
+      "name": "State of charge (SOC)",
+      "name_zh": "荷电状态 (SOC)",
+      "category": "battery",
+      "definition": "The remaining energy in a battery expressed as a percentage of its rated capacity; it governs usable range and charge-power limits.",
+      "source": "Wikipedia, State of charge — https://en.wikipedia.org/wiki/State_of_charge"
+    },
+    {
+      "id": "soh-state-of-health",
+      "name": "State of health (SOH)",
+      "name_zh": "电池健康度 (SOH)",
+      "category": "battery",
+      "definition": "Measure of a battery's current capacity and internal resistance relative to new condition. It is a required data point in the EU battery passport and a key input for used-EV valuation.",
+      "source": "European Commission, Regulation (EU) 2023/1542 Art. 77 & Annex XIII (battery passport, mandatory 18 Feb 2027)"
+    },
+    {
+      "id": "battery-passport",
+      "name": "EU battery passport",
+      "name_zh": "欧盟电池护照",
+      "category": "battery",
+      "definition": "Machine-readable digital record required by Regulation (EU) 2023/1542 for EV, LMT and industrial batteries above 2 kWh placed on the EU market from 18 February 2027, accessed by QR code and covering carbon footprint, recycled content, chemistry and state of health.",
+      "source": "European Commission, Regulation (EU) 2023/1542 Art. 77 & Annex XIII (battery passport, mandatory 18 Feb 2027)"
+    },
+    {
+      "id": "silicon-carbon-anode",
+      "name": "Silicon-carbon anode",
+      "name_zh": "硅碳负极",
+      "category": "battery",
+      "definition": "Anode that blends silicon into graphite to raise capacity beyond pure graphite; carbon scaffolding is used to buffer silicon's large volume expansion.",
+      "source": "Wikipedia, Lithium-ion battery (anode materials) — https://en.wikipedia.org/wiki/Lithium-ion_battery"
+    },
+    {
+      "id": "lithium-plating",
+      "name": "Lithium plating",
+      "name_zh": "析锂",
+      "category": "battery",
+      "definition": "Deposition of metallic lithium on the anode surface instead of intercalation, typically during fast charging at low temperature. It permanently consumes lithium and can seed dendrites.",
+      "source": "Wikipedia, Lithium-ion battery (degradation) — https://en.wikipedia.org/wiki/Lithium-ion_battery"
+    },
+    {
+      "id": "calendar-aging",
+      "name": "Calendar aging",
+      "name_zh": "日历老化",
+      "category": "battery",
+      "definition": "Capacity fade that occurs with time regardless of cycling, accelerated by high state of charge and high ambient temperature.",
+      "source": "Wikipedia, Lithium-ion battery (degradation) — https://en.wikipedia.org/wiki/Lithium-ion_battery"
+    },
+    {
+      "id": "thermal-runaway",
+      "name": "Thermal runaway",
+      "name_zh": "热失控",
+      "category": "battery",
+      "definition": "Self-sustaining exothermic chain reaction inside a cell that can propagate to neighbouring cells; the central failure mode that EV battery safety standards target.",
+      "source": "Wikipedia, Thermal runaway — https://en.wikipedia.org/wiki/Thermal_runaway"
+    },
+    {
+      "id": "lfp-thermal-stability",
+      "name": "LFP thermal stability",
+      "name_zh": "磷酸铁锂热稳定性",
+      "category": "battery",
+      "definition": "The strong P-O bonds and olivine structure of LFP raise its decomposition temperature, giving a longer time between failure onset and fire than nickel-rich chemistries.",
+      "source": "Wikipedia, Lithium iron phosphate battery — https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery",
+      "related_vehicles": [
+        "byd-han",
+        "byd-seal",
+        "byd-dolphin"
+      ]
+    },
+    {
+      "id": "c-rate",
+      "name": "C-rate",
+      "name_zh": "充放电倍率 (C 率)",
+      "category": "battery",
+      "definition": "Charge or discharge current normalised to battery capacity: 1C empties or fills the pack in one hour, 5C in about twelve minutes.",
+      "source": "Wikipedia, C-rate / battery capacity — https://en.wikipedia.org/wiki/Battery_charger#C-rate"
+    },
+    {
+      "id": "cobalt-free-battery",
+      "name": "Cobalt-free battery",
+      "name_zh": "无钴电池",
+      "category": "battery",
+      "definition": "Cathode design that avoids cobalt, either by using LFP/LMFP or nickel-manganese-only layered oxides, to reduce cost and supply-chain exposure.",
+      "source": "Wikipedia, Lithium nickel manganese cobalt oxide — https://en.wikipedia.org/wiki/Lithium_nickel_manganese_cobalt_oxide"
+    },
+    {
+      "id": "second-life-battery",
+      "name": "Second-life battery",
+      "name_zh": "电池梯次利用",
+      "category": "battery",
+      "definition": "Repurposing of retired EV packs into stationary storage before recycling, extending service life and lowering the carbon cost per kWh.",
+      "source": "Wikipedia, Battery recycling (reuse and repurposing) — https://en.wikipedia.org/wiki/Battery_recycling"
+    },
+    {
+      "id": "battery-recycling-black-mass",
+      "name": "Black mass",
+      "name_zh": "黑粉",
+      "category": "battery",
+      "definition": "Shredded and separated battery output that concentrates cathode metals; it is the feedstock for hydrometallurgical recovery of nickel, cobalt and lithium.",
+      "source": "Wikipedia, Battery recycling — https://en.wikipedia.org/wiki/Battery_recycling"
+    },
+    {
+      "id": "energy-density-gravimetric",
+      "name": "Gravimetric energy density",
+      "name_zh": "质量能量密度 (Wh/kg)",
+      "category": "battery",
+      "definition": "Energy stored per unit mass, reported in Wh/kg at cell or pack level; the main lever on EV range for a given battery weight.",
+      "source": "Wikipedia, Energy density — https://en.wikipedia.org/wiki/Energy_density"
+    },
+    {
+      "id": "energy-density-volumetric",
+      "name": "Volumetric energy density",
+      "name_zh": "体积能量密度 (Wh/L)",
+      "category": "battery",
+      "definition": "Energy stored per unit volume in Wh/L; it determines how much battery fits into a fixed floor area.",
+      "source": "Wikipedia, Energy density — https://en.wikipedia.org/wiki/Energy_density"
+    },
+    {
+      "id": "gbt-20234",
+      "name": "GB/T 20234 charging standard",
+      "name_zh": "国标 GB/T 20234 充电标准",
+      "category": "charging",
+      "definition": "Chinese national standard for EV charging connectors and interfaces: GB/T 20234.2 covers AC and GB/T 20234.3 covers DC. The 2023 revision extended DC charging up to 1,500 V and 800 A.",
+      "source": "Wikipedia, GB/T charging standard — https://en.wikipedia.org/wiki/GB/T_charging_standard",
+      "related_vehicles": [
+        "byd-seal",
+        "nio-et7",
+        "xpeng-g9",
+        "aion-y"
+      ]
+    },
+    {
+      "id": "gbt-ac-connector",
+      "name": "GB/T AC charging connector",
+      "name_zh": "国标交流充电接口",
+      "category": "charging",
+      "definition": "Seven-pin AC connector defined by GB/T 20234.2, used for single- and three-phase AC charging in mainland China.",
+      "source": "Wikipedia, GB/T charging standard — https://en.wikipedia.org/wiki/GB/T_charging_standard"
+    },
+    {
+      "id": "gbt-dc-connector",
+      "name": "GB/T DC charging connector",
+      "name_zh": "国标直流充电接口",
+      "category": "charging",
+      "definition": "Nine-pin DC connector defined by GB/T 20234.3, mechanically incompatible with CCS and CHAdeMO so adapter hardware is required.",
+      "source": "Wikipedia, GB/T charging standard — https://en.wikipedia.org/wiki/GB/T_charging_standard"
+    },
+    {
+      "id": "gbt-27930",
+      "name": "GB/T 27930 communication protocol",
+      "name_zh": "国标 GB/T 27930 通信协议",
+      "category": "charging",
+      "definition": "CAN-based communication protocol (derived from SAE J1939) between an EV and a DC charger in China, corresponding to ISO 15118 in Western standards.",
+      "source": "Wikipedia, GB/T charging standard — https://en.wikipedia.org/wiki/GB/T_charging_standard"
+    },
+    {
+      "id": "gbt-18487",
+      "name": "GB/T 18487 conductive charging system",
+      "name_zh": "国标 GB/T 18487 传导充电系统",
+      "category": "charging",
+      "definition": "Chinese general requirements standard for conductive charging systems, corresponding to IEC 61851 in the international framework.",
+      "source": "Wikipedia, GB/T charging standard — https://en.wikipedia.org/wiki/GB/T_charging_standard"
+    },
+    {
+      "id": "ccs1",
+      "name": "Combined Charging System 1 (CCS1)",
+      "name_zh": "北美 CCS1 充电标准",
+      "category": "charging",
+      "definition": "North American DC standard combining the SAE J1772 Type 1 AC connector with two DC pins, supporting up to 350 kW at 1,000 V.",
+      "source": "PowerON EVSE, CCS1/CCS2/CHAdeMO/GB-T comparison — https://poweron-evse.com/ev-charging-insights/powering-the-future-a-deep-dive-into-ccs1-ccs2-chademo-and-gb-t-ev-charging-standards"
+    },
+    {
+      "id": "ccs2",
+      "name": "Combined Charging System 2 (CCS2)",
+      "name_zh": "欧洲 CCS2 充电标准",
+      "category": "charging",
+      "definition": "European DC standard pairing the IEC 62196 Type 2 AC connector with two DC pins, rated to 1,000 V and 500 A and the mandatory plug for EU public DC charging.",
+      "source": "PowerON EVSE, CCS1/CCS2/CHAdeMO/GB-T comparison — https://poweron-evse.com/ev-charging-insights/powering-the-future-a-deep-dive-into-ccs1-ccs2-chademo-and-gb-t-ev-charging-standards"
+    },
+    {
+      "id": "chademo",
+      "name": "CHAdeMO",
+      "name_zh": "日本 CHAdeMO 快充标准",
+      "category": "charging",
+      "definition": "DC fast charging standard introduced in Japan in 2010 by the CHAdeMO Association; the original 62.5 kW rating was later extended to 200 kW and beyond, and it supports bidirectional V2G.",
+      "source": "Driivz, EV charging standards and protocols — https://driivz.com/blog/ev-charging-standards-and-protocols"
+    },
+    {
+      "id": "nacs",
+      "name": "North American Charging Standard (NACS)",
+      "name_zh": "北美充电标准 (NACS)",
+      "category": "charging",
+      "definition": "Tesla-designed charging connector opened to the industry and standardised by SAE: a Technical Information Report was published in December 2023 and the J3400 Recommended Practice in September 2024. Most North American automakers have adopted it for DC fast charging.",
+      "source": "SAE International, SAE J3400 North American Charging System Recommended Practice / EV Charging Stations news — https://evchargingstations.com/chargingnews/sae-released-its-j3400-nacs-recommended-practice-document"
+    },
+    {
+      "id": "chaoji",
+      "name": "ChaoJi charging interface",
+      "name_zh": "超级充电接口 ChaoJi",
+      "category": "charging",
+      "definition": "Next-generation unified DC interface developed by China and Japan from the CHAdeMO 3.0 lineage, targeting 900 kW and above with backward compatibility through adapters.",
+      "source": "Driivz, EV charging standards and protocols — https://driivz.com/blog/ev-charging-standards-and-protocols"
+    },
+    {
+      "id": "iec-62196-type-2",
+      "name": "IEC 62196 Type 2 (Mennekes)",
+      "name_zh": "IEC 62196 Type 2 交流接口",
+      "category": "charging",
+      "definition": "Seven-pin AC connector used across Europe, supporting single- and three-phase charging up to 43.5 kW.",
+      "source": "PowerON EVSE, CCS1/CCS2/CHAdeMO/GB-T comparison — https://poweron-evse.com/ev-charging-insights/powering-the-future-a-deep-dive-into-ccs1-ccs2-chademo-and-gb-t-ev-charging-standards"
+    },
+    {
+      "id": "sae-j1772",
+      "name": "SAE J1772",
+      "name_zh": "北美交流充电接口 SAE J1772",
+      "category": "charging",
+      "definition": "North American AC charging connector and standard, rated up to 19.2 kW and also the AC half of CCS1.",
+      "source": "PowerON EVSE, CCS1/CCS2/CHAdeMO/GB-T comparison — https://poweron-evse.com/ev-charging-insights/powering-the-future-a-deep-dive-into-ccs1-ccs2-chademo-and-gb-t-ev-charging-standards"
+    },
+    {
+      "id": "iec-61851",
+      "name": "IEC 61851",
+      "name_zh": "IEC 61851 传导充电系统标准",
+      "category": "charging",
+      "definition": "International standard for conductive charging systems, defining charging modes 1 to 4 and the control pilot signalling used by AC charging.",
+      "source": "Wikipedia, GB/T charging standard (standards mapping) — https://en.wikipedia.org/wiki/GB/T_charging_standard"
+    },
+    {
+      "id": "iso-15118",
+      "name": "ISO 15118",
+      "name_zh": "ISO 15118 车桩通信标准",
+      "category": "charging",
+      "definition": "International vehicle-to-charger communication standard covering Plug and Charge via certificates; part 15118-20 adds bidirectional power transfer for V2G and V2H.",
+      "source": "Virta, Vehicle-to-Grid (V2G) explained — https://www.virta.global/vehicle-to-grid-v2g"
+    },
+    {
+      "id": "ocpp",
+      "name": "Open Charge Point Protocol (OCPP)",
+      "name_zh": "开放充电桩通信协议",
+      "category": "charging",
+      "definition": "Open protocol between charging stations and back-end management systems published by the Open Charge Alliance; it is independent of the vehicle-side plug standard.",
+      "source": "Open Charge Alliance / Driivz, EV charging standards and protocols — https://driivz.com/blog/ev-charging-standards-and-protocols"
+    },
+    {
+      "id": "plug-and-charge",
+      "name": "Plug and Charge",
+      "name_zh": "即插即充",
+      "category": "charging",
+      "definition": "Automatic authentication and billing at the start of a charging session using ISO 15118 certificate exchange, so no app or card is needed.",
+      "source": "ISO 15118 / Virta, V2G explained — https://www.virta.global/vehicle-to-grid-v2g"
+    },
+    {
+      "id": "ac-level-1",
+      "name": "AC Level 1 charging",
+      "name_zh": "交流一级充电",
+      "category": "charging",
+      "definition": "Charging from a standard household outlet at around 120 V in North America, giving roughly 1.4-1.9 kW.",
+      "source": "US DOE Alternative Fuels Data Center, charging levels — https://afdc.energy.gov/fuels/electricity_charging_home.html"
+    },
+    {
+      "id": "ac-level-2",
+      "name": "AC Level 2 charging",
+      "name_zh": "交流二级充电",
+      "category": "charging",
+      "definition": "208-240 V AC charging through a dedicated wallbox, typically 7-22 kW, corresponding to IEC 61851 mode 3.",
+      "source": "US DOE Alternative Fuels Data Center, charging levels — https://afdc.energy.gov/fuels/electricity_charging_home.html"
+    },
+    {
+      "id": "ac-11kw",
+      "name": "11 kW AC charging",
+      "name_zh": "11 千瓦交流充电",
+      "category": "charging",
+      "definition": "Three-phase AC charging at 16 A per phase; the common European default onboard charger rating.",
+      "source": "US DOE Alternative Fuels Data Center, charging levels — https://afdc.energy.gov/fuels/electricity_charging_home.html"
+    },
+    {
+      "id": "ac-22kw",
+      "name": "22 kW AC charging",
+      "name_zh": "22 千瓦交流充电",
+      "category": "charging",
+      "definition": "Three-phase AC charging at 32 A per phase; it requires a matching onboard charger and is limited by vehicle hardware, not the wallbox.",
+      "source": "US DOE Alternative Fuels Data Center, charging levels — https://afdc.energy.gov/fuels/electricity_charging_home.html"
+    },
+    {
+      "id": "dc-fast-charging",
+      "name": "DC fast charging (DCFC)",
+      "name_zh": "直流快充",
+      "category": "charging",
+      "definition": "Charging in which the off-board charger supplies DC directly to the pack, bypassing the onboard charger; typical public rates run from 50 kW to 400 kW and above.",
+      "source": "US DOE Alternative Fuels Data Center, charging levels — https://afdc.energy.gov/fuels/electricity_charging_home.html"
+    },
+    {
+      "id": "high-power-charging-350kw",
+      "name": "High-power charging (HPC, 350 kW+)",
+      "name_zh": "大功率充电 (HPC)",
+      "category": "charging",
+      "definition": "CCS2-class public chargers rated 350-400 kW, used with 800 V vehicles to add roughly 250-300 km in about 15-20 minutes.",
+      "source": "Ionity / Driivz, EV charging standards and protocols — https://driivz.com/blog/ev-charging-standards-and-protocols"
+    },
+    {
+      "id": "400v-architecture",
+      "name": "400 V architecture",
+      "name_zh": "400V 电压平台",
+      "category": "charging",
+      "definition": "Conventional EV pack and drivetrain voltage class around 350-450 V; DC charging current must rise steeply to exceed roughly 150-200 kW.",
+      "source": "PowerON EVSE / industry 800V platform overviews — https://poweron-evse.com/ev-charging-insights/powering-the-future-a-deep-dive-into-ccs1-ccs2-chademo-and-gb-t-ev-charging-standards",
+      "related_vehicles": [
+        "byd-atto-3",
+        "aion-y",
+        "leapmotor-c11"
+      ]
+    },
+    {
+      "id": "800v-architecture",
+      "name": "800 V high-voltage architecture",
+      "name_zh": "800V 高压平台",
+      "category": "charging",
+      "definition": "Doubling system voltage halves current for the same power, cutting cable and inverter losses and enabling sustained 250 kW+ charging with silicon carbide semiconductors.",
+      "source": "PowerON EVSE / industry 800V platform overviews — https://poweron-evse.com/ev-charging-insights/powering-the-future-a-deep-dive-into-ccs1-ccs2-chademo-and-gb-t-ev-charging-standards",
+      "related_vehicles": [
+        "zeekr-001",
+        "xiaomi-su7",
+        "nio-et7",
+        "zeekr-009",
+        "xpeng-g9"
+      ]
+    },
+    {
+      "id": "4c-fast-charging",
+      "name": "4C fast charging",
+      "name_zh": "4C 快充",
+      "category": "charging",
+      "definition": "Charging at four times pack capacity, which corresponds to a full charge in about 15 minutes and requires a dedicated high-rate battery design.",
+      "source": "CATL official news, Super Technology Day / Naxtra Battery — https://www.catl.com/en/news/6401.html",
+      "related_vehicles": [
+        "zeekr-001",
+        "xiaomi-su7"
+      ]
+    },
+    {
+      "id": "5c-fast-charging",
+      "name": "5C fast charging",
+      "name_zh": "5C 超充",
+      "category": "charging",
+      "definition": "Charging at five times pack capacity; on a 5C-capable pack this yields roughly 10-80% in about ten minutes when paired with a high-power charger.",
+      "source": "CATL official news, Super Technology Day / Naxtra Battery — https://www.catl.com/en/news/6401.html",
+      "related_vehicles": [
+        "zeekr-001",
+        "byd-han-l"
+      ]
+    },
+    {
+      "id": "megawatt-charging-system",
+      "name": "Megawatt Charging System (MCS)",
+      "name_zh": "兆瓦级充电系统 (MCS)",
+      "category": "charging",
+      "definition": "CharIN standard for heavy-duty vehicle charging targeting up to 3.75 MW at 1,250 V and 3,000 A.",
+      "source": "CharIN, Megawatt Charging System — https://www.charin.global/technology/mcs/"
+    },
+    {
+      "id": "battery-swapping",
+      "name": "Battery swapping",
+      "name_zh": "换电",
+      "category": "charging",
+      "definition": "Replenishment model in which the depleted pack is removed and a charged one installed, taking a few minutes and decoupling charging time from the vehicle.",
+      "source": "Wikipedia, Battery swapping — https://en.wikipedia.org/wiki/Battery_swapping",
+      "related_vehicles": [
+        "nio-es6",
+        "nio-et5",
+        "nio-et7"
+      ]
+    },
+    {
+      "id": "nio-power-swap",
+      "name": "NIO Power Swap",
+      "name_zh": "蔚来换电",
+      "category": "charging",
+      "definition": "NIO's automated battery swap stations, offered together with Battery-as-a-Service so customers lease the pack separately from the car.",
+      "source": "NIO official, Battery as a Service — https://www.nio.com/",
+      "related_vehicles": [
+        "nio-es6",
+        "nio-et5",
+        "nio-et7",
+        "nio-es8"
+      ]
+    },
+    {
+      "id": "v2g",
+      "name": "Vehicle-to-grid (V2G)",
+      "name_zh": "车网互动 (V2G)",
+      "category": "charging",
+      "definition": "Exporting energy from an EV battery back to the public grid in exchange for payment; it requires a bidirectional vehicle, a bidirectional charger and a utility programme.",
+      "source": "Virta, Vehicle-to-Grid (V2G) explained — https://www.virta.global/vehicle-to-grid-v2g",
+      "related_vehicles": [
+        "nio-et7",
+        "zeekr-009"
+      ]
+    },
+    {
+      "id": "v2l",
+      "name": "Vehicle-to-load (V2L)",
+      "name_zh": "对外放电 (V2L)",
+      "category": "charging",
+      "definition": "Powering external appliances from the traction battery through an outlet or adaptor, typically at 3.6 kW in Europe and up to 6 kW on some Chinese models.",
+      "source": "Mobility House, Which cars are V2G capable — https://mobilityhouse-energy.com/int_en/knowledge-center/article/which-cars-are-v2g-capable",
+      "related_vehicles": [
+        "byd-atto-3",
+        "zeekr-001",
+        "nio-et7"
+      ]
+    },
+    {
+      "id": "v2h",
+      "name": "Vehicle-to-home (V2H)",
+      "name_zh": "车家互联 (V2H)",
+      "category": "charging",
+      "definition": "Using the EV battery as a home backup or peak-shaving source through a bidirectional home charger.",
+      "source": "Mobility House, Which cars are V2G capable — https://mobilityhouse-energy.com/int_en/knowledge-center/article/which-cars-are-v2g-capable"
+    },
+    {
+      "id": "bidirectional-charging",
+      "name": "Bidirectional charging",
+      "name_zh": "双向充电",
+      "category": "charging",
+      "definition": "Hardware and software that allow power to flow both into and out of the vehicle battery, enabling V2L, V2H and V2G use cases.",
+      "source": "Virta, Vehicle-to-Grid (V2G) explained — https://www.virta.global/vehicle-to-grid-v2g"
+    },
+    {
+      "id": "charging-curve",
+      "name": "Charging curve",
+      "name_zh": "充电曲线",
+      "category": "charging",
+      "definition": "Plot of charging power against state of charge. Power is highest at low SOC and tapers above roughly 80%, so the last 20% takes disproportionately long.",
+      "source": "Driivz, EV charging standards and protocols — https://driivz.com/blog/ev-charging-standards-and-protocols"
+    },
+    {
+      "id": "onboard-charger",
+      "name": "Onboard charger (OBC)",
+      "name_zh": "车载充电机 (OBC)",
+      "category": "charging",
+      "definition": "AC-to-DC converter built into the vehicle that sets the maximum AC charging rate, commonly 6.6-11 kW and up to 22 kW on three-phase models.",
+      "source": "US DOE Alternative Fuels Data Center, charging levels — https://afdc.energy.gov/fuels/electricity_charging_home.html"
+    },
+    {
+      "id": "tesla-supercharger",
+      "name": "Tesla Supercharger",
+      "name_zh": "特斯拉超级充电站",
+      "category": "charging",
+      "definition": "Tesla's proprietary DC fast charging network; V3 cabinets deliver 250 kW and V4 cabinets up to 500 kW with 1,000 V support.",
+      "source": "Tesla official, Supercharging — https://www.tesla.com/supercharger"
+    },
+    {
+      "id": "pmsm",
+      "name": "Permanent magnet synchronous motor (PMSM)",
+      "name_zh": "永磁同步电机",
+      "category": "drivetrain",
+      "definition": "AC motor whose rotor uses permanent magnets, giving high power density and efficiency; the dominant traction motor in Chinese EVs.",
+      "source": "Wikipedia, Permanent magnet synchronous motor — https://en.wikipedia.org/wiki/Permanent_magnet_synchronous_motor",
+      "related_vehicles": [
+        "byd-seal",
+        "aion-y",
+        "xpeng-g9",
+        "leapmotor-c11"
+      ]
+    },
+    {
+      "id": "induction-motor",
+      "name": "AC induction motor",
+      "name_zh": "交流异步(感应)电机",
+      "category": "drivetrain",
+      "definition": "Motor that induces rotor current instead of using permanent magnets; it is robust and can be freewheeled to cut drag when not needed.",
+      "source": "Wikipedia, Induction motor — https://en.wikipedia.org/wiki/Induction_motor"
+    },
+    {
+      "id": "wound-rotor-synchronous-motor",
+      "name": "Wound-rotor synchronous motor (EESM)",
+      "name_zh": "电励磁同步电机 (EESM)",
+      "category": "drivetrain",
+      "definition": "Synchronous motor that creates the rotor field with a wound coil instead of permanent magnets, eliminating rare-earth materials at a small efficiency cost.",
+      "source": "ZF, I2SM electric motor / BMW 5th-generation eDrive — https://www.zf.com/"
+    },
+    {
+      "id": "switched-reluctance-motor",
+      "name": "Switched reluctance motor",
+      "name_zh": "开关磁阻电机",
+      "category": "drivetrain",
+      "definition": "Motor that produces torque purely from magnetic reluctance, with a simple iron rotor that needs no magnets or windings but requires advanced control to limit noise.",
+      "source": "Wikipedia, Switched reluctance motor — https://en.wikipedia.org/wiki/Switched_reluctance_motor"
+    },
+    {
+      "id": "e-axle",
+      "name": "e-axle (integrated electric drive unit)",
+      "name_zh": "电驱动桥 (e-axle)",
+      "category": "drivetrain",
+      "definition": "Single assembly combining traction motor, inverter and reduction gearbox on one axle, which shortens high-voltage cabling and cuts weight and cost.",
+      "source": "Wikipedia, Electric vehicle (powertrain) — https://en.wikipedia.org/wiki/Electric_vehicle"
+    },
+    {
+      "id": "sic-power-module",
+      "name": "Silicon carbide (SiC) power module",
+      "name_zh": "碳化硅功率模块",
+      "category": "drivetrain",
+      "definition": "Wide-bandgap semiconductor used in inverters; it switches faster and tolerates higher temperatures than silicon, raising efficiency and enabling higher switching frequency.",
+      "source": "Wikipedia, Silicon carbide (power electronics) — https://en.wikipedia.org/wiki/Silicon_carbide"
+    },
+    {
+      "id": "igbt",
+      "name": "Insulated-gate bipolar transistor (IGBT)",
+      "name_zh": "绝缘栅双极型晶体管 (IGBT)",
+      "category": "drivetrain",
+      "definition": "Silicon power switch used in traction inverters and onboard chargers, combining high input impedance with low conduction loss at moderate switching frequency.",
+      "source": "Wikipedia, Insulated-gate bipolar transistor — https://en.wikipedia.org/wiki/Insulated-gate_bipolar_transistor"
+    },
+    {
+      "id": "dual-motor-awd",
+      "name": "Dual-motor all-wheel drive",
+      "name_zh": "双电机四驱",
+      "category": "drivetrain",
+      "definition": "Configuration with one motor per axle, giving all-wheel traction and independent front/rear torque split without a mechanical propshaft.",
+      "source": "Wikipedia, Electric vehicle (powertrain) — https://en.wikipedia.org/wiki/Electric_vehicle",
+      "related_vehicles": [
+        "zeekr-001",
+        "nio-et7",
+        "xpeng-g9"
+      ]
+    },
+    {
+      "id": "tri-motor",
+      "name": "Tri-motor drivetrain",
+      "name_zh": "三电机驱动",
+      "category": "drivetrain",
+      "definition": "Three-motor layout, usually one front and two rear, used for high-performance models with rear torque vectoring.",
+      "source": "Wikipedia, Tesla Model S (Plaid tri-motor) — https://en.wikipedia.org/wiki/Tesla_Model_S"
+    },
+    {
+      "id": "quad-motor",
+      "name": "Quad-motor drivetrain",
+      "name_zh": "四电机驱动",
+      "category": "drivetrain",
+      "definition": "Four independent motors, one per wheel, enabling precise wheel-level torque control for off-road capability such as tank turns.",
+      "source": "Wikipedia, Yangwang U8 / BYD e4 platform — https://en.wikipedia.org/wiki/Yangwang_U8"
+    },
+    {
+      "id": "single-speed-reducer",
+      "name": "Single-speed reduction gear",
+      "name_zh": "单速减速器",
+      "category": "drivetrain",
+      "definition": "Fixed-ratio gearbox between motor and wheels used by most EVs, because the motor's wide speed range removes the need for multiple ratios.",
+      "source": "Wikipedia, Electric vehicle (transmission) — https://en.wikipedia.org/wiki/Electric_vehicle"
+    },
+    {
+      "id": "two-speed-transmission",
+      "name": "Two-speed transmission",
+      "name_zh": "两挡变速器",
+      "category": "drivetrain",
+      "definition": "Two-ratio gearbox used in some performance EVs so a short first gear improves launch and a long second gear raises top-speed efficiency.",
+      "source": "Wikipedia, Porsche Taycan — https://en.wikipedia.org/wiki/Porsche_Taycan"
+    },
+    {
+      "id": "regenerative-braking",
+      "name": "Regenerative braking",
+      "name_zh": "再生制动",
+      "category": "drivetrain",
+      "definition": "Recovering kinetic energy by running the traction motor as a generator during deceleration and storing the energy back in the battery.",
+      "source": "Wikipedia, Regenerative brake — https://en.wikipedia.org/wiki/Regenerative_brake"
+    },
+    {
+      "id": "one-pedal-driving",
+      "name": "One-pedal driving",
+      "name_zh": "单踏板模式",
+      "category": "drivetrain",
+      "definition": "Driving mode in which strong regenerative braking is mapped to the accelerator pedal, so the brake pedal is rarely needed in normal traffic.",
+      "source": "Wikipedia, Regenerative brake — https://en.wikipedia.org/wiki/Regenerative_brake"
+    },
+    {
+      "id": "torque-vectoring",
+      "name": "Torque vectoring",
+      "name_zh": "扭矩矢量控制",
+      "category": "drivetrain",
+      "definition": "Deliberately distributing drive torque left to right to rotate the car into a corner, which multi-motor EVs can do without a differential.",
+      "source": "Wikipedia, Torque vectoring — https://en.wikipedia.org/wiki/Torque_vectoring",
+      "related_vehicles": [
+        "zeekr-001"
+      ]
+    },
+    {
+      "id": "in-wheel-motor",
+      "name": "In-wheel motor",
+      "name_zh": "轮毂电机",
+      "category": "drivetrain",
+      "definition": "Motor mounted inside the wheel hub, removing the drivetrain entirely but raising unsprung mass; used mainly in low-speed and specialist vehicles.",
+      "source": "Wikipedia, Wheel hub motor — https://en.wikipedia.org/wiki/Wheel_hub_motor"
+    },
+    {
+      "id": "rare-earth-free-motor",
+      "name": "Rare-earth-free motor",
+      "name_zh": "无稀土电机",
+      "category": "drivetrain",
+      "definition": "Traction motor designed without neodymium or dysprosium magnets, using wound-field or ferrite designs to avoid rare-earth supply risk.",
+      "source": "ZF, I2SM electric motor (rare-earth-free) — https://www.zf.com/"
+    },
+    {
+      "id": "dm-i-super-hybrid",
+      "name": "BYD DM-i super hybrid",
+      "name_zh": "比亚迪 DM-i 超级混动",
+      "category": "drivetrain",
+      "definition": "Plug-in hybrid system built around an electric hybrid architecture in which the engine mainly generates electricity, with a dedicated hybrid transmission for direct drive at high speed.",
+      "source": "BYD official, DM-i super hybrid — https://www.byd.com/",
+      "related_vehicles": [
+        "byd-qin-plus-dm-i",
+        "byd-song-plus-dm-i",
+        "byd-han-dm-i"
+      ]
+    },
+    {
+      "id": "erev-range-extender",
+      "name": "Range-extender EV (EREV)",
+      "name_zh": "增程式电动车 (EREV)",
+      "category": "drivetrain",
+      "definition": "Series hybrid in which the combustion engine only drives a generator, so the wheels are always driven electrically; battery packs are typically larger than in a PHEV.",
+      "source": "Wikipedia, Range extender (vehicle) — https://en.wikipedia.org/wiki/Range_extender_(vehicle)",
+      "related_vehicles": [
+        "li-auto-l9",
+        "aito-m9",
+        "deepal-s07-erev",
+        "leapmotor-c11-erev"
+      ]
+    },
+    {
+      "id": "phev",
+      "name": "Plug-in hybrid (PHEV)",
+      "name_zh": "插电式混合动力 (PHEV)",
+      "category": "drivetrain",
+      "definition": "Vehicle with both a combustion engine and a chargeable battery that can drive the wheels directly or electrically; Chinese policy treats long-range PHEVs as new-energy vehicles.",
+      "source": "Wikipedia, Plug-in hybrid — https://en.wikipedia.org/wiki/Plug-in_hybrid"
+    },
+    {
+      "id": "dedicated-ev-platform",
+      "name": "Dedicated EV platform",
+      "name_zh": "纯电专属平台",
+      "category": "drivetrain",
+      "definition": "Vehicle architecture designed around a skateboard battery floor from the outset, rather than adapted from a combustion platform, giving a flat floor and more interior space.",
+      "source": "Wikipedia, Electric vehicle platform — https://en.wikipedia.org/wiki/Electric_vehicle"
+    },
+    {
+      "id": "battery-electric-vehicle",
+      "name": "Battery electric vehicle (BEV)",
+      "name_zh": "纯电动车 (BEV)",
+      "category": "drivetrain",
+      "definition": "Vehicle propelled solely by an electric motor drawing energy from an onboard battery, with no combustion engine.",
+      "source": "Wikipedia, Battery electric vehicle — https://en.wikipedia.org/wiki/Battery_electric_vehicle",
+      "related_vehicles": [
+        "byd-seal",
+        "aion-y",
+        "geely-galaxy-e5"
+      ]
+    },
+    {
+      "id": "power-density-motor",
+      "name": "Motor power density",
+      "name_zh": "电机功率密度",
+      "category": "drivetrain",
+      "definition": "Traction motor output per unit mass or volume, reported in kW/kg; higher values reduce drive-unit weight for a given output.",
+      "source": "Wikipedia, Power density — https://en.wikipedia.org/wiki/Power_density"
+    },
+    {
+      "id": "liquid-cooling",
+      "name": "Liquid cooling (battery)",
+      "name_zh": "电池液冷",
+      "category": "thermal",
+      "definition": "Battery thermal management approach that circulates coolant through cold plates or channels to remove heat and equalise cell temperatures.",
+      "source": "Frontiers in Mechanical Engineering, CTB review (thermal management) — https://www.frontiersin.org/journals/mechanical-engineering/articles/10.3389/fmech.2026.1825484/full"
+    },
+    {
+      "id": "direct-cooling-refrigerant",
+      "name": "Direct refrigerant cooling",
+      "name_zh": "电池直冷",
+      "category": "thermal",
+      "definition": "Design that routes refrigerant directly to a cold plate on the pack, removing the intermediate coolant loop for faster heat rejection.",
+      "source": "Frontiers in Mechanical Engineering, CTB review (thermal management) — https://www.frontiersin.org/journals/mechanical-engineering/articles/10.3389/fmech.2026.1825484/full"
+    },
+    {
+      "id": "immersion-cooling",
+      "name": "Immersion cooling",
+      "name_zh": "浸没式冷却",
+      "category": "thermal",
+      "definition": "Cooling in which cells are submerged in a dielectric fluid, giving very uniform temperature control and suppressing thermal propagation.",
+      "source": "Wikipedia, Immersion cooling — https://en.wikipedia.org/wiki/Immersion_cooling"
+    },
+    {
+      "id": "heat-pump-hvac",
+      "name": "Heat pump HVAC",
+      "name_zh": "热泵空调",
+      "category": "thermal",
+      "definition": "Cabin heating system that moves heat with a refrigerant cycle instead of generating it resistively, saving substantial energy in cold weather.",
+      "source": "US DOE, Heat pumps for EV cabin heating / Wikipedia, Heat pump — https://en.wikipedia.org/wiki/Heat_pump",
+      "related_vehicles": [
+        "byd-atto-3",
+        "zeekr-001"
+      ]
+    },
+    {
+      "id": "co2-heat-pump",
+      "name": "CO2 (R744) heat pump",
+      "name_zh": "二氧化碳热泵 (R744)",
+      "category": "thermal",
+      "definition": "Heat pump using carbon dioxide as refrigerant; it keeps useful heating capacity at very low ambient temperature and has very low global warming potential.",
+      "source": "Wikipedia, R744 (CO2 refrigerant) — https://en.wikipedia.org/wiki/Carbon_dioxide#Refrigerant"
+    },
+    {
+      "id": "ptc-heater",
+      "name": "PTC heater",
+      "name_zh": "PTC 加热器",
+      "category": "thermal",
+      "definition": "Positive-temperature-coefficient resistive heater used for cabin and battery heating; simple and effective but consumes significant energy.",
+      "source": "Wikipedia, Positive temperature coefficient heater — https://en.wikipedia.org/wiki/Positive_temperature_coefficient"
+    },
+    {
+      "id": "battery-preconditioning",
+      "name": "Battery preconditioning",
+      "name_zh": "电池预热/预冷",
+      "category": "thermal",
+      "definition": "Automatically bringing the pack to an optimal temperature before fast charging; cold packs otherwise charge far more slowly.",
+      "source": "US DOE / industry fast-charging guidance — https://afdc.energy.gov/fuels/electricity_charging_home.html"
+    },
+    {
+      "id": "battery-thermal-management-system",
+      "name": "Battery thermal management system (BTMS)",
+      "name_zh": "电池热管理系统 (BTMS)",
+      "category": "thermal",
+      "definition": "Combined hardware and control strategy that keeps cells within a target temperature window, balancing cooling, heating and temperature uniformity.",
+      "source": "Frontiers in Mechanical Engineering, CTB review — https://www.frontiersin.org/journals/mechanical-engineering/articles/10.3389/fmech.2026.1825484/full"
+    },
+    {
+      "id": "octovalve",
+      "name": "Octovalve thermal manifold",
+      "name_zh": "八通阀热管理集成模块",
+      "category": "thermal",
+      "definition": "Multi-port valve that routes coolant between battery, drive units, cabin and heat pump from a single manifold, cutting the number of thermal loops and valves.",
+      "source": "Tesla, Model Y heat pump / Octovalve patent coverage — https://www.tesla.com/"
+    },
+    {
+      "id": "phase-change-material",
+      "name": "Phase change material (PCM)",
+      "name_zh": "相变材料 (PCM)",
+      "category": "thermal",
+      "definition": "Material that absorbs heat while melting at a set temperature, used to buffer cell temperature spikes and slow thermal propagation.",
+      "source": "Wikipedia, Phase-change material — https://en.wikipedia.org/wiki/Phase-change_material"
+    },
+    {
+      "id": "motor-oil-cooling",
+      "name": "Motor oil cooling",
+      "name_zh": "电机油冷",
+      "category": "thermal",
+      "definition": "Spraying or circulating oil directly onto motor windings to remove heat; it raises continuous power density compared with water-jacket cooling.",
+      "source": "Wikipedia, Electric motor cooling / industry e-axle specifications — https://en.wikipedia.org/wiki/Electric_motor"
+    },
+    {
+      "id": "thermal-propagation-prevention",
+      "name": "Thermal runaway propagation prevention",
+      "name_zh": "热失控扩散防护",
+      "category": "thermal",
+      "definition": "Pack-level design measures such as barriers, venting and spacing that stop one cell's thermal runaway from igniting its neighbours; China's GB 38031-2025 makes no-fire, no-explosion thermal propagation a mandatory requirement.",
+      "source": "Xinhua / China MIIT, GB 38031-2025 (thermal diffusion test) — https://www.news.cn/20260629/2a2fa1facc034e6ea24b73bcd582ab43/c.html"
+    },
+    {
+      "id": "refrigerant-r1234yf",
+      "name": "R1234yf refrigerant",
+      "name_zh": "制冷剂 R1234yf",
+      "category": "thermal",
+      "definition": "Low global-warming-potential HFO refrigerant that replaced R134a in most automotive air-conditioning systems.",
+      "source": "Wikipedia, 2,3,3,3-Tetrafluoropropene (R-1234yf) — https://en.wikipedia.org/wiki/2,3,3,3-Tetrafluoropropene"
+    },
+    {
+      "id": "cltc",
+      "name": "CLTC range standard",
+      "name_zh": "中国 CLTC 续航工况",
+      "category": "range",
+      "definition": "China Light-Duty Vehicle Test Cycle defined in GB/T 38146.1-2019: a 30-minute, 14.48 km dynamometer cycle with low average speed and frequent stops, which usually reads more optimistic than real-world driving.",
+      "source": "Wikipedia, China Light-Duty Vehicle Test Cycle — https://en.wikipedia.org/wiki/China_Light-Duty_Vehicle_Test_Cycle"
+    },
+    {
+      "id": "wltp",
+      "name": "WLTP range standard",
+      "name_zh": "WLTP 全球统一测试规程",
+      "category": "range",
+      "definition": "Worldwide Harmonised Light Vehicles Test Procedure, the lab cycle that replaced NEDC in Europe; its four-phase speed profile sits closer to real driving than NEDC.",
+      "source": "Wikipedia, Worldwide Harmonised Light Vehicles Test Procedure — https://en.wikipedia.org/wiki/Worldwide_Harmonised_Light_Vehicles_Test_Procedure"
+    },
+    {
+      "id": "nedc",
+      "name": "NEDC range standard",
+      "name_zh": "NEDC 新欧洲行驶工况",
+      "category": "range",
+      "definition": "New European Driving Cycle, a synthetic two-phase laboratory cycle replaced by WLTP in Europe from 2017-2019; its stable speed profile made range figures optimistic.",
+      "source": "Wikipedia, New European Driving Cycle — https://en.wikipedia.org/wiki/New_European_Driving_Cycle"
+    },
+    {
+      "id": "epa-range",
+      "name": "EPA range rating",
+      "name_zh": "美国 EPA 续航",
+      "category": "range",
+      "definition": "United States EPA rating derived from the UDDS urban and HWFET highway cycles with a 0.7 adjustment factor, making it the most conservative of the major range claims.",
+      "source": "US EPA / FuelEconomy.gov — https://www.fueleconomy.gov/feg/evtech.shtml"
+    },
+    {
+      "id": "range-standard-conversion",
+      "name": "Range standard conversion",
+      "name_zh": "续航口径换算",
+      "category": "range",
+      "definition": "Rules of thumb for translating one test cycle into another, such as CLTC multiplied by about 0.82 to approximate WLTP; they are estimates and should always carry the source standard.",
+      "source": "Wikipedia, China Light-Duty Vehicle Test Cycle (cycle comparison table) — https://en.wikipedia.org/wiki/China_Light-Duty_Vehicle_Test_Cycle"
+    },
+    {
+      "id": "real-world-range",
+      "name": "Real-world range",
+      "name_zh": "真实续航",
+      "category": "range",
+      "definition": "Distance actually achieved on the road, typically below every laboratory figure because of speed, gradient, load, climate control and temperature.",
+      "source": "Wikipedia, China Light-Duty Vehicle Test Cycle (cycle comparison) — https://en.wikipedia.org/wiki/China_Light-Duty_Vehicle_Test_Cycle"
+    },
+    {
+      "id": "winter-range-retention",
+      "name": "Winter range retention",
+      "name_zh": "冬季续航保持率",
+      "category": "range",
+      "definition": "Share of rated range available in sub-zero conditions; cabin heating and cold cell chemistry cut it sharply, and LFP packs lose more than NMC.",
+      "source": "Wikipedia, Electric vehicle (cold weather) — https://en.wikipedia.org/wiki/Electric_vehicle"
+    },
+    {
+      "id": "energy-consumption",
+      "name": "Energy consumption (kWh/100 km)",
+      "name_zh": "百公里电耗",
+      "category": "range",
+      "definition": "Energy used per 100 km, the metric that links battery size to range and the fairest basis for comparing efficiency between models.",
+      "source": "Wikipedia, China Light-Duty Vehicle Test Cycle (consumption comparison) — https://en.wikipedia.org/wiki/China_Light-Duty_Vehicle_Test_Cycle"
+    },
+    {
+      "id": "range-anxiety",
+      "name": "Range anxiety",
+      "name_zh": "续航焦虑",
+      "category": "range",
+      "definition": "Consumer concern about running out of charge before reaching a charger, a barrier to EV adoption that charger coverage and faster charging reduce.",
+      "source": "Wikipedia, Range anxiety — https://en.wikipedia.org/wiki/Range_anxiety"
+    },
+    {
+      "id": "usable-vs-gross-capacity",
+      "name": "Usable versus gross battery capacity",
+      "name_zh": "电池可用容量与标称容量",
+      "category": "range",
+      "definition": "Difference between total installed capacity and the portion the BMS exposes to the driver; buffers protect the pack and mean some kWh are never usable.",
+      "source": "Wikipedia, Electric vehicle battery — https://en.wikipedia.org/wiki/Electric_vehicle_battery"
+    },
+    {
+      "id": "highway-range-penalty",
+      "name": "Highway range penalty",
+      "name_zh": "高速续航衰减",
+      "category": "range",
+      "definition": "Additional energy per kilometre at steady high speed because aerodynamic drag grows with the square of velocity; low-speed cycles such as CLTC under-represent this effect.",
+      "source": "Wikipedia, Drag (physics) / Automotive aerodynamics — https://en.wikipedia.org/wiki/Automotive_aerodynamics"
+    },
+    {
+      "id": "gigacasting",
+      "name": "Integrated die-casting (gigacasting)",
+      "name_zh": "一体化压铸",
+      "category": "body-safety",
+      "definition": "Casting large body sections such as a rear underbody as a single part using very high clamping-force presses, replacing dozens of welded stampings.",
+      "source": "Wikipedia, Tesla (manufacturing) / Giga Press — https://en.wikipedia.org/wiki/Giga_Press"
+    },
+    {
+      "id": "drag-coefficient",
+      "name": "Drag coefficient (Cd)",
+      "name_zh": "风阻系数",
+      "category": "body-safety",
+      "definition": "Dimensionless measure of how much aerodynamic drag a shape creates; combined with frontal area it defines CdA, which dominates highway energy use.",
+      "source": "Wikipedia, Automobile drag coefficient — https://en.wikipedia.org/wiki/Automobile_drag_coefficient"
+    },
+    {
+      "id": "active-grille-shutter",
+      "name": "Active grille shutter",
+      "name_zh": "主动进气格栅",
+      "category": "body-safety",
+      "definition": "Grille vanes that close at speed to cut cooling airflow drag and reopen when the drive system needs cooling.",
+      "source": "Wikipedia, Automobile drag coefficient — https://en.wikipedia.org/wiki/Automobile_drag_coefficient"
+    },
+    {
+      "id": "flush-door-handle",
+      "name": "Flush door handle",
+      "name_zh": "隐藏式门把手",
+      "category": "body-safety",
+      "definition": "Handle that stows flush with the door skin, removing a local separation bubble and reducing drag.",
+      "source": "Wikipedia, Automobile drag coefficient — https://en.wikipedia.org/wiki/Automobile_drag_coefficient"
+    },
+    {
+      "id": "flat-underbody",
+      "name": "Flat underbody panel",
+      "name_zh": "平整底盘护板",
+      "category": "body-safety",
+      "definition": "Smooth panelling under the car that prevents turbulent airflow underneath the battery, lowering drag and adding protection to the pack.",
+      "source": "Wikipedia, Automobile drag coefficient — https://en.wikipedia.org/wiki/Automobile_drag_coefficient"
+    },
+    {
+      "id": "air-suspension",
+      "name": "Air suspension",
+      "name_zh": "空气悬架",
+      "category": "body-safety",
+      "definition": "Springing that uses air springs with adjustable pressure and height, letting the car lower itself at speed for aerodynamic benefit or raise itself over rough ground.",
+      "source": "Wikipedia, Air suspension — https://en.wikipedia.org/wiki/Air_suspension"
+    },
+    {
+      "id": "crumple-zone",
+      "name": "Crumple zone",
+      "name_zh": "溃缩吸能区",
+      "category": "body-safety",
+      "definition": "Deliberately deformable front or rear structure that absorbs crash energy over a controlled distance so the passenger cell stays intact.",
+      "source": "Wikipedia, Crumple zone — https://en.wikipedia.org/wiki/Crumple_zone"
+    },
+    {
+      "id": "hot-stamped-steel",
+      "name": "Hot-stamped ultra-high-strength steel",
+      "name_zh": "热成型超高强钢",
+      "category": "body-safety",
+      "definition": "Steel press-formed while austenitic and quenched in the die, reaching tensile strengths around 1,500 MPa for lightweight passenger-cell reinforcement.",
+      "source": "Wikipedia, Hot stamping — https://en.wikipedia.org/wiki/Hot_stamping"
+    },
+    {
+      "id": "aluminium-space-frame",
+      "name": "Aluminium space frame",
+      "name_zh": "全铝车身框架",
+      "category": "body-safety",
+      "definition": "Body structure built from extruded and bonded aluminium sections rather than a monocoque of steel stampings, cutting weight at higher material cost.",
+      "source": "Wikipedia, Space frame — https://en.wikipedia.org/wiki/Space_frame"
+    },
+    {
+      "id": "torsional-stiffness",
+      "name": "Torsional stiffness",
+      "name_zh": "车身扭转刚度",
+      "category": "body-safety",
+      "definition": "Resistance of the body to twisting, measured in Nm/deg; structural battery designs such as CTB push values above 40,000 Nm/deg.",
+      "source": "ResearchInChina, Passenger Car CTP/CTC/CTB report (CTB structural contribution) — https://www.researchinchina.com/Htmls/Report/2024/73951.html"
+    },
+    {
+      "id": "ip68-battery-pack",
+      "name": "IP68 battery pack sealing",
+      "name_zh": "电池包 IP68 防护",
+      "category": "body-safety",
+      "definition": "Pack sealing rated dust-tight and protected against continuous immersion, the common rating for EV traction batteries.",
+      "source": "Wikipedia, IP code — https://en.wikipedia.org/wiki/IP_code"
+    },
+    {
+      "id": "ip-rating",
+      "name": "IP code",
+      "name_zh": "防护等级 (IP 代码)",
+      "category": "body-safety",
+      "definition": "International two-digit ingress protection rating: the first digit covers solids and dust, the second covers water.",
+      "source": "Wikipedia, IP code — https://en.wikipedia.org/wiki/IP_code"
+    },
+    {
+      "id": "c-ncap",
+      "name": "C-NCAP",
+      "name_zh": "中国新车评价规程 C-NCAP",
+      "category": "body-safety",
+      "definition": "Chinese new car assessment programme run by CATARC that scores crash protection and, in recent versions, active safety and battery safety for the domestic market.",
+      "source": "C-NCAP official / CATARC — https://www.c-ncap.org.cn/"
+    },
+    {
+      "id": "euro-ncap",
+      "name": "Euro NCAP",
+      "name_zh": "欧洲新车安全评鉴 Euro NCAP",
+      "category": "body-safety",
+      "definition": "European new car assessment programme scoring adult and child occupant protection, vulnerable road user protection and safety assist systems.",
+      "source": "Euro NCAP official — https://www.euroncap.com/"
+    },
+    {
+      "id": "gb-38031",
+      "name": "GB 38031 EV battery safety standard",
+      "name_zh": "动力电池安全强制性国标 GB 38031",
+      "category": "body-safety",
+      "definition": "China's mandatory safety standard for traction batteries. The 2020 version required a five-minute warning before fire or explosion; the 2025 revision, published in March 2025, demands no fire and no explosion plus smoke that does not harm occupants, and adds bottom-impact and post-fast-charge short-circuit tests. It applies to newly type-approved models from 1 July 2026 and to already-approved models from 1 July 2027.",
+      "source": "China MIIT / Xinhua, GB 38031-2025 Electric vehicles traction battery safety requirements — https://www.news.cn/20260629/2a2fa1facc034e6ea24b73bcd582ab43/c.html"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import SEO from '@/components/common/SEO.astro';
+import { siteConfig, company } from '@/config';
+
+const lastUpdated = siteConfig.legal.lastUpdated;
+
+const tiers = [
+  {
+    tier: 'Tier 1 — Official and regulatory',
+    examples:
+      'EU implementing regulations and TARIC entries, national tax authorities, customs guidance, type-approval databases, official manufacturer datasheets and price lists.',
+    use: 'The standard for any figure we state as fact — duty rates, VAT, homologation requirements, published specifications.',
+  },
+  {
+    tier: 'Tier 2 — Authoritative media and analysts',
+    examples:
+      'Established trade press, recognised industry analysts, and reputable news organisations with editorial standards of their own.',
+    use: 'Used when no primary document is public, and preferred for market context and reported developments. Attributed to the outlet, not stated as our own finding.',
+  },
+  {
+    tier: 'Tier 3 — Industry and trade sources',
+    examples:
+      'Freight and logistics benchmarks, homologation service providers, industry association publications, company statements and investor materials.',
+    use: 'Used for cost assumptions and operational realities where these are the closest thing to a primary source. Treated as estimates and flagged as such.',
+  },
+  {
+    tier: 'Tier 4 — Community and user reports',
+    examples:
+      'Owner forums, importer discussion groups, social posts, and reader correspondence.',
+    use: 'Used only to find a lead worth checking. Never the sole basis for a factual claim, a price, or a recommendation.',
+  },
+];
+
+const rules = [
+  {
+    title: 'First-hand knowledge is labelled as perspective',
+    body: `When ${company.author}'s production-side experience informs an analysis — why a cell chemistry choice shows up in pack cost, why a supplier relationship matters to output — we say that is where the judgement comes from. It is context and interpretation, not a measured result.`,
+  },
+  {
+    title: 'One company\'s experience is not a fact about a whole market',
+    body: `Chengguang Energy's manufacturing experience is real, and it is one company's view of the battery industry. We do not generalise it into claims about other manufacturers' products, quality, or pricing. A statement about a specific vehicle needs a source about that vehicle.`,
+  },
+  {
+    title: 'No manufactured test results',
+    body: 'We do not run battery, range, or safety tests, and we never present one as if we did. Where independent test data is cited, it is attributed to whoever ran the test.',
+  },
+  {
+    title: 'Estimates say they are estimates',
+    body: 'Freight, certification, and inland-transport figures are ranges based on benchmark data, not quotes. Pages that use them mark them as assumptions with their basis shown.',
+  },
+  {
+    title: 'Conflicting sources are surfaced, not hidden',
+    body: 'When two credible sources disagree on a figure, we prefer the higher tier and note the discrepancy rather than silently picking the number that reads better.',
+  },
+  {
+    title: 'Freshness is part of accuracy',
+    body: 'Tariffs, prices, and regulations change. Each page carries the date it was last checked, so a stale figure is visible as stale rather than passing as current.',
+  },
+];
+---
+
+<SEO
+  title="Evidence & Data Methodology — First-Party Knowledge vs Verifiable Evidence"
+  description="How EV Hub separates first-hand industry perspective from verifiable public evidence, and how it grades sources from official regulation to community reports."
+/>
+
+<MarketingLayout title="Evidence & Data Methodology">
+  <article class="max-w-3xl mx-auto px-6 py-16">
+    <div class="mb-10">
+      <a href="/" class="text-sm text-gray-600 hover:text-green-600">← Back to home</a>
+    </div>
+
+    <h1 class="text-4xl font-bold mb-3">Evidence &amp; Data Methodology</h1>
+    <p class="text-gray-600 mb-10">
+      How we tell the difference between what we know first-hand and what we can show — and why we
+      never blur the two.
+    </p>
+
+    <div class="prose max-w-none space-y-8">
+      <section>
+        <h2 class="text-2xl font-bold mb-3">The problem this page solves</h2>
+        <p>
+          EV Hub is written by someone with genuine manufacturing-side experience in automotive
+          batteries, published by a company that works in that industry. That is useful — it is why
+          some of our analysis reads differently from a page assembled purely from search results.
+        </p>
+        <p>
+          It is also a risk. Experience is easy to overstate, and an industry background can quietly
+          turn into claims about products and companies we have never tested. This page is the rule
+          we hold ourselves to: first-hand knowledge is used as perspective and clearly labelled;
+          facts rest on evidence a reader can check.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Two kinds of knowledge, kept apart</h2>
+        <div class="not-prose grid gap-6 sm:grid-cols-2">
+          <div class="rounded-lg border border-gray-200 p-5">
+            <p class="font-semibold text-gray-900 mb-2">First-party industry knowledge</p>
+            <p class="text-sm text-gray-700">
+              What comes from working inside battery production and the Chinese EV supply chain:
+              how cost structures form, where supply constraints appear, why a spec sheet does not
+              tell the whole story.
+            </p>
+            <p class="text-sm text-gray-600 mt-3">
+              Used for: interpretation, context, and explaining the "why" behind a public number.
+            </p>
+          </div>
+          <div class="rounded-lg border border-gray-200 p-5">
+            <p class="font-semibold text-gray-900 mb-2">Verifiable public evidence</p>
+            <p class="text-sm text-gray-700">
+              Documents and data anyone can check: regulations, tariffs, tax rates, type approvals,
+              manufacturer datasheets, published market data.
+            </p>
+            <p class="text-sm text-gray-600 mt-3">
+              Used for: every figure and factual claim we state as fact, with the source named.
+            </p>
+          </div>
+        </div>
+        <p>
+          The dividing line is simple: <strong>if a reader could not check it, it does not appear as
+          a fact.</strong> It appears as analysis, clearly marked as such.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Where our industry background fits</h2>
+        <p>
+          Chengguang Energy has manufactured automotive batteries since 2002. That experience gives
+          EV Hub a production-side view of the EV industry — it is a real perspective, and we will
+          tell you when a judgement comes from it.
+        </p>
+        <p>
+          It does <strong>not</strong> give us facts about every vehicle model, every manufacturer,
+          or the whole market. One battery maker's experience is not a dataset covering an industry.
+          So when we write about a specific vehicle's battery, range, price, or manufacturer
+          practice, that claim has to stand on a source about that vehicle — not on the fact that our
+          owner builds batteries.
+        </p>
+        <p>
+          We will not dress company experience up as universal fact, and we will not let it stand in
+          for evidence we do not have.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Source tiers</h2>
+        <p>
+          Sources are graded so that a claim's strength matches the evidence behind it. Tier 1 is the
+          standard for facts; lower tiers carry correspondingly more caution.
+        </p>
+        <div class="not-prose space-y-4">
+          {tiers.map((t, i) => (
+            <div class="rounded-lg border border-gray-200 p-5">
+              <p class="font-semibold text-gray-900 mb-2">
+                <span class="text-green-700 mr-2">{`0${i + 1}`}</span>{t.tier}
+              </p>
+              <p class="text-sm text-gray-700 mb-2">
+                <span class="font-medium text-gray-900">Examples:</span> {t.examples}
+              </p>
+              <p class="text-sm text-gray-700">
+                <span class="font-medium text-gray-900">How we use it:</span> {t.use}
+              </p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Rules we apply</h2>
+        <div class="not-prose space-y-4">
+          {rules.map((r) => (
+            <div class="border-l-4 border-green-600 pl-4">
+              <p class="font-semibold text-gray-900 mb-1">{r.title}</p>
+              <p class="text-sm text-gray-700">{r.body}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Cost data specifically</h2>
+        <p>
+          Landed-cost figures follow a single documented formula and use public tariff schedules,
+          national tax rates, and industry freight benchmarks. The formula, the component
+          assumptions, and their sources are published in full in the{' '}
+          <a href="/landed-cost-methodology" class="text-green-700 hover:underline">
+            Landed Cost Methodology
+          </a>
+          . Those figures are B2B import estimates, not quotes, and each carries its data date.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Limits of this method</h2>
+        <ul class="list-disc pl-6 space-y-2">
+          <li>
+            Not every market has a Tier 1 source. Where only Tier 2 or 3 evidence exists, our figures
+            are correspondingly softer and are presented as estimates.
+          </li>
+          <li>
+            Sources go out of date. We date-stamp pages and revise them, but a page can be accurate
+            when written and stale when you read it.
+          </li>
+          <li>
+            We are not an audit body. We verify against the best available public evidence; we do not
+            independently inspect factories, vehicles, or accounts.
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Related policies</h2>
+        <ul class="list-disc pl-6 space-y-2">
+          <li>
+            <a href="/editorial-independence" class="text-green-700 hover:underline">
+              Editorial Independence Policy
+            </a>{' '}
+            — ownership, editorial control, and disclosure.
+          </li>
+          <li>
+            <a href="/authors" class="text-green-700 hover:underline">Authors &amp; Review Standards</a>{' '}
+            — who writes and reviews, and what each byline means.
+          </li>
+          <li>
+            <a href="/landed-cost-methodology" class="text-green-700 hover:underline">
+              Landed Cost Methodology
+            </a>{' '}
+            — the cost formula and its inputs.
+          </li>
+          <li>
+            <a href="/disclaimer" class="text-green-700 hover:underline">Disclaimer</a> — the limits
+            of what this site can tell you.
+          </li>
+        </ul>
+      </section>
+
+      <section class="border-t border-gray-200 pt-8 text-sm text-gray-600">
+        <p>
+          Published by <strong>{company.name}</strong> · {company.legalName}
+          <br/>Author: <strong>{company.author}</strong>, {company.authorRole}
+          <br/>Last updated: {lastUpdated}
+        </p>
+      </section>
+    </div>
+  </article>
+</MarketingLayout>

@@ -42,6 +42,9 @@ export const navigation: Navigation = {
     ],
     company: [
       { label: 'About', href: '/about' },
+      { label: 'Authors & Review Standards', href: '/authors' },
+      { label: 'Editorial Independence', href: '/editorial-independence' },
+      { label: 'Evidence & Data Methodology', href: '/methodology' },
       { label: 'Contact', href: '/contact' },
     ],
     legal: [

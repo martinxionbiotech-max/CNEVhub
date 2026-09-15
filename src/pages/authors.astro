@@ -1,0 +1,202 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import SEO from '@/components/common/SEO.astro';
+import { siteConfig, company } from '@/config';
+
+const lastUpdated = siteConfig.legal.lastUpdated;
+
+const expertise = [
+  {
+    area: 'EV battery production',
+    detail:
+      'Manufacturing-side experience with automotive cells and packs — what changes in cost, capacity, and chemistry when a line is set up, and how that shapes vehicle pricing.',
+  },
+  {
+    area: 'Chinese EV supply chain',
+    detail:
+      'How Chinese OEMs source cells, packs, and components, and why two vehicles with similar specs can carry very different production economics.',
+  },
+  {
+    area: 'Export economics',
+    detail:
+      'FOB-to-landed pricing: duties, countervailing tariffs, VAT, freight, and the margin structure between factory gate and destination port.',
+  },
+  {
+    area: 'Cross-border compliance',
+    detail:
+      'Homologation routes (ECWVTA, small series), battery and transport standards, and the documentation an importer actually needs at the border.',
+  },
+];
+
+const bylines = [
+  {
+    label: 'Written by',
+    detail:
+      'The person who researched and drafted the page. They are accountable for every factual claim in it.',
+  },
+  {
+    label: 'Reviewed by',
+    detail:
+      'A second pass for accuracy, unsupported claims, and conflicts of interest before publication. Where a page is written and reviewed by the same person, we say so instead of inventing an editor.',
+  },
+  {
+    label: 'Data verified by',
+    detail:
+      'The person who recomputed the numbers — duty rates, VAT, freight and certification assumptions — against their cited sources.',
+  },
+  {
+    label: 'Last updated',
+    detail:
+      'The date the page was last checked and, where needed, corrected. Tariff and price figures move; this date tells you how much to trust a number today.',
+  },
+];
+---
+
+<SEO
+  title="Authors & Review Standards — Who Writes and Reviews EV Hub"
+  description="EV Hub's author roster and byline system: Written by, Reviewed by, Data verified by, and Last updated — and what each role is accountable for."
+/>
+
+<MarketingLayout title="Authors & Review Standards">
+  <article class="max-w-3xl mx-auto px-6 py-16">
+    <div class="mb-10">
+      <a href="/" class="text-sm text-gray-600 hover:text-green-600">← Back to home</a>
+    </div>
+
+    <h1 class="text-4xl font-bold mb-3">Authors &amp; Review Standards</h1>
+    <p class="text-gray-600 mb-10">
+      Who writes EV Hub, what they know, and what each part of the byline block means.
+    </p>
+
+    <div class="prose max-w-none space-y-8">
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Why we publish this</h2>
+        <p>
+          A page about import duties is only as useful as the person standing behind it. Readers
+          should be able to see who wrote an analysis, what background they bring to it, and whether
+          anyone checked the numbers before publication. That is the point of this page.
+        </p>
+        <p>
+          It is also a standard we hold ourselves to: we do not publish anonymous analysis, and we do
+          not put a byline on a page no named person is accountable for.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Author</h2>
+        <div class="not-prose rounded-lg border border-gray-200 p-6">
+          <p class="text-lg font-semibold text-gray-900">{company.author}</p>
+          <p class="text-sm text-green-700 mb-4">{company.authorRole}</p>
+          <p class="text-sm text-gray-700">
+            {company.author} has spent many years in automotive battery production, working on the
+            manufacturing side of the industry before turning to commercial research on electric
+            vehicles. Today his work focuses on import economics, tariffs, and cross-border
+            compliance for Chinese EV exports.
+          </p>
+          <p class="text-sm text-gray-700 mt-3">
+            He writes EV Hub's landed-cost analysis, vehicle and brand coverage, and the export
+            market guides, and signs the pages he is accountable for.
+          </p>
+        </div>
+        <p class="mt-4">
+          <strong>Areas of expertise</strong> — the subjects {company.author} is qualified to write
+          about on this site:
+        </p>
+        <ul class="list-disc pl-6 space-y-2">
+          {expertise.map((item) => (
+            <li>
+              <strong>{item.area}</strong> — {item.detail}
+            </li>
+          ))}
+        </ul>
+        <p class="text-sm text-gray-600">
+          We list these as areas of practical experience, not as certifications or formal
+          qualifications. We do not claim credentials we cannot point to.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">The byline system</h2>
+        <p>
+          Substantive pages on EV Hub carry a four-part attribution block. Each part answers a
+          different question, and each has an accountable role behind it.
+        </p>
+        <div class="not-prose overflow-x-auto">
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="border-b border-gray-300">
+                <th class="text-left py-2 pr-4 w-40">Label</th>
+                <th class="text-left py-2">What it means</th>
+              </tr>
+            </thead>
+            <tbody>
+              {bylines.map((row) => (
+                <tr class="border-b border-gray-200 align-top">
+                  <td class="py-3 pr-4 font-semibold text-gray-900">{row.label}</td>
+                  <td class="py-3 text-gray-700">{row.detail}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Review and verification</h2>
+        <p>
+          EV Hub is a small publication, and we say so rather than implying a large newsroom. In
+          practice:
+        </p>
+        <ul class="list-disc pl-6 space-y-2">
+          <li>
+            {company.author} writes the analysis and is the named author on those pages.
+          </li>
+          <li>
+            Where a page is written and reviewed by the same person, the attribution says so. We do
+            not manufacture a second name to look more institutional than we are.
+          </li>
+          <li>
+            Data verification is a separate pass from writing: numbers are recomputed against their
+            cited sources before a page is dated.
+          </li>
+          <li>
+            No commercial partner reviews, approves, or edits editorial content — the ownership and
+            editorial relationship is set out in the{' '}
+            <a href="/editorial-independence" class="text-green-700 hover:underline">
+              Editorial Independence Policy
+            </a>
+            .
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">What we will not do</h2>
+        <ul class="list-disc pl-6 space-y-2">
+          <li>Publish a page with no named author.</li>
+          <li>Attribute a page to a person who did not write it.</li>
+          <li>Invent a reviewer, editor, or credential to add credibility.</li>
+          <li>Present a company's product experience as a test result we did not run.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Corrections and contact</h2>
+        <p>
+          If a page carries a factual error, or a byline looks wrong, email{' '}
+          <a href={`mailto:${company.email}`} class="text-green-700 hover:underline">
+            {company.email}
+          </a>. Material corrections are recorded on the page, not silently changed.
+        </p>
+      </section>
+
+      <section class="border-t border-gray-200 pt-8 text-sm text-gray-600">
+        <p>
+          Published by <strong>{company.name}</strong> · {company.legalName}
+          <br/>Author: <strong>{company.author}</strong>, {company.authorRole}
+          <br/>Last updated: {lastUpdated}
+        </p>
+      </section>
+    </div>
+  </article>
+</MarketingLayout>

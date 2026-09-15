@@ -1,0 +1,217 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import SEO from '@/components/common/SEO.astro';
+import { siteConfig, company } from '@/config';
+
+const lastUpdated = siteConfig.legal.lastUpdated;
+---
+
+<SEO
+  title="Editorial Independence Policy — Ownership, Review, and Disclosure"
+  description="How EV Hub separates commercial ownership from editorial control: who owns the site, how content is produced and reviewed, and how conflicts of interest are disclosed."
+/>
+
+<MarketingLayout title="Editorial Independence Policy">
+  <article class="max-w-3xl mx-auto px-6 py-16">
+    <div class="mb-10">
+      <a href="/" class="text-sm text-gray-600 hover:text-green-600">← Back to home</a>
+    </div>
+
+    <h1 class="text-4xl font-bold mb-3">Editorial Independence Policy</h1>
+    <p class="text-gray-600 mb-10">
+      Who owns EV Hub, who controls what gets published, and how we handle the fact that the two
+      are not the same thing.
+    </p>
+
+    <div class="prose max-w-none space-y-8">
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Why this policy exists</h2>
+        <p>
+          EV Hub is an information platform about importing Chinese electric vehicles. It is also
+          owned by a company that works in the EV battery supply chain. Those two facts sit together
+          awkwardly, and pretending otherwise would be dishonest.
+        </p>
+        <p>
+          So we state the relationship plainly on this page: what the ownership means, what it does
+          not mean, and what readers should expect from our content because of it.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Who owns EV Hub</h2>
+        <p>
+          EV Hub is operated by <strong>{company.name}</strong> ({company.legalName}), an IATF
+          16949-certified automotive battery manufacturer founded in 2002 and based in Jinzhou,
+          Hebei, China. {company.name} funds the site, employs or contracts the people who write for
+          it, and owns the domain and the publication.
+        </p>
+        <p>
+          That ownership is a commercial fact. It is disclosed here, on our{' '}
+          <a href="/about" class="text-green-700 hover:underline">About page</a>, and in the
+          organization data search engines read.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Commercial ownership ≠ editorial control</h2>
+        <p>
+          <strong>The owner does not decide what our editorial content says.</strong> That is the
+          distinction this page exists to make concrete. In practice it means:
+        </p>
+        <ul class="list-disc pl-6 space-y-2">
+          <li>
+            No brand, supplier, or commercial partner gets to approve, edit, delay, or remove
+            editorial content because of a business relationship or an advertising discussion.
+          </li>
+          <li>
+            Every vehicle page, guide, and tariff figure is published on the same terms — sourced,
+            dated, and open to correction — regardless of whose vehicles or products are involved.
+          </li>
+          <li>
+            Editorial decisions (what we cover, what we recommend against, what we flag as a risk)
+            are made by the analyst named on the byline, not by the commercial side of the company.
+          </li>
+          <li>
+            If a commercial interest and an editorial finding ever conflict, the finding is
+            published and the conflict is disclosed. We would rather lose a deal than publish a
+            number we do not believe.
+          </li>
+        </ul>
+        <p>
+          This is a policy commitment, not a claim of legal separation. {company.name} is a single
+          company; there is no independent editorial board standing between the business and the
+          publication. We describe the arrangement honestly rather than dressing it up.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">What we do not claim</h2>
+        <ul class="list-disc pl-6 space-y-2">
+          <li>
+            We are <strong>not</strong> a fully independent third party with no commercial interest
+            in the EV industry. Our owner builds batteries. Saying otherwise would be false.
+          </li>
+          <li>
+            We are <strong>not</strong> a dealership, importer, customs broker, or legal adviser, and
+            we do not sell vehicles. Nothing here is a quote or professional advice.
+          </li>
+          <li>
+            We do <strong>not</strong> claim certifications, awards, testing facilities, or client
+            relationships we do not have. Any credential we state is one we can point to.
+          </li>
+        </ul>
+        <p>
+          Where our industrial background gives us genuine first-hand perspective, we say so
+          explicitly and label it — see the{' '}
+          <a href="/methodology" class="text-green-700 hover:underline">
+            Evidence &amp; Data Methodology
+          </a>
+          . Where a claim rests on public documents, we cite the document.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">How content is produced</h2>
+        <ol class="list-decimal pl-6 space-y-2">
+          <li>
+            <strong>Scoping.</strong> The analyst decides what a page is actually for and which
+            questions it must answer before writing starts.
+          </li>
+          <li>
+            <strong>Research and sourcing.</strong> Facts are pinned to a named source — regulation,
+            manufacturer datasheet, customs guidance, or industry report. Sources are graded by tier
+            (see the <a href="/methodology" class="text-green-700 hover:underline">methodology</a>).
+          </li>
+          <li>
+            <strong>Drafting.</strong> Written by the named analyst. First-hand industry knowledge is
+            used as context and insight, never as a substitute for a citation on a factual claim.
+          </li>
+          <li>
+            <strong>Data check.</strong> Every number — price, duty rate, VAT, freight assumption —
+            is recomputed against its source before publication.
+          </li>
+          <li>
+            <strong>Review.</strong> A second pass checks for accuracy, unsupported claims, and
+            conflicts of interest. The reviewer is credited on the page that carries the byline
+            system.
+          </li>
+          <li>
+            <strong>Publish and date-stamp.</strong> Each page shows when it was last updated, so
+            readers can judge whether a tariff or price still holds.
+          </li>
+        </ol>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">How data is verified</h2>
+        <p>
+          Regulatory and cost data is traced to primary sources wherever one exists. EU
+          countervailing duty rates, for example, are taken from the Commission's implementing
+          regulation rather than from news summaries, and VAT rates from national tax authorities.
+          Where only secondary sources exist, we say which kind and treat the figure as an estimate.
+        </p>
+        <p>
+          The full method — including the tiering system and the formula behind landed-cost figures —
+          is published in the <a href="/landed-cost-methodology" class="text-green-700 hover:underline">
+            Landed Cost Methodology
+          </a>{' '}
+          and the <a href="/methodology" class="text-green-700 hover:underline">Evidence &amp; Data
+          Methodology</a>.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">How authors are credited</h2>
+        <p>
+          Every substantive page carries an attribution block naming who wrote it, who reviewed it,
+          how the data was verified, and when it was last updated. We do not publish anonymous
+          analysis, and we do not put a byline on a page no named person stands behind. The roles
+          and the byline system are set out on the{' '}
+          <a href="/authors" class="text-green-700 hover:underline">Authors &amp; Review Standards</a>
+          {' '}page.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Conflict-of-interest disclosure</h2>
+        <p>We disclose a relationship when it could reasonably affect how a reader weighs a page. That includes:</p>
+        <ul class="list-disc pl-6 space-y-2">
+          <li>Any commercial relationship with a brand, supplier, or service provider mentioned in the content.</li>
+          <li>Any first-hand business experience that informs a judgement, labelled as such.</li>
+          <li>Any material interest the author holds in a company or product under discussion.</li>
+        </ul>
+        <p>
+          If you believe a page needs a disclosure that is missing, tell us — see contact details
+          below.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Advertising, sponsorship, and affiliate links</h2>
+        <p>
+          We do not sell vehicles and we do not take payment for a favourable review. If we ever
+          introduce sponsored content or affiliate links, they will be labelled as such on the page
+          itself, and sponsorship will not buy editorial conclusions.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-2xl font-bold mb-3">Corrections</h2>
+        <p>
+          When we get something wrong, we fix it and note the change. Material corrections to a
+          dated figure or a factual claim are recorded on the page, not quietly swapped out. To
+          report an error, email{' '}
+          <a href={`mailto:${company.email}`} class="text-green-700 hover:underline">{company.email}</a>.
+        </p>
+      </section>
+
+      <section class="border-t border-gray-200 pt-8 text-sm text-gray-600">
+        <p>
+          Published by <strong>{company.name}</strong> · {company.legalName}
+          <br/>Editorial contact: <strong>{company.author}</strong>, {company.authorRole}
+          <br/>Last updated: {lastUpdated}
+        </p>
+      </section>
+    </div>
+  </article>
+</MarketingLayout>
