@@ -28,6 +28,9 @@ data_source: "阿维塔官网/百度百科: ¥219,900, 75.46 kWh, 450 kW, CLTC 6
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Avatr 06"
+image: "/images/vehicles/avatr-06t.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Avatr_06T_001.jpg"
 ---
 # Avatr 06T
 

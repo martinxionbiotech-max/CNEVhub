@@ -29,6 +29,9 @@ data_source: "腾势Z9 GT DM-i 起售价33.48万元（CarNewsChina/维基百科�
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Z9"
+image: "/images/vehicles/denza-z9-gt-dm-i.jpg"
+image_credit: "iMoD Official / Wikimedia Commons / CC BY 3.0"
+image_source: "https://commons.wikimedia.org/wiki/File:BYD_Shark_6,_Denza_N7,_Denza_Z9_GT_and_BYD_Sealion_6_DM-i.png"
 ---
 # Denza Z9 GT DM-i
 

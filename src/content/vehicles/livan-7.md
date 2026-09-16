@@ -28,6 +28,9 @@ data_source: "睿蓝7 RMB 117,700 (CarNewsChina, 2023-09)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Livan 7"
+image: "/images/vehicles/livan-7.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2023_Livan_7_(front).jpg"
 ---
 # Livan 7
 

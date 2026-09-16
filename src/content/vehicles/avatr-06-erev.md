@@ -28,6 +28,9 @@ data_source: "阿维塔06增程 起售价20.99万元（新华网/汽车之家）
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Avatr 06"
+image: "/images/vehicles/avatr-06-erev.jpg"
+image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Avatr_06_EREV_01_China_2025-03-25.jpg"
 ---
 # Avatr 06 EREV
 

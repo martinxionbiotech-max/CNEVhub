@@ -29,6 +29,9 @@ data_source: "思皓E40X RMB 130,000（界面新闻/新浪汽车；66kWh/502km N
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "E40X"
+image: "/images/vehicles/sehol-e40x.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Sehol_E40X_001.jpg"
 ---
 # Sehol E40X
 

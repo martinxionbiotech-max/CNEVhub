@@ -26,6 +26,9 @@ data_source: "几何A RMB 175,800（汽车之家/新浪汽车）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geometry A"
+image: "/images/vehicles/geometry-a.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2019_Geely_Geometry_A_(front).jpg"
 ---
 # Geometry A
 

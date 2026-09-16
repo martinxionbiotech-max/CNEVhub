@@ -104,6 +104,12 @@ const jsonLd = {
   {data.image && (
     <div class="mb-10 overflow-hidden rounded-2xl border border-gray-200 shadow-sm">
       <img src={data.image} alt={data.title} class="w-full h-auto object-cover" loading="eager" width="1200" height="675" />
+      {data.image_credit && (
+        <p class="px-4 py-2 text-xs text-gray-500 bg-gray-50 border-t border-gray-200">
+          Photo: {data.image_credit}
+          {data.image_source && (<> · <a href={data.image_source} rel="nofollow noopener" target="_blank" class="underline hover:text-green-700">source</a></>)}
+        </p>
+      )}
     </div>
   )}
 

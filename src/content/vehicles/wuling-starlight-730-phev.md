@@ -28,6 +28,9 @@ data_source: "五菱星光730插混 起售价10.38万元（SGMW官网）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Starlight 730"
+image: "/images/vehicles/wuling-starlight-730-phev.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Wuling_Starlight_730_001.jpg"
 ---
 # Wuling Starlight 730 PHEV
 

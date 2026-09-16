@@ -28,6 +28,9 @@ data_source: "Aion Y Plus RMB 99,800 (CnEVPost/Gasgoo 2024-03)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Aion Y"
+image: "/images/vehicles/aion-y-plus.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2022_GAC_Aion_Y_Plus.jpg"
 ---
 # Aion Y Plus
 

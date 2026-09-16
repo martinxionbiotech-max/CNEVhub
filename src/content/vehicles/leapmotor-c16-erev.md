@@ -26,6 +26,9 @@ data_source: "零跑C16增程 起售价15.58万元（新华网/百度百科）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "C16"
+image: "/images/vehicles/leapmotor-c16-erev.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Leapmotor_C16_001.jpg"
 ---
 # Leapmotor C16 EREV
 

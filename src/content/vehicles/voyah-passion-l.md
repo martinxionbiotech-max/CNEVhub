@@ -24,6 +24,9 @@ data_source: "岚图追光L RMB 279,900 (岚图官网/搜狐汽车)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Passion"
+image: "/images/vehicles/voyah-passion-l.jpg"
+image_credit: "S5A-0043 / Wikimedia Commons / CC BY 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:(CHN-Shanghai)_Showcar_Voyah_Passion_L_No-plate_2025-12-21.jpg"
 ---
 # Voyah Passion L
 

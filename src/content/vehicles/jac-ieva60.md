@@ -25,6 +25,9 @@ data_source: "江淮iEVA60 RMB 179,500（网通社/百度百科；68kWh/405km NE
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "iEVA60"
+image: "/images/vehicles/jac-ieva60.jpg"
+image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:JAC_iEVA60_001.jpg"
 ---
 # JAC iEVA60
 

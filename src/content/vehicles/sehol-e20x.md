@@ -26,6 +26,9 @@ data_source: "思皓E20X RMB 128,000（车质网/百度百科；49.5kWh/402km NE
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "E20X"
+image: "/images/vehicles/sehol-e20x.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Sehol_E20X_001.jpg"
 ---
 # Sehol E20X
 

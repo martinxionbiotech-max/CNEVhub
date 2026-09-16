@@ -29,6 +29,9 @@ data_source: "零跑D19 RMB 219,800 (新华网/百度百科, 2026-04-16)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "D"
+image: "/images/vehicles/leapmotor-d19.jpg"
+image_credit: "KitsuneDP / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Leapmotor_D19_001.jpg"
 ---
 # Leapmotor D19
 

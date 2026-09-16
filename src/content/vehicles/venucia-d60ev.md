@@ -25,6 +25,9 @@ data_source: "启辰D60EV RMB 139,800 (汽车之家/Wikipedia)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "D60"
+image: "/images/vehicles/venucia-d60ev.jpg"
+image_credit: "Windmemories / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:20210611_A_Venucia_D60_EV_taxi_in_Zhengzhou_01.jpg"
 ---
 # Venucia D60 EV
 

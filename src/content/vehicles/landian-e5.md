@@ -24,6 +24,9 @@ data_source: "蓝电E5 RMB 99,800（新华网2024-04-10；WLTC综合1150km）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "E5"
+image: "/images/vehicles/landian-e5.jpg"
+image_credit: "Zoerides / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Landian_E5_001.jpg"
 ---
 # Landian E5
 

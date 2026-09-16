@@ -27,6 +27,9 @@ data_source: "启辰大V DD-i RMB 118,900 (CarNewsChina)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "V-Online"
+image: "/images/vehicles/venucia-v-online-dd-i.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Venucia_V-Online_DD-i_001.jpg"
 ---
 # Venucia V-Online DD-i
 

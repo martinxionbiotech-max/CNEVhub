@@ -27,6 +27,9 @@ data_source: "五菱星光插混 起售价7.98万元（SGMW官网）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Starlight"
+image: "/images/vehicles/wuling-starlight-phev.jpg"
+image_credit: "Quzhouliulian / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Wuling_Starlight_001.jpg"
 ---
 # Wuling Starlight PHEV
 

@@ -26,6 +26,9 @@ data_source: "Wikipedia/Autohome 2026-03-13: ¥169,800, 34.3 kWh, 185 kW, CLTC 2
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "V27"
+image: "/images/vehicles/icaur-v27.jpg"
+image_credit: "Chanokchon / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2026_iCaur_V27_Prestige_AWD.jpg"
 ---
 # iCAR V27
 

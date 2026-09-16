@@ -23,6 +23,9 @@ data_source: "赛力斯SF5 RMB 236,800（2021款两驱华为智选版，已停�
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "SF5"
+image: "/images/vehicles/seres-sf5.jpg"
+image_credit: "gleb / Wikimedia Commons / CC BY 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2021_Seres_SF5_blue_front.jpg"
 ---
 # Seres SF5
 

@@ -24,6 +24,9 @@ data_source: "五菱星光560 RMB 59,800 (Gasgoo/汽车之家; Wikipedia)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Starlight"
+image: "/images/vehicles/wuling-starlight-560.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Wuling_Starlight_560_001.jpg"
 ---
 # Wuling Starlight 560
 

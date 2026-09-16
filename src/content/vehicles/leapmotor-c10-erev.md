@@ -28,6 +28,9 @@ data_source: "零跑C10增程 起售价13.58万元（新华网/易车）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "C10"
+image: "/images/vehicles/leapmotor-c10-erev.jpg"
+image_credit: "Alexander Migl / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Leapmotor_C10_EREV_Auto_Zuerich_2025_DSC_3449.jpg"
 ---
 # Leapmotor C10 EREV
 

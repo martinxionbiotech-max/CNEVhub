@@ -27,6 +27,9 @@ data_source: "一汽悦意08 RMB 99,900（新浪汽车/央视网；59.04kWh/565k
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yueyi"
+image: "/images/vehicles/bestune-yueyi-08.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Bestune_Yueyi_08_001.jpg"
 ---
 # Bestune Yueyi 08
 

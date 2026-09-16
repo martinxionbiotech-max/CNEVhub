@@ -29,6 +29,9 @@ data_source: "奔腾E01 RMB 196,800（太平洋汽车/搜狐汽车；61.34kWh/NE
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "E"
+image: "/images/vehicles/bestune-e01.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Bestune_E01_001.jpg"
 ---
 # Bestune E01
 

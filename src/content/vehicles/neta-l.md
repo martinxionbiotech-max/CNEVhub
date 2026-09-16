@@ -25,6 +25,9 @@ data_source: "哪吒L增程 RMB 129,900 (懂车帝/什么值得买)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Neta L"
+image: "/images/vehicles/neta-l.jpg"
+image_credit: "ישראל פרקר / Wikimedia Commons / CC BY 2.5"
+image_source: "https://commons.wikimedia.org/wiki/File:140508_kibbutz_magal_in_sharon_netas_corner_in_memo_PikiWiki_Israel.jpg"
 ---
 # Neta L
 

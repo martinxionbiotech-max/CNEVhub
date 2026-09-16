@@ -30,6 +30,9 @@ data_source: "奔腾悦意07 RMB 99,800（新华网/新浪汽车；21.2kWh/150km
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yueyi"
+image: "/images/vehicles/bestune-yueyi-07.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Bestune_Yueyi_07_001.jpg"
 ---
 # Bestune Yueyi 07
 

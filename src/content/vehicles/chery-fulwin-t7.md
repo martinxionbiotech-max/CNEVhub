@@ -25,6 +25,9 @@ data_source: "fulwin.chery.cn/Wikipedia: ¥97,900, 65.05 kWh, 178 kW, CLTC 600 k
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Fulwin T7"
+image: "/images/vehicles/chery-fulwin-t7.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Chery_Fulwin_T7_001.jpg"
 ---
 # Chery Fulwin T7
 

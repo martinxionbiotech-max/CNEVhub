@@ -25,6 +25,9 @@ data_source: "ArenaEV/Wikipedia (Huawei-BAIC Stelato): ¥399,800 S9 Max, 100 kWh
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "S9"
+image: "/images/vehicles/stelato-s9.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Stelato_S9_001.jpg"
 ---
 # Stelato S9
 

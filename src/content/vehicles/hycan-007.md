@@ -27,6 +27,9 @@ data_source: "合创007 RMB 259,800 (汽车之家; NEDC 523/643km)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Hycan 007"
+image: "/images/vehicles/hycan-007.jpg"
+image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Hycan_007_001.jpg"
 ---
 # Hycan 007
 

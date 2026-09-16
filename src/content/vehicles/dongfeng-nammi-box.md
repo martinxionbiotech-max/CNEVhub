@@ -27,6 +27,9 @@ data_source: "东风纳米BOX RMB 54,700（买车网/EV视界；27.2kWh/331km）
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Nammi BOX"
+image: "/images/vehicles/dongfeng-nammi-box.jpg"
+image_credit: "Alexander-93 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Dongfeng_Nammi_Box_Auto_Zuerich_2024_DSC_6407.jpg"
 ---
 # Dongfeng Nammi BOX
 

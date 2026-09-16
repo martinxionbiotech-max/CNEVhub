@@ -27,6 +27,9 @@ data_source: "深蓝SL03增程 起售价11.99万元（新华网/搜狐汽车）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "SL03"
+image: "/images/vehicles/deepal-sl03-erev.jpg"
+image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Deepal_SL03_EREV_001_China_2023-04-21.jpg"
 ---
 # Deepal SL03 EREV
 

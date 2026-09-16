@@ -25,6 +25,9 @@ data_source: "哪吒AYA RMB 65,800 (汽车之家)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Neta Aya"
+image: "/images/vehicles/neta-aya.jpg"
+image_credit: "S5A-0043 / Wikimedia Commons / CC BY 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:(SGP-Singapore)_Showcar_Neta_Aya_No-plate_2025-01-11.jpg"
 ---
 # Neta Aya
 

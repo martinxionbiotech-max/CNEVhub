@@ -27,6 +27,9 @@ data_source: "云度π1 RMB 74,800（网通社/新浪汽车；41.7kWh/351km NEDC
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Pi"
+image: "/images/vehicles/yudo-pi-1.jpg"
+image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Yudo_Pi_3_001.jpg"
 ---
 # Yudo Pi 1
 

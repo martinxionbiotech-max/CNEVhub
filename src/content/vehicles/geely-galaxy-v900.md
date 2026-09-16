@@ -28,6 +28,9 @@ data_source: "新华网/央视网: ¥269,800 (26.98万起), 1.5T EREV 340 kW/523
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geely Galaxy V900"
+image: "/images/vehicles/geely-galaxy-v900.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Geely_Galaxy_V900_001.jpg"
 ---
 # Geely Galaxy V900
 

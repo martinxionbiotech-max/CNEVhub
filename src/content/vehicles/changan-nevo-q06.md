@@ -25,6 +25,9 @@ data_source: "IT之家/搜狐汽车: ¥147,900 抢订价, 80.02 kWh, 330 kW, CLT
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Nevo Q"
+image: "/images/vehicles/changan-nevo-q06.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Nevo_Q06_001.jpg"
 ---
 # Changan Nevo Q06
 

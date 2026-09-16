@@ -26,6 +26,9 @@ data_source: "autohome/新出行/Wikipedia: ¥202,900 (20.29万起), 75 kWh, 310
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Zeekr 007"
+image: "/images/vehicles/zeekr-007-gt.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Zeekr_007_GT_001.jpg"
 ---
 # Zeekr 007 GT
 

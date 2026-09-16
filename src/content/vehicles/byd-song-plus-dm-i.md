@@ -28,6 +28,9 @@ data_source: "Sohu/Bitauto: ¥135,800 (2025款宋PLUS DM-i), 12.9 kWh, 75 km CLT
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Song"
+image: "/images/vehicles/byd-song-plus-dm-i.jpg"
+image_credit: "Mateusmatsuda / Wikimedia Commons / CC BY 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:BYD_SONG_PLUS_DM-I_FRONT.jpg"
 ---
 # BYD Song Plus DM-i
 

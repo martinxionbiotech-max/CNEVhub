@@ -26,6 +26,9 @@ data_source: "秦PLUS DM-i 起售价7.98万元（新华网/网通社）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Qin"
+image: "/images/vehicles/byd-qin-plus-dm-i.jpg"
+image_credit: "Elizbeth smith / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:BYD_Qin_Plus_DM-i_001.jpg"
 ---
 # BYD Qin Plus DM-i
 

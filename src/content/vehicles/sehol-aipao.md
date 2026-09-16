@@ -27,6 +27,9 @@ data_source: "思皓爱跑 RMB 139,900（新浪汽车/华龙网；64.5kWh/602km�
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Aipao"
+image: "/images/vehicles/sehol-aipao.jpg"
+image_credit: "Kevauto / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2022_JAC-Sehol_E50A_(Aipao),_front_8.9.23.jpg"
 ---
 # Sehol Aipao
 

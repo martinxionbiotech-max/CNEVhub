@@ -23,6 +23,9 @@ data_source: "江淮iEVA50 RMB 139,500 (汽车之家/搜狐汽车)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "iEVA50"
+image: "/images/vehicles/jac-ieva50.jpg"
+image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:JAC_iEVA50_facelift_001.jpg"
 ---
 # JAC iEVA50
 

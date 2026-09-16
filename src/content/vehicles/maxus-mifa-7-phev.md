@@ -25,6 +25,9 @@ data_source: "大家7超混 RMB 199,900 (搜狐汽车; Wikipedia Maxus G70/Mifa 
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "MIFA 7"
+image: "/images/vehicles/maxus-mifa-7-phev.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Maxus_Mifa_7_PHEV_001.jpg"
 ---
 # Maxus MIFA 7 PHEV
 

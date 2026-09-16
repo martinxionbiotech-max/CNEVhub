@@ -26,6 +26,9 @@ data_source: "五菱缤果Pro RMB 58,800 presale (BitAuto; Wikipedia Wuling Bing
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Binguo"
+image: "/images/vehicles/wuling-binguo-pro.jpg"
+image_credit: "Chanokchon / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2025_Wuling_Binguo_EV_Pro.jpg"
 ---
 # Wuling Binguo Pro
 

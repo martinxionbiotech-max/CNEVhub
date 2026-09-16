@@ -24,6 +24,9 @@ data_source: "Hyptec S600 RMB 199,900 (腾讯新闻, 2026-06)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Hyptec S"
+image: "/images/vehicles/hyptec-s600.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2026_GAC_Aion_Hyptec_S600_(front).jpg"
 ---
 # Hyptec S600
 

@@ -25,6 +25,9 @@ data_source: "新华网 2025-11-29/EV视界: ¥144,900–159,900, 195 kW, CLTC 2
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "ET5"
+image: "/images/vehicles/exeed-et5.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Exeed_ET5_001.jpg"
 ---
 # Exeed ET5
 

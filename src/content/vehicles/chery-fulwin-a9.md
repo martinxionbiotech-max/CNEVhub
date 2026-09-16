@@ -28,6 +28,9 @@ data_source: "Wikipedia/ITHome 2026: ¥115,900 presale, 70.11 kWh, 178 kW, CLTC 
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Fulwin A9"
+image: "/images/vehicles/chery-fulwin-a9.jpg"
+image_credit: "Poprace / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Chery_Fulwin_A9L_MY2025_IMG02.jpg"
 ---
 # Chery Fulwin A9
 

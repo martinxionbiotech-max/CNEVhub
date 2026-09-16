@@ -29,6 +29,9 @@ data_source: "欧拉好猫GT木兰版 RMB 96,800（新华网；45.9kWh/430km）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Good Cat"
+image: "/images/vehicles/ora-good-cat-gt.jpg"
+image_credit: "Chanokchon / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2022_ORA_Good_Cat_GT.jpg"
 ---
 # Ora Good Cat GT
 

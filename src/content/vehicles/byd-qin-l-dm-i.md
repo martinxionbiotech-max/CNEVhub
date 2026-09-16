@@ -29,6 +29,9 @@ data_source: "秦L DM-i 起售价9.98万元（新华网/汽车之家）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Qin"
+image: "/images/vehicles/byd-qin-l-dm-i.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2024_BYD_Qin_L_DM-i.jpg"
 ---
 # BYD Qin L DM-i
 

@@ -26,6 +26,9 @@ data_source: "MG 4X RMB 99,800 presale (CarNewsChina/上汽官方)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "MG 4X"
+image: "/images/vehicles/mg-4x.jpg"
+image_credit: "Marvin Goldman / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:4X-AHC_Arkia_MG_Goldman_Collection.jpg"
 ---
 # MG 4X
 

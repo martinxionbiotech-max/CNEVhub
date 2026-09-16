@@ -26,6 +26,9 @@ data_source: "思皓E10X RMB 39,900（EV世纪/新浪汽车；31.4kWh/302km NEDC
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "E10X"
+image: "/images/vehicles/sehol-e10x.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2021_JAC_Sehol_E10X_(front).jpg"
 ---
 # Sehol E10X
 

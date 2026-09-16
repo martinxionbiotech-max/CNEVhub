@@ -30,6 +30,9 @@ data_source: "小鹏GX RMB 279,800 (小鹏官网/汽车之家, 2026-05-20)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "G"
+image: "/images/vehicles/xpeng-gx.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:XPeng_GX_001.jpg"
 ---
 # Xpeng GX
 

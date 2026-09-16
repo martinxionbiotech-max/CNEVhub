@@ -26,6 +26,9 @@ data_source: "凯翼炫界Pro EV RMB 131,900（凯翼官网；53.6kWh/401km）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Showjet"
+image: "/images/vehicles/cowin-showjet-pro-ev.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2023_Cowin_Showjet_Pro_EV.jpg"
 ---
 # Cowin Showjet Pro EV
 

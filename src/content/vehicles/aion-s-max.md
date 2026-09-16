@@ -26,6 +26,9 @@ data_source: "Aion S Max RMB 149,900 (CarNewsChina 2023-10)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Aion S"
+image: "/images/vehicles/aion-s-max.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Aion_S_Max_001.jpg"
 ---
 # Aion S Max
 

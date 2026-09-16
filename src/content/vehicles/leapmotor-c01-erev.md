@@ -26,6 +26,9 @@ data_source: "零跑C01增程 起售价14.58万元（新华网/易车）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "C01"
+image: "/images/vehicles/leapmotor-c01-erev.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Leapmotor_C01_EREV_001.jpg"
 ---
 # Leapmotor C01 EREV
 

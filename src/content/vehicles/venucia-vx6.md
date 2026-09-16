@@ -28,6 +28,9 @@ data_source: "启辰VX6 RMB 134,900 (汽车之家/CarNewsChina)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "VX6"
+image: "/images/vehicles/venucia-vx6.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Venucia_VX6_001.jpg"
 ---
 # Venucia VX6
 

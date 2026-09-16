@@ -30,6 +30,9 @@ data_source: "小米SU7 Ultra RMB 529,900 (小米汽车官网/百度百科, 2025
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "SU7"
+image: "/images/vehicles/xiaomi-su7-ultra.jpg"
+image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Xiaomi_SU7_Ultra_0001_China_2025-03-28.jpg"
 ---
 # Xiaomi SU7 Ultra
 

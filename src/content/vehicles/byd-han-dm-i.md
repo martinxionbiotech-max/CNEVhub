@@ -28,6 +28,9 @@ data_source: "汉DM-i 起售价16.58万元（新华网/网通社）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Han"
+image: "/images/vehicles/byd-han-dm-i.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:BYD_Han_DM-i_001.jpg"
 ---
 # BYD Han DM-i
 

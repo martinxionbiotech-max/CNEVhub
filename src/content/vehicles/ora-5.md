@@ -19,6 +19,9 @@ data_source: "欧拉5 RMB 99,800 (新华网/央视网)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Ora 5"
+image: "/images/vehicles/ora-5.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Ora_5_001.jpg"
 ---
 # Ora 5
 

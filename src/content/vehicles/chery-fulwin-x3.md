@@ -18,6 +18,9 @@ data_source: "CarNewsChina 2025: ¥89,900–109,900"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Fulwin X3"
+image: "/images/vehicles/chery-fulwin-x3.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Chery_Fulwin_X3_Plus_001.jpg"
 ---
 # Chery Fulwin X3
 

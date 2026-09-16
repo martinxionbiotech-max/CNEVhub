@@ -26,6 +26,9 @@ data_source: "哪吒V RMB 59,900 (汽车之家)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Neta V"
+image: "/images/vehicles/neta-v.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2022_Hozon_Neta_V_(front).jpg"
 ---
 # Neta V
 

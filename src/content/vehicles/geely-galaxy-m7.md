@@ -27,6 +27,9 @@ data_source: "Wikipedia/新华网/汽车之家: ¥119,800 (11.98万起), 1.5L EM
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geely Galaxy M7"
+image: "/images/vehicles/geely-galaxy-m7.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Geely_Galaxy_M7_001.jpg"
 ---
 # Geely Galaxy M7
 

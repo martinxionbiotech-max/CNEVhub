@@ -18,6 +18,9 @@ data_source: "奕派M8 RMB 169,800 (东风奕派官网)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "eπ"
+image: "/images/vehicles/dongfeng-epi-m8.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Dongfeng_e%CF%80_M8_001.jpg"
 ---
 # Dongfeng eπ M8
 

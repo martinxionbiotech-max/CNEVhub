@@ -28,6 +28,9 @@ data_source: "BYD official/Autohome: ¥74,800 (元UP 7.48–11.98万), 45.12 kWh
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yuan"
+image: "/images/vehicles/byd-yuan-up.jpg"
+image_credit: "iMoD Official / Wikimedia Commons / CC BY 3.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2024_BYD_Yuan_Up_-_Atto_2_01.png"
 ---
 # BYD Yuan Up
 

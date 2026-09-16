@@ -27,6 +27,9 @@ data_source: "Aion LX Plus RMB 286,600 (央视网/网易汽车, 2022-01)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Aion LX"
+image: "/images/vehicles/aion-lx-plus.jpg"
+image_credit: "Zoerides / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Aion_LX_Plus_001.jpg"
 ---
 # Aion LX Plus
 

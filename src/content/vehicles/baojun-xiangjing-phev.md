@@ -27,6 +27,9 @@ data_source: "宝骏享境插混 起售价12.98万元（新出行/新华网）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xiangjing"
+image: "/images/vehicles/baojun-xiangjing-phev.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Baojun_Xiangjing_PHEV_001.jpg"
 ---
 # Baojun Xiangjing PHEV
 

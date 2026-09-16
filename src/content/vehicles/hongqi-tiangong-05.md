@@ -28,6 +28,9 @@ data_source: "红旗天工05 RMB 159,800 (cnEVpost/Wikipedia)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Tiangong"
+image: "/images/vehicles/hongqi-tiangong-05.jpg"
+image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Hongqi_Tiangong_05_(%E5%A4%A9%E5%B7%A505)_02_China_2025-03-31.jpg"
 ---
 # Hongqi Tiangong 05
 

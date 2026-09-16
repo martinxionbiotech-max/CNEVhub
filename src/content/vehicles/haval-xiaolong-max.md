@@ -29,6 +29,9 @@ data_source: "哈弗枭龙MAX RMB 111,800 (CarNewsChina EV Database)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xiaolong"
+image: "/images/vehicles/haval-xiaolong-max.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Haval_Xiaolong_Max_001.jpg"
 ---
 # Haval Xiaolong Max
 

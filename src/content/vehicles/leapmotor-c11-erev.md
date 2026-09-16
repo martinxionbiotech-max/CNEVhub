@@ -26,6 +26,9 @@ data_source: "零跑C11增程 起售价14.98万元（新华网/百度百科）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "C11"
+image: "/images/vehicles/leapmotor-c11-erev.jpg"
+image_credit: "JamesYoung8167 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Leapmotor_C11_EREV_Jinjiang_01_2023-05-01.jpg"
 ---
 # Leapmotor C11 EREV
 

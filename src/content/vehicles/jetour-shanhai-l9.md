@@ -20,6 +20,9 @@ data_source: "jetour.com.cn/Autohome: ¥166,900, 19.43 kWh, CLTC 108 km"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Shanhai L9"
+image: "/images/vehicles/jetour-shanhai-l9.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Jetour_Shanhai_L9_001.jpg"
 ---
 # Jetour Shanhai L9
 

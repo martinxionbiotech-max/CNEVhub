@@ -26,6 +26,9 @@ data_source: "哪吒X RMB 89,800 (太平洋汽车/汽车之家)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Neta X"
+image: "/images/vehicles/neta-x.jpg"
+image_credit: "S5A-0043 / Wikimedia Commons / CC BY 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:(SGP-Singapore)_Showcar_Neta_X_No-plate_2025-01-11.jpg"
 ---
 # Neta X
 

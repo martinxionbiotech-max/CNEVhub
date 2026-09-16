@@ -27,6 +27,9 @@ data_source: "红旗天工06 RMB 179,800 (汽车之家/汽车经纬网)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Tiangong"
+image: "/images/vehicles/hongqi-tiangong-06.jpg"
+image_credit: "Randall Ferry / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Hongqi_Tiangong_05_--_Auto_Fuzhou_--_01_2026-06-21.jpg"
 ---
 # Hongqi Tiangong 06
 

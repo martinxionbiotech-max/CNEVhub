@@ -26,6 +26,9 @@ data_source: "小鹏MONA L03 RMB 123,800 (小鹏官网/易车, 2026-07-16)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "MONA"
+image: "/images/vehicles/xpeng-mona-l03.jpg"
+image_credit: "Tim Wu / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:XPeng_MONA_L03_in_Grandview_Mall,_Guangzhou_20260712.jpg"
 ---
 # Xpeng MONA L03
 

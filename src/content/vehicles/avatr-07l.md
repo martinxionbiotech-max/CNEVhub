@@ -26,6 +26,9 @@ data_source: "新浪汽车/新华网/阿维塔官网: ¥229,900, 89.33 kWh, 305 
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Avatr 07"
+image: "/images/vehicles/avatr-07l.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Avatr_07L_001.jpg"
 ---
 # Avatr 07L
 

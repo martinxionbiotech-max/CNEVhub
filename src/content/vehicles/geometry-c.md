@@ -27,6 +27,9 @@ data_source: "几何C RMB 129,800（搜狐汽车/电动邦）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geometry C"
+image: "/images/vehicles/geometry-c.jpg"
+image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Geometry_C_001.jpg"
 ---
 # Geometry C
 

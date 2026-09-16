@@ -29,6 +29,9 @@ data_source: "零跑A10 RMB 65,800 (新华网/零跑官网, 2026-03)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "A"
+image: "/images/vehicles/leapmotor-a10.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Leapmotor_A10_001.jpg"
 ---
 # Leapmotor A10
 

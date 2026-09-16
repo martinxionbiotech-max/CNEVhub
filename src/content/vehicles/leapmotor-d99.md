@@ -24,6 +24,9 @@ data_source: "零跑D99 RMB 249,800 (新浪汽车/CCTV, 2026-06-25)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "D"
+image: "/images/vehicles/leapmotor-d99.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2026_Leapmotor_D99_(front).jpg"
 ---
 # Leapmotor D99
 

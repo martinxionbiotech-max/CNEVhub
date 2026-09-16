@@ -26,6 +26,9 @@ data_source: "几何E RMB 86,800 (Wikipedia/CarNewsChina); 续航为NEDC 320/401
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geometry E"
+image: "/images/vehicles/geometry-e.jpg"
+image_credit: "Quzhouliulian / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Geometry_E_007.jpg"
 ---
 # Geometry E
 

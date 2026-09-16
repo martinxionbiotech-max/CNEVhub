@@ -28,6 +28,9 @@ data_source: "几何G6 RMB 119,800 (CarNewsChina, 2023-09)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geometry G6"
+image: "/images/vehicles/geometry-g6.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2022_Geely_Geometry_G6.jpg"
 ---
 # Geometry G6
 

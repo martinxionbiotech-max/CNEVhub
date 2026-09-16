@@ -28,6 +28,9 @@ data_source: "吉利星愿 RMB 64,800（汽车之家/搜狐汽车）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xingyuan"
+image: "/images/vehicles/geely-xingyuan.jpg"
+image_credit: "Kevauto / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2025_Geely_Xingyuan,_front_7.28.25.jpg"
 ---
 # Geely Xingyuan
 

@@ -29,6 +29,9 @@ data_source: "NIO ES7 RMB 468,000 with battery (Wikipedia/nio.com)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "ES"
+image: "/images/vehicles/nio-es7.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:NIO_ES7_001.jpg"
 ---
 # NIO ES7
 

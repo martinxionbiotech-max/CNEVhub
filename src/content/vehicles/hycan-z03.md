@@ -28,6 +28,9 @@ data_source: "合创Z03 RMB 132,800 (17汽车网/太平洋汽车)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Hycan Z03"
+image: "/images/vehicles/hycan-z03.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2022_Hycan_Z03.jpg"
 ---
 # Hycan Z03
 

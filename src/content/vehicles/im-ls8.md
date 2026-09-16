@@ -22,6 +22,9 @@ data_source: "智己LS8 RMB 249,800 (汽车之家; Wikipedia IM LS8)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "LS8"
+image: "/images/vehicles/im-ls8.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:IM_LS8_001.jpg"
 ---
 # IM LS8
 

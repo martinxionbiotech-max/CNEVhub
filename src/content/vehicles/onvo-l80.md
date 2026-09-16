@@ -30,6 +30,9 @@ data_source: "Onvo L80 RMB 242,800 with battery (CnEVPost/Electrek/EVKX)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "L"
+image: "/images/vehicles/onvo-l80.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Onvo_L80_001.jpg"
 ---
 # Onvo L80
 

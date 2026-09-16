@@ -29,6 +29,9 @@ data_source: "Wikipedia/领克官网: ¥109,900 (430km版 10.99万起), 61.47 kW
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Lynk & Co Z20"
+image: "/images/vehicles/lynk-co-z20.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Lynk_%26_Co_Z20_001.jpg"
 ---
 # Lynk & Co Z20
 

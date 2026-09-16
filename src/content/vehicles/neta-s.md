@@ -26,6 +26,9 @@ data_source: "哪吒S RMB 154,800 (汽车之家/搜狐汽车)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Neta S"
+image: "/images/vehicles/neta-s.jpg"
+image_credit: "Zoerides / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Neta_S_004.jpg"
 ---
 # Neta S
 

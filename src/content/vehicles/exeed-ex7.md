@@ -26,6 +26,9 @@ data_source: "exeedcars.com 2026-04-19/Gasgoo: ¥199,900, 41 kWh, 227 kW, CLTC 2
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "EX7"
+image: "/images/vehicles/exeed-ex7.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Exeed_EX7_001.jpg"
 ---
 # Exeed EX7
 

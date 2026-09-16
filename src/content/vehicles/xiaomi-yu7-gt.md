@@ -28,6 +28,9 @@ data_source: "小米YU7 GT RMB 389,900 (搜狐汽车/网通社, 2026-05)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "YU7"
+image: "/images/vehicles/xiaomi-yu7-gt.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Xiaomi_YU7_GT_001.jpg"
 ---
 # Xiaomi YU7 GT
 

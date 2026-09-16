@@ -27,6 +27,9 @@ data_source: "睿蓝RL9 RMB 109,900 (CarNewsChina, 2022-12)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Livan 9"
+image: "/images/vehicles/livan-9.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Livan_9_001.jpg"
 ---
 # Livan 9
 

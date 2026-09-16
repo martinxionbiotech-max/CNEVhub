@@ -27,6 +27,9 @@ data_source: "腾势D9 DM-i 起售价33.98万元（维基百科/新浪汽车）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "D9"
+image: "/images/vehicles/denza-d9-dm-i.jpg"
+image_credit: "Evnerd / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Denza_D9_DM-i_20230917.jpg"
 ---
 # Denza D9 DM-i
 

@@ -29,6 +29,9 @@ data_source: "NIO ES9 RMB 498,000 with battery (NIO 2026-05-27, EVKX/CnEVPost)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "ES"
+image: "/images/vehicles/nio-es9.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Nio_ES9_001.jpg"
 ---
 # NIO ES9
 

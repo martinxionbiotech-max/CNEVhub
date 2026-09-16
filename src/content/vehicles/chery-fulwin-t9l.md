@@ -25,6 +25,9 @@ data_source: "新华网/搜狐汽车 2026-04-13: ¥129,900, 260 kW/330 Nm, CLTC 
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Fulwin T9"
+image: "/images/vehicles/chery-fulwin-t9l.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Chery_Fulwin_T9L_001.jpg"
 ---
 # Chery Fulwin T9L
 

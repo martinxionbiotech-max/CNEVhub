@@ -28,6 +28,9 @@ data_source: "太平洋汽车/搜狐汽车: ¥139,900 (13.99万起), 800V 245 kW
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geely Galaxy TT"
+image: "/images/vehicles/geely-galaxy-tt.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Geely_Galaxy_TT_001.jpg"
 ---
 # Geely Galaxy TT
 

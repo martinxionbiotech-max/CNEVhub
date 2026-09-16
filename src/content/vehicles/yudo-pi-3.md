@@ -28,6 +28,9 @@ data_source: "云度π3 RMB 109,800（新浪汽车/搜狐汽车；51kWh/401km NE
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Pi"
+image: "/images/vehicles/yudo-pi-3.jpg"
+image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Yudo_Pi_3_001.jpg"
 ---
 # Yudo Pi 3
 

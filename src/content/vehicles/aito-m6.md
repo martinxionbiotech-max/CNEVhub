@@ -25,6 +25,9 @@ data_source: "问界M6 RMB 229,800 (鸿蒙智行官网/百度百科, 2026)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "M"
+image: "/images/vehicles/aito-m6.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2026_AITO_M6_(front).jpg"
 ---
 # Aito M6
 

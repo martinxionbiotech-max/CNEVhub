@@ -27,6 +27,9 @@ data_source: "江淮iC5 RMB 149,900（百度百科/搜狐汽车；64.5kWh/530km 
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "iC5"
+image: "/images/vehicles/jac-ic5.jpg"
+image_credit: "Evnerd / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:JAC_iC5_2021060301.jpg"
 ---
 # JAC iC5
 

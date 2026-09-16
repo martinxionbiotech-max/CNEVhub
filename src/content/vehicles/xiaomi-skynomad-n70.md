@@ -27,6 +27,9 @@ data_source: "Xiaomi SkyNomad N70 RMB 209,900 (小米汽车官网/IT之家, 2026
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "SkyNomad"
+image: "/images/vehicles/xiaomi-skynomad-n70.jpg"
+image_credit: "Partydoos / Wikimedia Commons / CC BY 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Xiaomi_SkyNomad_N70.jpg"
 ---
 # Xiaomi SkyNomad N70
 

@@ -26,6 +26,9 @@ data_source: "Xiaomi SkyNomad N90 RMB 269,900 (小米汽车官网, 2026-09)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "SkyNomad"
+image: "/images/vehicles/xiaomi-skynomad-n90.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Xiaomi_SkyNomad_N90_001.jpg"
 ---
 # Xiaomi SkyNomad N90
 

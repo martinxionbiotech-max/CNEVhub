@@ -27,6 +27,9 @@ data_source: "元宝 RMB 29,700（ZOL/汽车之家；9.6kWh/120km）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yuanbao"
+image: "/images/vehicles/baw-yuanbao.jpg"
+image_credit: "Kevauto / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2022_BAW_(Beijing-Beiqi)_Yuanbao_EV,_front_8.3.24.jpg"
 ---
 # BAW Yuanbao
 

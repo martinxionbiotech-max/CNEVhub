@@ -28,6 +28,9 @@ data_source: "蓝电E5 PLUS RMB 99,800（新华网2024-10-17；25kWh/CLTC165km�
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "E5 Plus"
+image: "/images/vehicles/landian-e5-plus.jpg"
+image_credit: "KitsuneDP / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Landian_E5_Plus_001.jpg"
 ---
 # Landian E5 Plus
 

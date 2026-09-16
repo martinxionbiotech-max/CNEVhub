@@ -26,6 +26,9 @@ data_source: "问界M9增程Max 起售价46.98万元（汽车之家）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "M9"
+image: "/images/vehicles/aito-m9-erev.jpg"
+image_credit: "CNHowey / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:AITO_M9.jpg"
 ---
 # Aito M9 EREV
 

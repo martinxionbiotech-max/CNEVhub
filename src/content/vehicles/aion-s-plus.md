@@ -26,6 +26,9 @@ data_source: "Aion S Plus RMB 139,800 (易车百科/广汽埃安官网)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Aion S"
+image: "/images/vehicles/aion-s-plus.jpg"
+image_credit: "SAIC GM sucks / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Aion_S_Plus_001.jpg"
 ---
 # Aion S Plus
 

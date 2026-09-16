@@ -25,6 +25,9 @@ data_source: "Aion N60 RMB 106,800 (Gasgoo, 2026)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Aion N"
+image: "/images/vehicles/aion-n60.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2026_GAC_Aion_N60_(front).jpg"
 ---
 # Aion N60
 

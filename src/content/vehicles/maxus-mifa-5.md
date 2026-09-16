@@ -22,6 +22,9 @@ data_source: "大家5(MIFA 5) RMB 215,800 (上汽大通官网)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "MIFA 5"
+image: "/images/vehicles/maxus-mifa-5.jpg"
+image_credit: "Calreyn88 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2023_Maxus_Mifa_9_EV.jpg"
 ---
 # Maxus MIFA 5
 

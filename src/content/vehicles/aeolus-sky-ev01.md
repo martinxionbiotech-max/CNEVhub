@@ -28,6 +28,9 @@ data_source: "风神SKY EV01 RMB 121,900 (东风官网/新出行)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "SKY"
+image: "/images/vehicles/aeolus-sky-ev01.jpg"
+image_credit: "Quzhouliulian / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Aeolus_Sky_EV01_001.jpg"
 ---
 # Aeolus SKY EV01
 

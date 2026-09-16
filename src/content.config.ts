@@ -79,6 +79,8 @@ const vehicles = defineCollection({
     landed_cost: z.any().optional(),
     landed_cost_markets: z.any().default([]),
     image: z.string().optional(),
+    image_credit: z.string().optional(),
+    image_source: z.string().optional(),
     publishedDate: z.coerce.date(),
     author: z.string(),
     tags: z.array(z.string()).default([]),

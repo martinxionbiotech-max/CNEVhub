@@ -27,6 +27,9 @@ data_source: "新华网/领克官网: ¥157,800 (15.78万起), 1.5T PHEV 390 kW/
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Lynk & Co 07"
+image: "/images/vehicles/lynk-co-07-gt.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Lynk_%26_Co_07_GT_001.jpg"
 ---
 # Lynk & Co 07 GT
 

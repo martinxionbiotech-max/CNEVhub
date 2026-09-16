@@ -26,6 +26,9 @@ data_source: "Wikipedia/CarNewsChina: ¥356,800 (35.68万起), 2.0T PHEV 660 kW,
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Zeekr 8X"
+image: "/images/vehicles/zeekr-8x.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Zeekr_8X_001.jpg"
 ---
 # Zeekr 8X
 

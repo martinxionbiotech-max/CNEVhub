@@ -23,6 +23,9 @@ data_source: "Aion V Plus RMB 149,900 (搜狐汽车车型库)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Aion V"
+image: "/images/vehicles/aion-v-plus.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2021_GAC_Aion_V_Plus_(front).jpg"
 ---
 # Aion V Plus
 

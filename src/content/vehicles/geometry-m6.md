@@ -30,6 +30,9 @@ data_source: "几何M6 RMB 149,800（百度百科/ZOL）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geometry M6"
+image: "/images/vehicles/geometry-m6.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2022_Geely_Geometry_M6_(front).jpg"
 ---
 # Geometry M6
 

@@ -28,6 +28,9 @@ data_source: "睿蓝8 RMB 137,800（EV视界/汽车之家；68.03kWh/515km）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Livan 8"
+image: "/images/vehicles/livan-8.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Livan_8_001.jpg"
 ---
 # Livan 8
 

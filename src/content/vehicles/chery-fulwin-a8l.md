@@ -27,6 +27,9 @@ data_source: "paultan.org/CarNewsChina: ¥109,900, 18.67 kWh, CLTC 145 km EV / 2
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Fulwin A8"
+image: "/images/vehicles/chery-fulwin-a8l.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Chery_Fulwin_A8L_001.jpg"
 ---
 # Chery Fulwin A8L
 

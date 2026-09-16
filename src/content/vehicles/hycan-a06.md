@@ -26,6 +26,9 @@ data_source: "合创A06 RMB 179,800 (新浪汽车/汽车之家)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Hycan A06"
+image: "/images/vehicles/hycan-a06.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Hycan_A06_001.jpg"
 ---
 # Hycan A06
 
