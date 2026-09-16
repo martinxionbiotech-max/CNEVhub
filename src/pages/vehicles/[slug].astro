@@ -1,7 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
-import SEO from '@/components/common/SEO.astro';
 import { url as siteUrl } from '@/config/site';
 
 export async function getStaticPaths() {
@@ -41,10 +40,17 @@ const specs = [
 // 多国落地成本的最低价（用于高亮最有优势的市场）
 const lowestTotal = multiLc.length ? Math.min(...multiLc.map((m) => m.total_landed_usd)) : 0;
 
+// 结构化数据/社交分享用的绝对图片地址：优先该车型图片，缺图时回退站内 OG 图
+const pageUrl = new URL(Astro.url.pathname, siteUrl).href;
+const vehicleImage = new URL(data.image || '/og-image.png', siteUrl).href;
+
 // JSON-LD Vehicle schema
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Vehicle',
+  '@id': `${pageUrl}#vehicle`,
+  url: pageUrl,
+  image: [vehicleImage],
   name: data.title,
   description: data.description,
   brand: { '@type': 'Brand', name: data.brand.toUpperCase() },
@@ -61,20 +67,23 @@ const jsonLd = {
   },
 };
 
-const breadcrumbLd = {
-  '@context': 'https://schema.org',
-  '@type': 'BreadcrumbList',
-  itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
-    { '@type': 'ListItem', position: 2, name: 'Vehicles', item: `${siteUrl}/vehicles/` },
-    { '@type': 'ListItem', position: 3, name: data.title },
-  ],
-};
 ---
 
-<SEO title={data.title} description={data.description} />
-
-<MarketingLayout title={data.title} description={data.description} type="article" publishedDate={data.publishedDate} author={data.author} tags={data.tags}>
+<MarketingLayout
+  title={data.title}
+  description={data.description}
+  image={vehicleImage}
+  breadcrumb={[
+    { name: 'Home', item: siteUrl },
+    { name: 'Vehicles', item: `${siteUrl}/vehicles/` },
+    { name: data.brand.toUpperCase(), item: `${siteUrl}/brands/${data.brand}/` },
+    { name: data.title },
+  ]}
+  type="article"
+  publishedDate={data.publishedDate}
+  author={data.author}
+  tags={data.tags}
+>
 <article class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
   <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
     <a href="/" class="hover:text-green-600">Home</a> / <a href="/vehicles/" class="hover:text-green-600">Vehicles</a> / <a href={`/brands/${data.brand}/`} class="hover:text-green-600">{data.brand.toUpperCase()}</a> / <span class="text-gray-700">{data.title}</span>
@@ -169,5 +178,4 @@ const breadcrumbLd = {
 </article>
 
 <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
-<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
 </MarketingLayout>

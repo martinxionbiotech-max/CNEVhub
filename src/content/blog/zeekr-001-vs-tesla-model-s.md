@@ -5,7 +5,7 @@ image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-15"
 draft: true
-tags: [zeekr, 001, tesla, model-s, landed-cost, eu-tariff, countervailing-duty, comparison, ev-import, germany]
+tags: ["zeekr", "001", "tesla", "model-s", "landed-cost", "eu-tariff", "countervailing-duty", "comparison", "ev-import", "germany"]
 ---
 
 ## TL;DR

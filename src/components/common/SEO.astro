@@ -32,6 +32,8 @@ import { siteConfig } from '@/config';
 import { company } from '@/config/site';
 
 interface Props {
+  /** 自定义面包屑层级（与页面可见面包屑一致时传入，避免与默认 2 级面包屑重复/冲突） */
+  breadcrumb?: { name: string; item?: string }[];
   /** Page title (will be appended with site name) */
   title: string;
   /** Page description for meta tags */
@@ -62,6 +64,7 @@ const {
   author,
   tags = [],
   robots,
+  breadcrumb,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, siteConfig.url);
@@ -148,24 +151,17 @@ const articleSchema =
 const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
-  itemListElement: [
-    {
-      '@type': 'ListItem',
-      position: 1,
-      name: 'Home',
-      item: siteConfig.url,
-    },
-    ...(Astro.url.pathname !== '/'
-      ? [
-          {
-            '@type': 'ListItem',
-            position: 2,
-            name: title,
-            item: canonicalURL.href,
-          },
-        ]
-      : []),
-  ],
+  itemListElement: (breadcrumb && breadcrumb.length
+    ? breadcrumb.map((b, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: b.name,
+        ...(b.item ? { item: b.item } : {}),
+      }))
+    : [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.url },
+        ...(Astro.url.pathname !== '/' ? [{ '@type': 'ListItem', position: 2, name: title, item: canonicalURL.href }] : []),
+      ]),
 };
 ---
 

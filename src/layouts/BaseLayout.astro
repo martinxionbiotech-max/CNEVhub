@@ -6,6 +6,7 @@ interface Props {
   title: string;
   description: string;
   image?: string;
+  breadcrumb?: { name: string; item?: string }[];
   type?: 'website' | 'article';
   // Article-specific props for JSON-LD
   publishedDate?: Date;
@@ -25,6 +26,7 @@ const {
   author,
   tags,
   robots,
+  breadcrumb,
 } = Astro.props;
 ---
 
@@ -47,6 +49,7 @@ const {
       author={author}
       tags={tags}
       robots={robots}
+      breadcrumb={breadcrumb}
     />
     <!-- Theme and announcement initialization - runs before page render to prevent flash -->
     <script is:inline>

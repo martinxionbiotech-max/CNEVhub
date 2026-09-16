@@ -9,6 +9,7 @@ interface Props {
   title: string;
   description: string;
   image?: string;
+  breadcrumb?: { name: string; item?: string }[];
   type?: 'website' | 'article';
   // Article-specific props for JSON-LD
   publishedDate?: Date;
@@ -22,6 +23,7 @@ const {
   title,
   description,
   image,
+  breadcrumb,
   type = 'website',
   publishedDate,
   modifiedDate,
@@ -37,6 +39,7 @@ const { announcement } = siteConfig;
   title={title}
   description={description}
   image={image}
+  breadcrumb={breadcrumb}
   type={type}
   publishedDate={publishedDate}
   modifiedDate={modifiedDate}
