@@ -4,7 +4,7 @@ description: "Importing a Chinese EV to the UK means 10% MFN duty and 20% VAT â€
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-16"
-draft: true
+draft: false
 tags: [united-kingdom, ev-import, landed-cost, post-brexit, countervailing-duty, vat, market-comparison, chinese-ev]
 ---
 

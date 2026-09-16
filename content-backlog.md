@@ -47,19 +47,27 @@
 - [x] xiaomi-hongqi-countervailing-duty —— 小米/红旗 20.7% CVD（已发布）
 
 ### 批次 4 — Pillar D 车型旗舰对比（4 篇）
-状态：`done`（已写完；byd-seal/byd-han/xiaomi-su7 已发布，zeekr-001 剩 1 篇 draft:true）
+状态：`done`（已全部上线，draft:false）
 - [x] byd-seal-vs-tesla-model-3 —— BYD Seal vs Tesla Model 3 landed cost（已发布）
 - [x] byd-han-vs-tesla-model-s —— BYD Han vs Model S（已发布）
 - [x] xiaomi-su7-vs-tesla-model-3 —— Xiaomi SU7 vs Model 3（已发布）
-- [x] zeekr-001-vs-tesla-model-s —— Zeekr 001 vs Model S（draft:true）
+- [x] zeekr-001-vs-tesla-model-s —— Zeekr 001 vs Model S（已发布，23:00 时点）
 
 ### 批次 5 — Pillar C 零/低关税·非典型市场 II（5 篇）
-状态：`done`（已写完，全部 draft:true 待发布，20:00 时点已用尽配额，待后续时点）
-- [x] uk-import-guide —— Import Chinese EV to UK（10% 关税 + 20% VAT，无 EU CVD，RHD/IVA）（draft:true）
+状态：`in_progress`（已写完；uk 已发布，剩 4 篇 draft:true 待发布）
+- [x] uk-import-guide —— Import Chinese EV to UK（10% 关税 + 20% VAT，无 EU CVD，RHD/IVA）（已发布，23:00 时点）
 - [x] thailand-import-guide —— Import Chinese EV to Thailand（0% 关税 + 7% VAT，本地制造枢纽）（draft:true）
 - [x] malaysia-import-guide —— Import Chinese EV to Malaysia（5% + 10% SST，Geely-Proton CKD）（draft:true）
 - [x] singapore-import-guide —— Import Chinese EV to Singapore（20% + 9% GST + COE/ARF，最高门槛）（draft:true）
 - [x] new-zealand-import-guide —— Import Chinese EV to New Zealand（0% 关税 + 15% GST，RHD + RUC）（draft:true）
+
+### 批次 6 — Pillar C 欧盟成员国·差异化市场 III（5 篇）
+状态：`in_progress`（23:00 时点派发 5 个 collector 子代理，全部 draft:true）
+- [ ] ireland-import-guide —— Import Chinese EV to Ireland（EU CVD 适用 + RHD + VRT 注册税，欧盟内唯一 RHD 大市场）
+- [ ] israel-import-guide —— Import Chinese EV to Israel（10% 关税 + EV 购置税，BYD 第一大出口市场）
+- [ ] sweden-import-guide —— Import Chinese EV to Sweden（EU CVD 适用 + 25% VAT，北欧 EV 渗透率最高）
+- [ ] italy-import-guide —— Import Chinese EV to Italy（EU CVD 适用 + 22% VAT，Stellantis 主场）
+- [ ] poland-import-guide —— Import Chinese EV to Poland（EU CVD 适用 + 23% VAT，中欧量价枢纽）
 
 ---
 

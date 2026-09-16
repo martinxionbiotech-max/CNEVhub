@@ -4,7 +4,7 @@ description: "Zeekr 001 ($38,000 ex-factory, 710 km CLTC) against the Tesla Mode
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-15"
-draft: true
+draft: false
 tags: ["zeekr", "001", "tesla", "model-s", "landed-cost", "eu-tariff", "countervailing-duty", "comparison", "ev-import", "germany"]
 ---
 
