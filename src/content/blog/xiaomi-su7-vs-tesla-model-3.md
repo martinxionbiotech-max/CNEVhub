@@ -4,7 +4,7 @@ description: "Xiaomi SU7 ($30,320 ex-factory, 700 km CLTC) against the Tesla Mod
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-15"
-draft: true
+draft: false
 tags: [xiaomi, su7, tesla, model-3, landed-cost, eu-tariff, comparison, ev-import, germany]
 ---
 

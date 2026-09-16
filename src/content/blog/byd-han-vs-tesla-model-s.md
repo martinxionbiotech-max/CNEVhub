@@ -4,7 +4,7 @@ description: "BYD Han ($23,700 ex-factory) against the Tesla Model S — full ta
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-15"
-draft: true
+draft: false
 tags: [byd, han, tesla, model-s, landed-cost, eu-tariff, comparison, ev-import, germany]
 ---
 
