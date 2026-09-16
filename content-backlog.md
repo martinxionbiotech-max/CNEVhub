@@ -54,12 +54,12 @@
 - [x] zeekr-001-vs-tesla-model-s —— Zeekr 001 vs Model S（draft:true）
 
 ### 批次 5 — Pillar C 零/低关税·非典型市场 II（5 篇）
-状态：`writing`（collector 写作中，全部 draft:true）
-- [ ] uk-import-guide —— Import Chinese EV to UK（10% 关税 + 20% VAT，无 EU CVD，RHD/IVA）
-- [ ] thailand-import-guide —— Import Chinese EV to Thailand（0% 关税 + 7% VAT，本地制造枢纽）
-- [ ] malaysia-import-guide —— Import Chinese EV to Malaysia（5% + 10% SST，Geely-Proton CKD）
-- [ ] singapore-import-guide —— Import Chinese EV to Singapore（20% + 9% GST + COE/ARF，最高门槛）
-- [ ] new-zealand-import-guide —— Import Chinese EV to New Zealand（0% 关税 + 15% GST，RHD + RUC）
+状态：`done`（已写完，全部 draft:true 待发布，20:00 时点已用尽配额，待后续时点）
+- [x] uk-import-guide —— Import Chinese EV to UK（10% 关税 + 20% VAT，无 EU CVD，RHD/IVA）（draft:true）
+- [x] thailand-import-guide —— Import Chinese EV to Thailand（0% 关税 + 7% VAT，本地制造枢纽）（draft:true）
+- [x] malaysia-import-guide —— Import Chinese EV to Malaysia（5% + 10% SST，Geely-Proton CKD）（draft:true）
+- [x] singapore-import-guide —— Import Chinese EV to Singapore（20% + 9% GST + COE/ARF，最高门槛）（draft:true）
+- [x] new-zealand-import-guide —— Import Chinese EV to New Zealand（0% 关税 + 15% GST，RHD + RUC）（draft:true）
 
 ---
 
