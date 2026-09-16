@@ -4,7 +4,7 @@ description: "Importing a Chinese EV to Thailand currently means 0% import duty 
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-16"
-draft: true
+draft: false
 tags: [thailand, ev-import, landed-cost, acfta, excise-tax, southeast-asia, chinese-ev]
 ---
 

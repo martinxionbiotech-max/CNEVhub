@@ -4,7 +4,7 @@ description: "Importing a Chinese EV to Malaysia stacks a 5% ACFTA import duty a
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-16"
-draft: true
+draft: false
 tags: [malaysia, ev-import, landed-cost, ckd, proton, geely, southeast-asia, chinese-ev]
 ---
 

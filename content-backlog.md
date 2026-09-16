@@ -56,8 +56,8 @@
 ### 批次 5 — Pillar C 零/低关税·非典型市场 II（5 篇）
 状态：`in_progress`（已写完；uk 已发布，剩 4 篇 draft:true 待发布）
 - [x] uk-import-guide —— Import Chinese EV to UK（10% 关税 + 20% VAT，无 EU CVD，RHD/IVA）（已发布，23:00 时点）
-- [x] thailand-import-guide —— Import Chinese EV to Thailand（0% 关税 + 7% VAT，本地制造枢纽）（draft:true）
-- [x] malaysia-import-guide —— Import Chinese EV to Malaysia（5% + 10% SST，Geely-Proton CKD）（draft:true）
+- [x] thailand-import-guide —— Import Chinese EV to Thailand（0% 关税 + 7% VAT，本地制造枢纽）（已发布，02:00 时点）
+- [x] malaysia-import-guide —— Import Chinese EV to Malaysia（5% + 10% SST，Geely-Proton CKD）（已发布，02:00 时点）
 - [x] singapore-import-guide —— Import Chinese EV to Singapore（20% + 9% GST + COE/ARF，最高门槛）（draft:true）
 - [x] new-zealand-import-guide —— Import Chinese EV to New Zealand（0% 关税 + 15% GST，RHD + RUC）（draft:true）
 
@@ -68,6 +68,14 @@
 - [x] sweden-import-guide —— Import Chinese EV to Sweden（EU CVD 适用 + 25% VAT，北欧 EV 渗透率最高）（draft:true）
 - [x] italy-import-guide —— Import Chinese EV to Italy（EU CVD 适用 + 22% VAT，Stellantis 主场）（draft:true）
 - [x] poland-import-guide —— Import Chinese EV to Poland（EU CVD 适用 + 23% VAT，中欧量价枢纽）（draft:true）
+
+### 批次 7 — Pillar C 欧盟成员国·差异化市场 IV（5 篇）
+状态：`in_progress`（02:00 时点派发 5 个 collector 子代理，全部 draft:true）
+- [ ] denmark-import-guide —— Import Chinese EV to Denmark（EU CVD 适用 + 25% VAT + 注册费 $3,500，落地溢价最高）
+- [ ] spain-import-guide —— Import Chinese EV to Spain（EU CVD 适用 + 21% VAT，西欧量价枢纽）
+- [ ] belgium-import-guide —— Import Chinese EV to Belgium（EU CVD 适用 + 21% VAT，安特卫普转运枢纽）
+- [ ] austria-import-guide —— Import Chinese EV to Austria（EU CVD 适用 + 20% VAT + NoVA）
+- [ ] portugal-import-guide —— Import Chinese EV to Portugal（EU CVD 适用 + 23% VAT + ISV）
 
 ---
 
