@@ -4,7 +4,7 @@ description: "Importing a Chinese EV to Singapore means a 20% excise duty on OMV
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-16"
-draft: true
+draft: false
 tags: [singapore, ev-import, landed-cost, market-comparison, coe, arf, chinese-ev]
 ---
 

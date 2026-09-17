@@ -4,7 +4,7 @@ description: "Importing a Chinese EV to New Zealand means 0% import duty and no 
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-16"
-draft: true
+draft: false
 tags: [new-zealand, ev-import, landed-cost, gst, road-user-charges, right-hand-drive, market-comparison, chinese-ev]
 ---
 

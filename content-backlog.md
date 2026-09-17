@@ -58,8 +58,8 @@
 - [x] uk-import-guide —— Import Chinese EV to UK（10% 关税 + 20% VAT，无 EU CVD，RHD/IVA）（已发布，23:00 时点）
 - [x] thailand-import-guide —— Import Chinese EV to Thailand（0% 关税 + 7% VAT，本地制造枢纽）（已发布，02:00 时点）
 - [x] malaysia-import-guide —— Import Chinese EV to Malaysia（5% + 10% SST，Geely-Proton CKD）（已发布，02:00 时点）
-- [x] singapore-import-guide —— Import Chinese EV to Singapore（20% + 9% GST + COE/ARF，最高门槛）（draft:true）
-- [x] new-zealand-import-guide —— Import Chinese EV to New Zealand（0% 关税 + 15% GST，RHD + RUC）（draft:true）
+- [x] singapore-import-guide —— Import Chinese EV to Singapore（20% + 9% GST + COE/ARF，最高门槛）（已发布，9/17 20:00 时点）
+- [x] new-zealand-import-guide —— Import Chinese EV to New Zealand（0% 关税 + 15% GST，RHD + RUC）（已发布，9/17 20:00 时点）
 
 ### 批次 6 — Pillar C 欧盟成员国·差异化市场 III（5 篇）
 状态：`done`（已写完，全部 draft:true 待发布；23:00 时点配额已用完）
@@ -76,6 +76,14 @@
 - [x] belgium-import-guide —— Import Chinese EV to Belgium（EU CVD 适用 + 21% VAT，安特卫普转运枢纽）（draft:true）
 - [x] austria-import-guide —— Import Chinese EV to Austria（EU CVD 适用 + 20% VAT + NoVA）（draft:true）
 - [x] portugal-import-guide —— Import Chinese EV to Portugal（EU CVD 适用 + 23% VAT + ISV）（draft:true）
+
+### 批次 8 — Pillar C 中东收官 + Pillar D 对比第二波（5 篇）
+状态：`dispatched`（9/17 20:00 时点派发 collector 子代理，写作中；全部 draft:true）
+- [ ] qatar-import-guide —— Import Chinese EV to Qatar（5% GCC 关税 + 0% VAT + $30 注册费，海湾最便宜通道；对照 UAE/Saudi）
+- [ ] byd-atto-3-vs-tesla-model-y —— BYD Atto 3 vs Tesla Model Y landed cost（紧凑 SUV）
+- [ ] mg-4-vs-byd-dolphin —— MG4 vs BYD Dolphin（紧凑两厢对比）
+- [ ] xpeng-g6-vs-tesla-model-y —— XPeng G6 vs Tesla Model Y
+- [ ] zeekr-007-vs-byd-seal —— Zeekr 007 vs BYD Seal（中国中型轿车对决）
 
 ---
 
