@@ -65,8 +65,8 @@
 状态：`publishing`（已写完；ireland/israel 已上线，剩 3 篇 draft:true）
 - [x] ireland-import-guide —— Import Chinese EV to Ireland（EU CVD 适用 + RHD + VRT 注册税，欧盟内唯一 RHD 大市场）（已发布，9/17 23:00 时点）
 - [x] israel-import-guide —— Import Chinese EV to Israel（7% 关税 + 48% 购置税，BYD 第一大出口市场）（已发布，9/17 23:00 时点）
-- [x] sweden-import-guide —— Import Chinese EV to Sweden（EU CVD 适用 + 25% VAT，北欧 EV 渗透率最高）（draft:true）
-- [x] italy-import-guide —— Import Chinese EV to Italy（EU CVD 适用 + 22% VAT，Stellantis 主场）（draft:true）
+- [x] sweden-import-guide —— Import Chinese EV to Sweden（EU CVD 适用 + 25% VAT，北欧 EV 渗透率最高）（已发布，9/18 02:00 时点）
+- [x] italy-import-guide —— Import Chinese EV to Italy（EU CVD 适用 + 22% VAT，Stellantis 主场）（已发布，9/18 02:00 时点）
 - [x] poland-import-guide —— Import Chinese EV to Poland（EU CVD 适用 + 23% VAT，中欧量价枢纽）（draft:true）
 
 ### 批次 7 — Pillar C 欧盟成员国·差异化市场 IV（5 篇）

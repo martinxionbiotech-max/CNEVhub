@@ -4,7 +4,7 @@ description: "Sweden applies the same EU tariff stack as Germany — 10% standar
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-16"
-draft: true
+draft: false
 tags: [sweden, ev-import, landed-cost, eu-tariff, countervailing-duty, vat, nordic, market-comparison, chinese-ev]
 ---
 

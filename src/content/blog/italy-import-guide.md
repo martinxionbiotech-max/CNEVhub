@@ -4,7 +4,7 @@ description: "Importing a Chinese EV to Italy stacks the EU's 10% duty with a br
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-16"
-draft: true
+draft: false
 tags: [italy, ev-import, landed-cost, eu-tariffs, countervailing-duty, vat, stellantis, chinese-ev, market-analysis]
 ---
 
