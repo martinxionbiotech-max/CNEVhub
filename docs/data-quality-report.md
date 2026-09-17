@@ -33,20 +33,47 @@
 
 | 项 | 状态 | 说明 |
 |---|---|---|
-| fast_charge='-' | 158 台 | 确定性占位符=未知；渲染层已隐藏。不伪造数值 |
+| fast_charge 占位 | **已清零（P1）** | 158 台 '-'→null（语义：未知）；渲染层隐藏；validate 新增回归检查 |
 | data_reviewed=false | 517/517 | 诚实状态，未人工复核 |
 | Guoya powertrain=Unknown | 1 台 | V6/V8+电机的混合结构无法从公开源判定 HEV/PHEV |
 | 品牌 established 年份 | 71/72 区间合法 | 仅 MG 越界已修；其余未逐一手工核验（持续监控）|
+| 车辆 specs 缺失项 | 73 台 | range/battery/motor_power 等为空（多为 ICE/PHEV/老旧车型），如实保留 null，不伪造 |
 
 ## 来源覆盖（source coverage）
 
 - 品牌 source_url 覆盖：**72/72（100%）**——本次新增 source/source_url 字段
-- 关税 legal_basis：**1/1**——cvd_meta 新增 EUR-Lex 2024/2754
+- 车辆 source/source_url：**517/517（100%）**——P1 新增，继承品牌级来源（manufacturer specs）；逐车官网规格页 url 仍为剩余缺口（任务 §8 允许先覆盖最高风险字段，报告已说明）
+- 关税 legal_basis：**1/1**——cvd_meta 新增 EUR-Lex 2024/2754；2026-09-17 权威复核被 EUR-Lex WAF 拦截，verification_status=unknown（数字未动）
 - 市场 source_ids：30/30 已存在（eu-2024-2754 / national-tax）
 - 车辆 md 有 data_source 字符串字段（泛化来源说明），无逐字段 source_url——**报告为剩余缺口**（任务 §8 允许先覆盖最高风险字段）
+
+## P1+P2 数据更新（2026-09-17）
+
+- price_type：**517/517** 已加 "China ex-factory price (MSRP)"（车辆页 specs 表新增 Price basis 行展示）
+- fast_charge：**158 台** '-'→null，md 与渲染层同步，0 残留
+- 落地成本置信度：车辆页渲染层新增 Confidence: Medium + Last verified（每车 data_updated），md 数据未动
+- cvd_meta：新增 verification_status=unknown + verification_note（复核失败记录）
 
 ## 关税覆盖（tariff coverage）
 
 - EU 市场 brand_cvd：19 个品牌/集团条目（BYD 17%、Geely 系 18.8%、SAIC 系 35.3%、Tesla 7.8%、其他配合 20.7%）
 - powertrain_scope：BEV-only（PHEV/EREV/HEV/ICE 不适用）
 - PHEV/EREV 误套 BEV CVD：**0**（全量扫描通过）
+
+## 全字段占位扫描（P2 §15 扩展，2026-09-17）
+
+> 工具：`npm run placeholder:scan`（scripts/placeholder-scan.mjs）。扫描 9999/99999 哨兵值、未来日期、负值、空串、placeholder/TBD/N/A 字样。
+
+- vehicle-master 全字段（含 variants）：**0** 条异常
+- md frontmatter 扫描：**0** 条异常
+
+✅ 无异常值。
+
+## 全字段占位扫描（P2 §15 扩展，2026-09-17）
+
+> 工具：`npm run placeholder:scan`（scripts/placeholder-scan.mjs）。扫描 9999/99999 哨兵值、未来日期、负值、空串、placeholder/TBD/N/A 字样。
+
+- vehicle-master 全字段（含 variants）：**0** 条异常
+- md frontmatter 扫描：**0** 条异常
+
+✅ 无异常值。

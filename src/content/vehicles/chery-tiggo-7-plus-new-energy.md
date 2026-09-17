@@ -17,7 +17,7 @@ width_mm: 1862
 height_mm: 1696
 wheelbase_mm: 2670
 weight_kg: 1695
-fast_charge: "-"
+fast_charge: null
 landed_cost: {"market": "Germany", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 30554.7, "premium_pct": 67.0, "breakdown": {"duty_cif_usd": 1830.0, "countervailing_duty_usd": 0.0, "vat_usd": 3824.7, "freight_roro_usd": 2000, "customs_clearance_usd": 350, "certification_usd": 3250, "registration_usd": 500, "inland_transport_usd": 500}}
 publishedDate: "2026-09-05"
 author: "Wei Wang"

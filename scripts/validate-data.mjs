@@ -62,6 +62,11 @@ for (const v of vehicles) {
   if (v.range_cltc_km != null && (v.range_cltc_km < 50 || v.range_cltc_km > 1500)) flag('invalid-range', id, `range_cltc_km=${v.range_cltc_km}`);
   if (v.top_speed_kmh != null && (v.top_speed_kmh <= 0 || v.top_speed_kmh > 500)) flag('invalid-top-speed', id, `top_speed_kmh=${v.top_speed_kmh}`);
   if (!mdFiles.has(id)) flag('missing-md', id, 'no md file in src/content/vehicles');
+  if (!v.price_type) flag('missing-price-type', id, 'missing price_type');
+  else if (v.price_type !== 'China ex-factory price (MSRP)')
+    flag('invalid-price-type', id, `price_type=${v.price_type}`);
+  if (!v.source) flag('missing-source', id, 'missing source (brand-level inheritance)');
+  if (!/^https?:\/\//.test(v.source_url || '')) flag('missing-source', id, `source_url=${v.source_url}`);
 }
 for (const f of mdFiles) {
   if (!vehicleIds.has(f)) flag('orphan-md', f, 'md file without master record');
@@ -77,7 +82,10 @@ for (const v of vehicles) {
   const mdPt = fm.match(/^powertrain:\s*"([^"]+)"/m)?.[1];
   if (mdType && mdType !== v.body_type) flag('md-drift', id, `md type=${mdType} vs master body_type=${v.body_type}`);
   if (mdPt && mdPt !== v.powertrain) flag('md-drift', id, `md powertrain=${mdPt} vs master ${v.powertrain}`);
+  const mdFc = fm.match(/^fast_charge:\s*"(-)"$/m)?.[1];
+  if (mdFc) flag('fast-charge-placeholder', id, `md fast_charge='-' placeholder (should be null)`);
 }
+ok.push('fast_charge: no \'-\' placeholder (all null or real values)');
 ok.push(`vehicles: ${vehicles.length} (md 1:1)`);
 
 // ── 3. markets ──

@@ -252,6 +252,8 @@
   "effective_to": null,
   "status": "active",
   "last_verified": "2026-09-15",
+  "verification_status": "unknown",
+  "verification_note": "2026-09-17 权威复核尝试失败（EUR-Lex 被 AWS WAF challenge 拦截，HTML/PDF 均不可达；搜索 API 配额耗尽）。税率保持站点既有值，未改任何数字，待人工权威复核。",
   "note": "Producer-specific rates: BYD 17.0% / Geely group 18.8% / SAIC group 35.3% / Tesla Shanghai 7.8% / other cooperating 20.7% / non-cooperating 35.3%. Applies to BEV only; PHEV/EREV/HEV excluded."
  }
 }

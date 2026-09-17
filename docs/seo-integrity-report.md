@@ -44,3 +44,17 @@
 - robots.txt：未改动（既有策略无错误）
 - sitemap 结构：未改动
 - URL 结构：未改动（0 URL 变化）
+
+## 全量 SEO 验证（P2 深度，2026-09-17）
+
+> 工具：`npm run seo:validate`（scripts/seo-validation.mjs）
+
+- sitemap: 786 URLs, 786 same-host, missing in dist: 0
+- dist html: 788, not in sitemap (non-error pages): 0
+- internal links checked: 65328, broken: 0
+- sample vehicles: 10/10 consistent
+- sample brands: 10/10 consistent
+- sample blog: 5/5 consistent
+- sample docs: 5/5 consistent
+
+**结论：全量检查 0 issues。**
