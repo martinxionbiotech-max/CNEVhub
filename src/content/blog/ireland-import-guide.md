@@ -4,7 +4,7 @@ description: "Importing a Chinese EV to Ireland stacks the EU's full trade-defen
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-16"
-draft: true
+draft: false
 tags: [ireland, ev-import, landed-cost, countervailing-duty, vrt, eu-customs, right-hand-drive, chinese-ev]
 ---
 

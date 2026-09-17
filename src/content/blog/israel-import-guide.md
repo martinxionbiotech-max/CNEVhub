@@ -4,7 +4,7 @@ description: "Importing a Chinese EV to Israel means a 7% customs duty, no EU co
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-16"
-draft: true
+draft: false
 tags: [israel, ev-import, landed-cost, purchase-tax, customs-duty, middle-east, chinese-ev]
 ---
 

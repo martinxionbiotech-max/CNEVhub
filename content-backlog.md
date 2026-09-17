@@ -62,9 +62,9 @@
 - [x] new-zealand-import-guide —— Import Chinese EV to New Zealand（0% 关税 + 15% GST，RHD + RUC）（已发布，9/17 20:00 时点）
 
 ### 批次 6 — Pillar C 欧盟成员国·差异化市场 III（5 篇）
-状态：`done`（已写完，全部 draft:true 待发布；23:00 时点配额已用完）
-- [x] ireland-import-guide —— Import Chinese EV to Ireland（EU CVD 适用 + RHD + VRT 注册税，欧盟内唯一 RHD 大市场）（draft:true）
-- [x] israel-import-guide —— Import Chinese EV to Israel（7% 关税 + 48% 购置税，BYD 第一大出口市场）（draft:true）
+状态：`publishing`（已写完；ireland/israel 已上线，剩 3 篇 draft:true）
+- [x] ireland-import-guide —— Import Chinese EV to Ireland（EU CVD 适用 + RHD + VRT 注册税，欧盟内唯一 RHD 大市场）（已发布，9/17 23:00 时点）
+- [x] israel-import-guide —— Import Chinese EV to Israel（7% 关税 + 48% 购置税，BYD 第一大出口市场）（已发布，9/17 23:00 时点）
 - [x] sweden-import-guide —— Import Chinese EV to Sweden（EU CVD 适用 + 25% VAT，北欧 EV 渗透率最高）（draft:true）
 - [x] italy-import-guide —— Import Chinese EV to Italy（EU CVD 适用 + 22% VAT，Stellantis 主场）（draft:true）
 - [x] poland-import-guide —— Import Chinese EV to Poland（EU CVD 适用 + 23% VAT，中欧量价枢纽）（draft:true）
@@ -78,12 +78,20 @@
 - [x] portugal-import-guide —— Import Chinese EV to Portugal（EU CVD 适用 + 23% VAT + ISV）（draft:true）
 
 ### 批次 8 — Pillar C 中东收官 + Pillar D 对比第二波（5 篇）
-状态：`dispatched`（9/17 20:00 时点派发 collector 子代理，写作中；全部 draft:true）
-- [ ] qatar-import-guide —— Import Chinese EV to Qatar（5% GCC 关税 + 0% VAT + $30 注册费，海湾最便宜通道；对照 UAE/Saudi）
-- [ ] byd-atto-3-vs-tesla-model-y —— BYD Atto 3 vs Tesla Model Y landed cost（紧凑 SUV）
-- [ ] mg-4-vs-byd-dolphin —— MG4 vs BYD Dolphin（紧凑两厢对比）
-- [ ] xpeng-g6-vs-tesla-model-y —— XPeng G6 vs Tesla Model Y
-- [ ] zeekr-007-vs-byd-seal —— Zeekr 007 vs BYD Seal（中国中型轿车对决）
+状态：`done`（已写完，9/17 23:00 时点二次检查通过；全部 draft:true 待发布）
+- [x] qatar-import-guide —— Import Chinese EV to Qatar（5% GCC 关税 + 0% VAT + $30 注册费，海湾最便宜通道；对照 UAE/Saudi）（draft:true）
+- [x] byd-atto-3-vs-tesla-model-y —— BYD Atto 3 vs Tesla Model Y landed cost（紧凑 SUV）（draft:true）
+- [x] mg-4-vs-byd-dolphin —— MG4 vs BYD Dolphin（紧凑两厢对比）（draft:true）
+- [x] xpeng-g6-vs-tesla-model-y —— XPeng G6 vs Tesla Model Y（draft:true）
+- [x] zeekr-007-vs-byd-seal —— Zeekr 007 vs BYD Seal（中国中型轿车对决）（draft:true）
+
+### 批次 9 — Pillar C 收官：欧盟核心 + 海湾三强（5 篇）
+状态：`dispatched`（9/17 23:00 时点派发 5 个 collector 子代理，写作中；全部 draft:true）
+- [ ] germany-import-guide —— Import Chinese EV to Germany（EU CVD 核心市场；10% + 品牌 CVD + 19% VAT，柏林产 Tesla 不适用 CVD）
+- [ ] france-import-guide —— Import Chinese EV to France（10% + 品牌 CVD + 20% VAT，Stellantis 主场）
+- [ ] netherlands-import-guide —— Import Chinese EV to Netherlands（10% + 品牌 CVD + 21% VAT，鹿特丹转运枢纽）
+- [ ] uae-import-guide —— Import Chinese EV to UAE（5% GCC + 5% VAT，海湾转口枢纽；对照 Qatar 0% VAT）
+- [ ] saudi-arabia-import-guide —— Import Chinese EV to Saudi Arabia（5% GCC + 15% VAT，海湾最大市场；三档 VAT 对比）
 
 ---
 
