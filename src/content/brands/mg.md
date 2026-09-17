@@ -2,12 +2,12 @@
 title: "MG: Chinese EV Brand Profile & Export Data"
 description: "MG is a global automotive brand with British heritage and Chinese innovation, now owned and operated by SAIC Motor Corporation Limited. Originally fou..."
 brand_name: "MG"
-established: "1029"
+established: "1924"
 parent_manufacturer: "SAIC"
 parent_location: "Shanghai, China"
 parent_founded: "1955"
 website: "https://www.mgmotor.eu/"
-model_count: 2
+model_count: 6
 publishedDate: "2026-09-05"
 tags: [MG, Chinese EV brand, EV export]
 ---
@@ -19,7 +19,7 @@ MG is a global automotive brand with British heritage and Chinese innovation, no
 ## Brand Overview
 
 - **Brand:** MG
-- **Established:** 1029
+- **Established:** 1924
 - **Parent Manufacturer:** SAIC
 - **Headquarters:** Shanghai, China
 - **Parent Founded:** 1955
@@ -27,11 +27,11 @@ MG is a global automotive brand with British heritage and Chinese innovation, no
 
 ## Brand at a Glance
 
-- **Models cataloged:** 2
+- **Models cataloged:** 6
 - **Base price range:** $9,690 – $16,460
 - **Landed cost (Germany):** $23,762 – $35,752
 - **Landed premium (Germany):** +117% to +145%
-- **Body types:** SUV
+- **Body types:** Hatchback, SUV, Sedan
 
 ## Explore MG Models
 

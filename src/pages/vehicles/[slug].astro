@@ -44,7 +44,15 @@ const lowestTotal = multiLc.length ? Math.min(...multiLc.map((m) => m.total_land
 const pageUrl = new URL(Astro.url.pathname, siteUrl).href;
 const vehicleImage = new URL(data.image || '/og-image.png', siteUrl).href;
 
-// JSON-LD Vehicle schema
+// JSON-LD Vehicle schema（信息页：无 offers，不宣称在售）
+const fuelTypeByPowertrain = {
+  BEV: 'Electric',
+  PHEV: 'Plug-in hybrid',
+  EREV: 'Extended-range electric',
+  HEV: 'Hybrid',
+  ICE: 'Gasoline',
+  Unknown: undefined,
+};
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Vehicle',
@@ -56,15 +64,10 @@ const jsonLd = {
   brand: { '@type': 'Brand', name: data.brand.toUpperCase() },
   vehicleModelDate: '2026',
   bodyType: data.type,
-  fuelType: 'Electric',
+  fuelType: fuelTypeByPowertrain[data.powertrain],
   numberOfDoors: 4,
   vehicleEngine: data.motor_power_kw ? { '@type': 'EngineSpecification', enginePower: { '@type': 'QuantitativeValue', value: data.motor_power_kw, unitCode: 'KWT' } } : undefined,
-  offers: {
-    '@type': 'Offer',
-    price: data.price_usd,
-    priceCurrency: data.currency,
-    availability: 'https://schema.org/InStock',
-  },
+  // 信息型页面不声明 Offer（本平台不销售车辆）
 };
 
 ---

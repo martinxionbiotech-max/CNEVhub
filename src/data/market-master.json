@@ -1,461 +1,491 @@
 {
-  "generated": "2026-09-15",
-  "markets": [
-    {
-      "market_id": "germany",
-      "market": "Germany",
-      "region": "EU",
-      "import_duty": 0.1,
-      "vat_gst": 0.19,
-      "countervailing_duty": true,
-      "registration_fee_usd": 500,
-      "source_ids": [
-        "eu-2024-2754",
-        "national-tax"
-      ],
-      "effective_date": "2026-09-07",
-      "last_verified": "2026-09-15"
-    },
-    {
-      "market_id": "france",
-      "market": "France",
-      "region": "EU",
-      "import_duty": 0.1,
-      "vat_gst": 0.2,
-      "countervailing_duty": true,
-      "registration_fee_usd": 400,
-      "source_ids": [
-        "eu-2024-2754",
-        "national-tax"
-      ],
-      "effective_date": "2026-09-07",
-      "last_verified": "2026-09-15"
-    },
-    {
-      "market_id": "netherlands",
-      "market": "Netherlands",
-      "region": "EU",
-      "import_duty": 0.1,
-      "vat_gst": 0.21,
-      "countervailing_duty": true,
-      "registration_fee_usd": 400,
-      "source_ids": [
-        "eu-2024-2754",
-        "national-tax"
-      ],
-      "effective_date": "2026-09-07",
-      "last_verified": "2026-09-15"
-    },
-    {
-      "market_id": "united_kingdom",
-      "market": "United Kingdom",
-      "region": "Non-EU Europe",
-      "import_duty": 0.1,
-      "vat_gst": 0.2,
-      "countervailing_duty": false,
-      "registration_fee_usd": 400,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-07",
-      "last_verified": "2026-09-15"
-    },
-    {
-      "market_id": "united_arab_emirates",
-      "market": "UAE",
-      "region": "Middle East",
-      "import_duty": 0.05,
-      "vat_gst": 0.05,
-      "countervailing_duty": false,
-      "registration_fee_usd": 300,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-07",
-      "last_verified": "2026-09-15"
-    },
-    {
-      "market_id": "saudi_arabia",
-      "market": "Saudi Arabia",
-      "region": "Middle East",
-      "import_duty": 0.05,
-      "vat_gst": 0.15,
-      "countervailing_duty": false,
-      "registration_fee_usd": 300,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-07",
-      "last_verified": "2026-09-15"
-    },
-    {
-      "market_id": "australia",
-      "market": "Australia",
-      "region": "Oceania",
-      "import_duty": 0.0,
-      "vat_gst": 0.1,
-      "countervailing_duty": false,
-      "registration_fee_usd": 500,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-07",
-      "last_verified": "2026-09-15"
-    },
-    {
-      "market_id": "norway",
-      "market": "Norway",
-      "region": "Non-EU Europe",
-      "import_duty": 0.0,
-      "vat_gst": 0.25,
-      "countervailing_duty": false,
-      "registration_fee_usd": 1400,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "BEV exempt import duty/one-off tax; VAT 25% (exempt first NOK 300k from 2026)"
-    },
-    {
-      "market_id": "sweden",
-      "market": "Sweden",
-      "region": "EU",
-      "import_duty": 0.1,
-      "vat_gst": 0.25,
-      "countervailing_duty": true,
-      "registration_fee_usd": 70,
-      "source_ids": [
-        "eu-2024-2754",
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "EU TARIC 10% MFN; VAT 25%; EU CVD Reg 2024/2754"
-    },
-    {
-      "market_id": "denmark",
-      "market": "Denmark",
-      "region": "EU",
-      "import_duty": 0.1,
-      "vat_gst": 0.25,
-      "countervailing_duty": true,
-      "registration_fee_usd": 3500,
-      "source_ids": [
-        "eu-2024-2754",
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "EU 10% MFN; VAT 25%; BEV reg tax phased in 2026"
-    },
-    {
-      "market_id": "spain",
-      "market": "Spain",
-      "region": "EU",
-      "import_duty": 0.1,
-      "vat_gst": 0.21,
-      "countervailing_duty": true,
-      "registration_fee_usd": 110,
-      "source_ids": [
-        "eu-2024-2754",
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "EU 10% MFN; VAT 21%; EU CVD"
-    },
-    {
-      "market_id": "italy",
-      "market": "Italy",
-      "region": "EU",
-      "import_duty": 0.1,
-      "vat_gst": 0.22,
-      "countervailing_duty": true,
-      "registration_fee_usd": 250,
-      "source_ids": [
-        "eu-2024-2754",
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "EU 10% MFN; VAT 22%; EU CVD"
-    },
-    {
-      "market_id": "belgium",
-      "market": "Belgium",
-      "region": "EU",
-      "import_duty": 0.1,
-      "vat_gst": 0.21,
-      "countervailing_duty": true,
-      "registration_fee_usd": 150,
-      "source_ids": [
-        "eu-2024-2754",
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "EU 10% MFN; VAT 21%; EU CVD; regional reg tax"
-    },
-    {
-      "market_id": "austria",
-      "market": "Austria",
-      "region": "EU",
-      "import_duty": 0.1,
-      "vat_gst": 0.2,
-      "countervailing_duty": true,
-      "registration_fee_usd": 200,
-      "source_ids": [
-        "eu-2024-2754",
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "EU 10% MFN; VAT 20%; NoVA 0% for BEV"
-    },
-    {
-      "market_id": "portugal",
-      "market": "Portugal",
-      "region": "EU",
-      "import_duty": 0.1,
-      "vat_gst": 0.23,
-      "countervailing_duty": true,
-      "registration_fee_usd": 200,
-      "source_ids": [
-        "eu-2024-2754",
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "EU 10% MFN; VAT 23%; reduced ISV for BEV"
-    },
-    {
-      "market_id": "ireland",
-      "market": "Ireland",
-      "region": "EU",
-      "import_duty": 0.1,
-      "vat_gst": 0.23,
-      "countervailing_duty": true,
-      "registration_fee_usd": 200,
-      "source_ids": [
-        "eu-2024-2754",
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "EU 10% MFN; VAT 23%; reduced VRT for BEV"
-    },
-    {
-      "market_id": "poland",
-      "market": "Poland",
-      "region": "EU",
-      "import_duty": 0.1,
-      "vat_gst": 0.23,
-      "countervailing_duty": true,
-      "registration_fee_usd": 55,
-      "source_ids": [
-        "eu-2024-2754",
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "EU 10% MFN; VAT 23%; BEV exempt reg tax"
-    },
-    {
-      "market_id": "switzerland",
-      "market": "Switzerland",
-      "region": "Non-EU Europe",
-      "import_duty": 0.04,
-      "vat_gst": 0.081,
-      "countervailing_duty": false,
-      "registration_fee_usd": 200,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "4% auto duty (2024); VAT 8.1%; non-EU"
-    },
-    {
-      "market_id": "israel",
-      "market": "Israel",
-      "region": "Middle East",
-      "import_duty": 0.07,
-      "vat_gst": 0.18,
-      "countervailing_duty": false,
-      "registration_fee_usd": 700,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "7% customs duty; VAT 18%; EV purchase tax 45-52%"
-    },
-    {
-      "market_id": "qatar",
-      "market": "Qatar",
-      "region": "Middle East",
-      "import_duty": 0.05,
-      "vat_gst": 0.0,
-      "countervailing_duty": false,
-      "registration_fee_usd": 30,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "GCC 5% duty; no VAT"
-    },
-    {
-      "market_id": "turkey",
-      "market": "Turkey",
-      "region": "Middle East",
-      "import_duty": 0.4,
-      "vat_gst": 0.2,
-      "countervailing_duty": false,
-      "registration_fee_usd": 100,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "10%+30% additional duty (min $8.5k, 2025); VAT 20%; OTV 25-75%"
-    },
-    {
-      "market_id": "new_zealand",
-      "market": "New Zealand",
-      "region": "Oceania",
-      "import_duty": 0.0,
-      "vat_gst": 0.15,
-      "countervailing_duty": false,
-      "registration_fee_usd": 23,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "0% duty; GST 15%"
-    },
-    {
-      "market_id": "thailand",
-      "market": "Thailand",
-      "region": "Southeast Asia",
-      "import_duty": 0.0,
-      "vat_gst": 0.07,
-      "countervailing_duty": false,
-      "registration_fee_usd": 50,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "0% under ACFTA; VAT 7%; excise 2%"
-    },
-    {
-      "market_id": "malaysia",
-      "market": "Malaysia",
-      "region": "Southeast Asia",
-      "import_duty": 0.05,
-      "vat_gst": 0.1,
-      "countervailing_duty": false,
-      "registration_fee_usd": 50,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "CBU EV exemption ended 2025; ACFTA 5% + excise 10% + SST 10%"
-    },
-    {
-      "market_id": "indonesia",
-      "market": "Indonesia",
-      "region": "Southeast Asia",
-      "import_duty": 0.5,
-      "vat_gst": 0.11,
-      "countervailing_duty": false,
-      "registration_fee_usd": 100,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "CBU EV 0% exemption expired 2025; 50% duty; VAT 11%"
-    },
-    {
-      "market_id": "singapore",
-      "market": "Singapore",
-      "region": "Southeast Asia",
-      "import_duty": 0.2,
-      "vat_gst": 0.09,
-      "countervailing_duty": false,
-      "registration_fee_usd": 260,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "20% excise duty; GST 9%; ARF/COE excluded"
-    },
-    {
-      "market_id": "mexico",
-      "market": "Mexico",
-      "region": "North America",
-      "import_duty": 0.5,
-      "vat_gst": 0.16,
-      "countervailing_duty": false,
-      "registration_fee_usd": 50,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "Duty 20%→50% (Jan 2026); VAT 16%"
-    },
-    {
-      "market_id": "brazil",
-      "market": "Brazil",
-      "region": "Latin America",
-      "import_duty": 0.35,
-      "vat_gst": 0.17,
-      "countervailing_duty": false,
-      "registration_fee_usd": 70,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "BEV II 35% (Jul 2026); ICMS ~17%; IPI/PIS/COFINS separate"
-    },
-    {
-      "market_id": "canada",
-      "market": "Canada",
-      "region": "North America",
-      "import_duty": 0.061,
-      "vat_gst": 0.05,
-      "countervailing_duty": false,
-      "registration_fee_usd": 40,
-      "source_ids": [
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "100% surtax repealed Mar 2026; 6.1% MFN; GST 5%"
-    },
-    {
-      "market_id": "south_africa",
-      "market": "South Africa",
-      "region": "Africa",
-      "import_duty": 0.25,
-      "vat_gst": 0.15,
-      "countervailing_duty": false,
-      "registration_fee_usd": 30,
-      "source_ids": [
-        "eu-2024-2754",
-        "national-tax"
-      ],
-      "effective_date": "2026-09-15",
-      "last_verified": "2026-09-15",
-      "notes": "BEV 25% duty; VAT 15%"
-    }
-  ]
+ "generated": "2026-09-15",
+ "markets": [
+  {
+   "market_id": "germany",
+   "market": "Germany",
+   "region": "EU",
+   "import_duty": 0.1,
+   "vat_gst": 0.19,
+   "countervailing_duty": true,
+   "registration_fee_usd": 500,
+   "source_ids": [
+    "eu-2024-2754",
+    "national-tax"
+   ],
+   "effective_date": "2026-09-07",
+   "last_verified": "2026-09-15",
+   "market_code": "DE"
+  },
+  {
+   "market_id": "france",
+   "market": "France",
+   "region": "EU",
+   "import_duty": 0.1,
+   "vat_gst": 0.2,
+   "countervailing_duty": true,
+   "registration_fee_usd": 400,
+   "source_ids": [
+    "eu-2024-2754",
+    "national-tax"
+   ],
+   "effective_date": "2026-09-07",
+   "last_verified": "2026-09-15",
+   "market_code": "FR"
+  },
+  {
+   "market_id": "netherlands",
+   "market": "Netherlands",
+   "region": "EU",
+   "import_duty": 0.1,
+   "vat_gst": 0.21,
+   "countervailing_duty": true,
+   "registration_fee_usd": 400,
+   "source_ids": [
+    "eu-2024-2754",
+    "national-tax"
+   ],
+   "effective_date": "2026-09-07",
+   "last_verified": "2026-09-15",
+   "market_code": "NL"
+  },
+  {
+   "market_id": "united_kingdom",
+   "market": "United Kingdom",
+   "region": "Non-EU Europe",
+   "import_duty": 0.1,
+   "vat_gst": 0.2,
+   "countervailing_duty": false,
+   "registration_fee_usd": 400,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-07",
+   "last_verified": "2026-09-15",
+   "market_code": "GB"
+  },
+  {
+   "market_id": "united_arab_emirates",
+   "market": "UAE",
+   "region": "Middle East",
+   "import_duty": 0.05,
+   "vat_gst": 0.05,
+   "countervailing_duty": false,
+   "registration_fee_usd": 300,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-07",
+   "last_verified": "2026-09-15",
+   "market_code": "AE"
+  },
+  {
+   "market_id": "saudi_arabia",
+   "market": "Saudi Arabia",
+   "region": "Middle East",
+   "import_duty": 0.05,
+   "vat_gst": 0.15,
+   "countervailing_duty": false,
+   "registration_fee_usd": 300,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-07",
+   "last_verified": "2026-09-15",
+   "market_code": "SA"
+  },
+  {
+   "market_id": "australia",
+   "market": "Australia",
+   "region": "Oceania",
+   "import_duty": 0.0,
+   "vat_gst": 0.1,
+   "countervailing_duty": false,
+   "registration_fee_usd": 500,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-07",
+   "last_verified": "2026-09-15",
+   "market_code": "AU"
+  },
+  {
+   "market_id": "norway",
+   "market": "Norway",
+   "region": "Non-EU Europe",
+   "import_duty": 0.0,
+   "vat_gst": 0.25,
+   "countervailing_duty": false,
+   "registration_fee_usd": 1400,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "BEV exempt import duty/one-off tax; VAT 25% (exempt first NOK 300k from 2026)",
+   "market_code": "NO"
+  },
+  {
+   "market_id": "sweden",
+   "market": "Sweden",
+   "region": "EU",
+   "import_duty": 0.1,
+   "vat_gst": 0.25,
+   "countervailing_duty": true,
+   "registration_fee_usd": 70,
+   "source_ids": [
+    "eu-2024-2754",
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "EU TARIC 10% MFN; VAT 25%; EU CVD Reg 2024/2754",
+   "market_code": "SE"
+  },
+  {
+   "market_id": "denmark",
+   "market": "Denmark",
+   "region": "EU",
+   "import_duty": 0.1,
+   "vat_gst": 0.25,
+   "countervailing_duty": true,
+   "registration_fee_usd": 3500,
+   "source_ids": [
+    "eu-2024-2754",
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "EU 10% MFN; VAT 25%; BEV reg tax phased in 2026",
+   "market_code": "DK"
+  },
+  {
+   "market_id": "spain",
+   "market": "Spain",
+   "region": "EU",
+   "import_duty": 0.1,
+   "vat_gst": 0.21,
+   "countervailing_duty": true,
+   "registration_fee_usd": 110,
+   "source_ids": [
+    "eu-2024-2754",
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "EU 10% MFN; VAT 21%; EU CVD",
+   "market_code": "ES"
+  },
+  {
+   "market_id": "italy",
+   "market": "Italy",
+   "region": "EU",
+   "import_duty": 0.1,
+   "vat_gst": 0.22,
+   "countervailing_duty": true,
+   "registration_fee_usd": 250,
+   "source_ids": [
+    "eu-2024-2754",
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "EU 10% MFN; VAT 22%; EU CVD",
+   "market_code": "IT"
+  },
+  {
+   "market_id": "belgium",
+   "market": "Belgium",
+   "region": "EU",
+   "import_duty": 0.1,
+   "vat_gst": 0.21,
+   "countervailing_duty": true,
+   "registration_fee_usd": 150,
+   "source_ids": [
+    "eu-2024-2754",
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "EU 10% MFN; VAT 21%; EU CVD; regional reg tax",
+   "market_code": "BE"
+  },
+  {
+   "market_id": "austria",
+   "market": "Austria",
+   "region": "EU",
+   "import_duty": 0.1,
+   "vat_gst": 0.2,
+   "countervailing_duty": true,
+   "registration_fee_usd": 200,
+   "source_ids": [
+    "eu-2024-2754",
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "EU 10% MFN; VAT 20%; NoVA 0% for BEV",
+   "market_code": "AT"
+  },
+  {
+   "market_id": "portugal",
+   "market": "Portugal",
+   "region": "EU",
+   "import_duty": 0.1,
+   "vat_gst": 0.23,
+   "countervailing_duty": true,
+   "registration_fee_usd": 200,
+   "source_ids": [
+    "eu-2024-2754",
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "EU 10% MFN; VAT 23%; reduced ISV for BEV",
+   "market_code": "PT"
+  },
+  {
+   "market_id": "ireland",
+   "market": "Ireland",
+   "region": "EU",
+   "import_duty": 0.1,
+   "vat_gst": 0.23,
+   "countervailing_duty": true,
+   "registration_fee_usd": 200,
+   "source_ids": [
+    "eu-2024-2754",
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "EU 10% MFN; VAT 23%; reduced VRT for BEV",
+   "market_code": "IE"
+  },
+  {
+   "market_id": "poland",
+   "market": "Poland",
+   "region": "EU",
+   "import_duty": 0.1,
+   "vat_gst": 0.23,
+   "countervailing_duty": true,
+   "registration_fee_usd": 55,
+   "source_ids": [
+    "eu-2024-2754",
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "EU 10% MFN; VAT 23%; BEV exempt reg tax",
+   "market_code": "PL"
+  },
+  {
+   "market_id": "switzerland",
+   "market": "Switzerland",
+   "region": "Non-EU Europe",
+   "import_duty": 0.04,
+   "vat_gst": 0.081,
+   "countervailing_duty": false,
+   "registration_fee_usd": 200,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "4% auto duty (2024); VAT 8.1%; non-EU",
+   "market_code": "CH"
+  },
+  {
+   "market_id": "israel",
+   "market": "Israel",
+   "region": "Middle East",
+   "import_duty": 0.07,
+   "vat_gst": 0.18,
+   "countervailing_duty": false,
+   "registration_fee_usd": 700,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "7% customs duty; VAT 18%; EV purchase tax 45-52%",
+   "market_code": "IL"
+  },
+  {
+   "market_id": "qatar",
+   "market": "Qatar",
+   "region": "Middle East",
+   "import_duty": 0.05,
+   "vat_gst": 0.0,
+   "countervailing_duty": false,
+   "registration_fee_usd": 30,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "GCC 5% duty; no VAT",
+   "market_code": "QA"
+  },
+  {
+   "market_id": "turkey",
+   "market": "Turkey",
+   "region": "Middle East",
+   "import_duty": 0.4,
+   "vat_gst": 0.2,
+   "countervailing_duty": false,
+   "registration_fee_usd": 100,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "10%+30% additional duty (min $8.5k, 2025); VAT 20%; OTV 25-75%",
+   "market_code": "TR"
+  },
+  {
+   "market_id": "new_zealand",
+   "market": "New Zealand",
+   "region": "Oceania",
+   "import_duty": 0.0,
+   "vat_gst": 0.15,
+   "countervailing_duty": false,
+   "registration_fee_usd": 23,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "0% duty; GST 15%",
+   "market_code": "NZ"
+  },
+  {
+   "market_id": "thailand",
+   "market": "Thailand",
+   "region": "Southeast Asia",
+   "import_duty": 0.0,
+   "vat_gst": 0.07,
+   "countervailing_duty": false,
+   "registration_fee_usd": 50,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "0% under ACFTA; VAT 7%; excise 2%",
+   "market_code": "TH"
+  },
+  {
+   "market_id": "malaysia",
+   "market": "Malaysia",
+   "region": "Southeast Asia",
+   "import_duty": 0.05,
+   "vat_gst": 0.1,
+   "countervailing_duty": false,
+   "registration_fee_usd": 50,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "CBU EV exemption ended 2025; ACFTA 5% + excise 10% + SST 10%",
+   "market_code": "MY"
+  },
+  {
+   "market_id": "indonesia",
+   "market": "Indonesia",
+   "region": "Southeast Asia",
+   "import_duty": 0.5,
+   "vat_gst": 0.11,
+   "countervailing_duty": false,
+   "registration_fee_usd": 100,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "CBU EV 0% exemption expired 2025; 50% duty; VAT 11%",
+   "market_code": "ID"
+  },
+  {
+   "market_id": "singapore",
+   "market": "Singapore",
+   "region": "Southeast Asia",
+   "import_duty": 0.2,
+   "vat_gst": 0.09,
+   "countervailing_duty": false,
+   "registration_fee_usd": 260,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "20% excise duty; GST 9%; ARF/COE excluded",
+   "market_code": "SG"
+  },
+  {
+   "market_id": "mexico",
+   "market": "Mexico",
+   "region": "North America",
+   "import_duty": 0.5,
+   "vat_gst": 0.16,
+   "countervailing_duty": false,
+   "registration_fee_usd": 50,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "Duty 20%→50% (Jan 2026); VAT 16%",
+   "market_code": "MX"
+  },
+  {
+   "market_id": "brazil",
+   "market": "Brazil",
+   "region": "Latin America",
+   "import_duty": 0.35,
+   "vat_gst": 0.17,
+   "countervailing_duty": false,
+   "registration_fee_usd": 70,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "BEV II 35% (Jul 2026); ICMS ~17%; IPI/PIS/COFINS separate",
+   "market_code": "BR"
+  },
+  {
+   "market_id": "canada",
+   "market": "Canada",
+   "region": "North America",
+   "import_duty": 0.061,
+   "vat_gst": 0.05,
+   "countervailing_duty": false,
+   "registration_fee_usd": 40,
+   "source_ids": [
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "100% surtax repealed Mar 2026; 6.1% MFN; GST 5%",
+   "market_code": "CA"
+  },
+  {
+   "market_id": "south_africa",
+   "market": "South Africa",
+   "region": "Africa",
+   "import_duty": 0.25,
+   "vat_gst": 0.15,
+   "countervailing_duty": false,
+   "registration_fee_usd": 30,
+   "source_ids": [
+    "eu-2024-2754",
+    "national-tax"
+   ],
+   "effective_date": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "notes": "BEV 25% duty; VAT 15%",
+   "market_code": "ZA"
+  }
+ ]
 }

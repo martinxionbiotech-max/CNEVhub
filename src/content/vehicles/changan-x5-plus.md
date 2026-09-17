@@ -4,7 +4,7 @@ description: "Changan X5 Plus is a suv from Changan,. Full landed-cost breakdown
 slug: "changan-x5-plus"
 brand: "changan"
 type: "SUV"
-powertrain: "Petrol"
+powertrain: "ICE"
 price_usd: 8400.0
 currency: "USD"
 range_cltc_km: null
@@ -36,7 +36,7 @@ Changan X5 PLUS (starting at $8,400) is a SUV from CHANGAN.
 
 ## Overview
 
-The Changan X5 PLUS is a compact SUV battery-electric from CHANGAN, with a compact electric powertrain. It sits at the affordable end of the Chinese EV export range, priced from $8,400 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +63% over base (about $13,711 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, only slow AC charging is listed, which affects fleet turnaround. It suits families and fleet buyers who need practicality.
+The Changan X5 PLUS is a compact SUV petrol from CHANGAN, with a conventional combustion powertrain. It sits at the affordable end of the Chinese EV export range, priced from $8,400 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +63% over base (about $13,711 landed), while the Germany estimate applies the 10% standard tariff only — no countervailing duty applies to petrol powertrains. It suits families and fleet buyers who need practicality.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
