@@ -4,7 +4,7 @@ description: "Spain applies the EU's 10% standard duty, a brand-specific counter
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [spain, ev-import, landed-cost, eu-tariff, countervailing-duty, vat, mg-saic, market-analysis, chinese-ev]
 ---
 

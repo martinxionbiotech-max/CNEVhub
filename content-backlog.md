@@ -70,10 +70,10 @@
 - [x] poland-import-guide —— Import Chinese EV to Poland（EU CVD 适用 + 23% VAT，中欧量价枢纽）（已发布，9/18 20:00 时点）
 
 ### 批次 7 — Pillar C 欧盟成员国·差异化市场 IV（5 篇）
-状态：`publishing`（denmark 已上线，剩 4 篇 draft:true 待发布）
+状态：`publishing`（denmark/spain/belgium 已上线，剩 2 篇 draft:true 待发布）
 - [x] denmark-import-guide —— Import Chinese EV to Denmark（EU CVD 适用 + 25% VAT + 注册费 $3,500，落地溢价最高）（已发布，9/18 20:00 时点）
-- [x] spain-import-guide —— Import Chinese EV to Spain（EU CVD 适用 + 21% VAT，西欧量价枢纽）（draft:true）
-- [x] belgium-import-guide —— Import Chinese EV to Belgium（EU CVD 适用 + 21% VAT，安特卫普转运枢纽）（draft:true）
+- [x] spain-import-guide —— Import Chinese EV to Spain（EU CVD 适用 + 21% VAT，西欧量价枢纽）（已发布，9/18 23:00 时点）
+- [x] belgium-import-guide —— Import Chinese EV to Belgium（EU CVD 适用 + 21% VAT，安特卫普转运枢纽）（已发布，9/18 23:00 时点）
 - [x] austria-import-guide —— Import Chinese EV to Austria（EU CVD 适用 + 20% VAT + NoVA）（draft:true）
 - [x] portugal-import-guide —— Import Chinese EV to Portugal（EU CVD 适用 + 23% VAT + ISV）（draft:true）
 

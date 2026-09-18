@@ -4,7 +4,7 @@ description: "Belgium applies the same EU tariff stack as Germany and the Nether
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [belgium, ev-import, landed-cost, eu-tariff, countervailing-duty, vat, antwerp-zeebrugge, fleet, market-comparison, chinese-ev]
 ---
 
