@@ -4,7 +4,7 @@ description: "Denmark applies the full EU stack — 10% standard duty, a brand-s
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [denmark, ev-import, landed-cost, eu-tariff, countervailing-duty, vat, nordic, market-comparison, chinese-ev]
 ---
 
