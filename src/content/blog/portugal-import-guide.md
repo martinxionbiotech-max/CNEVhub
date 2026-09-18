@@ -4,7 +4,7 @@ description: "Importing a Chinese EV to Portugal runs the full EU tariff stack â
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [portugal, ev-import, landed-cost, eu-tariff, countervailing-duty, vat, isv, iberia, market-comparison, chinese-ev]
 ---
 

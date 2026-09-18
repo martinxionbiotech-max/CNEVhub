@@ -4,7 +4,7 @@ description: "Austria applies the full EU customs stack — 10% standard duty pl
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [austria, ev-import, landed-cost, eu-tariff, countervailing-duty, vat, nova, market-comparison, german-speaking, chinese-ev]
 ---
 
