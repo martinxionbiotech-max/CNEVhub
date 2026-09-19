@@ -22,6 +22,9 @@ data_source: "荣威iMAX8 DMH RMB 199,900 (上汽荣威官网)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "iMAX8"
+image: "/images/vehicles/roewe-imax8-dmh.jpg"
+image_credit: "Zotyefan / wikimedia / by-sa"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=112467824"
 ---
 # Roewe iMAX8 DMH
 

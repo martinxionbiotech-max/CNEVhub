@@ -27,6 +27,9 @@ data_source: "第三代蓝电E5 PLUS RMB 139,800（新华网2025-12-04；35.95kW
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "E5 Plus"
+image: "/images/vehicles/landian-e5-plus-gen3.jpg"
+image_credit: "KitsuneDP / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=169284119"
 ---
 # Landian E5 Plus Gen3
 

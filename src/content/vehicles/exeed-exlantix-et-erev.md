@@ -26,6 +26,9 @@ data_source: "星纪元ET增程 起售价17.28万元（新华网/易车百科）
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Exlantix ET"
+image: "/images/vehicles/exeed-exlantix-et-erev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=151490800"
 ---
 # Exeed Exlantix ET EREV
 

@@ -27,6 +27,9 @@ data_source: "星纪元ES增程 起售价15.28万元（新华网/新出行）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Exlantix ES"
+image: "/images/vehicles/exeed-exlantix-es-erev.jpg"
+image_credit: "Jengtingchen / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=144804168"
 ---
 # Exeed Exlantix ES EREV
 

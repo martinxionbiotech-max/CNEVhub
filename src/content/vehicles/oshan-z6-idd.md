@@ -28,6 +28,9 @@ data_source: "欧尚Z6智电iDD RMB 155,800（易车/汽车之家；28.4kWh/150k
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Z6"
+image: "/images/vehicles/oshan-z6-idd.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=146368118"
 ---
 # Oshan Z6 iDD
 
