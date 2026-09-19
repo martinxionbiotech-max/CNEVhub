@@ -4,7 +4,7 @@ description: "A Zeekr 007 lands at $52,569 vs the BYD Seal's $44,413 in Germany 
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [zeekr, "007", byd, seal, comparison, landed-cost, sedan, ev-import]
 ---
 

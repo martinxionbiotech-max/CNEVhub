@@ -4,7 +4,7 @@ description: "Germany applies the EU's full trade-defence stack to Chinese EVs: 
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [germany, ev-import, landed-cost, countervailing-duty, vat, eu-customs, market-guide, chinese-ev]
 ---
 
