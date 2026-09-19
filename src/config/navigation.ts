@@ -48,10 +48,13 @@ export const navigation: Navigation = {
       { label: 'Contact', href: '/contact' },
     ],
     legal: [
-      { label: 'Privacy', href: '/privacy' },
-      { label: 'Terms', href: '/terms' },
-      { label: 'Cookies', href: '/cookies' },
+      { label: 'Privacy Policy', href: '/privacy' },
+      { label: 'Terms of Use', href: '/terms' },
+      { label: 'Cookie Policy', href: '/cookies' },
       { label: 'Disclaimer', href: '/disclaimer' },
+      { label: 'Image Credits', href: '/image-credits' },
+      { label: 'Copyright & Takedown', href: '/copyright' },
+      { label: 'Accessibility', href: '/accessibility' },
     ],
   },
 };

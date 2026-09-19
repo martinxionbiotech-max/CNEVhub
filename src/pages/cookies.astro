@@ -49,14 +49,20 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
             </thead>
             <tbody>
               <tr>
-                <td>Strictly necessary</td>
-                <td>Enable core functionality, such as basic preferences and site security</td>
-                <td>No</td>
+                <td>Strictly necessary / security</td>
+                <td>
+                  Set only when our CDN (Cloudflare) needs to verify that a request comes from a real visitor rather
+                  than an automated attack. No profile of you is built from it.
+                </td>
+                <td>No — essential for security</td>
               </tr>
               <tr>
                 <td>Analytics / measurement</td>
-                <td>Aggregated, anonymized usage statistics to improve the site</td>
-                <td>Only if not anonymized</td>
+                <td>Aggregated usage statistics</td>
+                <td>
+                  <strong>We do not use these.</strong> The site ships no analytics, no tag manager and no third-party
+                  tracking scripts.
+                </td>
               </tr>
               <tr>
                 <td>Advertising / marketing</td>
@@ -68,15 +74,19 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
         </div>
         <p>
           We do not use advertising cookies, and we do not engage in cross-site tracking or the sale of
-          personal information to advertising networks.
+          personal information to advertising networks. Because this site sets no analytics or marketing
+          cookies, you will not see a consent banner here — there is nothing for you to consent to. If we
+          ever add measurement or advertising technology, we will update this policy and ask for your
+          consent first.
         </p>
 
         <h2>Third-Party Cookies</h2>
         <p>
-          Some pages may include embedded content or links to third-party services (for example, external
-          maps, videos, or analytics providers). These third parties may set their own cookies when you
-          interact with their content. We do not control these cookies, and their use is governed by the
-          respective third party's own cookie and privacy policies.
+          Our infrastructure provider, Cloudflare, may set a security cookie when it screens a request for
+          abusive traffic; it is strictly necessary, carries no advertising purpose, and is not shared with
+          advertising networks. Beyond that, pages on this site do not embed third-party widgets that set
+          cookies. If a page ever links to an external service, that service's own cookie and privacy
+          policies apply once you leave our site.
         </p>
 
         <h2>Managing Your Cookie Preferences</h2>

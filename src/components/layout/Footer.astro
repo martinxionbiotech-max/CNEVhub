@@ -12,7 +12,7 @@
  * <Footer />
  * ```
  */
-import { siteConfig } from '@/config';
+import { siteConfig, company } from '@/config';
 import { Icon } from 'astro-icon/components';
 import type { FeatureFlags, NavigationItem } from '@/lib/types';
 
@@ -35,7 +35,7 @@ const legalLinks = filterByFeature(footer.legal);
 <footer class="bg-surface border-t border-background">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
     <!-- Links Grid -->
-    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-8 lg:gap-12">
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-7 gap-8 lg:gap-10">
       <!-- Brand Column -->
       <div class="col-span-2 sm:col-span-3 lg:col-span-2 mb-4 lg:mb-0">
         <a href="/" class="inline-flex items-center gap-2 font-semibold text-lg text-text">
@@ -194,6 +194,27 @@ const legalLinks = filterByFeature(footer.legal);
           </div>
         )
       }
+
+      <!-- Legal & Compliance Column -->
+      {
+        legalLinks.length > 0 && (
+          <div>
+            <h3 class="font-semibold text-sm text-text mb-4">Legal &amp; Compliance</h3>
+            <ul class="space-y-3">
+              {legalLinks.map((link) => (
+                <li>
+                  <a
+                    href={link.href}
+                    class="text-sm text-text-muted hover:text-text transition-colors"
+                  >
+                    {link.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )
+      }
     </div>
 
     <!-- Bottom Bar -->
@@ -204,17 +225,33 @@ const legalLinks = filterByFeature(footer.legal);
         <!-- Copyright -->
         <p class="text-sm text-text-muted">
           &copy; {currentYear}
-          {siteConfig.name}. All rights reserved.
+          {company.legalName || siteConfig.name}. All rights reserved.
         </p>
-        <!-- Legal Links -->
-        <div class="flex items-center gap-6">
+        <!-- Legal contact -->
+        <div class="flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
           {
-            legalLinks.map((link) => (
-              <a href={link.href} class="text-sm text-text-muted hover:text-text transition-colors">
-                {link.label}
+            siteConfig.legal?.legalEmail && (
+              <a
+                href={`mailto:${siteConfig.legal.legalEmail}`}
+                class="text-sm text-text-muted hover:text-text transition-colors"
+              >
+                Legal notices: {siteConfig.legal.legalEmail}
               </a>
-            ))
+            )
           }
+          {
+            siteConfig.legal?.privacyEmail && (
+              <a
+                href={`mailto:${siteConfig.legal.privacyEmail}`}
+                class="text-sm text-text-muted hover:text-text transition-colors"
+              >
+                Privacy: {siteConfig.legal.privacyEmail}
+              </a>
+            )
+          }
+          <a href="/copyright/" class="text-sm text-text-muted hover:text-text transition-colors">
+            Report infringement
+          </a>
         </div>
       </div>
     </div>

@@ -1,0 +1,190 @@
+---
+/**
+ * Image Credits and Copyright
+ *
+ * @description
+ * 图片版权与署名声明：列出站内自由授权（CC0/CC BY/CC BY-SA）照片的完整署名（自动从 vehicles 内容集合生成，
+ * 与页面实际使用的图片同源），并说明第三方图片的处理方式、权利人下架通道与自有素材的使用许可。
+ */
+import { getCollection } from 'astro:content';
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import SEO from '@/components/common/SEO.astro';
+import { siteConfig, company } from '@/config';
+
+const { legal } = siteConfig;
+
+// 与站点实际使用图片同源：仅收录带完整署名记录的图片
+const vehicles = (await getCollection('vehicles'))
+  .filter((v) => v.data.image_credit && v.data.image_source)
+  .sort((a, b) => (a.data.slug || a.id).localeCompare(b.data.slug || b.id));
+
+const LICENSE_LINKS: Record<string, string> = {
+  CC0: 'https://creativecommons.org/publicdomain/zero/1.0/',
+  'CC BY 4.0': 'https://creativecommons.org/licenses/by/4.0/',
+  'CC BY-SA 4.0': 'https://creativecommons.org/licenses/by-sa/4.0/',
+  'CC BY 3.0': 'https://creativecommons.org/licenses/by/3.0/',
+  'CC BY-SA 3.0': 'https://creativecommons.org/licenses/by-sa/3.0/',
+};
+
+const rows = vehicles.map((v) => {
+  const parts = (v.data.image_credit || '').split('/').map((s) => s.trim());
+  const author = parts[0] || 'Unknown';
+  const license = parts[parts.length - 1] || '';
+  return {
+    slug: v.data.slug || v.id,
+    title: v.data.title,
+    brand: v.data.brand,
+    author,
+    license,
+    licenseUrl: LICENSE_LINKS[license] || '',
+    source: v.data.image_source || '',
+  };
+});
+
+const byLicense = rows.reduce<Record<string, number>>((acc, r) => {
+  acc[r.license] = (acc[r.license] || 0) + 1;
+  return acc;
+}, {});
+---
+
+<MarketingLayout
+  title="Image Credits and Copyright"
+  description="Full attribution for photographs used on EV Hub, the licences they are used under, and how rights holders can request correction or removal of any image."
+>
+  <SEO
+    title="Image Credits and Copyright"
+    description={`Attribution and licence details for the ${rows.length} freely licensed photographs used on ${siteConfig.name}, plus our process for rights-holder corrections and removals.`}
+  />
+  <section class="py-section">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+      <header class="mb-12">
+        <h1 class="text-4xl font-bold text-text">Image Credits and Copyright</h1>
+        <p class="mt-4 text-text-muted">Last updated: {legal.lastUpdated}</p>
+      </header>
+
+      <div class="prose prose-lg max-w-none dark:prose-invert">
+        <p>
+          This page records where the photographs on {siteConfig.name} come from and the licence each one is used
+          under. We publish it so that photographers, manufacturers and other rights holders can verify attribution
+          without having to ask. Every photograph listed below is used under a licence that permits commercial use and
+          modification, and is credited to its author on the page where it appears as well as in this list.
+        </p>
+
+        <h2>Freely licensed photographs</h2>
+        <p>
+          The {rows.length} photographs in the table below are used under public-domain or Creative Commons licences,
+          sourced through Wikimedia Commons and the Openverse index. Attribution on the model page follows the format
+          <em>Photo: author / source / licence</em>, and links back to the source file page.
+        </p>
+        <ul>
+          <li>
+            <strong>CC0 / Public domain</strong> — no rights reserved; no attribution is legally required, and we credit
+            the author anyway.
+          </li>
+          <li>
+            <strong>CC BY</strong> — reuse permitted with attribution to the author and a note of the licence.
+          </li>
+          <li>
+            <strong>CC BY-SA</strong> — reuse permitted with attribution, and derivative works must carry the same
+            licence.
+          </li>
+        </ul>
+        <p>
+          No photograph on this site is used under a licence that prohibits commercial use or modification
+          (that is, no <em>NC</em> or <em>ND</em> licences).
+        </p>
+
+        <h2>Attribution list ({rows.length} photographs)</h2>
+        <p class="text-sm">
+          Licence counts: {Object.entries(byLicense)
+            .map(([k, v]) => `${k} ${v}`)
+            .join(' · ')}
+        </p>
+        <div class="not-prose overflow-x-auto mt-6">
+          <table class="w-full text-sm border-collapse">
+            <thead>
+              <tr class="border-b border-background text-left">
+                <th class="py-2 pr-4 font-semibold">Model</th>
+                <th class="py-2 pr-4 font-semibold">Photograph by</th>
+                <th class="py-2 pr-4 font-semibold">Licence</th>
+                <th class="py-2 font-semibold">Source</th>
+              </tr>
+            </thead>
+            <tbody>
+              {rows.map((r) => (
+                <tr class="border-b border-background/60 align-top">
+                  <td class="py-2 pr-4">
+                    <a href={`/vehicles/${r.slug}/`} class="text-primary hover:underline">
+                      {r.title}
+                    </a>
+                  </td>
+                  <td class="py-2 pr-4 text-text-muted">{r.author}</td>
+                  <td class="py-2 pr-4 text-text-muted">
+                    {r.licenseUrl ? (
+                      <a href={r.licenseUrl} target="_blank" rel="noopener noreferrer nofollow" class="hover:underline">
+                        {r.license}
+                      </a>
+                    ) : (
+                      r.license
+                    )}
+                  </td>
+                  <td class="py-2 text-text-muted text-xs break-all">
+                    {r.source ? (
+                      <a href={r.source} target="_blank" rel="noopener noreferrer nofollow" class="hover:underline">
+                        Source file page
+                      </a>
+                    ) : (
+                      '—'
+                    )}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+
+        <h2>Manufacturer and other third-party imagery</h2>
+        <p>
+          Some model pages and illustrations may include vehicle imagery supplied by manufacturers, importers, dealers
+          or other third parties, used to identify the vehicle being described. Vehicle designs, model names, marques
+          and logos are the property of their respective owners. {siteConfig.name} claims no ownership of third-party
+          imagery, and its use does not imply any affiliation with, sponsorship by, or endorsement from the brand
+          concerned.
+        </p>
+        <p>
+          Where we learn that an image is being used without adequate permission, or that a rights holder objects to
+          its use, we remove or replace it. We would rather run a page without a photograph than keep one we cannot
+          stand behind.
+        </p>
+
+        <h2>Our own assets</h2>
+        <p>
+          The {siteConfig.name} wordmark and logo, the layout of this site, our charts, tables and calculated figures
+          (landed-cost breakdowns, tariff totals, market comparisons) are © {new Date().getFullYear()}{' '}
+          {company.legalName}. You may quote or cite them for editorial, academic or commercial analysis provided you
+          credit {siteConfig.name} and link to the page you took them from. Republishing them in bulk, or reselling
+          them as a dataset, requires written permission.
+        </p>
+
+        <h2>Request a correction or removal</h2>
+        <p>
+          If you are the copyright owner (or their agent) and you believe an image on this site is used without
+          permission, or if your attribution is wrong, write to{' '}
+          <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a> with:
+        </p>
+        <ol>
+          <li>the exact page URL and, where possible, the image URL;</li>
+          <li>a description of the image and the work you say it reproduces;</li>
+          <li>evidence that you hold the rights (a link to the original, or a licence agreement);</li>
+          <li>your contact details and the action you are asking for.</li>
+        </ol>
+        <p>
+          We acknowledge requests within 5 business days, remove or replace the image while we investigate where a
+          claim looks credible, and confirm the outcome in writing. This applies to photographs, illustrations, charts
+          and any other third-party material on the site. See also our{' '}
+          <a href="/copyright/">Copyright and Takedown Policy</a> and <a href="/disclaimer/">Disclaimer</a>.
+        </p>
+      </div>
+    </div>
+  </section>
+</MarketingLayout>

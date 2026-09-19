@@ -1,0 +1,157 @@
+---
+/**
+ * Copyright, Trademarks and Takedown Policy
+ *
+ * @description
+ * 版权与知识产权声明：站内原创内容（文字/数据/图表/计算）的使用许可、第三方商标的指示性使用说明、
+ * 通知—删除（takedown / DMCA 式）流程与联系邮箱、反向侵权举报。
+ */
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import SEO from '@/components/common/SEO.astro';
+import { siteConfig, company } from '@/config';
+
+const { legal } = siteConfig;
+const year = new Date().getFullYear();
+---
+
+<MarketingLayout
+  title="Copyright, Trademarks and Takedown Policy"
+  description="What is protected on EV Hub, how our content and calculated data may be reused, how third-party trademarks are used, and the procedure for sending a copyright takedown notice."
+>
+  <SEO
+    title="Copyright, Trademarks and Takedown Policy"
+    description={`Copyright, trademark and takedown policy for ${siteConfig.name}: permitted reuse, third-party marks, and the notice-and-takedown procedure for rights holders.`}
+  />
+  <section class="py-section">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+      <header class="mb-12">
+        <h1 class="text-4xl font-bold text-text">Copyright, Trademarks and Takedown Policy</h1>
+        <p class="mt-4 text-text-muted">Last updated: {legal.lastUpdated}</p>
+      </header>
+
+      <div class="prose prose-lg max-w-none dark:prose-invert">
+        <h2>1. What this policy covers</h2>
+        <p>
+          This policy explains what intellectual property exists on {siteConfig.name}, what you may do with it, how we
+          handle third-party rights, and how a rights holder can ask us to remove material. It applies to everything
+          published at electricvehiclehub.net — articles, model pages, market breakdowns, tables, charts, calculated
+          figures, images and page design.
+        </p>
+
+        <h2>2. Our content</h2>
+        <p>
+          Unless stated otherwise, the written content, editorial structure, data tables, charts and calculated
+          figures on this site are © {year} {company.legalName}. All rights reserved.
+        </p>
+        <p><strong>You may, without asking:</strong></p>
+        <ul>
+          <li>read, print and share individual pages for your own reference;</li>
+          <li>
+            quote up to a few paragraphs or a single table, or cite a calculated figure, in editorial, academic or
+            commercial analysis, provided you credit {siteConfig.name} and link to the page you used;
+          </li>
+          <li>link to any page from your website, newsletter or social channel.</li>
+        </ul>
+        <p><strong>You may not, without written permission:</strong></p>
+        <ul>
+          <li>republish whole articles or substantial parts of them, on any platform, in any language;</li>
+          <li>scrape, harvest or machine-copy the site in bulk, or rebuild our dataset for resale or redistribution;</li>
+          <li>present our content, or a lightly edited version of it, as your own or as a work for hire;</li>
+          <li>use {siteConfig.name} content to train or fine-tune a commercial model where the output competes with this site.</li>
+        </ul>
+        <p>
+          Machine-readable access for search and AI answer engines is permitted as described in our{' '}
+          <a href="/llms.txt">llms.txt</a> file; that permission is for indexing and citation, not for wholesale
+          reproduction.
+        </p>
+
+        <h2>3. Calculated data and figures</h2>
+        <p>
+          Our landed-cost breakdowns, duty and VAT totals, and market comparisons are original calculations built from
+          published tariff schedules and freight inputs. You are welcome to cite a figure with attribution and a link.
+          If you reuse the numbers, please also carry the caveats that appear with them on the page — the estimates
+          depend on assumptions that are stated in our{' '}
+          <a href="/landed-cost-methodology/">landed-cost methodology</a> and change over time.
+        </p>
+
+        <h2>4. Third-party trademarks</h2>
+        <p>
+          Vehicle brand names, model names, marques, logos and trade dress belong to their respective owners.
+          {siteConfig.name} uses them solely to identify the products being described or compared — a nominative,
+          descriptive use. Its appearance on this site does not imply that any manufacturer, importer or dealer has
+          approved, sponsored or endorsed us, or that we act as their agent. We are not a dealer, importer or
+          distributor, and we do not sell vehicles.
+        </p>
+        <p>
+          If you believe a mark is used in a way that misleads readers or infringes your rights, write to us at{' '}
+          <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a> and we will review the usage and, where
+          appropriate, adjust it.
+        </p>
+
+        <h2>5. Third-party photographs and illustrations</h2>
+        <p>
+          Photographs used on this site are either freely licensed (CC0, CC BY or CC BY-SA) or, in some cases, supplied
+          by manufacturers and other third parties for identification purposes. Full attribution for freely licensed
+          photographs is published on our <a href="/image-credits/">Image Credits and Copyright</a> page. We claim no
+          ownership of third-party imagery and remove it on request.
+        </p>
+
+        <h2>6. Notice and takedown procedure</h2>
+        <p>
+          If you hold the rights to material published here and believe it is used without permission, send a notice to{' '}
+          <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a> including:
+        </p>
+        <ol>
+          <li>your name, organisation (if any), postal address and email address;</li>
+          <li>identification of the work you say is infringed, with a link to the original where it is published;</li>
+          <li>
+            the URL of each page on this site that carries the material, precise enough for us to locate it (page URL
+            and, for images, the image URL);
+          </li>
+          <li>a statement that you have a good-faith belief the use is not authorised by the rights holder, its agent or the law;</li>
+          <li>
+            a statement that the information in your notice is accurate and that you are the rights holder or
+            authorised to act for them;
+          </li>
+          <li>your signature (electronic is fine).</li>
+        </ol>
+        <p>
+          <strong>What happens next.</strong> We acknowledge notices within 5 business days. Where a claim is credible
+          on its face, we remove or replace the material promptly — usually while the review is still running — and
+          confirm the outcome to you in writing. We keep a record of the notice, the action taken and the date. If we
+          believe the use is lawful and properly licensed, we will explain why, with our evidence, rather than simply
+          ignoring the notice.
+        </p>
+        <p>
+          <strong>Counter-notice.</strong> If your material is removed and you believe the removal was mistaken (for
+          example, you can show the licence we relied on), write to the same address. We will restore the material if
+          you can substantiate your right to use it.
+        </p>
+
+        <h2>7. Reporting infringement of our content</h2>
+        <p>
+          If you find our content republished elsewhere without attribution — including whole-article copies, scraped
+          model pages, or our tables and figures presented as another site's work — please tell us at{' '}
+          <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a> with the URL. We pursue these cases, and we
+          appreciate the tips.
+        </p>
+
+        <h2>8. Related policies</h2>
+        <ul>
+          <li><a href="/terms/">Terms of Use</a></li>
+          <li><a href="/privacy/">Privacy Policy</a></li>
+          <li><a href="/cookies/">Cookie Policy</a></li>
+          <li><a href="/disclaimer/">Disclaimer</a></li>
+          <li><a href="/image-credits/">Image Credits and Copyright</a></li>
+          <li><a href="/editorial-independence/">Editorial Independence Policy</a></li>
+          <li><a href="/accessibility/">Accessibility Statement</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+
+        <p class="text-sm text-text-muted">
+          Questions about this policy: <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a>.
+        </p>
+      </div>
+    </div>
+  </section>
+</MarketingLayout>

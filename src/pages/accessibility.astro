@@ -1,0 +1,105 @@
+---
+/**
+ * Accessibility Statement
+ *
+ * @description
+ * 无障碍声明：目标标准（WCAG 2.1 AA）、已采取的措施、已知限制、反馈渠道与响应时限。
+ */
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import SEO from '@/components/common/SEO.astro';
+import { siteConfig } from '@/config';
+
+const { legal } = siteConfig;
+---
+
+<MarketingLayout
+  title="Accessibility Statement"
+  description="How EV Hub approaches accessibility: the standard we work to, the measures already in place, known limitations, and how to report a problem."
+>
+  <SEO
+    title="Accessibility Statement"
+    description={`Accessibility statement for ${siteConfig.name}: our WCAG 2.1 AA target, measures in place, known limitations, and how to report an accessibility problem.`}
+  />
+  <section class="py-section">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+      <header class="mb-12">
+        <h1 class="text-4xl font-bold text-text">Accessibility Statement</h1>
+        <p class="mt-4 text-text-muted">Last updated: {legal.lastUpdated}</p>
+      </header>
+
+      <div class="prose prose-lg max-w-none dark:prose-invert">
+        <p>
+          {siteConfig.name} is a research site for importers, analysts and buyers. If the information here cannot be
+          read — by a screen reader, by keyboard, at high zoom, or on a slow connection — then it is not doing its job.
+          This statement explains the standard we work to and how to tell us when we fall short.
+        </p>
+
+        <h2>Standard we aim for</h2>
+        <p>
+          We target conformance with the <strong>Web Content Accessibility Guidelines (WCAG) 2.1, Level AA</strong>.
+          This is a self-assessed target rather than an audited certification: we review pages as we publish them
+          rather than claiming a formal audit we have not commissioned.
+        </p>
+
+        <h2>What is in place</h2>
+        <ul>
+          <li>semantic HTML landmarks and a logical heading order on every page;</li>
+          <li>descriptive alternative text for photographs and charts, generated from the same data the page displays;</li>
+          <li>keyboard-operable navigation, links and interactive controls, with a visible focus state;</li>
+          <li>text and background combinations chosen for contrast, with dark-mode support on system preference;</li>
+          <li>responsive layouts that remain usable from narrow phone widths to desktop, and support for browser zoom without loss of content;</li>
+          <li>data tables marked up with header cells so screen readers can associate labels with values;</li>
+          <li>no autoplaying media, and no content that flashes or animates aggressively.</li>
+        </ul>
+
+        <h2>Known limitations</h2>
+        <p>We would rather name these than pretend they do not exist:</p>
+        <ul>
+          <li>
+            <strong>Dense data tables.</strong> Landed-cost and comparison tables carry a lot of numbers. They work
+            with screen readers, but reading them aloud is verbose; where we can, we also publish the same figures as
+            prose in the surrounding text.
+          </li>
+          <li>
+            <strong>Interactive calculators.</strong> The landed-cost calculator needs JavaScript. Without it, the
+            underlying method and worked examples remain readable on the methodology pages.
+          </li>
+          <li>
+            <strong>Third-party content.</strong> Embedded or linked material we do not control may not meet the same
+            standard.
+          </li>
+          <li>
+            <strong>Legacy pages.</strong> Some older pages predate this statement and may not yet have complete
+            alternative text. We fix them as we revisit them — tell us which one is causing you trouble and it moves
+            to the front of the queue.
+          </li>
+        </ul>
+
+        <h2>Technical compatibility</h2>
+        <p>
+          The site is built as static HTML and tested in current versions of Chrome, Edge, Firefox and Safari on
+          desktop and mobile, and with common screen readers (NVDA, JAWS, VoiceOver, TalkBack). Older browsers may
+          render it correctly but are not specifically tested.
+        </p>
+
+        <h2>How to report a problem</h2>
+        <p>
+          Email <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a> with the page URL, what you were trying
+          to do, the device or assistive technology you were using, and what went wrong. We acknowledge accessibility
+          reports within 5 business days, give you a view on whether and when we can fix the issue, and prioritise
+          anything that blocks access to information rather than merely inconveniencing it.
+        </p>
+
+        <h2>Related policies</h2>
+        <ul>
+          <li><a href="/terms/">Terms of Use</a></li>
+          <li><a href="/privacy/">Privacy Policy</a></li>
+          <li><a href="/disclaimer/">Disclaimer</a></li>
+          <li><a href="/copyright/">Copyright, Trademarks and Takedown Policy</a></li>
+          <li><a href="/image-credits/">Image Credits and Copyright</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</MarketingLayout>
