@@ -1,0 +1,73 @@
+brand,parent_company,cvd_rate_pct,duty_group,source_article,updated
+BYD,BYD,17.0,BYD group (sampled),byd-countervailing-duty-landed-cost.md,2026-09-19
+Denza,BYD,17.0,BYD group (sampled),byd-countervailing-duty-landed-cost.md,2026-09-19
+Fangchengbao,BYD,17.0,BYD group (sampled),byd-countervailing-duty-landed-cost.md,2026-09-19
+Yangwang,BYD,17.0,BYD group (sampled),byd-countervailing-duty-landed-cost.md,2026-09-19
+Geely,Geely,18.8,Geely group (sampled),geely-188-countervailing-duty.md,2026-09-19
+Geely Galaxy,Geely,18.8,Geely group (sampled),geely-188-countervailing-duty.md,2026-09-19
+Geometry,Geely,18.8,Geely group (sampled),geely-188-countervailing-duty.md,2026-09-19
+Livan,Geely,18.8,Geely group (sampled),geely-188-countervailing-duty.md,2026-09-19
+Lynk & Co,Geely,18.8,Geely group (sampled),geely-188-countervailing-duty.md,2026-09-19
+Zeekr,Geely,18.8,Geely group (sampled),zeekr-countervailing-duty.md,2026-09-19
+Baojun,SAIC,35.3,SAIC group (sampled),saic-35-percent-countervailing-duty.md,2026-09-19
+IM,SAIC,35.3,SAIC group (sampled),saic-35-percent-countervailing-duty.md,2026-09-19
+Maxus,SAIC,35.3,SAIC group (sampled),saic-35-percent-countervailing-duty.md,2026-09-19
+MG,SAIC,35.3,SAIC group (sampled),saic-35-percent-countervailing-duty.md,2026-09-19
+Roewe,SAIC,35.3,SAIC group (sampled),saic-35-percent-countervailing-duty.md,2026-09-19
+SAIC,SAIC,35.3,SAIC group (sampled),saic-35-percent-countervailing-duty.md,2026-09-19
+Wuling,SAIC,35.3,SAIC group (sampled),saic-35-percent-countervailing-duty.md,2026-09-19
+Aeolus,Dongfeng,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+AION,GAC,20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
+AITO,Seres,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+Arcfox,BAIC,20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
+Avatr,ChangAn,20.7,Other cooperating companies (non-sampled),changan-countervailing-duty.md,2026-09-19
+BAW,BAW,20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
+Bestune,FAW,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+ChangAn,ChangAn,20.7,Other cooperating companies (non-sampled),changan-countervailing-duty.md,2026-09-19
+ChangAn NEVO,ChangAn,20.7,Other cooperating companies (non-sampled),changan-countervailing-duty.md,2026-09-19
+Chery,Chery,20.7,Other cooperating companies (non-sampled),chery-countervailing-duty.md,2026-09-19
+Chery Fulwin,Chery,20.7,Other cooperating companies (non-sampled),chery-countervailing-duty.md,2026-09-19
+Chery New Energy,Chery,20.7,Other cooperating companies (non-sampled),chery-countervailing-duty.md,2026-09-19
+Cowin,Chery,20.7,Other cooperating companies (non-sampled),chery-countervailing-duty.md,2026-09-19
+Dayun Yuanhang,Dayun Group,20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
+Deepal,ChangAn,20.7,Other cooperating companies (non-sampled),changan-countervailing-duty.md,2026-09-19
+Dongfeng eπ,Dongfeng,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+Dongfeng Nammi,Dongfeng,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+Exeed,Chery,20.7,Other cooperating companies (non-sampled),chery-countervailing-duty.md,2026-09-19
+firefly,NIO,20.7,Other cooperating companies (non-sampled),nio-xpeng-leapmotor-countervailing-duty.md,2026-09-19
+Forthing,Dongfeng,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+GAC Motor,GAC,20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
+Haval,Great Wall,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+Hongqi,FAW,20.7,Other cooperating companies (non-sampled),xiaomi-hongqi-countervailing-duty.md,2026-09-19
+Hycan,GAC + NIO JV,20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
+Hyptec,GAC,20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
+iCAUR,Chery,20.7,Other cooperating companies (non-sampled),chery-countervailing-duty.md,2026-09-19
+JAC,JAC,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+JAC Refine,JAC,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+JAC Yiwei,JAC,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+Jaecoo,Chery,20.7,Other cooperating companies (non-sampled),chery-countervailing-duty.md,2026-09-19
+Jetour,Chery,20.7,Other cooperating companies (non-sampled),chery-countervailing-duty.md,2026-09-19
+JMC,JMC (Jiangling Motors),20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
+Kaicene,ChangAn,20.7,Other cooperating companies (non-sampled),changan-countervailing-duty.md,2026-09-19
+Landian,Seres Group,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+Leapmotor,Leapmotor,20.7,Other cooperating companies (non-sampled),nio-xpeng-leapmotor-countervailing-duty.md,2026-09-19
+Li Auto,Li Auto,20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
+Luxeed,Chery,20.7,Other cooperating companies (non-sampled),chery-countervailing-duty.md,2026-09-19
+M-Hero,Dongfeng,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+Maextro,JAC,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+Neta,Hozon Auto,20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
+NIO,NIO,20.7,Other cooperating companies (non-sampled),nio-xpeng-leapmotor-countervailing-duty.md,2026-09-19
+Onvo,NIO,20.7,Other cooperating companies (non-sampled),nio-xpeng-leapmotor-countervailing-duty.md,2026-09-19
+Ora,Great Wall,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+Oshan,Changan,20.7,Other cooperating companies (non-sampled),changan-countervailing-duty.md,2026-09-19
+Sehol,JAC Group,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+Seres,Seres Group,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+Skywell,Skywell Group,20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
+Stelato,BAIC,20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
+Tank,Great Wall,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+Venucia,Dongfeng-Nissan,20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
+Voyah,Dongfeng,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+WEY,Great Wall,20.7,Other cooperating companies (non-sampled),"EUR-Lex Reg (EU) 2024/2754, Annex",2026-09-19
+Xiaomi,Xiaomi,20.7,Other cooperating companies (non-sampled),xiaomi-hongqi-countervailing-duty.md,2026-09-19
+XPeng,XPeng,20.7,Other cooperating companies (non-sampled),nio-xpeng-leapmotor-countervailing-duty.md,2026-09-19
+Yudo,Yudo Auto,20.7,Other cooperating companies (non-sampled),EV Hub tariffs.json (default),2026-09-19
