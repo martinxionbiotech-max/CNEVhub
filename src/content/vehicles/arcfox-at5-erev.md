@@ -28,7 +28,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "T5"
 image: "/images/vehicles/arcfox-at5-erev.jpg"
-image_credit: "S5A-0043 / wikimedia / by"
+image_credit: "S5A-0043 / Wikimedia Commons / CC BY 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=148903188"
 ---
 # Arcfox Alpha T5 EREV

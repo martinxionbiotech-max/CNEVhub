@@ -24,7 +24,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "i6 MAX"
 image: "/images/vehicles/roewe-i6-max-phev.jpg"
-image_credit: "Navigator84 / wikimedia / by-sa"
+image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=58363952"
 ---
 # Roewe i6 MAX PHEV

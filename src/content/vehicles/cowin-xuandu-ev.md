@@ -26,7 +26,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xuandu"
 image: "/images/vehicles/cowin-xuandu-ev.jpg"
-image_credit: "Zotyefan / wikimedia / by-sa"
+image_credit: "Zotyefan / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=126744931"
 ---
 # Cowin Xuandu EV

@@ -25,7 +25,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "Pilot"
 image: "/images/vehicles/mg-pilot-phev.jpg"
-image_credit: "Zotyefan / wikimedia / by-sa"
+image_credit: "Zotyefan / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=105095440"
 ---
 # MG Pilot PHEV

@@ -29,7 +29,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "Refine M3"
 image: "/images/vehicles/jac-refine-m3-phev.jpg"
-image_credit: "Kevauto / wikimedia / by-sa"
+image_credit: "Kevauto / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=93982815"
 ---
 # JAC Refine M3 PHEV
