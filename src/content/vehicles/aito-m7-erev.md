@@ -26,6 +26,9 @@ data_source: "全新问界M7增程Max 起售价29.98万元（鸿蒙智行/AITO�
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "M7"
+image: "/images/vehicles/aito-m7-erev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=175846063"
 ---
 # Aito M7 EREV
 

@@ -23,6 +23,9 @@ data_source: "Xinhua/ifeng: ¥99,900 (秦MAX DM-i), 320 km CLTC EV, 2370 km comb
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Qin"
+image: "/images/vehicles/byd-qin-max-dm-i.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:BYD_Qin_L_001.jpg"
 ---
 # BYD Qin Max DM-i
 

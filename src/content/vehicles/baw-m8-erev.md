@@ -25,6 +25,9 @@ data_source: "北汽制造锐胜M8增程 起售价16.98万元（新华网）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "M8"
+image: "/images/vehicles/baw-m8-erev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=189289219"
 ---
 # BAW M8 EREV
 

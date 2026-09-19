@@ -26,6 +26,9 @@ data_source: "昊铂HL增程 起售价26.98万元（腾讯新闻/汽车之家）
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "HL"
+image: "/images/vehicles/hyptec-hl-erev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=164475486"
 ---
 # Hyptec HL EREV
 

@@ -24,6 +24,9 @@ data_source: "MG领航PHEV RMB 166,800（上汽名爵官网；16.6kWh/75km）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Pilot"
+image: "/images/vehicles/mg-pilot-phev.jpg"
+image_credit: "Zotyefan / wikimedia / by-sa"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=105095440"
 ---
 # MG Pilot PHEV
 

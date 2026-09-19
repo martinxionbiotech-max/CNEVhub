@@ -29,6 +29,9 @@ data_source: "汉L DM-i 起售价20.98万元（新华网/新浪汽车）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Han"
+image: "/images/vehicles/byd-han-l-dm-i.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:BYD_Han_L_EV_004.jpg"
 ---
 # BYD Han L DM-i
 

@@ -25,6 +25,9 @@ data_source: "探索06 C-DM RMB 119,900（搜狐汽车/汽车之家）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Explore 06"
+image: "/images/vehicles/chery-explore-06-c-dm.jpg"
+image_credit: "Quzhouliulian / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Chery_Explore_06_001.jpg"
 ---
 # Chery Explore 06 C-DM
 

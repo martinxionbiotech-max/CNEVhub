@@ -29,6 +29,9 @@ data_source: "岚图梦想家PHEV 起售价36.99万元（百度百科）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Dream"
+image: "/images/vehicles/voyah-dream-phev.jpg"
+image_credit: "Retired electrician / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=186070672"
 ---
 # Voyah Dream PHEV
 

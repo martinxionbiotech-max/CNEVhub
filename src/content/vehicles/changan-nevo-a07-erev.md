@@ -27,6 +27,9 @@ data_source: "启源A07增程 起售价11.99万元（知乎/电动邦）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Nevo A07"
+image: "/images/vehicles/changan-nevo-a07-erev.jpg"
+image_credit: "Poprace / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Changan_Nevo_A07_MY2023_IMG01.jpg"
 ---
 # Changan Nevo A07 EREV
 

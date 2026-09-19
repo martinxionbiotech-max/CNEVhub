@@ -26,6 +26,9 @@ data_source: "深蓝S07增程 起售价14.99万元（汽车之家/腾讯新闻�
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "S07"
+image: "/images/vehicles/deepal-s07-erev.jpg"
+image_credit: "S5A-0043 / wikimedia / by"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=157783093"
 ---
 # Deepal S07 EREV
 

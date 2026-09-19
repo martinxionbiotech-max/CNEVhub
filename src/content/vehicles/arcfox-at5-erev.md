@@ -27,6 +27,9 @@ data_source: "极狐阿尔法T5增程 起售价11.38万元（ARCFOX官网）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "T5"
+image: "/images/vehicles/arcfox-at5-erev.jpg"
+image_credit: "S5A-0043 / wikimedia / by"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=148903188"
 ---
 # Arcfox Alpha T5 EREV
 

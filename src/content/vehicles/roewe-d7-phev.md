@@ -27,6 +27,9 @@ data_source: "荣威D7 DMH 起售价12.38万元（上汽荣威官网）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "D7"
+image: "/images/vehicles/roewe-d7-phev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=152493176"
 ---
 # Roewe D7 PHEV
 

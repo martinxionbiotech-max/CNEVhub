@@ -25,6 +25,9 @@ data_source: "新浪汽车/IT之家/BitAuto: ¥39,900 (3.99万起), 30 kW, 17.03
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geely Panda mini"
+image: "/images/vehicles/geely-galaxy-panda-mini.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=164224354"
 ---
 # Geely Panda Mini EV
 

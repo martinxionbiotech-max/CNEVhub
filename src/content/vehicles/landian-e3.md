@@ -26,6 +26,9 @@ data_source: "蓝电E3 RMB 139,800（搜狐汽车/网通社；50.3kWh/405km）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "E3"
+image: "/images/vehicles/landian-e3.jpg"
+image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Dongfeng_Fengguang_E3_001.jpg"
 ---
 # Landian E3
 

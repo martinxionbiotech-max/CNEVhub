@@ -28,6 +28,9 @@ data_source: "Wikipedia/吉利银河官网: ¥299,900 (29.99万起), 100 kWh, 20
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "LEVC L380"
+image: "/images/vehicles/geely-galaxy-l380.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Geely_Galaxy_V900_001.jpg"
 ---
 # Geely Galaxy LEVC L380
 

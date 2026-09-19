@@ -25,6 +25,9 @@ data_source: "星海V6 RMB 89,900 (东风风行官网/搜狐汽车)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xinghai"
+image: "/images/vehicles/forthing-xinghai-v6.jpg"
+image_credit: "Alexander-93 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:DFSK_Forthing_4_U-Tour_IMG_8159.jpg"
 ---
 # Forthing Xinghai V6
 

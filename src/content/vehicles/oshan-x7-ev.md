@@ -27,6 +27,9 @@ data_source: "欧尚X7 EV RMB 159,900（易车/新浪汽车；59.9kWh/NEDC405km�
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "X7"
+image: "/images/vehicles/oshan-x7-ev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=144952050"
 ---
 # Oshan X7 EV
 

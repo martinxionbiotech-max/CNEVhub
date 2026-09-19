@@ -28,6 +28,9 @@ data_source: "瑞风M3 PHEV RMB 114,900（58汽车/易车）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Refine M3"
+image: "/images/vehicles/jac-refine-m3-phev.jpg"
+image_credit: "Kevauto / wikimedia / by-sa"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=93982815"
 ---
 # JAC Refine M3 PHEV
 

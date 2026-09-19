@@ -28,6 +28,9 @@ data_source: "汽车之家/易车: ¥112,900 (2026款智慧新蓝鲸125km), 18.4
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "CS55"
+image: "/images/vehicles/changan-cs55-plus-phev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=164137712"
 ---
 # Changan CS55 PLUS PHEV
 

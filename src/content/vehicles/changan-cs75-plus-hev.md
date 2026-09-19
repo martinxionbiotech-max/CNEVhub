@@ -23,6 +23,9 @@ data_source: "新华网/搜狐汽车: ¥109,900 (第四代CS75PLUS蓝鲸超擎),
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "CS75"
+image: "/images/vehicles/changan-cs75-plus-hev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=155236085"
 ---
 # Changan CS75 PLUS HEV
 

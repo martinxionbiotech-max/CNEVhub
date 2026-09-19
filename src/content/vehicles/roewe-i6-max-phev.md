@@ -23,6 +23,9 @@ data_source: "荣威ei6 MAX 起售价13.68万元（百度百科/第一电动网�
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "i6 MAX"
+image: "/images/vehicles/roewe-i6-max-phev.jpg"
+image_credit: "Navigator84 / wikimedia / by-sa"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=58363952"
 ---
 # Roewe i6 MAX PHEV
 

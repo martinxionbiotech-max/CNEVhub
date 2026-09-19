@@ -22,6 +22,9 @@ data_source: "大家9超混 RMB 269,900 (搜狐汽车; 上汽大通官网)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "MIFA 9"
+image: "/images/vehicles/maxus-mifa-9-phev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=141104510"
 ---
 # Maxus MIFA 9 PHEV
 

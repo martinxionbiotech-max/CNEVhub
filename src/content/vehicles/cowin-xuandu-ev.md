@@ -25,6 +25,9 @@ data_source: "凯翼轩度EV RMB 149,900（凯翼官网/搜狐汽车；53.6kWh/4
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xuandu"
+image: "/images/vehicles/cowin-xuandu-ev.jpg"
+image_credit: "Zotyefan / wikimedia / by-sa"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=126744931"
 ---
 # Cowin Xuandu EV
 

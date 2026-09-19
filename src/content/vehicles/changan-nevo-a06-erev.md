@@ -25,6 +25,9 @@ data_source: "启源A06增程 起售价11.99万元（新浪汽车/新出行）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Nevo A06"
+image: "/images/vehicles/changan-nevo-a06-erev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=182105194"
 ---
 # Changan Nevo A06 EREV
 

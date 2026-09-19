@@ -28,6 +28,9 @@ data_source: "江淮iEVS4 RMB 139,500（百度百科/汽车之家；66kWh/470km 
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "iEVS4"
+image: "/images/vehicles/jac-ievs4.jpg"
+image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:JAC_Refine_S4_001.jpg"
 ---
 # JAC iEVS4
 

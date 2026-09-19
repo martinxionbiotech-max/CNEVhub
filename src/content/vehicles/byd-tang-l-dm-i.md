@@ -27,6 +27,9 @@ data_source: "唐L DM-i 起售价22.98万元（新华网/新浪汽车）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Tang"
+image: "/images/vehicles/byd-tang-l-dm-i.jpg"
+image_credit: "KitsuneDP / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:BYD_Tang_L_001.jpg"
 ---
 # BYD Tang L DM-i
 

@@ -27,6 +27,9 @@ data_source: "风神L7 EV 起售价9.49万元（搜狐汽车）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "L7"
+image: "/images/vehicles/aeolus-l7-ev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=164332258"
 ---
 # Aeolus L7 EV
 

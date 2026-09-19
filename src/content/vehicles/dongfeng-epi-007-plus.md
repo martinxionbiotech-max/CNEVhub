@@ -22,6 +22,9 @@ data_source: "奕派007+ RMB 129,900 (东风奕派官网; 尺寸易车)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "eπ"
+image: "/images/vehicles/dongfeng-epi-007-plus.jpg"
+image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:Dongfeng_Fengxing_S500_007.jpg"
 ---
 # Dongfeng eπ 007 Plus
 

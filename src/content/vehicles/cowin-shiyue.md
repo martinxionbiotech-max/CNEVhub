@@ -28,6 +28,9 @@ data_source: "凯翼拾月max RMB 47,900 (汽车之家)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Shiyue"
+image: "/images/vehicles/cowin-shiyue.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Kaiyi_Shiyue_Max_001.jpg"
 ---
 # Kaiyi Shiyue Max
 

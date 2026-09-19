@@ -27,6 +27,9 @@ data_source: "岚图追光PHEV 起售价25.28万元（新华网/岚图官网）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Passion"
+image: "/images/vehicles/voyah-passion-phev.jpg"
+image_credit: "Retired electrician / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=170757540"
 ---
 # Voyah Passion PHEV
 

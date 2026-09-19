@@ -18,6 +18,9 @@ data_source: "Gasgoo/Chery: ¥129,900–156,900"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Fulwin T6"
+image: "/images/vehicles/chery-fulwin-t6.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Chery_Tansuo_06_001.jpg"
 ---
 # Chery Fulwin T6
 

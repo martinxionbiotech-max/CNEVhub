@@ -28,6 +28,9 @@ data_source: "享界S9T增程Max 起售价30.98万元（鸿蒙智行官网/凤�
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "S9T"
+image: "/images/vehicles/stelato-s9t-erev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=175846170"
 ---
 # Stelato S9T EREV
 

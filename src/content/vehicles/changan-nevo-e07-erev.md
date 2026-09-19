@@ -25,6 +25,9 @@ data_source: "启源E07增程 起售价21.99万元（中关村在线/易车）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Nevo E07"
+image: "/images/vehicles/changan-nevo-e07-erev.jpg"
+image_credit: "Infinty 0 / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=154414197"
 ---
 # Changan Nevo E07 EREV
 

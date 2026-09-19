@@ -24,6 +24,9 @@ data_source: "Xinhua: ¥99,900 (秦MAX EV/DM-i, launched 2026-08-13), 240 kW, 0-
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Qin"
+image: "/images/vehicles/byd-qin-max-ev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=147819225"
 ---
 # BYD Qin Max EV
 

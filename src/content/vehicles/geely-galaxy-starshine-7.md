@@ -22,6 +22,9 @@ data_source: "新华网/吉利银河官网: ¥98,800 (9.88万起), 四驱电混 
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geely Galaxy Starshine 7"
+image: "/images/vehicles/geely-galaxy-starshine-7.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Geely_Galaxy_Starshine_7_001.jpg"
 ---
 # Geely Galaxy Starshine 7 MAX
 

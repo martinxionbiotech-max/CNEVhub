@@ -24,6 +24,9 @@ data_source: "传祺向往S7 RMB 169,800 (新华网/IT之家, 2025-03)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xiangwang"
+image: "/images/vehicles/gac-motor-xiangwang-s7.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Trumpchi_Xiangwang_S7_001.jpg"
 ---
 # GAC Xiangwang S7
 

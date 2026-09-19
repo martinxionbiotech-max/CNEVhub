@@ -28,6 +28,9 @@ data_source: "阿维塔07增程 指导价21.99万元（腾讯新闻/易车）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Avatr 07"
+image: "/images/vehicles/avatr-07-erev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=155242223"
 ---
 # Avatr 07 EREV
 

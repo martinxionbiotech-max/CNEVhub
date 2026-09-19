@@ -25,6 +25,9 @@ data_source: "智己LS6增程52 Max 起售价21.49万元（新华网/智己官�
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "LS6"
+image: "/images/vehicles/im-ls6-erev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=155237744"
 ---
 # IM LS6 EREV
 

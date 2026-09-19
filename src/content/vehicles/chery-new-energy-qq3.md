@@ -25,6 +25,9 @@ data_source: "fulwin.chery.cn/Autohome: ¥58,900, 58 kW, CLTC 310 km"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "QQ3"
+image: "/images/vehicles/chery-new-energy-qq3.jpg"
+image_credit: "Zoerides / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/wiki/File:Chery_QQ3_001.jpg"
 ---
 # Chery QQ3 EV
 

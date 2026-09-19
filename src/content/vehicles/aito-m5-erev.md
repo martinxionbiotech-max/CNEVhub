@@ -27,6 +27,9 @@ data_source: "问界新M5增程 起售价22.98万元（鸿蒙智行/AITO官网�
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "M5"
+image: "/images/vehicles/aito-m5-erev.jpg"
+image_credit: "Zoerides / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=145254498"
 ---
 # Aito M5 EREV
 

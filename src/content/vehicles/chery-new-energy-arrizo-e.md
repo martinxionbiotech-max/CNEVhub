@@ -28,6 +28,9 @@ data_source: "艾瑞泽e RMB 152,800（汽车之家/搜狐汽车；48.16kWh/405k
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Arrizo"
+image: "/images/vehicles/chery-new-energy-arrizo-e.jpg"
+image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/wiki/File:2017_Chery_Arrizo_5_(rear).jpg"
 ---
 # Chery Arrizo e
 

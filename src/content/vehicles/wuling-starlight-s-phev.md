@@ -28,6 +28,9 @@ data_source: "五菱星光S插混 起售价9.98万元（SGMW/新出行）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Starlight S"
+image: "/images/vehicles/wuling-starlight-s-phev.jpg"
+image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=166033891"
 ---
 # Wuling Starlight S PHEV
 
