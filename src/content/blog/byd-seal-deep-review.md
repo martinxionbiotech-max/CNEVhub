@@ -277,3 +277,16 @@ A: Not necessarily. The Seal's ex-factory price is lower, but BYD's 17% counterv
 ---
 
 *Want your own spec, market, and volume modeled? Run it through the [landed-cost calculator](/landed-cost-calculator/) and read our full [landed-cost methodology](/landed-cost-methodology/) before you commit. Compare the Seal against other China-sourced EVs in the [vehicle data library](/vehicles/).*
+
+## Sources
+
+1. BYD — official BYD Seal specification sheet (range, kerb weight, aero, charging) — https://www.byd.com/ — accessed 2026
+2. European Commission — Commission Implementing Regulation (EU) 2024/2754 (BYD-specific duty rate) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — 2024
+3. European Commission — EU Common Customs Tariff / TARIC (CN 8703.80) — https://ec.europa.eu/taxation_customs/ — accessed 2026
+4. Regulation (EU) 2018/858 — EU type-approval framework — https://eur-lex.europa.eu/eli/reg/2018/858/oj — 2018
+5. Carwow — BYD Seal review (performance, dynamics) — https://www.carwow.co.uk/ — 2025
+6. CarExpert — BYD Seal road test (real-world efficiency, dynamics) — https://www.carexpert.com.au/ — 2025
+7. Zecar — BYD Seal review and spec verification — https://zecar.com/ — 2025
+8. Reddit r/BYD — owner-reported German market prices (€38,000–41,000 Comfort trim) — https://www.reddit.com/ — 2025
+9. German VAT Act / input-VAT recovery rules — Bundesministerium der Justiz, gesetze-im-internet.de — https://www.gesetze-im-internet.de/ — accessed 2026
+10. EV Hub first-party data — BYD Seal landed-cost record and methodology (China MSRP + per-market breakdown) — https://electricvehiclehub.net/ — 2026

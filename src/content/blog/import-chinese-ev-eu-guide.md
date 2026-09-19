@@ -338,3 +338,16 @@ A: Technically you can make AC charging work with a GB/T-to-Type 2 adapter, but 
 ---
 
 *Wei Wang is a content editor at MCM (广州邦禾检测技术有限公司), where he works with distributors and fleet buyers importing Chinese EVs into European markets. This guide reflects 2025–2026 duty rates and fee estimates; confirm current figures with your customs broker and forwarder before committing funds.*
+
+## Sources
+
+1. European Commission — Commission Implementing Regulation (EU) 2024/2754 (definitive CVD, brand rates, five-year term) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — 2024
+2. Regulation (EU) 2018/858 — whole-vehicle type approval — https://eur-lex.europa.eu/eli/reg/2018/858/oj — 2018
+3. Council Directive 2006/112/EC (EU VAT Directive) — VAT rules incl. import VAT and input-VAT deduction — https://eur-lex.europa.eu/eli/dir/2006/112/oj — 2006 (as amended)
+4. EU anti-subsidy basic Regulation (EU) 2016/1037 — legal basis for countervailing measures — https://eur-lex.europa.eu/eli/reg/2016/1037/oj — 2016
+5. European Commission — TARIC / CN 8703.80 tariff classification — https://ec.europa.eu/taxation_customs/ — accessed 2026
+6. German Road Traffic Licensing Regulation — §21 StVZO (single-vehicle approval) — https://www.gesetze-im-internet.de/stvzo_2012/ — accessed 2026
+7. TÜV / DEKRA — single-vehicle approval service and fee schedules — https://www.tuv.com/ · https://www.dekra.com/ — 2025
+8. GB/T 20234 / IEC 62196 — charging connector standards (CCS2 vs GB/T) — https://www.iec.ch/ — accessed 2026
+9. European Commission — VAT rates database (per member state) — https://ec.europa.eu/taxation_customs/ — 2025
+10. BYD — official China pricing for Seal and other models — https://www.byd.com/ — 2025

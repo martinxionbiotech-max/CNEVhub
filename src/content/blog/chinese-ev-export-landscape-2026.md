@@ -258,3 +258,18 @@ Three ways: building in Europe (BYD Hungary, Chery–Ebro Spain), partnering (Le
 5. If you're evaluating a Chinese EV brand's real global position, look at its localization plan and its battery supply chain, not just its export volume. Those two factors determine who converts today's shipping numbers into durable overseas share.
 
 *Wei Wang is a Marketing Specialist at Guangzhou Banghe Testing Technology Co., Ltd. (MCM). This analysis draws on public customs data, EU regulatory filings, and company disclosures; figures are cited to their sources and reflect information available as of September 2026.*
+
+## Sources
+
+1. IEA — Global EV Outlook 2026 (China export volumes, EV share of exports) — https://www.iea.org/reports/global-ev-outlook-2026 — 2026
+2. General Administration of Customs of China (GACC) — 2025 vehicle/NEV export statistics — http://www.customs.gov.cn/ — 2025
+3. China Association of Automobile Manufacturers (CAAM) — 2025 passenger-vehicle & NEV export data — http://www.caam.org.cn/ — 2025
+4. China Passenger Car Association (CPCA) — monthly NEV export commentary — http://www.cpcaauto.com/ — 2025
+5. European Commission — Commission Implementing Regulation (EU) 2024/2754 (definitive countervailing duties on BEVs from China) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — adopted 29 Oct 2024
+6. European Commission — Access2Markets tariff database — https://trade.ec.europa.eu/access-to-markets/ — accessed 2026
+7. Reuters — EU/China EV tariff votes and BYD overseas-plant reporting (June 2026) — https://www.reuters.com/ — 2025–2026
+8. Yicai Global — China EV export and brand globalization reporting (January 2026) — https://www.yicaiglobal.com/ — Jan 2026
+9. U.S. Geological Survey (USGS) — mineral/lithium production data — https://www.usgs.gov/ — 2025
+10. IISS — Strategic Comments on China-EU EV trade tensions (October 2024) — https://www.iiss.org/ — Oct 2024
+11. Thailand Board of Investment (BOI) — EV manufacturing incentive programs — https://www.boi.go.th/ — accessed 2026
+12. Company disclosures — BYD, Xiaomi, Leapmotor (overseas plant/JV announcements) — https://www.byd.com/ — 2024–2026
