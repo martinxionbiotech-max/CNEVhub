@@ -30,6 +30,9 @@ data_source: "瑞风E4 RMB 179,800（江淮瑞风官网）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Refine E4"
+image: "/images/vehicles/jac-refine-e4.jpg"
+image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=79134660"
 ---
 # JAC Refine E4
 

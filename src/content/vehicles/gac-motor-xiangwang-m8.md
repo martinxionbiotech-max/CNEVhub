@@ -18,6 +18,9 @@ data_source: "传祺向往M8 RMB 309,900 (汽车之家, 2026-01)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xiangwang"
+image: "/images/vehicles/gac-motor-xiangwang-m8.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # GAC Xiangwang M8
 

@@ -27,6 +27,9 @@ data_source: "firefly Habitat RMB 133,300 (CnEVPost 2026-07-20)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Halo"
+image: "/images/vehicles/firefly-habitat.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # firefly Habitat
 

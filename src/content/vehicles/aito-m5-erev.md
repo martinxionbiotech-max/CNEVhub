@@ -28,7 +28,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "M5"
 image: "/images/vehicles/aito-m5-erev.jpg"
-image_credit: "Zoerides / wikimedia / cc0"
+image_credit: "Zoerides / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=145254498"
 ---
 # Aito M5 EREV

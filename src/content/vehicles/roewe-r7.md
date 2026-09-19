@@ -25,6 +25,9 @@ data_source: "荣威R7 RMB 159,900 (上汽荣威官网; Wikipedia SAIC Rising R7
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "R7"
+image: "/images/vehicles/roewe-r7.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Roewe R7
 

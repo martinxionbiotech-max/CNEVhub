@@ -27,7 +27,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "L07"
 image: "/images/vehicles/deepal-l07-erev.jpg"
-image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=155238631"
 ---
 # Deepal L07 EREV

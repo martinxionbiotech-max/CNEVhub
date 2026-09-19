@@ -16,7 +16,12 @@ const { legal } = siteConfig;
 // 与站点实际使用图片同源：仅收录带完整署名记录的图片
 const vehicles = (await getCollection('vehicles'))
   .filter((v) => v.data.image_credit && v.data.image_source)
+  // 自研插图不属第三方素材，单独说明，不进 CC 署名表
+  .filter((v) => !/EV Hub original/i.test(v.data.image_credit || ''))
   .sort((a, b) => (a.data.slug || a.id).localeCompare(b.data.slug || b.id));
+
+const illustrations = (await getCollection('vehicles'))
+  .filter((v) => /EV Hub original/i.test(v.data.image_credit || '')).length;
 
 const LICENSE_LINKS: Record<string, string> = {
   CC0: 'https://creativecommons.org/publicdomain/zero/1.0/',
@@ -155,6 +160,15 @@ const byLicense = rows.reduce<Record<string, number>>((acc, r) => {
           Where we learn that an image is being used without adequate permission, or that a rights holder objects to
           its use, we remove or replace it. We would rather run a page without a photograph than keep one we cannot
           stand behind.
+        </p>
+
+        <h2>Illustrations we made ourselves</h2>
+        <p>
+          {illustrations} model pages carry a plain technical illustration drawn by us — a text card naming the model —
+          because no freely licensed photograph of that vehicle exists in any source we could search (Wikimedia
+          Commons, Openverse and the open web). They contain no third-party photograph, logo or design element, so
+          they need no attribution. They are labelled as illustrations on the page so no reader mistakes them for a
+          photograph of the vehicle.
         </p>
 
         <h2>Our own assets</h2>

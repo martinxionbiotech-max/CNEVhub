@@ -29,6 +29,9 @@ data_source: "星海T5 RMB 153,900 (东风风行官网)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xinghai"
+image: "/images/vehicles/forthing-xinghai-t5.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=157560513"
 ---
 # Forthing Xinghai T5
 

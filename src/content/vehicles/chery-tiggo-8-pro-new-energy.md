@@ -25,6 +25,9 @@ data_source: "瑞虎8 PRO新能源 RMB 137,900（奇瑞官网/太平洋汽车）
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Tiggo 8"
+image: "/images/vehicles/chery-tiggo-8-pro-new-energy.jpg"
+image_credit: "KitsuneDP / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=166467826"
 ---
 # Chery Tiggo 8 Pro New Energy
 

@@ -21,6 +21,9 @@ data_source: "易至EV3 RMB 52,800 (江铃集团新能源官网/百度百科)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yichi"
+image: "/images/vehicles/jmc-yichi-ev3.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # JMC Yichi EV3
 

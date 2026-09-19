@@ -29,7 +29,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "H5"
 image: "/images/vehicles/saic-h5-erev.jpg"
-image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=179901964"
 ---
 # SAIC H5 EREV

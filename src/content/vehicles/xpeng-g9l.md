@@ -26,6 +26,9 @@ data_source: "小鹏G9L RMB 259,800 presale (小鹏官网, 2026-08-11)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "G"
+image: "/images/vehicles/xpeng-g9l.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Xpeng G9L
 

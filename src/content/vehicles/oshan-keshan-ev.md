@@ -25,6 +25,9 @@ data_source: "欧尚科尚EV RMB 166,800（汽车之家/新浪汽车；57.9kWh/N
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Keshan"
+image: "/images/vehicles/oshan-keshan-ev.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Oshan Keshan EV
 

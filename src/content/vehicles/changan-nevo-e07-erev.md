@@ -26,7 +26,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "Nevo E07"
 image: "/images/vehicles/changan-nevo-e07-erev.jpg"
-image_credit: "Infinty 0 / wikimedia / cc0"
+image_credit: "Infinty 0 / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=154414197"
 ---
 # Changan Nevo E07 EREV

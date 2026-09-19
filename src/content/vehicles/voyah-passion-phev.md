@@ -28,7 +28,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "Passion"
 image: "/images/vehicles/voyah-passion-phev.jpg"
-image_credit: "Retired electrician / wikimedia / cc0"
+image_credit: "Retired electrician / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=170757540"
 ---
 # Voyah Passion PHEV

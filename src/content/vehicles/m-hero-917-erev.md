@@ -27,6 +27,9 @@ data_source: "猛士917增程 起售价63.77万元（智车派/易车）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "917"
+image: "/images/vehicles/m-hero-917-erev.jpg"
+image_credit: "Retired electrician / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=186316242"
 ---
 # M-Hero 917 EREV
 

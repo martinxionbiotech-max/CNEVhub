@@ -29,7 +29,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "S9T"
 image: "/images/vehicles/stelato-s9t-erev.jpg"
-image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=175846170"
 ---
 # Stelato S9T EREV

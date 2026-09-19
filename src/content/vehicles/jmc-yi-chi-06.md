@@ -18,6 +18,9 @@ data_source: "颐驰06 RMB 204,600 (江铃集团新能源/新华网)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yi Chi"
+image: "/images/vehicles/jmc-yi-chi-06.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # JMC Yi Chi 06
 

@@ -24,6 +24,9 @@ data_source: "江淮X8 E家 RMB 99,800（江淮汽车官网；NEDC 110km）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "X8"
+image: "/images/vehicles/jac-x8-ejia.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC BY-SA 4.0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=131017119"
 ---
 # JAC X8 E-Jia
 

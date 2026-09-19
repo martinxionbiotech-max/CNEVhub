@@ -29,6 +29,9 @@ data_source: "远航H8 RMB 349,800 (CarNewsChina/远航官网, 2023-12)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "H8"
+image: "/images/vehicles/dayun-h8.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Dayun Yuanhang H8
 

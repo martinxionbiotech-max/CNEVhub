@@ -28,6 +28,9 @@ data_source: "舒享家 RMB 159,900（汽车之家/易车；67.12kWh/512km）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Shuxiangjia"
+image: "/images/vehicles/chery-new-energy-shuxiangjia.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Chery Shuxiangjia
 

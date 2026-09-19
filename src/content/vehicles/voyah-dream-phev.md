@@ -30,7 +30,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "Dream"
 image: "/images/vehicles/voyah-dream-phev.jpg"
-image_credit: "Retired electrician / wikimedia / cc0"
+image_credit: "Retired electrician / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=186070672"
 ---
 # Voyah Dream PHEV

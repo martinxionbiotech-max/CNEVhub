@@ -25,6 +25,9 @@ data_source: "风行雷霆(增程) RMB 129,900 (东风风行官网/易车)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Thunder"
+image: "/images/vehicles/forthing-thunder.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Forthing Thunder
 

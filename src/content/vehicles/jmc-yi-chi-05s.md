@@ -19,6 +19,9 @@ data_source: "羿驰05S RMB 97,800 (搜狐汽车/易至汽车)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yi Chi"
+image: "/images/vehicles/jmc-yi-chi-05s.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # JMC Yi Chi 05S
 

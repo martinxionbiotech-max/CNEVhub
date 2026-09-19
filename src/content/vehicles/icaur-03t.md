@@ -23,7 +23,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "iCAR 03"
 image: "/images/vehicles/icaur-03t.jpg"
-image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=154710545"
 ---
 # iCAR 03T

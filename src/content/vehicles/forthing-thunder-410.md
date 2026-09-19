@@ -26,6 +26,9 @@ data_source: "风行雷霆410 RMB 99,800 (东风风行官网)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Thunder"
+image: "/images/vehicles/forthing-thunder-410.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Forthing Thunder 410
 

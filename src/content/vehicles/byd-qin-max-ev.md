@@ -25,7 +25,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "Qin"
 image: "/images/vehicles/byd-qin-max-ev.jpg"
-image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=147819225"
 ---
 # BYD Qin Max EV

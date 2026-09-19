@@ -23,7 +23,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geely Galaxy Starship 7"
 image: "/images/vehicles/geely-galaxy-starship-7-ev.jpg"
-image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=155238280"
 ---
 # Geely Galaxy Starship 7 EV

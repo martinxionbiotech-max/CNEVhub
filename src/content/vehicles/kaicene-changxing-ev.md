@@ -23,6 +23,9 @@ data_source: "长安凯程长行EV RMB 133,200（EV视界/搜狐汽车；约402k
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Changxing"
+image: "/images/vehicles/kaicene-changxing-ev.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Kaicene Changxing EV
 

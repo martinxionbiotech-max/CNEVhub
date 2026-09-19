@@ -22,6 +22,9 @@ data_source: "星海V6 PLUS RMB 151,900 (东风风行官网)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xinghai"
+image: "/images/vehicles/forthing-xinghai-v6-plus.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=157560513"
 ---
 # Forthing Xinghai V6 Plus
 

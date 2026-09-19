@@ -23,6 +23,9 @@ data_source: "凯翼昆仑iHD RMB 159,900 预售价 (汽车之家/CarNewsChina)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Kunlun"
+image: "/images/vehicles/cowin-kunlun-ihd.jpg"
+image_credit: "KitsuneDP / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=188763317"
 ---
 # Kaiyi Kunlun iHD
 

@@ -25,6 +25,9 @@ data_source: "问界M9 Ultimate 领世加长版 RMB 649,800 (鸿蒙智行/AITO�
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "M"
+image: "/images/vehicles/aito-m9-ultimate.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=152980270"
 ---
 # Aito M9 Ultimate
 

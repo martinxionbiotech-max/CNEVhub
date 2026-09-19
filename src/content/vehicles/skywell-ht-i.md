@@ -25,6 +25,9 @@ data_source: "创维HT-i RMB 146,800 (CarNewsChina/AutoHome, 2022-09)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "HT-i"
+image: "/images/vehicles/skywell-ht-i.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Skywell HT-i
 

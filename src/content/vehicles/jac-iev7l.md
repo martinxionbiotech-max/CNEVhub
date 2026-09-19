@@ -27,6 +27,9 @@ data_source: "江淮iEV7L RMB 116,500（江淮钇为官网）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "iEV7L"
+image: "/images/vehicles/jac-iev7l.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # JAC iEV7L
 

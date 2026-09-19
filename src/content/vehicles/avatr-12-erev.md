@@ -28,6 +28,9 @@ data_source: "阿维塔12增程 起售价26.99万元（阿维塔官网/TOM汽车
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Avatr 12"
+image: "/images/vehicles/avatr-12-erev.jpg"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
+image_source: "https://commons.wikimedia.org/w/index.php?curid=145249574"
 ---
 # Avatr 12 EREV
 

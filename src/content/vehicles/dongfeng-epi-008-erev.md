@@ -28,6 +28,9 @@ data_source: "奕派eπ008增程 指导价21.66万元（东风奕派官网/新�
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "eπ008"
+image: "/images/vehicles/dongfeng-epi-008-erev.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Dongfeng eπ008 EREV
 

@@ -29,6 +29,9 @@ data_source: "创维EV6 RMB 152,000 (CarNewsChina/Sina Auto)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "EV6"
+image: "/images/vehicles/skywell-ev6.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Skywell EV6
 

@@ -27,7 +27,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "Exlantix ET"
 image: "/images/vehicles/exeed-exlantix-et-erev.jpg"
-image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=151490800"
 ---
 # Exeed Exlantix ET EREV

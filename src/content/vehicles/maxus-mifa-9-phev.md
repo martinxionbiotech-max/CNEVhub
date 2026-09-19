@@ -23,7 +23,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "MIFA 9"
 image: "/images/vehicles/maxus-mifa-9-phev.jpg"
-image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=141104510"
 ---
 # Maxus MIFA 9 PHEV

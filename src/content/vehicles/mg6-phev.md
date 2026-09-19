@@ -27,6 +27,9 @@ data_source: "MG6 PHEV RMB 142,800（上汽名爵官网；11.1kWh/70km）"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "MG6"
+image: "/images/vehicles/mg6-phev.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # MG6 PHEV
 

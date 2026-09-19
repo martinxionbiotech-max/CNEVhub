@@ -25,6 +25,9 @@ data_source: "远航Y7 RMB 399,800 (汽车之家, 2024)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Y7"
+image: "/images/vehicles/dayun-y7.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Dayun Yuanhang Y7
 

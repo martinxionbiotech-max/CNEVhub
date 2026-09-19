@@ -26,7 +26,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "LS6"
 image: "/images/vehicles/im-ls6-erev.jpg"
-image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=155237744"
 ---
 # IM LS6 EREV

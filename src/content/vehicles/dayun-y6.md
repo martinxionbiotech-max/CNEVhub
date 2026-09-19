@@ -29,6 +29,9 @@ data_source: "远航Y6 RMB 329,800 (CarNewsChina/远航官网, 2023-12)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "Y6"
+image: "/images/vehicles/dayun-y6.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Dayun Yuanhang Y6
 

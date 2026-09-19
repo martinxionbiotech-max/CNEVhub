@@ -27,7 +27,7 @@ data_updated: "2026-09-14"
 data_reviewed: False
 family: "M8"
 image: "/images/vehicles/aito-m8-erev.jpg"
-image_credit: "JustAnotherCarDesigner / wikimedia / cc0"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=172539066"
 ---
 # Aito M8 EREV

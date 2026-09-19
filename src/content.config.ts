@@ -37,20 +37,6 @@ const changelog = defineCollection({
   }),
 });
 
-const testimonials = defineCollection({
-  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/testimonials' }),
-  schema: z.object({
-    quote: z.string(),
-    author: z.string(),
-    role: z.string(),
-    company: z.string(),
-    avatar: z.string().optional(),
-    featured: z.boolean().default(false),
-    order: z.number().default(0),
-    draft: z.boolean().default(false),
-  }),
-});
-
 const vehicles = defineCollection({
   loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/vehicles' }),
   schema: z.object({
@@ -110,4 +96,4 @@ const brands = defineCollection({
   }),
 });
 
-export const collections = { blog, docs, changelog, testimonials, vehicles, brands };
+export const collections = { blog, docs, changelog, vehicles, brands };

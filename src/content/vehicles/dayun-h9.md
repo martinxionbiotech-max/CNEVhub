@@ -29,6 +29,9 @@ data_source: "远航H9 RMB 409,800 (CarNewsChina/远航官网, 2024-05)"
 data_updated: "2026-09-14"
 data_reviewed: False
 family: "H9"
+image: "/images/vehicles/dayun-h9.jpg"
+image_credit: "EV Hub original illustration (no third-party rights)"
+image_source: "https://electricvehiclehub.net/image-credits/"
 ---
 # Dayun Yuanhang H9
 
