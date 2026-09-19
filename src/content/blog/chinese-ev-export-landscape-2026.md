@@ -265,7 +265,7 @@ Three ways: building in Europe (BYD Hungary, Chery–Ebro Spain), partnering (Le
 
 **Disclosure.** This is the EV Hub analysis team's judgment based on the public customs data, EU regulatory filings and company disclosures cited above — analysis and opinion, not a quote, and not legal or investment advice. Trade statistics and plant timelines move; confirm current figures against primary sources before acting on them.
 
-*Wei Wang is a Marketing Specialist at Guangzhou Banghe Testing Technology Co., Ltd. (MCM). This analysis draws on public customs data, EU regulatory filings, and company disclosures; figures are cited to their sources and reflect information available as of September 2026.*
+*Wei Wang is an EV and battery industry analyst at Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.). This analysis draws on public customs data, EU regulatory filings, and company disclosures; figures are cited to their sources and reflect information available as of September 2026.*
 
 ## Sources
 

@@ -8,7 +8,7 @@ draft: false
 
 # Import Overview: From Factory to Your Door
 
-Importing a Chinese EV is a sequence of roughly ten steps, and the order matters. Almost every failed import we see at MCM collapsed because a step was done out of order — usually payment before due diligence, or registration before certification.
+Importing a Chinese EV is a sequence of roughly ten steps, and the order matters. Almost every failed import we see in our work with importers collapsed because a step was done out of order — usually payment before due diligence, or registration before certification.
 
 ## The ten-step sequence
 

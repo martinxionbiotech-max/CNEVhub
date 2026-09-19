@@ -31,7 +31,7 @@ If you're a fleet buyer, a dealer, or a private importer eyeing the price gap be
 
 Not quite. The moment you add up duty, countervailing duty, VAT, freight, certification, and registration, that margin compresses hard — and in some cases disappears entirely.
 
-I've spent the last several years on the ground at MCM (广州邦禾检测技术有限公司), helping importers and distributors figure out what a Chinese EV actually costs by the time it's legal to drive on a European road. This guide walks through the full 10-step process, unpacks the three-layer tariff stack, and ends with a worked cost example on a BYD Seal so you can see exactly where the money goes.
+I've spent the last several years working on Chinese EV exports at Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.), helping importers and distributors figure out what a Chinese EV actually costs by the time it's legal to drive on a European road. This guide walks through the full 10-step process, unpacks the three-layer tariff stack, and ends with a worked cost example on a BYD Seal so you can see exactly where the money goes.
 
 Let's get the definition locked in first, because the whole exercise turns on it.
 
@@ -345,7 +345,7 @@ A: Technically you can make AC charging work with a GB/T-to-Type 2 adapter, but 
 
 ---
 
-*Wei Wang is a content editor at MCM (广州邦禾检测技术有限公司), where he works with distributors and fleet buyers importing Chinese EVs into European markets. This guide reflects 2025–2026 duty rates and fee estimates; confirm current figures with your customs broker and forwarder before committing funds.*
+*Wei Wang is an EV and battery industry analyst at Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.), where he works on cross-border research for distributors and fleet buyers importing Chinese EVs into European markets. This guide reflects 2025–2026 duty rates and fee estimates; confirm current figures with your customs broker and forwarder before committing funds.*
 
 ## Sources
 

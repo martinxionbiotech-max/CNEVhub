@@ -1,6 +1,6 @@
 # CNEVhub
 
-> Chinese EV export intelligence — transparent landed-cost breakdowns for importing Chinese electric vehicles. Published by Guangzhou Banghe Testing Technology Co., Ltd. (MCM).
+> Chinese EV export intelligence — transparent landed-cost breakdowns for importing Chinese electric vehicles. Published by Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.).
 
 ## What is CNEVhub
 
@@ -36,6 +36,6 @@ CNEVhub shows the real landed cost of importing Chinese EVs — the itemized dut
 
 ## Company
 
-- Guangzhou Banghe Testing Technology Co., Ltd. (MCM) — automotive export compliance, testing, and landed-cost intelligence.
-- Author: Wei Wang, Marketing Specialist.
-- Contact: info@electricvehiclehub.net
+- Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.) — IATF 16949-certified automotive battery manufacturer, publishing independent landed-cost intelligence and cross-border research for Chinese EV importers.
+- Author: Wei Wang, EV & Battery Industry Analyst.
+- Contact: aaron@dinweys.com
