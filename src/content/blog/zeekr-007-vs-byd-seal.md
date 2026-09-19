@@ -5,7 +5,7 @@ image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
 draft: true
-tags: [zeekr, 007, byd, seal, comparison, landed-cost, sedan, ev-import]
+tags: [zeekr, "007", byd, seal, comparison, landed-cost, sedan, ev-import]
 ---
 
 ## TL;DR
