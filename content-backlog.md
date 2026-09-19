@@ -78,11 +78,11 @@
 - [x] portugal-import-guide —— Import Chinese EV to Portugal（EU CVD 适用 + 23% VAT + ISV）（已发布，9/19 02:00 时点）
 
 ### 批次 8 — Pillar C 中东收官 + Pillar D 对比第二波（5 篇）
-状态：`in_progress`（发布中；qatar/atto-3 已上线，剩 3 篇 draft:true 待发布）
+状态：`in_progress`（发布中；qatar/atto-3/mg4/g6 已上线，剩 1 篇 draft:true 待发布）
 - [x] qatar-import-guide —— Import Chinese EV to Qatar（5% GCC 关税 + 0% VAT + $30 注册费，海湾最便宜通道；对照 UAE/Saudi）（已发布，9/19 20:00 时点）
 - [x] byd-atto-3-vs-tesla-model-y —— BYD Atto 3 vs Tesla Model Y landed cost（紧凑 SUV）（已发布，9/19 20:00 时点）
-- [x] mg-4-vs-byd-dolphin —— MG4 vs BYD Dolphin（紧凑两厢对比）（draft:true）
-- [x] xpeng-g6-vs-tesla-model-y —— XPeng G6 vs Tesla Model Y（draft:true）
+- [x] mg-4-vs-byd-dolphin —— MG4 vs BYD Dolphin（紧凑两厢对比）（已发布，9/19 23:00 时点）
+- [x] xpeng-g6-vs-tesla-model-y —— XPeng G6 vs Tesla Model Y（已发布，9/19 23:00 时点）
 - [x] zeekr-007-vs-byd-seal —— Zeekr 007 vs BYD Seal（中国中型轿车对决）（draft:true）
 
 ### 批次 9 — Pillar C 收官：欧盟核心 + 海湾三强（5 篇）

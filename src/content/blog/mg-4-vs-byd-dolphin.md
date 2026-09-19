@@ -4,7 +4,7 @@ description: "The MG4 lands $4,310 below the BYD Dolphin in Germany despite SAIC
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [mg, mg4, byd, dolphin, comparison, landed-cost, hatchback, ev-import]
 ---
 

@@ -4,7 +4,7 @@ description: "In Germany an XPeng G6 lands at $45,830 — $1,120 above a Tesla M
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [xpeng, g6, tesla, model-y, comparison, landed-cost, eu-tariff, suv]
 ---
 
