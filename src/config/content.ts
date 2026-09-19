@@ -17,13 +17,13 @@ export const announcement: AnnouncementConfig = {
   id: 'launch-2025',
 
   /** Announcement text */
-  text: '🚀 Virex 2.0 is here!',
+  text: '',
 
-  /** Optional link URL */
-  href: '/changelog',
+  /** Optional link URL（保持有效内页，不再指向已删除的模板页） */
+  href: '/vehicles/',
 
   /** Optional link text */
-  linkText: "See what's new",
+  linkText: 'Browse the model list',
 
   /** Visual style: 'primary' | 'secondary' | 'gradient' */
   variant: 'primary',
