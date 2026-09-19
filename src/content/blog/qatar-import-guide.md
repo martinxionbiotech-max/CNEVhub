@@ -4,7 +4,7 @@ description: "Qatar charges 5% GCC duty, no VAT and a $30 registration — a BYD
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [qatar, gulf, import-duty, vat, landed-cost, ev-import, market-guide]
 ---
 

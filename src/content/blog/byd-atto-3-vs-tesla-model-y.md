@@ -4,7 +4,7 @@ description: "A BYD Atto 3 lands at $31,503 in Germany, $27,713 in the UK and $2
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [byd, atto-3, tesla, model-y, comparison, landed-cost, suv, ev-import]
 ---
 
