@@ -51,7 +51,7 @@ const costLastVerified = data.data_updated || '2026-09-15';
 const pageUrl = new URL(Astro.url.pathname, siteUrl).href;
 const vehicleImage = new URL(data.image || '/og-image.png', siteUrl).href;
 
-// JSON-LD Vehicle schema（信息页：无 offers，不宣称在售）
+// JSON-LD Vehicle schema（Vehicle ⊂ Product：必须带 offers，价格为页面同源的 ex-factory 参考价）
 const fuelTypeByPowertrain = {
   BEV: 'Electric',
   PHEV: 'Plug-in hybrid',
@@ -74,7 +74,23 @@ const jsonLd = {
   fuelType: fuelTypeByPowertrain[data.powertrain],
   numberOfDoors: 4,
   vehicleEngine: data.motor_power_kw ? { '@type': 'EngineSpecification', enginePower: { '@type': 'QuantitativeValue', value: data.motor_power_kw, unitCode: 'KWT' } } : undefined,
-  // 信息型页面不声明 Offer（本平台不销售车辆）
+  // Google 把 Vehicle（schema.org 中 Product 的子类型）按产品处理：缺少 offers /
+  // review / aggregateRating 会报「产品摘要 应指定 offers、review 或 aggregateRating」。
+  // 此处价格与页面可见价格同源（price_usd / currency），不声明 seller（本站提供价格情报，
+  // 不直接销售车辆），也不添加任何评分或评论。
+  offers: data.price_usd
+    ? {
+        '@type': 'Offer',
+        url: pageUrl,
+        price: data.price_usd,
+        priceCurrency: data.currency || 'USD',
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        description:
+          `${data.price_type || 'China ex-factory price (MSRP)'} — indicative starting price for ` +
+          `export buyers, before freight, duties and certification. Confirm with a supplier quote.`,
+      }
+    : undefined,
 };
 
 ---
