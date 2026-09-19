@@ -48,7 +48,9 @@ export function vehicleAlt(v: VehicleLike, map: Map<string, string>): string {
   const title = (v.title || '').trim();
   const desc = descriptor(v, map);
   if (/EV Hub original/i.test(v.image_credit || '')) {
-    return `Technical illustration of the ${title}${desc ? ` (${desc})` : ''} — no freely licensed photograph of this vehicle is available`;
+    // 插图用扁平规格写法，避免出现 "(Sedan (BEV))" 这种嵌套括号
+    const plain = [v.type, v.powertrain].filter(Boolean).join(' ');
+    return `Technical illustration of the ${title}${plain ? ` (${plain})` : ''} — no freely licensed photograph of this vehicle is available`;
   }
   return `${title} — ${desc} exterior view`.replace(/\s+/g, ' ').trim();
 }
