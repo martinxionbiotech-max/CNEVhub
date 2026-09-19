@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import { brandLabelMap, brandLabel } from '@/lib/brand-label';
+import { brandLabelMap, vehicleThumbAlt } from '@/lib/brand-label';
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import SEO from '@/components/common/SEO.astro';
 
@@ -25,7 +25,7 @@ vehicles.sort((a, b) => a.data.price_usd - b.data.price_usd);
         <a href={`/vehicles/${v.data.slug}/`} class="block border border-gray-200 rounded-xl overflow-hidden hover:shadow-lg transition group bg-white">
           {v.data.image && (
             <div class="aspect-[4/3] bg-gray-100 overflow-hidden">
-              <img src={v.data.image} alt={`${v.data.title} — ${brandLabel(brandMap, v.data.brand)} ${v.data.type} (${v.data.powertrain})`} loading="lazy" width="400" height="300" class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
+              <img src={v.data.image} alt={vehicleThumbAlt(v.data, brandMap)} loading="lazy" width="400" height="300" class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
             </div>
           )}
           <div class="p-6">

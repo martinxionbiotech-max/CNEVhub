@@ -3,7 +3,7 @@ import { getCollection, render } from 'astro:content';
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import SEO from '@/components/common/SEO.astro';
 import { url as siteUrl } from '@/config/site';
-import { brandLabelMap, brandLabel } from '@/lib/brand-label';
+import { brandLabelMap, vehicleThumbAlt } from '@/lib/brand-label';
 
 export async function getStaticPaths() {
   const brands = await getCollection('brands');
@@ -89,7 +89,7 @@ const breadcrumbLd = {
               <a href={`/vehicles/${v.data.slug}/`} class="flex items-center gap-4 p-4 border border-gray-200 rounded-xl bg-white hover:border-green-500/60 hover:shadow-md transition group">
                 {v.data.image && (
                   <div class="w-24 h-18 shrink-0 rounded-lg overflow-hidden bg-gray-100 aspect-[4/3]">
-                    <img src={v.data.image} alt={`${v.data.title} — ${v.data.type} by ${brandLabel(brandMap, v.data.brand)}`} loading="lazy" width="96" height="72" class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
+                    <img src={v.data.image} alt={vehicleThumbAlt(v.data, brandMap)} loading="lazy" width="96" height="72" class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
                   </div>
                 )}
                 <div class="min-w-0 flex-1">

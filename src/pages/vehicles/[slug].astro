@@ -2,7 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import { url as siteUrl } from '@/config/site';
-import { brandLabelMap, brandLabel } from '@/lib/brand-label';
+import { brandLabelMap, vehicleAlt } from '@/lib/brand-label';
 
 export async function getStaticPaths() {
   const vehicles = await getCollection('vehicles');
@@ -115,11 +115,7 @@ const jsonLd = {
     <div class="mb-10 overflow-hidden rounded-2xl border border-gray-200 shadow-sm">
       <img
         src={data.image}
-        alt={
-          /EV Hub original/i.test(data.image_credit || '')
-            ? `Technical illustration of the ${data.title} (${brandLabel(brandMap, data.brand)} ${data.type}) — no freely licensed photograph of this vehicle is available`
-            : `${data.title} — ${brandLabel(brandMap, data.brand)} ${data.type} (${data.powertrain}) exterior view`
-        }
+        alt={vehicleAlt(data, brandMap)}
         class="w-full h-auto object-cover"
         loading="eager"
         width="1200"
