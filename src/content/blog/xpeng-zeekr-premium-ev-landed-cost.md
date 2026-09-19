@@ -89,6 +89,14 @@ For the Zeekr 001, yes — the UK's no-CVD more than offsets its 20% VAT, landin
 It depends on your market's price ceiling, not the tariff. Budget EVs have terrible percentage premiums but low absolute cost; premium EVs have better percentages but much higher absolute exposure. The deciding factor is whether you can sell above the landed cost.
 
 
+## The Author's Take
+
+**Position.** In my view the premium segment is where the tariff stops being a math problem and becomes a pricing problem: the percentages look kinder, the dollar bills are larger, and the question that decides the deal — can the market pay the retail the landed cost demands — never appears in a landed-cost table.
+
+**Reasoning.** First, the inversion is structural: the Zeekr 001 pays $7,858 in countervailing duty alone — four times a microcar's $1,942 — yet its premium (+73%) is about a third of the microcar's (+209%), because fixed costs stop mattering at this price scale. Second, at these values the rate gap is real money: Zeekr's 18.8% against Xpeng's 20.7% — 1.9 points — is worth over $1,000 on a single $38,000 unit. Third, destination beats badge: the Zeekr 001 is $9,284 cheaper to land in the UK than Germany, as removing one CVD line outweighs the UK's one-point-higher VAT.
+
+**Disclosure.** This is my analysis of EU tariff schedules and EV Hub's landed-cost records — opinion, not a quotation or legal advice. Confirm producer classification, variant and market homologation with your broker before building a business case.
+
 ## Related reading
 
 - [BYD's Volume EVs (Atto 3, Dolphin, Sealion)](/blog/byd-volume-ev-landed-cost/)

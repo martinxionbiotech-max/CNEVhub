@@ -102,6 +102,14 @@ Yes, at similar base prices — because Leapmotor pays 20.7% countervailing duty
 Generally no — the fixed-cost overhead and tariff stack make it a poor import. It only pencils out for non-EU destinations or genuine niche demand.
 
 
+## The Author's Take
+
+**Position.** In my view the microcar segment is the clearest proof that import math, not product quality, decides what a market can buy: the $5,000 Wuling Hongguang MINI EV is a fine city car and a terrible import, and no sourcing trick changes that.
+
+**Reasoning.** First, the fixed stack is the story: $6,600 to land a $5,000 car is 132% of its price, while the same $6,600 is 27% of a $24,000 car — flat costs cannot scale down to a microcar. Second, the segment ranks by tariff rate in disguise: the $8,440 Leapmotor T03 lands cheaper than the $8,140 Wuling AIR EV because Leapmotor's 20.7% countervailing duty beats Wuling's 35.3% by 14.6 points. Third, destination rewrites the outcome: the MINI EV lands at $9,962 in the UAE versus $15,455 in Germany, so the EU's harsh premium is a regulatory choice, not physics.
+
+**Disclosure.** This is my analysis of EU regulation and EV Hub's landed-cost records — opinion, not a quotation or legal advice. Confirm the duty rate, homologation path and fixed costs for your exact model and destination with a licensed forwarder before committing.
+
 ## Related reading
 
 - [MG's Budget EVs and the Tariff Paradox](/blog/mg-budget-ev-tariff-paradox/)

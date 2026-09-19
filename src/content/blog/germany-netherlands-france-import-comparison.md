@@ -51,6 +51,22 @@ The pattern is unambiguous: **Germany is cheapest, France is in the middle, the 
 
 A note on methodology: our landed-cost model applies the same fixed import costs (freight, clearance, certification, registration, inland) across all three markets. In reality these vary slightly — Rotterdam versus Hamburg versus Le Havre freight, country-specific registration fees — but those variations are also modest relative to the factors below.
 
+## Where the math tilts
+
+Take the article's headline car, the $24,690 BYD Seal. Duty and the 17% BYD countervailing duty lift the VAT base to $24,690 × 1.10 × 1.17 = $31,776. Charging each country's VAT rate on that same base:
+
+| Country | VAT rate | VAT on a $31,776 base | Difference vs Germany |
+|---|---|---|---|
+| Germany | 19% | $6,037 | — |
+| France | 20% | $6,355 | +$318 |
+| Netherlands | 21% | $6,673 | +$636 |
+
+One VAT point is worth $318 on this car; the full German–Dutch gap is $636. Then the fixed side: the registration line in the cost stack runs $500 in Germany against $400 in France and the Netherlands — a $100 rebate on the same car. Net of that fee, France lands +$218 and the Netherlands +$536 above Germany, which is exactly the $218 and $536 spreads in the table above, once the tax leg and the fee leg are separated.
+
+Which of the three is friendliest to a small-batch import? On fees alone, France and the Netherlands, by $100 per car — and at the cheap end that edge can flip the ranking outright: on the $5,000 Wuling MINI EV, France lands about $25 below Germany ($15,430 against $15,455), because one VAT point there is $74 against the $100 fee saving. Above roughly a $10,000 VAT base, the one-point VAT outweighs the fee and Germany's ordering holds.
+
+Calculations use published rates from the article above; verify with a licensed forwarder before committing.
+
 ## What actually decides your EU market (and it's not VAT)
 
 If VAT differences are ~1%, what should actually drive your choice of entry country? Four things that dwarf the $536 VAT spread on a Seal:
@@ -89,6 +105,14 @@ No, not meaningfully. You pay the VAT of the country of final registration. Tryi
 **Why is the Netherlands the most expensive?**
 Purely its 21% VAT — the highest standard rate among the three. Its actual landed-cost premium over Germany is about 1–1.5%.
 
+
+## The Author's Take
+
+**Position.** In my view "which EU country is cheapest to import into" is a question that costs more to ask than it saves: the customs stack is identical across the bloc, and the VAT spread it turns on is roughly 1% of landed cost.
+
+**Reasoning.** First, the duties are bloc-level: a BYD pays 17% and a SAIC pays 35.3% whether the car clears in Hamburg, Le Havre, or Rotterdam, so the country-level variable is only VAT (19% vs 20% vs 21%). Second, the resulting spreads are roundings next to everything else: $536 between Germany and the Netherlands on a $24,690 Seal, and $1,516 even on a $61,830 Zeekr 009 — about a point and a half. Third, the factors that actually swing an import are national and non-tariff: a single €2,000–€4,000 purchase grant erases the VAT difference several times over, and homologation routes diverge far more than rates do.
+
+**Disclosure.** This is my analysis of published EU and national tax rules and EV Hub's landed-cost records — opinion, not a quotation or legal advice. VAT follows the country of registration; verify your route and incentives with a local adviser before committing.
 
 ## Related reading
 

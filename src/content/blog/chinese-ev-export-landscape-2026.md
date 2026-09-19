@@ -257,6 +257,14 @@ Three ways: building in Europe (BYD Hungary, Chery–Ebro Spain), partnering (Le
 4. The defining shift of 2026-2029 is from CBU exports to local production, driven by tariffs, logistics cost, and policy leverage — though European build timelines keep slipping [Source: Reuters, June 2026].
 5. If you're evaluating a Chinese EV brand's real global position, look at its localization plan and its battery supply chain, not just its export volume. Those two factors determine who converts today's shipping numbers into durable overseas share.
 
+## The Author's Take
+
+**Position.** We see Chinese EV exports entering their localization decade: the brands that win the next phase will be settled by factory timelines and battery self-sufficiency, not by shipping volume. The 3.43 million headline is the start of the story, not the scorecard.
+
+**Reasoning.** First, the flow didn't stop at the tariff wall — it re-routed. Europe's share of Chinese EV export value kept falling toward 40% even as sales there grew nearly 50% to about 940,000 units, which reads as margin-driven redirection rather than retreat. Second, the duty spread now functions as a competitive weapon: BYD pays 17% against SAIC's 35.3%, so brand choice moves landed economics more than showroom price, and the tier table above is really a tariff table in disguise. Third, the localization bets — Hungary, Barcelona, the Stellantis tie-up — are all attempts to exit the duty regime, and the repeated slippage of those timelines is why we treat "announced" and "available" as different categories. Fourth, the cost wedge underneath all of it is structural: LFP chemistry and vertical integration are not things a tariff schedule can reach.
+
+**Disclosure.** This is the EV Hub analysis team's judgment based on the public customs data, EU regulatory filings and company disclosures cited above — analysis and opinion, not a quote, and not legal or investment advice. Trade statistics and plant timelines move; confirm current figures against primary sources before acting on them.
+
 *Wei Wang is a Marketing Specialist at Guangzhou Banghe Testing Technology Co., Ltd. (MCM). This analysis draws on public customs data, EU regulatory filings, and company disclosures; figures are cited to their sources and reflect information available as of September 2026.*
 
 ## Sources

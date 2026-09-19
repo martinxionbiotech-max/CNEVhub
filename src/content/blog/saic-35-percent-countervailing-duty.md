@@ -106,6 +106,13 @@ Because 35.3% is more than double 17%. On a sub-$10,000 car, the CVD alone is ne
 **Will SAIC's lawsuit change anything?**
 SAIC has announced legal action at the Court of Justice of the EU. Any outcome is uncertain and would not be retroactive. Until a ruling, importers should model the 35.3% rate as current.
 
+## The Author's Take
+
+**Position:** In my view, SAIC's 35.3% is the tariff table's clearest irony: a century-old British badge is priced as a Chinese import, and the duty bites hardest where MG built its European pitch — the budget segment.
+
+**Reasoning:** First, there is no internal hedge: the rate is assigned group-wide — MG, Maxus, Roewe and Wuling all carry it — matching the non-cooperating ceiling. Second, the burden inverts the lineup: the CVD alone is nearly four times the standard duty on an MG4 and turns a $5,000 Wuling into a +209% premium, while a $38,010 Maxus absorbs the same rate at +94% — decisive at the bottom, merely expensive at the top. Third, neither escape route fixes 2026: landing outside the EU drops most of the hit — the same MG4 lands at +56% in the UAE — and SAIC's court challenge is uncertain and non-retroactive. Treat 35.3% as the base case.
+
+**Disclosure:** This is the EV Hub analysis team's judgment based on public data — not a quotation or legal advice. Countervailing-duty rates follow Commission Implementing Regulation (EU) 2024/2754 and official EU updates, and can change; verify the current schedule with a customs broker before pricing anything.
 
 ## Related reading
 

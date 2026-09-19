@@ -69,6 +69,17 @@ Two conclusions, both non-obvious:
 
 So the practical rule is: **compare on landed cost, not on tariff rate.** A high-CVD car can still be the better import if its base price is low enough; a low-CVD car stops being cheap the moment it's compared against a much cheaper rival.
 
+## The paradox in numbers
+
+Apply the article's rates to two very different bases — 10% duty, then 35.3% countervailing duty on the duty-paid value, then 19% VAT on the running total:
+
+- **$9,690 MG4:** duty $969 + CVD $3,763 + VAT $2,740 = **$7,472** (77% of base)
+- **a $40,000 car, same rates:** duty $4,000 + CVD $15,532 + VAT $11,311 = **$30,843** (77% of base)
+
+Same rate, roughly four times the dollars — that is the paradox in one line. The 35.3% headline is a percentage; its bite is set by the base it lands on, and on the MG4 the EU's harshest rate produces a total tax bill of $7,472 — less than the car itself. Read it back into the segment: the MG4's $7,472 and the BYD Dolphin's $7,452 sit $20 apart ($28,072 landed − $14,020 base − $6,600 fixed), so the "most tariff-burdened" car and its rival pay almost identical tax dollars — and the cheaper base decides the sale. The rate becomes a wall only when the base is large.
+
+Calculations use published rates from the article above; verify with a licensed forwarder before committing.
+
 ## Model by model: MG4 and MG S5 EV across 7 markets
 
 | Model | Base | Germany | UK | UAE | Australia | Germany premium |
@@ -100,6 +111,14 @@ When base prices are comparable. The MG S5 EV and BYD Atto 3 are within $200 in 
 **Does the 35.3% apply outside the EU?**
 No. It's an EU measure. The same MG4 lands at +56% in the UAE and +70% in Australia, versus +145% in Germany.
 
+
+## The Author's Take
+
+**Position.** In my view the MG4 is the sharpest case against rate-shopping in this whole series: a 35.3% countervailing duty sounds disqualifying, yet what decides the budget segment is the base price that rate lands on.
+
+**Reasoning.** First, the MG4 pays the EU's highest rate and still lands $4,310 cheaper than a BYD Dolphin, because its base is $4,330 lower — a percentage of a smaller base is smaller money. Second, the same rate on a converged base flips the story: the MG S5 EV lands $4,249 above the similarly priced Atto 3, which is the tariff gap doing exactly what rate-shoppers fear. Third, the penalty is EU-only: the same MG4 is $8,600 cheaper to land in the UAE, where neither the 35.3% CVD nor the 19% VAT applies.
+
+**Disclosure.** This is my interpretation of EU tariff law and EV Hub's landed-cost records — opinion, not a quotation or legal advice. Producer rates are set by regulation and can change; verify your exact badge and model with a customs broker before pricing.
 
 ## Related reading
 

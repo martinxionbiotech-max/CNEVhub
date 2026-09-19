@@ -107,6 +107,14 @@ The UAE, consistently — it applies no countervailing duty, a 5% duty, and 5% V
 Yes — BYD's DM-i (PHEV) variants currently pay only the 10% standard duty in the EU, though the EU is preparing to extend tariffs to PHEVs.
 
 
+## The Author's Take
+
+**Position.** In my view BYD's volume lineup answers "where should this car land?" far more clearly than "which model?" — destination moves the landed cost more than model choice ever does.
+
+**Reasoning.** First, the same five cars carry +78% to +100% premiums in Germany but +27% to +42% in the UAE — an $8,165 saving on the Dolphin and $13,618 on the Sealion 07, which is the EU's countervailing duty plus higher VAT, removed. Second, the price trend is counterintuitive: the cheapest car carries the worst German premium (+100% on the Dolphin versus +78% on the Sealion 07), because $6,600 of fixed costs is 47% of a $14,020 base — not because the car is worse value. Third, the tariff applies by powertrain: the 17% CVD hits the BEVs while the DM-i (PHEV) variants currently skip it — a portfolio question, not a product one.
+
+**Disclosure.** This is my reading of EU tariff schedules and EV Hub's landed-cost records — opinion, not a quotation or legal advice. The PHEV treatment may change; confirm your exact model, powertrain and destination with a customs broker before pricing a deal.
+
 ## Related reading
 
 - [MG's Budget EVs and the Tariff Paradox](/blog/mg-budget-ev-tariff-paradox/)

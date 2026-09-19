@@ -147,6 +147,13 @@ Because fixed import costs (freight, certification, clearance, registration, inl
 **Will the rate change?**
 The definitive duties run for five years from 31 October 2024, but they are subject to review and to possible negotiated adjustments (individual models can be exempted under a price/volume undertaking, as the EU approved for VW's Cupra Tavascan in early 2026). The bigger near-term change is the expected extension of tariffs to PHEVs.
 
+## The Author's Take
+
+**Position:** In my view, BYD's 17% is the best tariff position among the three sampled Chinese producers, but not what decides BYD's EU story — the fixed-cost stack decides the cheap models, and the closing PHEV exemption decides the near term.
+
+**Reasoning:** First, on the cars BYD sells in volume, the rate is the smaller problem: the same $6,600 fixed-cost stack that lifts a $32,370 Tang L by +74% turns an $8,940 Seagull into a +127% premium, because freight, certification and registration do not scale down. Second, BYD's most valuable tariff asset is not the 17% but the BEV-only scope of the measure — PHEVs pay only the standard 10%, which is how BYD became Germany's best-selling PHEV brand, and the Commission is preparing to close that window. Third, treat BYD landed-cost figures as provisional: the measures are reviewable, model-level undertakings exist, and a PHEV ruling would re-price much of the range.
+
+**Disclosure:** This is the EV Hub analysis team's judgment based on public data — not a quotation or legal advice. Countervailing-duty rates follow Commission Implementing Regulation (EU) 2024/2754 and official EU updates, and can change; verify the current schedule with a customs broker before pricing anything.
 
 ## Related reading
 

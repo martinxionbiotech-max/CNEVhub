@@ -82,6 +82,14 @@ Compliance — ADR (Australian Design Rules) certification and RAV (Register of 
 Not for road registration. Australia is RHD, so you need a right-hand-drive export variant. Check whether your model is produced in RHD before planning an import.
 
 
+## The Author's Take
+
+**Position.** In my view Australia is the clearest case of tax being a decoy: zero duty and no countervailing duty make the cost side genuinely attractive, and then the actual gate — compliance — sits where generic import quotes never look.
+
+**Reasoning.** First, the cost case is real: a $24,690 BYD Seal lands at $33,009 (+33.7%) in Australia against $44,413 in Germany — the gap is almost entirely the EU's countervailing duty and higher VAT. Second, Australia is still not the cheapest landing: the UAE takes the same car at $31,671, because a flat 10% GST costs slightly more than the UAE's compounding 5% duty plus 5% VAT. Third, the binding constraint is not tax at all — ADR/RAV entry and a right-hand-drive variant — and that filter cuts our 315-model catalog down to a subset; no landed-cost saving rescues a car that cannot be registered.
+
+**Disclosure.** This is my analysis of Australian import treatment and EV Hub's landed-cost records — opinion, not a quotation or legal advice. ADR/RAV paths and RHD availability vary by model; verify both with a local compliance specialist before committing.
+
 ## Related reading
 
 - [UAE vs Saudi Arabia](/blog/uae-saudi-arabia-import-comparison/)

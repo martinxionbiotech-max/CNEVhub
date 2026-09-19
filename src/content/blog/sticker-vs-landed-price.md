@@ -57,6 +57,23 @@ The two traps are steps **2–3** (duties stack, they don't add in parallel) and
 
 The car doubled (+100%). The three tax lines alone (duty + CVD + VAT = $7,452) are 53% of the base price; the $6,600 fixed stack is another 47%. That's the whole story of why the sticker price misleads.
 
+## Worked example: sticker → landed (BYD Seal)
+
+The Dolphin shows the mechanics at the budget end; the $24,690 BYD Seal runs the same stack at a mid-market price. Step by step:
+
+| Step | Formula | Amount |
+|---|---|---|
+| Sticker (CIF) | — | $24,690 |
+| + Standard import duty (10%) | 10% × $24,690 | $2,469 |
+| + BYD countervailing duty (17.0%) | 17% × ($24,690 + $2,469) | $4,617 |
+| + VAT (19%) | 19% × ($24,690 + $2,469 + $4,617) | $6,037 |
+| + Freight, clearance, certification, registration, inland | $2,000 + $350 + $3,250 + $500 + $500 | $6,600 |
+| **= Landed** | total | **$44,413** |
+
+That is a **+80% premium** ($44,413 ÷ $24,690 ≈ 1.80) — and it lands on the same $44,413 this article quotes for the Seal in Germany. Watch the compounding: each percentage charges the running total, not the sticker, so the CVD runs on an already-dutied number and VAT runs on all three. And the line a sticker never shows is the last one: $6,600 of fixed costs, of which certification alone is $3,250.
+
+Calculations use published rates from the article above; verify with a licensed forwarder before committing.
+
 ## The one rule that explains everything
 
 **Fixed costs punish cheap cars.** The $6,600 of freight + clearance + certification + registration + inland is the *same* whether you import a $5,000 Wuling microcar or a $38,000 Zeekr 001:
@@ -100,6 +117,14 @@ Certification / homologation ($3,000–$3,250) — it's the largest fixed cost a
 **Does the landed cost vary by destination?**
 Dramatically. The same BYD Seal lands at $44,413 in Germany but $31,671 in the UAE — the difference is the EU's countervailing duty plus higher VAT.
 
+
+## The Author's Take
+
+**Position.** In my view the sticker-to-landed gap is not a pricing problem to be negotiated away — it is arithmetic, and the importer's only real choice is whether to run it before the purchase order or after it.
+
+**Reasoning.** First, the stacking order is what produces the shock: duty, then the 17–35.3% countervailing duty on top of duty, then VAT on top of both — on a $14,020 Dolphin that compounds to $7,452 of tax before a cent of freight. Second, fixed costs punish thrift: the same ~$6,600 stack is 47% of the Dolphin's base but only 17% of a $38,000 car, which is exactly why the cheapest cars show the worst premiums (up to +209% in our records). Third, the most commonly omitted line is also the largest fixed cost: certification at $3,000–$3,250 does not shrink for a cheap car, and it does not go away if you shop harder for freight.
+
+**Disclosure.** This is my analysis of published tariff schedules and EV Hub's landed-cost records — opinion, not a quotation or legal advice. Producer rate, port and vehicle variant decide the real numbers; verify all three with a licensed forwarder before committing.
 
 ## Related reading
 

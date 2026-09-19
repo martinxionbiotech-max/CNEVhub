@@ -49,6 +49,22 @@ Within the Gulf, the tariff treatment is identical — 5% duty, no CVD. The sing
 
 The spread scales with price — that's VAT being a percentage — but the direction never changes: **the UAE is cheaper on every model, by roughly 10% of the customs value.** On a premium Zeekr 009 the gap is over $6,000; on a Wuling microcar it's a few hundred.
 
+## Break-even: when UAE beats Saudi
+
+Both markets charge the same 5% duty; the entire tax difference is VAT applied to the duty-paid value.
+
+**Formula:** Gap (Saudi − UAE) = (15% − 5%) × (1 + 5%) × base = **10.5% × base**
+
+That is why every row in the table above sits at roughly 10% of the customs value: $526 on the $5,000 MINI EV, $1,018 on the $9,690 MG4, $2,592 on the $24,690 Seal, $6,492 on the $61,830 Zeekr 009. For a routing decision — land stock in the UAE and move it on, versus importing direct into Saudi Arabia — the UAE step clears only when its extra cost X (a second freight leg, re-export paperwork, an extra clearance) stays below the gap:
+
+**UAE route wins iff X < 0.105 × base → break-even car value: base* = X ÷ 0.105**
+
+Every $1,000 of two-step cost needs $9,524 of car value to pay for itself; where the cost is per shipment rather than per car, the same rule reads N* = Y ÷ (0.105 × base) units. Put the other way: the $9,690 MG4 leaves only $1,018 of headroom for the entire second leg, while the $61,830 Zeekr 009 leaves $6,492.
+
+**Conclusion:** the UAE's edge is set by arithmetic at 10.5% of the China base — enough headroom to fund a second logistics leg only on premium cars, and barely any at the budget end. And because VAT follows the country of registration, treat the calculation as the ceiling on any structured saving, not a promised one.
+
+Calculations use published rates from the article above; verify with a licensed forwarder before committing.
+
 ## The bigger picture: Gulf vs the rest of the world
 
 To put the UAE and Saudi figures in context, here's the same BYD Seal across our full market set:
@@ -86,6 +102,14 @@ The Gulf's 5% duty and 5% VAT beat the UK's 10% duty and 20% VAT. No-CVD markets
 **Is Saudi Arabia ever the better choice?**
 Only if your buyer, homologation route, or incentives are specifically Saudi. On pure landed cost, the UAE wins every time because of the VAT difference.
 
+
+## The Author's Take
+
+**Position.** In my view the UAE-versus-Saudi question answers itself the moment you read the rates: the same 5% duty, no countervailing duty in either market, a ten-point VAT difference — and the UAE wins on every model.
+
+**Reasoning.** First, the gap is mechanical: 5% against 15% VAT on the same customs value puts Saudi Arabia $2,592 above the UAE on a $24,690 BYD Seal — and roughly 10% of customs value on every model in the table. Second, it scales: $526 on the Wuling MINI EV, $6,492 on the Zeekr 009 — a cost that matters more the more expensive the car. Third, the decision worth planning is upstream of the Gulf: both markets escape the EU-style CVD, so the same Seal is ~$12,700 cheaper than in Germany — and that spread, not the VAT points, is where the strategy sits.
+
+**Disclosure.** This is my analysis of Gulf customs and VAT rules and EV Hub's landed-cost records — opinion, not a quotation or legal advice. VAT applies where the car is registered; confirm your destination regime with a local adviser before committing.
 
 ## Related reading
 

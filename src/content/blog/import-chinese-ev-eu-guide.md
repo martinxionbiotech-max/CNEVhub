@@ -335,6 +335,14 @@ A: Technically you can make AC charging work with a GB/T-to-Type 2 adapter, but 
 
 6. **Import the EU-spec build, quote WLTP, plan for compounding.** Do those three things and you avoid the charging, range, and under-budgeting traps that kill most first imports.
 
+## The Author's Take
+
+**Position.** Our read: importing a Chinese EV into the EU is a documentation and tax-engineering exercise before it is a car-buying decision. The brand and the paperwork behind it move the outcome more than the product does.
+
+**Reasoning.** First, compounding is the whole game: the naive 10+17+19 reads as 46%, but the real multiplier on CIF value is about 53%, and that gap grows with every point of countervailing duty — how a cheap MG at 35.3% loses to a pricier BYD at 17%. Second, the tax asymmetry decides which books close: the same $24,690 Seal nets to roughly $38,376 for a VAT-registered importer, while the $4,617 countervailing duty never comes back. Third, the make-or-break item is not the duty but the CoC — without the manufacturer's Certificate of Conformity you fall back to single-vehicle approval, adding weeks and cost that first-time importers rarely budget. Fourth, the sequence punishes buyers who ask after they pay: the charging inlet and WLTP figures must be settled before the order — both are expensive to fix once the car clears customs.
+
+**Disclosure.** This is the EV Hub analysis team's judgment based on the published regulation, duty rates and fee benchmarks cited above — analysis, not a quotation, and not legal, tax or customs advice. Rates and fee ranges are planning numbers; confirm your model, member state and structure with a licensed customs broker before wiring anything.
+
 ---
 
 *Wei Wang is a content editor at MCM (广州邦禾检测技术有限公司), where he works with distributors and fleet buyers importing Chinese EVs into European markets. This guide reflects 2025–2026 duty rates and fee estimates; confirm current figures with your customs broker and forwarder before committing funds.*

@@ -113,6 +113,13 @@ Fixed import costs — freight, certification, clearance, registration, inland �
 **Will the rate change?**
 The definitive duties run for five years from 31 October 2024, subject to review and possible negotiated undertakings. The bigger near-term change is the EU's expected extension of tariffs to PHEVs.
 
+## The Author's Take
+
+**Position:** In my view, Geely's 18.8% is the tariff table's most misleading number — too close to BYD's rate to explain a brand-to-brand gap, yet broad enough to catch every premium badge.
+
+**Reasoning:** First, the 1.8-point gap against BYD is close to noise: landed-cost differences between the two groups come mostly from base price and specification — rate-first brand comparisons miss the point. Second, there is no premium escape hatch: Lynk & Co carries Volvo platform DNA and Zeekr sells at luxury prices, yet both pay the full 18.8% because the rate attaches to the group's China-made exports — it travels with the badge, it does not disappear. Third, the rate's bite moves with the portfolio: its largest bills hit the priciest cars (~$12,800 on a top Zeekr — roughly three-quarters of a Galaxy LC's landed cost), while the steepest percentage premium (+156%) sits on the cheapest. Underwrite the spread, not the rate.
+
+**Disclosure:** This is the EV Hub analysis team's judgment based on public data — not a quotation or legal advice. Countervailing-duty rates follow Commission Implementing Regulation (EU) 2024/2754 and official EU updates, and can change; verify the current schedule with a customs broker before pricing anything.
 
 ## Related reading
 

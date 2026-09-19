@@ -274,6 +274,14 @@ A: Not necessarily. The Seal's ex-factory price is lower, but BYD's 17% counterv
 4. **Stock the Premium RWD.** 570 km WLTP, lowest kerb weight, 5.9s, and the best range-to-price ratio of the three grades [Source: BYD spec sheet].
 5. **This is a strategic, not a high-margin, import.** The gross spread between landed cost and German list price is thin (roughly $4,000–$7,000), so treat the Seal as a market-entry play, not a cash cow [Source: EV Hub landed-cost + market price analysis].
 
+## The Author's Take
+
+**Position.** Our read on the Seal: a good car inside a time-limited trade. The defensible thesis is strategic positioning, not per-unit margin — and the variable that decides which you get is the duty rate attached to the manufacturer, not the spec sheet.
+
+**Reasoning.** First, the economics are settled once compounded: $24,690 becomes $44,413 because the 10% duty, 17% countervailing duty and 19% VAT multiply rather than add — the duty is non-recoverable, the VAT is not. Second, the gross spread between landed cost and German list is only about $4,000–$7,000 — too thin to absorb dealer margin, warranty provisioning and discounting at once; it is a market-entry budget, not a profit line. Third, the cost base is about to move: BYD's European assembly plan aims to escape the 17% duty entirely, resetting the math in its own channel's favor when it lands. Fourth, the product case holds where the data says it holds: the Premium RWD's 570 km WLTP and lower kerb weight make it the rational grade, and LFP's cycle life supports a residual-value story the consumer press never connects to an import decision.
+
+**Disclosure.** This is the EV Hub analysis team's judgment built on the landed-cost records, duty schedules and published reviews above — analysis, not a quotation, and not legal, tax or customs advice. Rates and timelines change; verify your model, market and volume with a customs broker before committing capital.
+
 ---
 
 *Want your own spec, market, and volume modeled? Run it through the [landed-cost calculator](/landed-cost-calculator/) and read our full [landed-cost methodology](/landed-cost-methodology/) before you commit. Compare the Seal against other China-sourced EVs in the [vehicle data library](/vehicles/).*
