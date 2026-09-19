@@ -2,6 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import { url as siteUrl } from '@/config/site';
+import { brandLabelMap, brandLabel } from '@/lib/brand-label';
 
 export async function getStaticPaths() {
   const vehicles = await getCollection('vehicles');
@@ -12,6 +13,7 @@ export async function getStaticPaths() {
 
 const { slug } = Astro.params;
 const vehicles = await getCollection('vehicles');
+const brandMap = await brandLabelMap();
 const vehicle = vehicles.find((v) => v.data.slug === slug);
 const { data } = vehicle;
 const { Content } = await render(vehicle);
@@ -111,10 +113,21 @@ const jsonLd = {
   <!-- 全宽 hero 图片 -->
   {data.image && (
     <div class="mb-10 overflow-hidden rounded-2xl border border-gray-200 shadow-sm">
-      <img src={data.image} alt={data.title} class="w-full h-auto object-cover" loading="eager" width="1200" height="675" />
+      <img
+        src={data.image}
+        alt={
+          /EV Hub original/i.test(data.image_credit || '')
+            ? `Technical illustration of the ${data.title} (${brandLabel(brandMap, data.brand)} ${data.type}) — no freely licensed photograph of this vehicle is available`
+            : `${data.title} — ${brandLabel(brandMap, data.brand)} ${data.type} (${data.powertrain}) exterior view`
+        }
+        class="w-full h-auto object-cover"
+        loading="eager"
+        width="1200"
+        height="675"
+      />
       {data.image_credit && (
         <p class="px-4 py-2 text-xs text-gray-500 bg-gray-50 border-t border-gray-200">
-          Photo: {data.image_credit}
+          {/EV Hub original/i.test(data.image_credit) ? 'Illustration' : 'Photo'}: {data.image_credit}
           {data.image_source && (<> · <a href={data.image_source} rel="nofollow noopener" target="_blank" class="underline hover:text-green-700">source</a></>)}
         </p>
       )}

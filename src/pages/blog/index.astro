@@ -73,10 +73,10 @@ const getTypedTags = (tags: string[]) => tags.slice(0, 3);
               <a href={`/blog/${post.id}`} class="block">
                 <div class="flex flex-col sm:flex-row gap-6">
                   <div class="sm:w-48 sm:h-32 shrink-0 rounded-lg overflow-hidden bg-surface">
-                    {post.data.image ? (
+                    {post.data.image && post.data.image !== '/logo.svg' ? (
                       <img
                         src={post.data.image}
-                        alt={post.data.title}
+                        alt={`Cover image for the article: ${post.data.title}`}
                         class="w-full h-32 sm:h-full object-cover"
                       />
                     ) : (

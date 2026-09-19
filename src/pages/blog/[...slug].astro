@@ -98,7 +98,7 @@ const faqLd = (() => {
   description={post.data.description}
   publishedDate={post.data.publishedDate}
   author={post.data.author}
-  image={post.data.image}
+  image={post.data.image && post.data.image !== '/logo.svg' ? post.data.image : undefined}
   tags={post.data.tags}
   content={post.body || ''}
 >
