@@ -9,7 +9,7 @@ CNEVhub shows the real landed cost of importing Chinese EVs — the itemized dut
 ## Key documents
 
 - [Landed Cost Methodology](https://electricvehiclehub.net/landed-cost-methodology/): the formula, data sources, and assumptions behind every estimate.
-- [Vehicle Database](https://electricvehiclehub.net/vehicles/): 10 benchmark hot-selling Chinese EVs with full specs and landed-cost breakdowns.
+- [Vehicle Database](https://electricvehiclehub.net/vehicles/): 517 Chinese EV models with specs, trims, and landed-cost breakdowns by destination market.
 - [Home](https://electricvehiclehub.net/): platform overview.
 
 ## Vehicles
@@ -24,6 +24,15 @@ CNEVhub shows the real landed cost of importing Chinese EVs — the itemized dut
 - [Zeekr 001](https://electricvehiclehub.net/vehicles/zeekr-001/): performance liftback, $38,000 base → $65,694 landed (+72.9%).
 - [GAC Aion Y](https://electricvehiclehub.net/vehicles/aion-y/): spacious urban SUV, $14,060 base → $28,465 landed (+102.5%).
 - [Denza D9](https://electricvehiclehub.net/vehicles/denza-d9/): premium electric MPV, $43,630 base → $74,449 landed (+70.6%).
+
+## Policies and compliance
+
+- [Landed Cost Methodology](https://electricvehiclehub.net/landed-cost-methodology/): formula, inputs and assumptions behind every estimate.
+- [Evidence & Data Methodology](https://electricvehiclehub.net/methodology/): how sources are selected, verified and dated.
+- [Editorial Independence Policy](https://electricvehiclehub.net/editorial-independence/): ownership vs editorial control, review process, corrections, advertising and affiliate disclosure.
+- [Image Credits and Copyright](https://electricvehiclehub.net/image-credits/): full attribution and licence for every freely licensed photograph used on the site.
+- [Copyright, Trademarks and Takedown Policy](https://electricvehiclehub.net/copyright/): permitted reuse of our content and figures, trademark usage, and the notice-and-takedown procedure.
+- [Privacy Policy](https://electricvehiclehub.net/privacy/) | [Cookie Policy](https://electricvehiclehub.net/cookies/) | [Terms of Use](https://electricvehiclehub.net/terms/) | [Disclaimer](https://electricvehiclehub.net/disclaimer/) | [Accessibility Statement](https://electricvehiclehub.net/accessibility/)
 
 ## Company
 
