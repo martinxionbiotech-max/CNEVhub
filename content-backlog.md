@@ -86,12 +86,12 @@
 - [x] zeekr-007-vs-byd-seal —— Zeekr 007 vs BYD Seal（中国中型轿车对决）（已发布，9/20 02:00 时点）
 
 ### 批次 9 — Pillar C 收官：欧盟核心 + 海湾三强（5 篇）
-状态：`in_progress`（发布中；germany/france/netherlands 已上线，剩 2 篇 draft:true 待发布）
+状态：`done`（已全部上线，draft:false）
 - [x] germany-import-guide —— Import Chinese EV to Germany（EU CVD 核心市场；10% + 品牌 CVD + 19% VAT，柏林产 Tesla 不适用 CVD）（已发布，9/20 02:00 时点）
 - [x] france-import-guide —— Import Chinese EV to France（10% + 品牌 CVD + 20% VAT，Stellantis 主场）（已发布，9/20 20:00 时点）
 - [x] netherlands-import-guide —— Import Chinese EV to Netherlands（10% + 品牌 CVD + 21% VAT，鹿特丹转运枢纽）（已发布，9/20 20:00 时点）
-- [x] uae-import-guide —— Import Chinese EV to UAE（5% GCC + 5% VAT，海湾转口枢纽；对照 Qatar 0% VAT）（draft:true）
-- [x] saudi-arabia-import-guide —— Import Chinese EV to Saudi Arabia（5% GCC + 15% VAT，海湾最大市场；三档 VAT 对比）（draft:true）
+- [x] uae-import-guide —— Import Chinese EV to UAE（5% GCC + 5% VAT，海湾转口枢纽；对照 Qatar 0% VAT）（已发布，9/20 23:00 时点）
+- [x] saudi-arabia-import-guide —— Import Chinese EV to Saudi Arabia（5% GCC + 15% VAT，海湾最大市场；三档 VAT 对比）（已发布，9/20 23:00 时点）
 
 ### 批次 10 — Pillar D 对比第三波 + 资产/时效篇（5 篇）
 状态：`done`（已写完，9/19 20:00 时点二次检查通过；全部 draft:true 待发布）

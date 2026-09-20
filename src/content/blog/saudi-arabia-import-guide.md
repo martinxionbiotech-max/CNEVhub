@@ -4,7 +4,7 @@ description: "Saudi Arabia charges 5% GCC duty, 15% VAT and a $300 registration.
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [saudi-arabia, gulf, import-duty, vat, landed-cost, ev-import, market-guide]
 ---
 

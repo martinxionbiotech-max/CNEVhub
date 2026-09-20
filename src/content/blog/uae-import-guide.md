@@ -4,7 +4,7 @@ description: "The UAE charges a 5% GCC duty, 5% VAT and a $300 registration — 
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [uae, gulf, import-duty, vat, landed-cost, ev-import, market-guide, middle-east]
 ---
 
