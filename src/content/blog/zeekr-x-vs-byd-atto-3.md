@@ -4,7 +4,7 @@ description: "Zeekr X vs BYD Atto 3 landed cost: $40,719 vs $31,503 in Germany, 
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-19"
-draft: true
+draft: false
 tags: [zeekr, zeekr-x, byd, atto-3, comparison, landed-cost, compact-suv]
 ---
 

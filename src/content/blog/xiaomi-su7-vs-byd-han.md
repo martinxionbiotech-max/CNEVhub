@@ -4,7 +4,7 @@ description: "The Xiaomi SU7 lands at $54,504 in Germany, $46,272 in the UK and 
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-19"
-draft: true
+draft: false
 tags: [xiaomi, su7, byd, han, comparison, landed-cost, flagship-sedan]
 ---
 
