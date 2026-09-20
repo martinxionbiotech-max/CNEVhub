@@ -4,7 +4,7 @@ description: "Importing a Chinese EV to France stacks the EU's 10% standard duty
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [france, ev-import, landed-cost, eu-tariffs, countervailing-duty, vat, stellantis, chinese-ev, market-analysis]
 ---
 

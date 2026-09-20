@@ -4,7 +4,7 @@ description: "The Netherlands applies the full EU stack — 10% standard duty, a
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-17"
-draft: true
+draft: false
 tags: [netherlands, ev-import, landed-cost, eu-tariff, countervailing-duty, vat, rotterdam, gateway-port, market-comparison, chinese-ev]
 ---
 
