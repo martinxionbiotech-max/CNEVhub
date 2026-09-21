@@ -1,3 +1,6 @@
 # Cloudflare Pages 重定向
 /sitemap.xml /sitemap-index.xml 301
 https://www.electricvehiclehub.net/*  https://electricvehiclehub.net/:splat  301
+# 旧 WordPress 首页别名（GSC 报 404：http://electricvehiclehub.net/index.php）
+/index.php  /  301
+/index.htm  /  301
