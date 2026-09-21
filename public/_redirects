@@ -6,3 +6,5 @@ https://www.electricvehiclehub.net/*  https://electricvehiclehub.net/:splat  301
 # 旧 WordPress 首页别名（GSC 报 404：http://electricvehiclehub.net/index.php）
 /index.php  /  301
 /index.htm  /  301
+# 分页第 1 页与 /blog/ 重复（noindex + canonical 已指 /blog）→ 301 消除重复
+/blog/page/1/  /blog/  301
