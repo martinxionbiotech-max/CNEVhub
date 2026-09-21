@@ -94,16 +94,16 @@
 - [x] saudi-arabia-import-guide —— Import Chinese EV to Saudi Arabia（5% GCC + 15% VAT，海湾最大市场；三档 VAT 对比）（已发布，9/20 23:00 时点）
 
 ### 批次 10 — Pillar D 对比第三波 + 资产/时效篇（5 篇）
-状态：`in_progress`（已写完；2 篇已发布，剩 3 篇 draft:true 待发布）
+状态：`done`（已全部上线，draft:false）
 - [x] xiaomi-su7-vs-byd-han —— Xiaomi SU7 vs BYD Han 旗舰轿车对比（已发布，9/21 02:00 时点）
 - [x] zeekr-x-vs-byd-atto-3 —— Zeekr X vs BYD Atto 3 紧凑 SUV 对比（已发布，9/21 02:00 时点）
 - [x] xpeng-g6-vs-xiaomi-yu7 —— XPeng G6 vs Xiaomi YU7 中型 SUV 对比（已发布，9/21 23:00 时点）
 - [x] china-ev-brand-cvd-master-table —— 中国 EV 品牌 EU CVD 全表 + CSV 资产（已发布，9/21 23:00 时点）
-- [x] eu-phev-tariff-window —— EU PHEV 关税窗口快文（draft:true）
+- [x] eu-phev-tariff-window —— EU PHEV 关税窗口快文（已发布，9/22 02:00 时点）
 
 ### 批次 11 — 区域对比 II + Pillar D 对比第四波（5 篇）
-状态：`in_progress`（已写完并二次检查通过；全部 draft:true 待发布）
-- [x] nordics-import-comparison —— Norway vs Sweden vs Denmark 北欧三国落地对比（draft:true）
+状态：`in_progress`（已写完并二次检查通过；1 篇已发布，剩 4 篇 draft:true 待发布）
+- [x] nordics-import-comparison —— Norway vs Sweden vs Denmark 北欧三国落地对比（已发布，9/22 02:00 时点）
 - [x] asean-import-comparison —— Thailand vs Malaysia vs Singapore vs Indonesia 东盟四国对比（draft:true）
 - [x] byd-sealion-7-vs-tesla-model-y —— BYD Sealion 7 vs Tesla Model Y（draft:true）
 - [x] leapmotor-c10-vs-byd-atto-3 —— Leapmotor C10 vs BYD Atto 3（draft:true）

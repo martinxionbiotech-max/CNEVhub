@@ -4,7 +4,7 @@ description: "Norway charges 0% duty and no countervailing duty; Sweden and Denm
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-20"
-draft: true
+draft: false
 tags: [norway, sweden, denmark, nordics, vat, countervailing-duty, landed-cost, market-comparison, ev-import]
 ---
 
