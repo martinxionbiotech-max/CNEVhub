@@ -4,7 +4,7 @@ description: "In Germany the XPeng G6 lands at $45,830 versus $63,005 for the Xi
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-19"
-draft: true
+draft: false
 tags: [xpeng, g6, xiaomi, yu7, comparison, landed-cost, mid-size-suv]
 ---
 

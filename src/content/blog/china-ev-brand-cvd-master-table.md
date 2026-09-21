@@ -4,7 +4,7 @@ description: "How the EU's countervailing duty splits across 72 Chinese EV brand
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-19"
-draft: true
+draft: false
 tags: [cvd, countervailing-duty, eu, brands, table, byd, geely, saic, xiaomi, tariff]
 ---
 
