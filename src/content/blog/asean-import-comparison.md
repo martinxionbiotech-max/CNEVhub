@@ -4,7 +4,7 @@ description: "Thailand lands a Chinese EV cheapest on customs — 0% ACFTA duty 
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-20"
-draft: true
+draft: false
 tags: [thailand, malaysia, singapore, indonesia, asean, southeast-asia, landed-cost, market-comparison, ev-import]
 ---
 

@@ -4,7 +4,7 @@ description: "The BYD Sealion 7 lands at $47,538 in Germany — $2,811 above a T
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-20"
-draft: true
+draft: false
 tags: [byd, sealion-7, tesla, model-y, comparison, landed-cost, suv]
 ---
 
