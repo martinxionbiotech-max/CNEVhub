@@ -4,7 +4,7 @@ description: "A NIO ET5 lands at $72,721 in Germany and $61,492 in the UK — $3
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-20"
-draft: true
+draft: false
 tags: [nio, et5, tesla, model-3, comparison, landed-cost, sedan]
 ---
 

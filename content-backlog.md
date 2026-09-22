@@ -102,12 +102,12 @@
 - [x] eu-phev-tariff-window —— EU PHEV 关税窗口快文（已发布，9/22 02:00 时点）
 
 ### 批次 11 — 区域对比 II + Pillar D 对比第四波（5 篇）
-状态：`in_progress`（已写完并二次检查通过；1 篇已发布，剩 4 篇 draft:true 待发布）
+状态：`done`（已全部上线，draft:false）
 - [x] nordics-import-comparison —— Norway vs Sweden vs Denmark 北欧三国落地对比（已发布，9/22 02:00 时点）
 - [x] asean-import-comparison —— Thailand vs Malaysia vs Singapore vs Indonesia 东盟四国对比（已发布，9/22 20:00 时点）
 - [x] byd-sealion-7-vs-tesla-model-y —— BYD Sealion 7 vs Tesla Model Y（已发布，9/22 20:00 时点）
-- [x] leapmotor-c10-vs-byd-atto-3 —— Leapmotor C10 vs BYD Atto 3（draft:true）
-- [x] nio-et5-vs-tesla-model-3 —— NIO ET5 vs Tesla Model 3（draft:true）
+- [x] leapmotor-c10-vs-byd-atto-3 —— Leapmotor C10 vs BYD Atto 3（已发布，9/22 23:00 时点）
+- [x] nio-et5-vs-tesla-model-3 —— NIO ET5 vs Tesla Model 3（已发布，9/22 23:00 时点）
 
 ---
 

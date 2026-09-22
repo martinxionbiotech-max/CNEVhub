@@ -4,7 +4,7 @@ description: "The Leapmotor C10 lands $1,113–$2,451 above the BYD Atto 3 in al
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-20"
-draft: true
+draft: false
 tags: [leapmotor, c10, byd, atto-3, comparison, landed-cost, suv]
 ---
 
