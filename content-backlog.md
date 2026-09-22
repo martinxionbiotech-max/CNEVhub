@@ -109,6 +109,14 @@
 - [x] leapmotor-c10-vs-byd-atto-3 —— Leapmotor C10 vs BYD Atto 3（已发布，9/22 23:00 时点）
 - [x] nio-et5-vs-tesla-model-3 —— NIO ET5 vs Tesla Model 3（已发布，9/22 23:00 时点）
 
+### 批次 12 — Pillar D Model Y 挑战者系列 + 区域对比 III（5 篇）
+状态：`in_progress`（写作中，9/23 02:00 时点派发 5 个 collector，全部 draft:true）
+- [ ] xiaomi-yu7-vs-tesla-model-y —— Xiaomi YU7 vs Tesla Model Y（YU7 落地成本对比，Model Y 最强中国对手）
+- [ ] onvo-l60-vs-tesla-model-y —— Onvo L60 vs Tesla Model Y（价值型挑战者）
+- [ ] nio-es6-vs-tesla-model-y —— NIO ES6 vs Tesla Model Y（高端中型 SUV 对决）
+- [ ] latam-import-comparison —— Mexico vs Brazil 拉美高关税双雄对比
+- [ ] turkey-indonesia-import-comparison —— Turkey vs Indonesia 亚洲关税墙对比
+
 ---
 
 ## 数据源（文章可直接引用，无需重新研究）
