@@ -4,7 +4,7 @@ description: "A NIO ES6 lands at $81,585 in Germany against a Tesla Model Y list
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-22"
-draft: true
+draft: false
 tags: [nio, es6, tesla, model-y, comparison, landed-cost, suv]
 ---
 

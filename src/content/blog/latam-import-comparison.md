@@ -4,7 +4,7 @@ description: "Mexico's 50% duty plus 16% IVA against Brazil's 35% II plus a casc
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-22"
-draft: true
+draft: false
 tags: [mexico, brazil, latam, import, comparison, tariffs, landed-cost]
 ---
 
