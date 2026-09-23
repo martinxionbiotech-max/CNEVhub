@@ -20,6 +20,21 @@ const { Content } = await render(vehicle);
 const lc = data.landed_cost || {};
 const multiLc = (data.landed_cost_markets || []).filter((m) => m && m.total_landed_usd);
 
+// 主市场（landed_cost）逐项成本，用于模板层标注「EV Hub estimate」
+const lcBreakdown = lc && lc.breakdown
+  ? [
+      { label: 'Base price', value: data.price_usd, est: false },
+      { label: 'Standard import duty', value: lc.breakdown.duty_cif_usd, est: false },
+      { label: 'Countervailing duty', value: lc.breakdown.countervailing_duty_usd, est: false },
+      { label: 'VAT', value: lc.breakdown.vat_usd, est: false },
+      { label: 'RoRo freight', value: lc.breakdown.freight_roro_usd, est: true },
+      { label: 'Customs clearance', value: lc.breakdown.customs_clearance_usd, est: true },
+      { label: 'Certification', value: lc.breakdown.certification_usd, est: true },
+      { label: 'Registration', value: lc.breakdown.registration_usd, est: true },
+      { label: 'Inland transport', value: lc.breakdown.inland_transport_usd, est: true },
+    ].filter((b) => typeof b.value === 'number')
+  : [];
+
 // 规格表数据项
 const specs = [
   { label: 'Price basis', value: data.price_type || 'China ex-factory price (MSRP)' },
@@ -159,9 +174,9 @@ const jsonLd = {
   <!-- 多国落地成本可视化 -->
   {multiLc.length > 0 && (
     <section class="mb-12">
-      <h2 class="text-2xl font-bold mb-2 text-gray-900">Landed Cost by Market</h2>
+      <h2 class="text-2xl font-bold mb-2 text-gray-900">Estimated Landed Cost by Market</h2>
       <p class="text-sm text-gray-500 mb-3">Estimated total import cost to each destination — includes duty, countervailing duty, VAT/GST, freight, and compliance.</p>
-      <p class="text-xs text-gray-400 mb-6">Confidence: <span class="font-semibold text-amber-600">{costConfidence}</span> (official MSRP and EU duty rates; freight and certification are estimates) · Last verified: {costLastVerified}</p>
+      <p class="text-xs text-gray-400 mb-6">Confidence: <span class="font-semibold text-amber-600">{costConfidence}</span> (official MSRP and EU duty rates; freight, certification, registration and customs are EV Hub estimates) · Last verified: {costLastVerified}</p>
       <div class="space-y-3">
         {multiLc.map((m) => {
           const isLowest = m.total_landed_usd === lowestTotal;
@@ -186,6 +201,33 @@ const jsonLd = {
             </a>
           );
         })}
+      </div>
+    </section>
+  )}
+
+  <!-- 主市场落地成本逐项明细（模板层标注 EV Hub estimate） -->
+  {lcBreakdown.length > 0 && (
+    <section class="mb-12">
+      <h2 class="text-2xl font-bold mb-2 text-gray-900">Estimated Landed Cost Breakdown — {lc.market || 'Germany'}</h2>
+      <p class="text-sm text-gray-500 mb-4">Official rates from EU Reg 2024/2754 and market VAT legislation. Freight, certification, registration and customs figures are EV Hub estimates — confirm with a supplier quote before ordering.</p>
+      <div class="rounded-xl border border-gray-200 overflow-hidden">
+        <table class="w-full text-sm">
+          <tbody>
+            {lcBreakdown.map((b, i) => (
+              <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}>
+                <td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">
+                  {b.label}
+                  {b.est && <span class="ml-2 inline-block px-2 py-0.5 bg-amber-100 text-amber-700 rounded-full text-xs font-semibold">EV Hub estimate</span>}
+                </td>
+                <td class="px-5 py-3.5 text-gray-900">${Math.round(b.value).toLocaleString()}</td>
+              </tr>
+            ))}
+            <tr class="bg-green-50">
+              <td class="px-5 py-4 font-bold text-gray-900">Estimated landed cost (total)</td>
+              <td class="px-5 py-4 font-bold text-green-700">${lc.total_landed_usd ? Math.round(lc.total_landed_usd).toLocaleString() : '—'}</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </section>
   )}
