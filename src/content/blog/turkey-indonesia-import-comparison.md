@@ -4,7 +4,7 @@ description: "Turkey's 40% duty + 20% VAT and Indonesia's 50% duty + 11% VAT lan
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-22"
-draft: true
+draft: false
 tags: [turkey, indonesia, import, comparison, tariffs, landed-cost, asia]
 ---
 

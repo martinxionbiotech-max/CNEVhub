@@ -110,16 +110,16 @@
 - [x] nio-et5-vs-tesla-model-3 —— NIO ET5 vs Tesla Model 3（已发布，9/22 23:00 时点）
 
 ### 批次 12 — Pillar D Model Y 挑战者系列 + 区域对比 III（5 篇）
-状态：`in_progress`（已写完；2 篇已上线，剩 3 篇 draft:true 待发布）
+状态：`done`（已全部上线，draft:false）
 - [x] xiaomi-yu7-vs-tesla-model-y —— Xiaomi YU7 vs Tesla Model Y（YU7 落地成本对比，Model Y 最强中国对手）（已发布，9/23 20:00 时点）
 - [x] onvo-l60-vs-tesla-model-y —— Onvo L60 vs Tesla Model Y（价值型挑战者）（已发布，9/23 20:00 时点）
 - [x] nio-es6-vs-tesla-model-y —— NIO ES6 vs Tesla Model Y（高端中型 SUV 对决）（已发布，9/23 23:00 时点）
 - [x] latam-import-comparison —— Mexico vs Brazil 拉美高关税双雄对比（已发布，9/23 23:00 时点）
-- [ ] turkey-indonesia-import-comparison —— Turkey vs Indonesia 亚洲关税墙对比（draft:true 已二次检查）
+- [x] turkey-indonesia-import-comparison —— Turkey vs Indonesia 亚洲关税墙对比（已发布，9/24 02:00 时点）
 
 ### 批次 13 — Pillar D 对比第五波：Model 3/Y 挑战者 + 国产品牌内战（5 篇）
-状态：`in_progress`（9/23 20:00 时点派发 5 个 collector，全部完成并落盘 draft:true，已过红线词表与数字核对）
-- [ ] xpeng-p7-plus-vs-tesla-model-3 —— XPeng P7+ vs Tesla Model 3（20.7% CVD；系列首个低于 Tesla 本地价的挑战者：UK −$7,489/UAE −$4,160/AU −$2,386/TH −$38）
+状态：`in_progress`（已写完；P7+ 已上线，剩 4 篇 draft:true 待发布）
+- [x] xpeng-p7-plus-vs-tesla-model-3 —— XPeng P7+ vs Tesla Model 3（20.7% CVD；系列首个低于 Tesla 本地价的挑战者：UK −$7,489/UAE −$4,160/AU −$2,386/TH −$38）（已发布，9/24 02:00 时点）
 - [ ] zeekr-7x-vs-tesla-model-y —— Zeekr 7X vs Tesla Model Y（18.8% CVD Geely 系；德国 +$11,065，非欧四市场全胜）
 - [ ] geely-galaxy-e5-vs-byd-atto-3 —— Geely Galaxy E5 vs BYD Atto 3（18.8% vs 17.0%；E5 德国 $30,642 vs Atto 3 $31,503）
 - [ ] xpeng-mona-m03-vs-byd-dolphin —— XPeng Mona M03 vs BYD Dolphin（20.7% vs 17.0%；固定成本悖论：低价车支付更陡溢价）

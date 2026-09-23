@@ -4,7 +4,7 @@ description: "XPeng's $28,000 P7+ lands at $50,839 in Germany — $8,478 above a
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-23"
-draft: true
+draft: false
 tags: [xpeng, p7-plus, tesla, model-3, comparison, landed-cost, eu-tariff, ev-import]
 ---
 
