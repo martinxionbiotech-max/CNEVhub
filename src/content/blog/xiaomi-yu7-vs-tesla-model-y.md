@@ -4,7 +4,7 @@ description: "In Germany the Xiaomi YU7 lands at $63,005 — $17,132 above a Tes
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-22"
-draft: true
+draft: false
 tags: [xiaomi, yu7, tesla, model-y, comparison, landed-cost, suv]
 ---
 
@@ -21,7 +21,7 @@ The [Xiaomi YU7](/vehicles/xiaomi-yu7/) is the strongest Chinese claim on Tesla 
 - **Gaps:** from −$17,132 in Germany (YU7 above) to +$8,838 in Thailand (YU7 below)
 - **The duty line:** Xiaomi pays the EU's 20.7% "other cooperating producer" countervailing rate — $8,128.89 per car in Germany before VAT compounds over it
 - **Origins decide it:** the Model Y sold in Europe is Berlin-built and never crosses a customs border; Tesla's China-built exports pay an individually assessed 7.8%
-- **Counterfactual:** at Tesla's 7.8% rate the YU7 would land at ≈$56,976 in Germany — still ≈$9,979 above the Model Y's cheapest German offer. At zero countervailing duty, ≈$53,331 — still above. No rate flips Germany for this car.
+- **Counterfactual:** at Tesla's 7.8% rate the YU7 would land at ≈$56,976 in Germany — still ≈$11,103 above the Model Y's cheapest German offer (from €39,990). At zero countervailing duty, ≈$53,331 — still above. No rate flips Germany for this car.
 
 ## The basis: ex-factory versus landed cost
 
@@ -96,13 +96,13 @@ Three reading notes. The YU7 column is an import cost with no margin inside; the
 
 Formula: `35,700 × 1.10 × 1.207 × 1.19 + 6,600 = 63,004.68`. The order matters — standard duty first, countervailing duty on the duty-paid value, VAT last, then the flat block.
 
-Now the counterfactual, clearly labelled as arithmetic and not a shopping option. Rebuild the German stack with Tesla's 7.8% rate: `35,700 × 1.10 × 1.078 × 1.19 + 6,600 = 56,976.34`, about **$56,976**. The rate swap is worth **$6,028.34 per car** — but the YU7 would *still* land ≈$9,979 above the Model Y's cheapest German offer. Delete the countervailing duty entirely and it lands at **$53,331.30** — still $7,458 above the €39,990 list. That is the finding our other counterfactuals never produced: for the [G6](/blog/xpeng-g6-vs-tesla-model-y/) and the [Sealion 7](/blog/byd-sealion-7-vs-tesla-model-y/), the rate was the whole German problem. For the YU7, no countervailing-duty rate puts it under the Model Y in Germany. The gap is structural — base price, duty, VAT and the fixed block — and the 20.7% line only widens it.
+Now the counterfactual, clearly labelled as arithmetic and not a shopping option. Rebuild the German stack with Tesla's 7.8% rate: `35,700 × 1.10 × 1.078 × 1.19 + 6,600 = 56,976.34`, about **$56,976**. The rate swap is worth **$6,028.34 per car** — but the YU7 would *still* land ≈$11,103 above the Model Y's cheapest German offer (from €39,990). Delete the countervailing duty entirely and it lands at **$53,331.30** — still $7,458 above the €39,990 list. That is the finding our other counterfactuals never produced: for the [G6](/blog/xpeng-g6-vs-tesla-model-y/) and the [Sealion 7](/blog/byd-sealion-7-vs-tesla-model-y/), the rate was the whole German problem. For the YU7, no countervailing-duty rate puts it under the Model Y in Germany. The gap is structural — base price, duty, VAT and the fixed block — and the 20.7% line only widens it.
 
 ## Why the same car flips from $17,132 behind to $8,838 ahead
 
 - **Inside the EU, the import trails by five figures.** Germany −$17,132 and France −$16,359 are the worst lanes, where the full 10% + 20.7% + VAT stack compounds against a competitor that pays no import line at all. Norway (−$7,089) and Australia (−$3,178) sit in the middle — zero duty, but VAT/GST still lands on a $35,700 base.
 - **The cheap lanes are real wins.** Thailand (+$8,838, zero duty + 7% VAT), the UAE (+$3,840, 5% + 5%) and the UK (+$2,781, 10% duty, no CVD) are the only three of the seven where the YU7 lands below Tesla's local entry.
-- **The counterfactual flips nothing.** At Tesla's 7.8% rate the YU7 still lands ≈$9,979 above the Model Y in Germany. An importer cannot price around the regulation; the German business case has to come from spec and segment, not arithmetic.
+- **The counterfactual flips nothing.** At Tesla's 7.8% rate the YU7 still lands ≈$11,103 above the Model Y in Germany. An importer cannot price around the regulation; the German business case has to come from spec and segment, not arithmetic.
 - **Read dollars for decisions, percentages for burden.** The YU7's premium runs +76.5% in Germany and +20.0% in Thailand; the Model Y prices carry Tesla's margin while the landed estimates carry none, so the dollar gaps are the decision tool.
 
 ## Where this comparison can go wrong
@@ -121,7 +121,7 @@ In my view, the YU7 is the strongest product challenge the Model Y has faced fro
 
 ### Reasoning
 
-First, the counterfactual is the evidence: rebuild the German stack at Tesla's own 7.8% rate and the YU7 still lands ≈$9,979 above the Model Y's entry — and at zero countervailing duty it is still $7,458 above. About $6,028 of the German gap is the rate differential; the remaining ~$11,000 are base price, duty, VAT and fixed costs, which no rate negotiation touches. Second, the geographic flip is too clean to ignore: −$17,132 in Germany to +$8,838 in Thailand on the same car means the market choice, not the product, is the business decision an importer makes first. Third, the spec case is genuinely strong where the price case is not: 33 kWh more battery, 301 km more quoted range, 202 mm more length — against an entry pack that is the ~63 kWh LFP unit, the YU7 sells space and battery in a way the [G6](/blog/xpeng-g6-vs-tesla-model-y/) cannot.Fourth: the Model Y price includes Tesla's service network and the landed cost includes none — whoever imports a YU7 is also building the after-sales answer, and that decides year three, not month one.
+First, the counterfactual is the evidence: rebuild the German stack at Tesla's own 7.8% rate and the YU7 still lands ≈$11,103 above the Model Y's entry — and at zero countervailing duty it is still $7,458 above. About $6,028 of the German gap is the rate differential; the remaining ~$11,000 are base price, duty, VAT and fixed costs, which no rate negotiation touches. Second, the geographic flip is too clean to ignore: −$17,132 in Germany to +$8,838 in Thailand on the same car means the market choice, not the product, is the business decision an importer makes first. Third, the spec case is genuinely strong where the price case is not: 33 kWh more battery, 301 km more quoted range, 202 mm more length — against an entry pack that is the ~63 kWh LFP unit, the YU7 sells space and battery in a way the [G6](/blog/xpeng-g6-vs-tesla-model-y/) cannot.Fourth: the Model Y price includes Tesla's service network and the landed cost includes none — whoever imports a YU7 is also building the after-sales answer, and that decides year three, not month one.
 
 ### Disclosure
 

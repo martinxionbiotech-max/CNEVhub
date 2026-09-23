@@ -4,7 +4,7 @@ description: "The Onvo L60 leaves the factory $16,605 below a Tesla Model Y's Ge
 image: "/logo.svg"
 author: "Wei Wang"
 publishedDate: "2026-09-22"
-draft: true
+draft: false
 tags: [onvo, l60, tesla, model-y, comparison, landed-cost, suv]
 ---
 
@@ -15,10 +15,10 @@ The [Onvo L60](/vehicles/onvo-l60/) is NIO's value-brand answer to the Tesla Mod
 ## Key statistics
 
 - **L60 base price:** $29,140 China ex-factory — 60 kWh battery, 560 km CLTC, 240 kW / 305 Nm, 5.9 s to 100 km/h, 4,828 mm long, 1,885 kg
-- **Model Y reference prices:** from €39,990 (Germany, France) · €41,970 (Spain) · £41,990 (UK) · A$58,900 before on-road (Australia) · AED 174,900 (UAE) · Thailand: UNKNOWN in our sources
-- **Converted at 22 Sep 2026 rates** (EUR/USD 1.1439 · GBP/USD 1.3332 · AUD/USD 0.7104 · USD/AED 3.6731): ≈$45,745 · ≈$45,745 · ≈$48,009 · ≈$55,981 · ≈$41,843 · ≈$47,616
+- **Model Y reference prices:** from €39,990 (Germany) · €40,990 (France, after the April 2026 +€1,000 rise) · €41,970 (Spain) · £41,990 (UK) · A$58,900 before on-road (Australia) · AED 174,900 (UAE) · Thailand: UNKNOWN in our sources
+- **Converted at 22 Sep 2026 rates** (EUR/USD 1.1439 · GBP/USD 1.3332 · AUD/USD 0.7104 · USD/AED 3.6731): ≈$45,745 · ≈$46,888 · ≈$48,009 · ≈$55,981 · ≈$41,843 · ≈$47,616
 - **L60 landed:** Germany $52,640 (+80.6%) · France $52,927 (+81.6%) · Spain $53,024 (+82.0%) · UK $44,715 (+53.4%) · Australia $37,904 (+30.1%) · UAE $36,577 (+25.5%) · Thailand $35,830 (+23.0%)
-- **The gaps:** Germany +$6,896 · France +$7,182 · Spain +$5,014 (L60 above) → UK −$11,266 · Australia −$3,939 · UAE −$11,040 (L60 below)
+- **The gaps:** Germany +$6,896 · France +$6,039 · Spain +$5,014 (L60 above) → UK −$11,266 · Australia −$3,939 · UAE −$11,040 (L60 below)
 - **The duty line:** the NIO-family 20.7% countervailing rate is $6,635.18 per car in Germany — 2.3× the standard-duty line
 - **The fixed-cost block:** $6,600 per car (freight, clearance, certification, registration, inland) equals 22.6% of the base price before a single tax line
 - **BaaS (China):** Onvo lists the L60 from ¥192,800 outright or ¥135,800 with battery rental (onvo.cn, 22 Sep 2026); the monthly battery fee is UNKNOWN in our sources
@@ -46,7 +46,7 @@ L60 figures are EV Hub landed-cost estimates (ex-factory base, duty, countervail
 | Market | L60 landed (model) | Model Y local price | Converted | Gap |
 |---|---|---|---|---|
 | Germany | $52,640.12 (+80.6%) | from €39,990 | ≈ $45,745 | **+$6,896** |
-| France | $52,927.01 (+81.6%) | from €39,990 | ≈ $45,745 | **+$7,182** |
+| France | $52,927.01 (+81.6%) | from €40,990 | ≈ $46,888 | **+$6,039** |
 | Spain | $53,023.91 (+82.0%) | from €41,970 | ≈ $48,009 | **+$5,014** |
 | United Kingdom | $44,714.80 (+53.4%) | from £41,990 | ≈ $55,981 | **−$11,266** |
 | Australia | $37,904.00 (+30.1%) | from A$58,900* | ≈ $41,843 | **−$3,939** |
@@ -55,7 +55,7 @@ L60 figures are EV Hub landed-cost estimates (ex-factory base, duty, countervail
 
 *Sticker before on-road costs — the least favourable basis for the L60.
 
-Remember what each column is. The L60 column is a landed import cost — no importer margin, no warranty provisioning, no dealer spread. The Model Y column is a finished retail price that already contains Tesla's tax bill, logistics, service network and margin. Comparing them is legitimate for an importer asking "what headroom do I have against this competing shelf price?" It is not a like-for-like verdict on the cars; [why the sticker price is never the landed price](/blog/sticker-vs-landed-price/) covers the distinction. On that basis the EU rows are brutal: the L60 does not land below the Model Y's German entry price, it lands **$6,896 above it** — and $7,182 above in France.
+Remember what each column is. The L60 column is a landed import cost — no importer margin, no warranty provisioning, no dealer spread. The Model Y column is a finished retail price that already contains Tesla's tax bill, logistics, service network and margin. Comparing them is legitimate for an importer asking "what headroom do I have against this competing shelf price?" It is not a like-for-like verdict on the cars; [why the sticker price is never the landed price](/blog/sticker-vs-landed-price/) covers the distinction. On that basis the EU rows are brutal: the L60 does not land below the Model Y's German entry price, it lands **$6,896 above it** — and $6,039 above in France.
 
 ## Worked example: $29,140 → $52,640 in Germany
 
@@ -113,7 +113,7 @@ This is my analysis and opinion, not verified fact, and not financial advice. L6
 ## Sources
 
 1. carwow.de — "Tesla Model Y: Test 2026, Konfigurator & Preise" (list €39,990–€62,990; carwow cash offers from €40,970; updated 19 June 2026) — https://www.carwow.de/tesla/model-y — accessed 22 Sep 2026
-2. Automobile Propre — "Tesla Model Y 2026" (France: from €39,990 in Propulsion Standard to €62,990 in Performance) — https://www.automobile-propre.com/voitures/tesla/model-y/ — accessed 22 Sep 2026
+2. Automobile Propre — "Tesla Model Y 2026" (France: entry listed at €39,990 before the April 2026 increase; now €40,990 — see source 14) — https://www.automobile-propre.com/voitures/tesla/model-y/ — accessed 22 Sep 2026
 3. carwow.es — "Precio Tesla Nuevo Model Y 2026" (PVP €41,970–€63,970; updated 7 April 2026) — https://www.carwow.es/tesla/model-y — accessed 22 Sep 2026
 4. carwow.co.uk — "Tesla Model Y Review 2026" (RRP £41,990–£44,990; 63 kWh battery on the entry; updated 8 January 2026) — https://www.carwow.co.uk/tesla/model-y — accessed 22 Sep 2026
 5. CarExpert — "2026 Tesla Model Y Rear-Wheel Drive price and specifications" (from A$58,900 before on-road costs; built in China) — https://www.carexpert.com.au/tesla/model-y/2026-rear-wheel-drive-suv-rwd-electric-jsf8wmgo20260101 — accessed 22 Sep 2026
@@ -125,6 +125,7 @@ This is my analysis and opinion, not verified fact, and not financial advice. L6
 11. European Commission (EUR-Lex) — Commission Implementing Regulation (EU) 2024/2754 (producer-specific countervailing duties: Tesla Shanghai 7.8%; other cooperating producers 20.7%) — https://eur-lex.europa.eu/eli/reg_impl/2024/2754/oj — accessed 22 Sep 2026
 12. EV Hub — Onvo L60 vehicle record and 30-market landed-cost data (data updated 7 Sep 2026) — https://electricvehiclehub.net/vehicles/onvo-l60/
 13. EV Hub — `tariffs.json` and `market-master.json` (duty, CVD, VAT and fixed-cost inputs; verified 15 Sep 2026)
+14. Automobile Propre — "Le Tesla Model Y d'entrée de gamme augmente son prix" (French Propulsion entry rose €1,000 to €40,990 on 22 April 2026; LFP ~62 kWh; 534 km WLTP) — https://www.automobile-propre.com/articles/tesla-augmentation-prix-model-y-propulsion-standard/ — accessed 22 Sep 2026
 
 ## Related reading
 
