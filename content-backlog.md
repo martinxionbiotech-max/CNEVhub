@@ -113,8 +113,8 @@
 状态：`in_progress`（已写完；2 篇已上线，剩 3 篇 draft:true 待发布）
 - [x] xiaomi-yu7-vs-tesla-model-y —— Xiaomi YU7 vs Tesla Model Y（YU7 落地成本对比，Model Y 最强中国对手）（已发布，9/23 20:00 时点）
 - [x] onvo-l60-vs-tesla-model-y —— Onvo L60 vs Tesla Model Y（价值型挑战者）（已发布，9/23 20:00 时点）
-- [ ] nio-es6-vs-tesla-model-y —— NIO ES6 vs Tesla Model Y（高端中型 SUV 对决，draft:true 已二次检查）
-- [ ] latam-import-comparison —— Mexico vs Brazil 拉美高关税双雄对比（draft:true 已二次检查）
+- [x] nio-es6-vs-tesla-model-y —— NIO ES6 vs Tesla Model Y（高端中型 SUV 对决）（已发布，9/23 23:00 时点）
+- [x] latam-import-comparison —— Mexico vs Brazil 拉美高关税双雄对比（已发布，9/23 23:00 时点）
 - [ ] turkey-indonesia-import-comparison —— Turkey vs Indonesia 亚洲关税墙对比（draft:true 已二次检查）
 
 ### 批次 13 — Pillar D 对比第五波：Model 3/Y 挑战者 + 国产品牌内战（5 篇）
@@ -124,6 +124,14 @@
 - [ ] geely-galaxy-e5-vs-byd-atto-3 —— Geely Galaxy E5 vs BYD Atto 3（18.8% vs 17.0%；E5 德国 $30,642 vs Atto 3 $31,503）
 - [ ] xpeng-mona-m03-vs-byd-dolphin —— XPeng Mona M03 vs BYD Dolphin（20.7% vs 17.0%；固定成本悖论：低价车支付更陡溢价）
 - [ ] byd-seagull-vs-wuling-binguo —— BYD Seagull vs Wuling Bingo（17.0% vs 35.3%，18.3pt 税率差；EU 12 市场 Seagull 胜、非欧 18 市场 Bingo 胜）
+
+### 批次 14 — Pillar C 收官（澳大利亚）+ Pillar D 旗舰/MPV/同族/中型 SUV 对比（5 篇）
+状态：`in_progress`（9/23 23:00 时点派发 5 个 collector，全部完成并落盘 draft:true，已过红线词表与六元素二次检查）
+- [ ] australia-import-guide —— Import Chinese EV to Australia（30 国矩阵最后一块：0% 关税 + 10% GST + LCT 未建模标 UNKNOWN，AU–NZ 交叉点 $9,540）
+- [ ] xpeng-g9-vs-nio-es8 —— XPeng G9 vs NIO ES8 旗舰 SUV 对决（双 20.7% CVD；德国 $74,794 vs $96,863，7 市场 gap $14,666–$24,304）
+- [ ] denza-d9-vs-zeekr-009 —— Denza D9 vs Zeekr 009 豪华 MPV 对决（17.0% vs 18.8%；德国 $73,421 vs $102,751）
+- [ ] onvo-l90-vs-nio-es8 —— Onvo L90 vs NIO ES8 同族两档（双 20.7%；$37,440 vs $57,130；德国 $65,754 vs $96,863）
+- [ ] deepal-s07-vs-byd-sealion-06 —— Deepal S07 vs BYD Sealion 6 中型 SUV（20.7% vs 17.0%；$21,110 vs $20,250；德国 gap $2,340）
 
 ---
 
