@@ -9,6 +9,41 @@ const siteStats = await getSiteStats();
 const vehicles = await getCollection('vehicles');
 vehicles.sort((a, b) => a.data.price_usd - b.data.price_usd);
 
+// Dataset JSON-LD（§17）— 仅合法 schema.org 属性；变量摘要与统计口径同源
+const updatedDates = vehicles
+  .map((v) => v.data.data_updated)
+  .filter(Boolean)
+  .sort();
+const temporalCoverage = updatedDates.length
+  ? `${updatedDates[0]}/${updatedDates[updatedDates.length - 1]}`
+  : '2025-01-01/2026-12-31';
+const datasetJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'Chinese EV Export Database',
+  description:
+    'Machine-readable database of Chinese electric vehicles with China ex-factory prices and estimated landed cost to 30 export markets (duties, countervailing duties, VAT, freight, certification, registration).',
+  url: `${siteConfig.url}/`,
+  creator: {
+    '@type': 'Organization',
+    name: 'Chengguang Energy',
+    legalName: 'Jinzhou Chengguang Power Source Co., Ltd.',
+    url: siteConfig.url,
+  },
+  license: 'https://creativecommons.org/licenses/by/4.0/',
+  temporalCoverage,
+  dateModified: new Date().toISOString().split('T')[0],
+  isAccessibleForFree: true,
+  variableMeasured: [
+    { '@type': 'PropertyValue', name: 'price_usd', description: 'China ex-factory price (MSRP) in USD' },
+    { '@type': 'PropertyValue', name: 'powertrain', description: 'Powertrain type (BEV / PHEV / EREV / HEV / ICE)' },
+    { '@type': 'PropertyValue', name: 'range_cltc_km', description: 'CLTC range in km' },
+    { '@type': 'PropertyValue', name: 'battery_kwh', description: 'Battery capacity in kWh' },
+    { '@type': 'PropertyValue', name: 'motor_power_kw', description: 'Motor power in kW' },
+    { '@type': 'PropertyValue', name: 'landed_cost', description: 'Estimated landed cost per export market (indicative B2B estimate)' },
+  ],
+};
+
 // 热门车型（取前 10 便宜 = 最具出口价值）
 const hotVehicles = vehicles.slice(0, 10);
 
@@ -183,4 +218,6 @@ const brands = ['Aeolus', 'AION', 'AITO', 'Arcfox', 'Avatr', 'Baojun', 'BAW', 'B
       </div>
     </div>
   </section>
+
+  <script type="application/ld+json" set:html={JSON.stringify(datasetJsonLd)} />
 </MarketingLayout>
