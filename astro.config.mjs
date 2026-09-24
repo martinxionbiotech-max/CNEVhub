@@ -40,6 +40,9 @@ export default defineConfig({
         // 分页页（/blog/page/N/）已设 noindex → 不进 sitemap（收录指令不能自相矛盾）
         if (page.includes('/blog/page/')) return false;
 
+        // 标签聚合页（/blog/tag/x/）已设 noindex,follow → 不进 sitemap（§27 同原则）
+        if (page.includes('/blog/tag/')) return false;
+
         // Filter out pages based on feature flags
         if (!features.blog && page.includes('/blog')) return false;
         if (!features.docs && page.includes('/docs')) return false;
