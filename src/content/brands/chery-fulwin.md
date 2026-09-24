@@ -7,7 +7,7 @@ parent_manufacturer: "Chery"
 parent_location: "Wuhu, Anhui, China"
 parent_founded: "1997"
 website: "https://fulwin.chery.cn/"
-model_count: 7
+model_count: 14
 publishedDate: "2026-09-05"
 tags: [Chery Fulwin, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Chery Fulwin is a new-energy vehicle sub-brand under Chery Automobile, created t
 
 ## Brand at a Glance
 
-- **Models cataloged:** 7
+- **Models cataloged:** 14
 - **Base price range:** $11,250 – $26,750
 - **Landed cost (Germany):** $24,095 – $48,199
 - **Landed premium (Germany):** +80% to +114%

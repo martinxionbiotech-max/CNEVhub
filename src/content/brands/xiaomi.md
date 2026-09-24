@@ -7,7 +7,7 @@ parent_manufacturer: "Xiaomi"
 parent_location: "Beijing, China"
 parent_founded: "2010"
 website: "https://www.mi.com/"
-model_count: 2
+model_count: 6
 publishedDate: "2026-09-05"
 tags: [Xiaomi, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Xiaomi Auto is the intelligent electric vehicle brand of Xiaomi Corporation, cre
 
 ## Brand at a Glance
 
-- **Models cataloged:** 2
+- **Models cataloged:** 6
 - **Base price range:** $30,320 – $35,700
 - **Landed cost (Germany):** $53,750 – $62,117
 - **Landed premium (Germany):** +74% to +77%

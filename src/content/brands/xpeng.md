@@ -7,7 +7,7 @@ parent_manufacturer: "XPeng"
 parent_location: "Guangzhou, Guangdong, China"
 parent_founded: "2014"
 website: "https://www.xiaopeng.com/"
-model_count: 7
+model_count: 10
 publishedDate: "2026-09-05"
 tags: [XPeng, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ XPeng is a leading Chinese smart electric vehicle brand committed to shaping the
 
 ## Brand at a Glance
 
-- **Models cataloged:** 7
+- **Models cataloged:** 10
 - **Base price range:** $16,800 – $43,630
 - **Landed cost (Germany):** $32,726 – $74,449
 - **Landed premium (Germany):** +71% to +95%

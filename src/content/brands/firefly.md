@@ -7,7 +7,7 @@ parent_manufacturer: "NIO"
 parent_location: "Hefei, Anhui, China"
 parent_founded: "2014"
 website: "https://www.firefly.world/"
-model_count: 1
+model_count: 2
 publishedDate: "2026-09-05"
 tags: [firefly, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Firefly is a new-energy vehicle (NEV) brand under SAIC Motor Corporation Limited
 
 ## Brand at a Glance
 
-- **Models cataloged:** 1
+- **Models cataloged:** 2
 - **Base price range:** $16,870 – $16,870
 - **Landed cost (Germany):** $32,834 – $32,834
 - **Landed premium (Germany):** +95% to +95%

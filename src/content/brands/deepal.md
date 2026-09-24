@@ -7,7 +7,7 @@ parent_manufacturer: "ChangAn"
 parent_location: "Chongqing, China"
 parent_founded: "1862"
 website: "https://www.deepal.com.cn/"
-model_count: 7
+model_count: 10
 publishedDate: "2026-09-05"
 tags: [Deepal, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Deepal, also known as Shenlan Auto, meaning \"deep blue\", is a new-energy vehic
 
 ## Brand at a Glance
 
-- **Models cataloged:** 7
+- **Models cataloged:** 10
 - **Base price range:** $16,460 – $33,790
 - **Landed cost (Germany):** $32,197 – $59,147
 - **Landed premium (Germany):** +75% to +96%

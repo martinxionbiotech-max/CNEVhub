@@ -7,7 +7,7 @@ parent_manufacturer: "GAC"
 parent_location: "Guangzhou, Guangdong, China"
 parent_founded: "1948"
 website: "https://www.aion.com.cn/"
-model_count: 7
+model_count: 13
 publishedDate: "2026-09-05"
 tags: [AION, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ AION is the dedicated new-energy vehicle (NEV) brand under GAC Group, establishe
 
 ## Brand at a Glance
 
-- **Models cataloged:** 8
+- **Models cataloged:** 13
 - **Base price range:** $9,830 – $40,370
 - **Landed cost (Germany):** $21,887 – $69,379
 - **Landed premium (Germany):** +72% to +123%

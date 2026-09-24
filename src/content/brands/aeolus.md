@@ -7,7 +7,7 @@ parent_manufacturer: "Dongfeng"
 parent_location: "Wuhan, Hubei, China"
 parent_founded: "1969"
 website: "http://www.dfpv.com.cn/"
-model_count: 5
+model_count: 7
 publishedDate: "2026-09-05"
 tags: [Aeolus, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Aeolus, also known as Dongfeng Fengshen, is a core passenger vehicle brand under
 
 ## Brand at a Glance
 
-- **Models cataloged:** 5
+- **Models cataloged:** 7
 - **Base price range:** $13,370 – $20,110
 - **Landed cost (Germany):** $27,392 – $37,873
 - **Landed premium (Germany):** +88% to +105%

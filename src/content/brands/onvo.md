@@ -7,7 +7,7 @@ parent_manufacturer: "NIO"
 parent_location: "Hefei, Anhui, China"
 parent_founded: "2014"
 website: "https://www.onvo.cn/"
-model_count: 2
+model_count: 3
 publishedDate: "2026-09-05"
 tags: [Onvo, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Onvo is a family-oriented electric vehicle brand created to make premium intelli
 
 ## Brand at a Glance
 
-- **Models cataloged:** 2
+- **Models cataloged:** 3
 - **Base price range:** $29,140 – $37,440
 - **Landed cost (Germany):** $51,915 – $64,823
 - **Landed premium (Germany):** +73% to +78%

@@ -7,7 +7,7 @@ parent_manufacturer: "Geely"
 parent_location: "Hangzhou, Zhejiang, China"
 parent_founded: "1986"
 website: "https://www.zeekrlife.com/global/"
-model_count: 7
+model_count: 9
 publishedDate: "2026-09-05"
 tags: [Zeekr, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Zeekr is a premium electric vehicle brand under Geely Holding Group, created to 
 
 ## Brand at a Glance
 
-- **Models cataloged:** 7
+- **Models cataloged:** 9
 - **Base price range:** $21,940 – $65,620
 - **Landed cost (Germany):** $40,719 – $108,645
 - **Landed premium (Germany):** +66% to +86%

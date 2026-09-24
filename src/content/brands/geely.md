@@ -7,7 +7,7 @@ parent_manufacturer: "Geely"
 parent_location: "Hangzhou, Zhejiang, China"
 parent_founded: "1986"
 website: "http://www.geelyauto.com.hk/"
-model_count: 3
+model_count: 4
 publishedDate: "2026-09-05"
 tags: [Geely, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Geely is one of China’s most influential automotive groups, known for its rapi
 
 ## Brand at a Glance
 
-- **Models cataloged:** 3
+- **Models cataloged:** 4
 - **Base price range:** $12,650 – $22,490
 - **Landed cost (Germany):** $26,272 – $41,574
 - **Landed premium (Germany):** +85% to +108%

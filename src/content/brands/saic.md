@@ -7,7 +7,7 @@ parent_manufacturer: "SAIC"
 parent_location: "Shanghai, China"
 parent_founded: "1955"
 website: "https://hima.auto/shangjie/"
-model_count: 1
+model_count: 2
 publishedDate: "2026-09-05"
 tags: [SAIC, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ SAIC is a premium intelligent electric vehicle brand jointly developed by SAIC M
 
 ## Brand at a Glance
 
-- **Models cataloged:** 1
+- **Models cataloged:** 2
 - **Base price range:** $22,510 – $22,510
 - **Landed cost (Germany):** $46,467 – $46,467
 - **Landed premium (Germany):** +106% to +106%

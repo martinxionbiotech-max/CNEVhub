@@ -18,7 +18,7 @@ Most listings show only the FOB or factory price. EV Hub itemizes the full cost 
 
 ## What's on the platform
 
-- **Vehicle database** — 315+ Chinese EVs with full specifications, priced transparently, each with a multi-market landed-cost breakdown.
+- **Vehicle database** — 517 Chinese EVs with full specifications, priced transparently, each with a multi-market landed-cost breakdown.
 - **Brand directory** — 58 brands, their parent manufacturers, founding details, and export-ready lineups.
 - **Landed-cost calculator** — pick a vehicle and destination, get an itemized cost breakdown across 7 key export markets.
 - **Methodology** — the exact formula, tariff schedules, and assumptions behind every number on the site.

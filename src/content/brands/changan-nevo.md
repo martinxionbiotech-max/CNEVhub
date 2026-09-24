@@ -7,7 +7,7 @@ parent_manufacturer: "ChangAn"
 parent_location: "Chongqing, China"
 parent_founded: "1862"
 website: "https://www.changan.com.cn/qiyuan/"
-model_count: 5
+model_count: 10
 publishedDate: "2026-09-05"
 tags: [ChangAn NEVO, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Changan NEVO is the global new-energy vehicle brand under ChangAn Automobile, cr
 
 ## Brand at a Glance
 
-- **Models cataloged:** 6
+- **Models cataloged:** 10
 - **Base price range:** $5,300 – $30,970
 - **Landed cost (Germany):** $14,842 – $54,761
 - **Landed premium (Germany):** +77% to +180%

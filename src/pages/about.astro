@@ -30,10 +30,12 @@ const values = [
   },
 ];
 
+import { getSiteStats } from '@/lib/site-stats';
+const s = await getSiteStats();
 const stats = [
-  { value: '517', label: 'Vehicles Cataloged' },
-  { value: '72', label: 'Chinese Brands' },
-  { value: '3', label: 'In-Depth Guides' },
+  { value: String(s.vehicles), label: 'Vehicles Cataloged' },
+  { value: String(s.brands), label: 'Chinese Brands' },
+  { value: String(s.markets), label: 'Export Markets Modeled' },
   { value: '1', label: 'Transparent Formula' },
 ];
 ---

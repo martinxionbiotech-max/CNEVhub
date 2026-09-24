@@ -7,7 +7,7 @@ parent_manufacturer: "Dongfeng"
 parent_location: "Wuhan, Hubei, China"
 parent_founded: "1969"
 website: "https://www.voyah-global.com/"
-model_count: 5
+model_count: 8
 publishedDate: "2026-09-05"
 tags: [Voyah, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Voyah is a premium intelligent electric vehicle brand under Dongfeng Motor Corpo
 
 ## Brand at a Glance
 
-- **Models cataloged:** 5
+- **Models cataloged:** 8
 - **Base price range:** $28,580 – $53,510
 - **Landed cost (Germany):** $51,045 – $89,813
 - **Landed premium (Germany):** +68% to +79%

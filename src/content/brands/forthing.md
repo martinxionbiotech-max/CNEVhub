@@ -7,7 +7,7 @@ parent_manufacturer: "Dongfeng"
 parent_location: "Wuhan, Hubei, China"
 parent_founded: "1969"
 website: "https://www.forthingmotor.com/"
-model_count: 6
+model_count: 11
 publishedDate: "2026-09-05"
 tags: [Forthing, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Forthing, also known as Dongfeng Fengxing, is a passenger vehicle brand under Do
 
 ## Brand at a Glance
 
-- **Models cataloged:** 6
+- **Models cataloged:** 11
 - **Base price range:** $14,060 – $25,340
 - **Landed cost (Germany):** $28,465 – $46,006
 - **Landed premium (Germany):** +82% to +102%

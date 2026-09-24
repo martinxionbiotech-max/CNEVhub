@@ -7,7 +7,7 @@ parent_manufacturer: "SAIC"
 parent_location: "Shanghai, China"
 parent_founded: "1955"
 website: "http://www.roewe.com.cn/"
-model_count: 7
+model_count: 12
 publishedDate: "2026-09-05"
 tags: [Roewe, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Roewe is a premium automotive brand under SAIC Motor Corp., Ltd., created to rep
 
 ## Brand at a Glance
 
-- **Models cataloged:** 7
+- **Models cataloged:** 12
 - **Base price range:** $13,770 – $36,590
 - **Landed cost (Germany):** $30,988 – $71,404
 - **Landed premium (Germany):** +95% to +125%

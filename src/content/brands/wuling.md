@@ -7,7 +7,7 @@ parent_manufacturer: "SAIC"
 parent_location: "Shanghai, China"
 parent_founded: "1955"
 website: "https://www.sgmw.com.cn/"
-model_count: 14
+model_count: 19
 publishedDate: "2026-09-05"
 tags: [Wuling, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Wuling is one of China’s most recognizable automotive brands, jointly operated
 
 ## Brand at a Glance
 
-- **Models cataloged:** 14
+- **Models cataloged:** 19
 - **Base price range:** $5,000 – $18,280
 - **Landed cost (Germany):** $15,455 – $38,975
 - **Landed premium (Germany):** +113% to +209%

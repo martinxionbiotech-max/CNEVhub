@@ -7,7 +7,7 @@ parent_manufacturer: "Chery"
 parent_location: "Wuhu, Anhui, China"
 parent_founded: "1997"
 website: "https://jetourglobal.com/"
-model_count: 10
+model_count: 11
 publishedDate: "2026-09-05"
 tags: [Jetour, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Jetour is a dynamic automobile brand under Chery Automobile, established in 2018
 
 ## Brand at a Glance
 
-- **Models cataloged:** 10
+- **Models cataloged:** 11
 - **Base price range:** $17,450 – $46,460
 - **Landed cost (Germany):** $33,736 – $78,850
 - **Landed premium (Germany):** +70% to +93%

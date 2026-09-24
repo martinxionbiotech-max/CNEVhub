@@ -7,7 +7,7 @@ parent_manufacturer: "JAC"
 parent_location: "Hefei, Anhui, China"
 parent_founded: "1964"
 website: "None"
-model_count: 2
+model_count: 8
 publishedDate: "2026-09-05"
 tags: [JAC, Chinese EV brand, EV export]
 ---
@@ -26,7 +26,7 @@ JAC (short for Jianghuai Automobile Company) is the core automotive brand under 
 
 ## Brand at a Glance
 
-- **Models cataloged:** 2
+- **Models cataloged:** 8
 - **Base price range:** $18,300 – $26,730
 - **Landed cost (Germany):** $35,058 – $48,168
 - **Landed premium (Germany):** +80% to +92%

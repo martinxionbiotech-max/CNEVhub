@@ -7,7 +7,7 @@ parent_manufacturer: "NIO"
 parent_location: "Hefei, Anhui, China"
 parent_founded: "2014"
 website: "https://www.nio.com/"
-model_count: 8
+model_count: 10
 publishedDate: "2026-09-05"
 tags: [NIO, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ NIO is a premium Chinese electric vehicle brand recognized globally for its desi
 
 ## Brand at a Glance
 
-- **Models cataloged:** 8
+- **Models cataloged:** 10
 - **Base price range:** $41,850 – $108,170
 - **Landed cost (Germany):** $71,681 – $174,814
 - **Landed premium (Germany):** +62% to +71%

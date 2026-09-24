@@ -7,7 +7,7 @@ parent_manufacturer: "JMC (Jiangling Motors)"
 parent_location: "Nanchang, Jiangxi, China"
 parent_founded: "1968"
 website: "https://www.jmc.com.cn/"
-model_count: 0
+model_count: 4
 publishedDate: "2026-09-14"
 tags: [JMC, Chinese EV brand, EV export]
 ---
@@ -26,5 +26,5 @@ JMC (Jiangling Motors Corporation) is a Nanchang-based automaker founded in 1968
 
 ## Brand at a Glance
 
-- **Models cataloged:** 0
+- **Models cataloged:** 4
 - **Base price range:** TBD

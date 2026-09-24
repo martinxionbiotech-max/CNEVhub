@@ -7,7 +7,7 @@ parent_manufacturer: "Chery"
 parent_location: "Wuhu, Anhui, China"
 parent_founded: "1997"
 website: "https://www.icaurglobal.com/"
-model_count: 2
+model_count: 4
 publishedDate: "2026-09-05"
 tags: [iCAUR, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ iCAUR, or iCAR in China, is a new-energy vehicle brand under Chery Automobile, c
 
 ## Brand at a Glance
 
-- **Models cataloged:** 2
+- **Models cataloged:** 4
 - **Base price range:** $15,460 – $17,300
 - **Landed cost (Germany):** $30,642 – $33,503
 - **Landed premium (Germany):** +94% to +98%

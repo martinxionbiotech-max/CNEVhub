@@ -7,7 +7,7 @@ parent_manufacturer: "BAIC"
 parent_location: "Beijing, China"
 parent_founded: "1958"
 website: "https://hima.auto/xiangjie/"
-model_count: 1
+model_count: 3
 publishedDate: "2026-09-05"
 tags: [Stelato, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Stelato is a premium electric vehicle brand launched in 2024 under the Harmony I
 
 ## Brand at a Glance
 
-- **Models cataloged:** 1
+- **Models cataloged:** 3
 - **Base price range:** $43,630 – $43,630
 - **Landed cost (Germany):** $74,449 – $74,449
 - **Landed premium (Germany):** +71% to +71%

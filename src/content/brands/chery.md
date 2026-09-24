@@ -7,7 +7,7 @@ parent_manufacturer: "Chery"
 parent_location: "Wuhu, Anhui, China"
 parent_founded: "1997"
 website: "https://www.cheryinternational.com/"
-model_count: 3
+model_count: 6
 publishedDate: "2026-09-05"
 tags: [Chery, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Chery is the core passenger vehicle brand under Chery Automobile Co., Ltd., repr
 
 ## Brand at a Glance
 
-- **Models cataloged:** 3
+- **Models cataloged:** 6
 - **Base price range:** $18,300 – $23,370
 - **Landed cost (Germany):** $35,058 – $42,942
 - **Landed premium (Germany):** +84% to +92%

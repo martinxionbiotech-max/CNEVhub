@@ -7,7 +7,7 @@ parent_manufacturer: "ChangAn"
 parent_location: "Chongqing, China"
 parent_founded: "1862"
 website: "https://www.cakcauto.com/"
-model_count: 1
+model_count: 2
 publishedDate: "2026-09-05"
 tags: [Kaicene, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Kaicene is a commercial vehicle brand under Changan Automobile, dedicated to pro
 
 ## Brand at a Glance
 
-- **Models cataloged:** 1
+- **Models cataloged:** 2
 - **Base price range:** $21,100 – $21,100
 - **Landed cost (Germany):** $39,412 – $39,412
 - **Landed premium (Germany):** +87% to +87%

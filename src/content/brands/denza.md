@@ -7,7 +7,7 @@ parent_manufacturer: "BYD"
 parent_location: "Shenzhen, Guangdong, China"
 parent_founded: "1995"
 website: "https://www.denza.com/"
-model_count: 6
+model_count: 9
 publishedDate: "2026-09-05"
 tags: [Denza, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ DENZA is a premium new-energy vehicle brand jointly developed by BYD and Mercede
 
 ## Brand at a Glance
 
-- **Models cataloged:** 6
+- **Models cataloged:** 9
 - **Base price range:** $36,590 – $54,900
 - **Landed cost (Germany):** $63,501 – $91,975
 - **Landed premium (Germany):** +68% to +74%

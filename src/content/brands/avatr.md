@@ -7,7 +7,7 @@ parent_manufacturer: "ChangAn"
 parent_location: "Chongqing, China"
 parent_founded: "1862"
 website: "https://www.avatr.com/"
-model_count: 4
+model_count: 9
 publishedDate: "2026-09-05"
 tags: [Avatr, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Avatr is a premium intelligent electric vehicle brand jointly developed by Chang
 
 ## Brand at a Glance
 
-- **Models cataloged:** 4
+- **Models cataloged:** 9
 - **Base price range:** $29,560 – $40,830
 - **Landed cost (Germany):** $52,569 – $70,094
 - **Landed premium (Germany):** +72% to +78%

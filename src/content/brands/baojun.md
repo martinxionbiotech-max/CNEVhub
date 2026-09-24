@@ -7,7 +7,7 @@ parent_manufacturer: "SAIC"
 parent_location: "Shanghai, China"
 parent_founded: "1955"
 website: "https://www.sgmw.com.cn/baojun/"
-model_count: 6
+model_count: 7
 publishedDate: "2026-09-05"
 tags: [Baojun, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Baojun is a dynamic automotive brand under the SAIC-GM-Wuling (SGMW) joint ventu
 
 ## Brand at a Glance
 
-- **Models cataloged:** 6
+- **Models cataloged:** 7
 - **Base price range:** $10,820 – $18,280
 - **Landed cost (Germany):** $23,426 – $35,027
 - **Landed premium (Germany):** +92% to +116%

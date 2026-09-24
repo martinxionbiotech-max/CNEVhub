@@ -7,7 +7,7 @@ parent_manufacturer: "FAW"
 parent_location: "Changchun, Jilin, China"
 parent_founded: "1953"
 website: "https://benteng.faw.cn/"
-model_count: 4
+model_count: 7
 publishedDate: "2026-09-05"
 tags: [Bestune, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Bestune, formerly known as Besturn, is a mid-to-premium automotive brand under F
 
 ## Brand at a Glance
 
-- **Models cataloged:** 4
+- **Models cataloged:** 7
 - **Base price range:** $3,500 – $19,690
 - **Landed cost (Germany):** $12,043 – $37,220
 - **Landed premium (Germany):** +89% to +244%

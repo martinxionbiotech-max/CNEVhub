@@ -7,7 +7,7 @@ parent_manufacturer: "Great Wall"
 parent_location: "Baoding, Hebei, China"
 parent_founded: "1984"
 website: "https://www.oraev.com/"
-model_count: 3
+model_count: 5
 publishedDate: "2026-09-05"
 tags: [Ora, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Ora is the dedicated electric vehicle brand under Great Wall Motor (GWM), create
 
 ## Brand at a Glance
 
-- **Models cataloged:** 3
+- **Models cataloged:** 5
 - **Base price range:** $11,800 – $29,410
 - **Landed cost (Germany):** $24,950 – $52,335
 - **Landed premium (Germany):** +78% to +111%

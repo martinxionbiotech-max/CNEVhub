@@ -7,7 +7,7 @@ parent_manufacturer: "Chery"
 parent_location: "Wuhu, Anhui, China"
 parent_founded: "1997"
 website: "None"
-model_count: 4
+model_count: 7
 publishedDate: "2026-09-05"
 tags: [Chery New Energy, Chinese EV brand, EV export]
 ---
@@ -26,7 +26,7 @@ Chery New Energy is the dedicated new-energy vehicle (NEV) division of Chery Aut
 
 ## Brand at a Glance
 
-- **Models cataloged:** 4
+- **Models cataloged:** 7
 - **Base price range:** $5,200 – $11,960
 - **Landed cost (Germany):** $14,686 – $25,199
 - **Landed premium (Germany):** +111% to +182%

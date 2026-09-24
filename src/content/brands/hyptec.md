@@ -7,7 +7,7 @@ parent_manufacturer: "GAC"
 parent_location: "Guangzhou, Guangdong, China"
 parent_founded: "1948"
 website: "https://www.hyptec.com/"
-model_count: 4
+model_count: 6
 publishedDate: "2026-09-05"
 tags: [Hyptec, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Hyptec, used to be Hyper before renamed in 2024, is a high-performance new-energ
 
 ## Brand at a Glance
 
-- **Models cataloged:** 4
+- **Models cataloged:** 6
 - **Base price range:** $21,660 – $38,000
 - **Landed cost (Germany):** $40,283 – $65,694
 - **Landed premium (Germany):** +73% to +86%

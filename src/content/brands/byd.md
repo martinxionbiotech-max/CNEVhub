@@ -7,7 +7,7 @@ parent_manufacturer: "BYD"
 parent_location: "Shenzhen, Guangdong, China"
 parent_founded: "1995"
 website: "https://www.byd.com/"
-model_count: 37
+model_count: 46
 publishedDate: "2026-09-05"
 tags: [BYD, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ BYD is a pioneering Chinese automotive brand under BYD Company Limited, symboliz
 
 ## Brand at a Glance
 
-- **Models cataloged:** 37
+- **Models cataloged:** 46
 - **Base price range:** $8,940 – $32,370
 - **Landed cost (Germany):** $20,292 – $56,176
 - **Landed premium (Germany):** +74% to +127%

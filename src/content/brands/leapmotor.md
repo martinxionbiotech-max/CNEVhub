@@ -7,7 +7,7 @@ parent_manufacturer: "Leapmotor"
 parent_location: "Hangzhou, Zhejiang, China"
 parent_founded: "2015"
 website: "https://www.leapmotor.net/"
-model_count: 8
+model_count: 16
 publishedDate: "2026-09-05"
 tags: [Leapmotor, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Leapmotor is a next-generation smart electric vehicle brand from China, dedicate
 
 ## Brand at a Glance
 
-- **Models cataloged:** 8
+- **Models cataloged:** 16
 - **Base price range:** $8,440 – $21,380
 - **Landed cost (Germany):** $19,725 – $39,848
 - **Landed premium (Germany):** +86% to +134%

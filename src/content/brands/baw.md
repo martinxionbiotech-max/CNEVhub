@@ -7,7 +7,7 @@ parent_manufacturer: "BAW"
 parent_location: "Qingdao, China"
 parent_founded: "1953"
 website: "https://www.baw.com.cn/"
-model_count: 2
+model_count: 4
 publishedDate: "2026-09-05"
 tags: [BAW, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ BAW (Beijing Automobile Works) is a historic Chinese automotive brand with roots
 
 ## Brand at a Glance
 
-- **Models cataloged:** 2
+- **Models cataloged:** 4
 - **Base price range:** $14,060 – $22,510
 - **Landed cost (Germany):** $28,465 – $41,605
 - **Landed premium (Germany):** +85% to +102%

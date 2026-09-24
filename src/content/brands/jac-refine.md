@@ -7,7 +7,7 @@ parent_manufacturer: "JAC"
 parent_location: "Hefei, Anhui, China"
 parent_founded: "1964"
 website: "None"
-model_count: 3
+model_count: 5
 publishedDate: "2026-09-05"
 tags: [JAC Refine, Chinese EV brand, EV export]
 ---
@@ -26,7 +26,7 @@ Refine is a sub-brand of JAC Motors (Anhui Jianghuai Automobile Group Corp., Ltd
 
 ## Brand at a Glance
 
-- **Models cataloged:** 3
+- **Models cataloged:** 5
 - **Base price range:** $0 – $23,230
 - **Landed cost (Germany):** $30,673 – $42,725
 - **Landed premium (Germany):** +84% to +98%

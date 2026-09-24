@@ -7,7 +7,7 @@ parent_manufacturer: "BAIC"
 parent_location: "Beijing, China"
 parent_founded: "1958"
 website: "https://www.arcfox.com.cn/"
-model_count: 6
+model_count: 7
 publishedDate: "2026-09-05"
 tags: [Arcfox, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Arcfox is a premium intelligent electric vehicle brand under BAIC Group, created
 
 ## Brand at a Glance
 
-- **Models cataloged:** 6
+- **Models cataloged:** 7
 - **Base price range:** $8,850 – $36,170
 - **Landed cost (Germany):** $20,363 – $62,848
 - **Landed premium (Germany):** +74% to +130%

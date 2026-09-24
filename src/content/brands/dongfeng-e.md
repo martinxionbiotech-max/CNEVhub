@@ -7,7 +7,7 @@ parent_manufacturer: "Dongfeng"
 parent_location: "Wuhan, Hubei, China"
 parent_founded: "1969"
 website: "https://www.yipai.com.cn/"
-model_count: 3
+model_count: 6
 publishedDate: "2026-09-05"
 tags: [Dongfeng eπ, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Dongfeng eπ (pronounced “e-pi”) is a new-energy vehicle brand under Dongfen
 
 ## Brand at a Glance
 
-- **Models cataloged:** 3
+- **Models cataloged:** 6
 - **Base price range:** $12,660 – $23,930
 - **Landed cost (Germany):** $26,287 – $43,813
 - **Landed premium (Germany):** +83% to +108%

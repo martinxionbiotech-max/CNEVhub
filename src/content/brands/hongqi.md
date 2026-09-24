@@ -7,7 +7,7 @@ parent_manufacturer: "FAW"
 parent_location: "Changchun, Jilin, China"
 parent_founded: "1953"
 website: "https://hongqi.faw.cn/"
-model_count: 12
+model_count: 14
 publishedDate: "2026-09-05"
 tags: [Hongqi, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Hongqi, literally “Red Flag”, is the flagship luxury automobile brand under 
 
 ## Brand at a Glance
 
-- **Models cataloged:** 12
+- **Models cataloged:** 14
 - **Base price range:** $12,650 – $197,180
 - **Landed cost (Germany):** $26,272 – $313,233
 - **Landed premium (Germany):** +59% to +108%

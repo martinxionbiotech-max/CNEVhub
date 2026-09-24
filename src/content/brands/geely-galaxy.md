@@ -7,7 +7,7 @@ parent_manufacturer: "Geely"
 parent_location: "Hangzhou, Zhejiang, China"
 parent_founded: "1986"
 website: "https://www.galaxy-geely.com/"
-model_count: 12
+model_count: 19
 publishedDate: "2026-09-05"
 tags: [Geely Galaxy, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Geely Galaxy is a premium new-energy vehicle (NEV) brand under Geely Auto Group,
 
 ## Brand at a Glance
 
-- **Models cataloged:** 12
+- **Models cataloged:** 19
 - **Base price range:** $6,590 – $25,890
 - **Landed cost (Germany):** $16,848 – $46,861
 - **Landed premium (Germany):** +81% to +156%

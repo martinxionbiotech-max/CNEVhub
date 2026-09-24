@@ -7,7 +7,7 @@ parent_manufacturer: "GAC"
 parent_location: "Guangzhou, Guangdong, China"
 parent_founded: "1948"
 website: "https://www.gacmotor.com/"
-model_count: 9
+model_count: 11
 publishedDate: "2026-09-05"
 tags: [GAC Motor, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ GAC Motor, international brand of Trumpchi, is the flagship automotive brand of 
 
 ## Brand at a Glance
 
-- **Models cataloged:** 9
+- **Models cataloged:** 11
 - **Base price range:** $18,030 – $45,460
 - **Landed cost (Germany):** $34,638 – $77,294
 - **Landed premium (Germany):** +70% to +92%

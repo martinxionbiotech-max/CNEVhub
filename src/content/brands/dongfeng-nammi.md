@@ -7,7 +7,7 @@ parent_manufacturer: "Dongfeng"
 parent_location: "Wuhan, Hubei, China"
 parent_founded: "1969"
 website: "https://www.dna-nev.com.cn/"
-model_count: 1
+model_count: 2
 publishedDate: "2026-09-05"
 tags: [Dongfeng Nammi, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Dongfeng Nammi is a new-energy vehicle brand under Dongfeng Motor Corporation, c
 
 ## Brand at a Glance
 
-- **Models cataloged:** 1
+- **Models cataloged:** 2
 - **Base price range:** $8,420 – $8,420
 - **Landed cost (Germany):** $19,694 – $19,694
 - **Landed premium (Germany):** +134% to +134%

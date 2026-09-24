@@ -7,7 +7,7 @@ parent_manufacturer: "SAIC"
 parent_location: "Shanghai, China"
 parent_founded: "1955"
 website: "https://www.saicmaxus.com/"
-model_count: 4
+model_count: 7
 publishedDate: "2026-09-05"
 tags: [Maxus, Chinese EV brand, EV export]
 ---
@@ -27,7 +27,7 @@ Maxus, also known internationally as SAIC Maxus or LDV Maxus, is a global commer
 
 ## Brand at a Glance
 
-- **Models cataloged:** 4
+- **Models cataloged:** 7
 - **Base price range:** $22,510 – $42,150
 - **Landed cost (Germany):** $46,467 – $81,251
 - **Landed premium (Germany):** +93% to +106%
