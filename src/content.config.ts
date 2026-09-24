@@ -64,6 +64,7 @@ const vehicles = defineCollection({
     data_source: z.string().optional(),
     data_updated: z.string().optional(),
     data_reviewed: z.boolean().optional(),
+    confidence: z.string().optional(),
     family: z.string().optional(),
   }),
 });

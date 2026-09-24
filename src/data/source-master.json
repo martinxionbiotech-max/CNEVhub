@@ -58,5 +58,88 @@
       "tier": 1,
       "used_for": "import duty (MFN) for non-EU markets"
     }
-  ]
+  ],
+  "_conventions": {
+    "schema_version": 1,
+    "adopted": "2026-09-24",
+    "purpose": "逐字段数据溯源字段约定（任务书 §7）。先落约定，不批量改造 517 个车型文件；批量迁移留后续决策。",
+    "vehicle_frontmatter_fields": {
+      "data_source": {
+        "type": "string",
+        "required": false,
+        "desc": "车辆级数据来源描述（可引用 source_id 列表或自由文本）"
+      },
+      "data_updated": {
+        "type": "string (YYYY-MM-DD)",
+        "required": false,
+        "desc": "数据最后更新/核验日期"
+      },
+      "data_reviewed": {
+        "type": "boolean",
+        "required": false,
+        "desc": "是否经过人工复核"
+      },
+      "data_tier": {
+        "type": "integer 1-4",
+        "required": false,
+        "desc": "数据置信层级（1=官方一手，4=三级交叉核对）"
+      },
+      "confidence": {
+        "type": "enum",
+        "required": false,
+        "enum": [
+          "high",
+          "medium",
+          "low"
+        ],
+        "desc": "车辆级数据整体置信度；缺失时由渲染层按来源组合推导（当前默认 medium）"
+      },
+      "field_sources": {
+        "type": "object (可选，后续批次启用)",
+        "required": false,
+        "desc": "逐字段溯源：{字段名: {source_id, source_type, confidence, verified_date}}"
+      }
+    },
+    "source_type_enum": [
+      "manufacturer",
+      "government",
+      "regulation",
+      "customs",
+      "industry",
+      "primary",
+      "secondary",
+      "evhub_calculation",
+      "evhub_estimate"
+    ],
+    "source_type_enum_notes": {
+      "manufacturer": "厂商官网/规格书（官方一手）",
+      "government": "政府机构发布（含税务/海关/统计）",
+      "regulation": "法规文本（如 EU Reg 2024/2754、EUR-Lex）",
+      "customs": "海关税则（TARIC、WTO Tariff Facility）",
+      "industry": "行业媒体/行业基准（CnEVPost、CarNewsChina、货运基准）",
+      "primary": "一手数据（综合别名：官方渠道直接发布）",
+      "secondary": "二手数据（转载/聚合目录，如 Autohome/懂车帝）",
+      "evhub_calculation": "EV Hub 由公式/规则计算得出（如 landed_cost、VAT 叠加）",
+      "evhub_estimate": "EV Hub 行业基准估算（如 RoRo 运费、认证费）"
+    },
+    "confidence_enum": {
+      "high": "官方一手且经交叉核验",
+      "medium": "官方+估算混合或单一官方未复核",
+      "low": "三级/媒体来源或待核验"
+    },
+    "verified_date": {
+      "type": "string (YYYY-MM-DD)",
+      "desc": "最近一次人工/权威核验日期，逐字段或逐记录"
+    },
+    "legacy_source_type_mapping": {
+      "regulation": "regulation",
+      "customs tariff": "customs",
+      "tax": "government",
+      "spec": "manufacturer",
+      "industry media": "industry",
+      "catalog": "secondary",
+      "tertiary": "secondary"
+    },
+    "migration_status": "sources[] 现有 8 条记录的 legacy source_type 保留原值，待批量迁移时按 legacy_source_type_mapping 归一化；517 个车型文件暂不批量加 field_sources。"
+  }
 }

@@ -58,8 +58,9 @@ const specs = [
 // 多国落地成本的最低价（用于高亮最有优势的市场）
 const lowestTotal = multiLc.length ? Math.min(...multiLc.map((m) => m.total_landed_usd)) : 0;
 
-// 落地成本置信度（渲染层标注，不改动 md 数据）：官方 MSRP + 官方关税，但运费/认证为固定估算 → 部分估算 → Medium
-const costConfidence = 'Medium';
+// 落地成本置信度（渲染层标注）：优先读 frontmatter confidence（§7 溯源约定）；
+// 缺失时按来源组合推导：官方 MSRP + 官方关税，但运费/认证为固定估算 → 部分估算 → Medium
+const costConfidence = data.confidence || 'Medium';
 const costLastVerified = data.data_updated || '2026-09-15';
 
 // 结构化数据/社交分享用的绝对图片地址：优先该车型图片，缺图时回退站内 OG 图
@@ -260,7 +261,7 @@ const jsonLd = {
       </div>
     </div>
     <p class="text-xs text-gray-400 mt-4">
-      Data source: {data.data_source || 'EV Hub catalog'} · Last updated: {data.data_updated || 'n/a'} · Status: {data.data_reviewed ? 'Reviewed' : 'Pending review'}
+      Data source: {data.data_source || 'EV Hub catalog'} · Last updated: {data.data_updated || 'n/a'} · Confidence: {costConfidence} · Status: {data.data_reviewed ? 'Reviewed' : 'Pending review'}
     </p>
   </section>
 
