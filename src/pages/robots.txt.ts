@@ -8,9 +8,10 @@ export const GET: APIRoute = () => {
 User-agent: *
 Allow: /
 
-# Disallow admin and API routes
+# Disallow API routes only.
+# NOTE: /_astro/ MUST stay crawlable — it holds the site's CSS/JS bundles.
+# Blocking it stops Googlebot from rendering pages (GSC: "blocked resource").
 Disallow: /api/
-Disallow: /_astro/
 
 # AI assistants & LLM crawlers (GEO/AIO)
 User-agent: GPTBot
