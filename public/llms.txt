@@ -34,6 +34,21 @@ CNEVhub shows the real landed cost of importing Chinese EVs — the itemized dut
 - [Copyright, Trademarks and Takedown Policy](https://electricvehiclehub.net/copyright/): permitted reuse of our content and figures, trademark usage, and the notice-and-takedown procedure.
 - [Privacy Policy](https://electricvehiclehub.net/privacy/) | [Cookie Policy](https://electricvehiclehub.net/cookies/) | [Terms of Use](https://electricvehiclehub.net/terms/) | [Disclaimer](https://electricvehiclehub.net/disclaimer/) | [Accessibility Statement](https://electricvehiclehub.net/accessibility/)
 
+## Machine-readable markdown
+
+Every vehicle and blog page has a clean Markdown variant at the same path with a `.md` suffix — generated at build time from the same data layer as the HTML page, with no navigation, footer, or JavaScript.
+
+- Vehicle pages: `/vehicles/{slug}.md`
+- Blog posts: `/blog/{slug}.md`
+
+Examples:
+
+- https://electricvehiclehub.net/vehicles/byd-seal.md
+- https://electricvehiclehub.net/vehicles/xiaomi-su7.md
+- https://electricvehiclehub.net/vehicles/zeekr-001.md
+- https://electricvehiclehub.net/blog/byd-seal-deep-review.md
+- https://electricvehiclehub.net/blog/chinese-ev-export-landscape-2026.md
+
 ## Company
 
 - Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.) — IATF 16949-certified automotive battery manufacturer, publishing independent landed-cost intelligence and cross-border research for Chinese EV importers.
