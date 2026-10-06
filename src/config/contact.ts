@@ -11,9 +11,9 @@ import type { ContactInfo, ContactMethod, ContactFAQ } from '../lib/types';
 
 /** Contact information used across contact page and legal pages */
 export const contact: ContactInfo = {
-  email: 'aaron@dinweys.com',
-  supportEmail: 'aaron@dinweys.com',
-  salesEmail: 'aaron@dinweys.com',
+  email: 'info@electricvehiclehub.net',
+  supportEmail: 'info@electricvehiclehub.net',
+  salesEmail: 'info@electricvehiclehub.net',
   address: {
     street: '',
     city: 'Jinzhou',
@@ -28,8 +28,8 @@ export const contactMethods: ContactMethod[] = [
   {
     icon: 'lucide:mail',
     label: 'Email',
-    value: 'aaron@dinweys.com',
-    href: 'mailto:aaron@dinweys.com',
+    value: 'info@electricvehiclehub.net',
+    href: 'mailto:info@electricvehiclehub.net',
   },
 ];
 

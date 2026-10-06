@@ -5,7 +5,7 @@
  * EV Hub: Chinese EV export intelligence platform.
  * Company: Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.)
  * Author: Wei Wang, EV & Battery Industry Analyst
- * Primary contact: aaron@dinweys.com (business email)
+ * Primary contact: info@electricvehiclehub.net (business email)
  */
 
 import type { SocialLinks, LegalConfig } from '../lib/types';
@@ -45,7 +45,7 @@ export const company = {
     'Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.) is an automotive battery manufacturer founded in 2002 whose quality management system is certified to IATF 16949, providing independent landed-cost intelligence and cross-border research for Chinese EV importers.',
   url: 'https://electricvehiclehub.net',
   logo: '/logo.svg',
-  email: 'aaron@dinweys.com',
+  email: 'info@electricvehiclehub.net',
   author: 'Wei Wang',
   authorRole: 'EV & Battery Industry Analyst',
   authorBio:
