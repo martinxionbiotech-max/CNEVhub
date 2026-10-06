@@ -7,7 +7,6 @@
  * 通知—删除（takedown / DMCA 式）流程与联系邮箱、反向侵权举报。
  */
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
-import SEO from '@/components/common/SEO.astro';
 import { siteConfig, company } from '@/config';
 
 const { legal } = siteConfig;
@@ -18,10 +17,6 @@ const year = new Date().getFullYear();
   title="Copyright, Trademarks and Takedown Policy"
   description="What is protected on EV Hub, how our content and calculated data may be reused, how third-party trademarks are used, and the procedure for sending a copyright takedown notice."
 >
-  <SEO
-    title="Copyright, Trademarks and Takedown Policy"
-    description={`Copyright, trademark and takedown policy for ${siteConfig.name}: permitted reuse, third-party marks, and the notice-and-takedown procedure for rights holders.`}
-  />
   <section class="py-section">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
       <header class="mb-12">

@@ -6,7 +6,6 @@
  * 无障碍声明：目标标准（WCAG 2.1 AA）、已采取的措施、已知限制、反馈渠道与响应时限。
  */
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
-import SEO from '@/components/common/SEO.astro';
 import { siteConfig } from '@/config';
 
 const { legal } = siteConfig;
@@ -16,10 +15,6 @@ const { legal } = siteConfig;
   title="Accessibility Statement"
   description="How EV Hub approaches accessibility: the standard we work to, the measures already in place, known limitations, and how to report a problem."
 >
-  <SEO
-    title="Accessibility Statement"
-    description={`Accessibility statement for ${siteConfig.name}: our WCAG 2.1 AA target, measures in place, known limitations, and how to report an accessibility problem.`}
-  />
   <section class="py-section">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
       <header class="mb-12">

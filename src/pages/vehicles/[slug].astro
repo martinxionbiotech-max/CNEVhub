@@ -17,6 +17,9 @@ const brandMap = await brandLabelMap();
 const vehicle = vehicles.find((v) => v.data.slug === slug);
 const { data } = vehicle;
 const { Content } = await render(vehicle);
+const sameBrandVehicles = vehicles
+  .filter((v) => v.data.brand === data.brand && v.data.slug !== slug)
+  .slice(0, 4);
 const lc = data.landed_cost || {};
 const multiLc = (data.landed_cost_markets || []).filter((m) => m && m.total_landed_usd);
 
@@ -286,6 +289,20 @@ const jsonLd = {
   <div class="prose prose-lg max-w-none mb-12">
     <Content />
   </div>
+
+  {sameBrandVehicles.length > 0 && (
+    <section class="mb-12">
+      <h2 class="text-2xl font-bold mb-4 text-gray-900">Related models from {data.brand.toUpperCase()}</h2>
+      <ul class="space-y-2">
+        {sameBrandVehicles.map((v) => (
+          <li>
+            <a href={`/vehicles/${v.data.slug}/`} class="text-green-700 hover:underline font-medium">{v.data.title || v.data.model}</a>
+            <span class="text-gray-500 text-sm"> — {v.data.range_standard ? `${v.data.range_standard} km` : 'range TBA'}{v.data.price_usd ? ` · $${Number(v.data.price_usd).toLocaleString()}` : ''}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
 
   <div class="border-t pt-6 text-sm text-gray-500">
     Author: {data.author} (EV & Battery Industry Analyst) · Chengguang Energy · Contact: Aaron.W · aaron@dinweys.com · WhatsApp/WeChat +86 13313137465 · Updated {data.publishedDate ? data.publishedDate.toISOString().split('T')[0] : '2026-09-05'}
