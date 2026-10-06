@@ -28,7 +28,7 @@ data_updated: "2026-09-07"
 data_reviewed: false
 family: "Jolion Pro"
 image: "/images/vehicles/haval-jolion-pro.jpg"
-image_credit: "iMoD Official / Wikimedia Commons / by"
+image_credit: "iMoD Official / Wikimedia Commons / CC BY 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=148977228"
 ---
 # Haval Jolion PRO

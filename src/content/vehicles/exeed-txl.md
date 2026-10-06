@@ -31,7 +31,7 @@ data_updated: "2026-09-07"
 data_reviewed: false
 family: "TXL"
 image: "/images/vehicles/exeed-txl.jpg"
-image_credit: "Jengtingchen / Wikimedia Commons / by-sa"
+image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=95732958"
 ---
 # Exeed TXL

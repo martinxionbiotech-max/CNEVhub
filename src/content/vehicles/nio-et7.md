@@ -31,7 +31,7 @@ data_updated: "2026-09-07"
 data_reviewed: false
 family: "ET7"
 image: "/images/vehicles/nio-et7.jpg"
-image_credit: "Alexander Migl / Wikimedia Commons / by-sa"
+image_credit: "Alexander Migl / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=128987346"
 ---
 # Nio ET7

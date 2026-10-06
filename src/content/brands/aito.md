@@ -1,6 +1,6 @@
 ---
 title: "AITO: Chinese EV Brand Profile & Export Data"
-description: "AITO is a premium intelligent electric vehicle brand co-created by Seres Group and Huawei under the Harmony Intelligent Mobility Alliance (HIMA), dedi..."
+description: "AITO (Seres Group brand developed with Huawei under HIMA, launched 2021) — 10 models catalogued with factory prices and Germany landed-cost breakdowns (+66% to +76% import premium)."
 brand_name: "AITO"
 established: "2021"
 parent_manufacturer: "Seres"
@@ -14,7 +14,7 @@ tags: [AITO, Chinese EV brand, EV export]
 
 # AITO
 
-AITO is a premium intelligent electric vehicle brand co-created by Seres Group and Huawei under the Harmony Intelligent Mobility Alliance (HIMA), dedicated to redefining the driving experience through deep integration of automotive engineering and digital technology. Launched in 2021, AITO — short for Adding Intelligence to Auto — embodies the fusion of cutting-edge electric mobility and Huawei’s expertise in smart ecosystems.
+AITO is a brand from Seres Group, developed together with Huawei under the Harmony Intelligent Mobility Alliance (HIMA). The name stands for "Adding Intelligence to Auto", and the brand launched in 2021 with its parent manufacturer based in Chongqing. It is one of the larger line-ups we track: ten AITO models are catalogued here, priced from about $32,370 at the factory gate, with landed costs in Germany between roughly $56,938 and $109,500 depending on model and trim.
 
 ## Brand Overview
 

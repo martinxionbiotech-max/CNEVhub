@@ -42,7 +42,7 @@ export const company = {
   name: 'Chengguang Energy',
   legalName: 'Jinzhou Chengguang Power Source Co., Ltd.',
   description:
-    'Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.) is an IATF 16949-certified automotive battery manufacturer founded in 2002, providing independent landed-cost intelligence and cross-border research for Chinese EV importers.',
+    'Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.) is an automotive battery manufacturer founded in 2002 whose quality management system is certified to IATF 16949, providing independent landed-cost intelligence and cross-border research for Chinese EV importers.',
   url: 'https://electricvehiclehub.net',
   logo: '/logo.svg',
   email: 'aaron@dinweys.com',

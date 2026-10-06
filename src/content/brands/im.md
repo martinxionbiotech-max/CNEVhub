@@ -1,6 +1,6 @@
 ---
 title: "IM: Chinese EV Brand Profile & Export Data"
-description: "IM Motors, short for Intelligence in Motion, is a premium intelligent electric vehicle brand jointly developed by SAIC Motor, Alibaba Group, and Zhang..."
+description: "IM Motors (SAIC Motor's premium EV marque, founded 2020 with Alibaba Group and Zhangjiang Hi-Tech) — 7 models catalogued with factory prices and landed-cost breakdowns for Germany and 29 other markets."
 brand_name: "IM"
 established: "2020"
 parent_manufacturer: "SAIC"
@@ -14,7 +14,7 @@ tags: [IM, Chinese EV brand, EV export]
 
 # IM
 
-IM Motors, short for Intelligence in Motion, is a premium intelligent electric vehicle brand jointly developed by SAIC Motor, Alibaba Group, and Zhangjiang Hi-Tech Group. Founded in 2020 and headquartered in Shanghai, IM represents SAIC’s most advanced vision for the future of software-defined, user-centered mobility — where intelligence, design, and performance converge.
+IM Motors (usually shortened to IM) is SAIC Motor's premium electric vehicle marque. It was set up in 2020 as a joint venture between SAIC Motor, Alibaba Group and Zhangjiang Hi-Tech Group, and is headquartered in Shanghai. The brand targets the upper-middle of China's battery-electric price ladder: our catalogue lists seven IM models, priced from roughly $30,690 at the factory gate, which translates to about $54,326 landed in Germany once duties, countervailing tariffs, VAT and freight are applied.
 
 ## Brand Overview
 

@@ -32,7 +32,7 @@ data_updated: "2026-09-07"
 data_reviewed: false
 family: "M5"
 image: "/images/vehicles/aito-m5.jpg"
-image_credit: "JustAnotherCarDesigner / Wikimedia Commons / by-sa"
+image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=123393870"
 ---
 # Aito M5
