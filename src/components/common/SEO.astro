@@ -95,7 +95,6 @@ const organizationSchema = {
   url: company.url || siteConfig.url,
   logo: new URL(company.logo || siteConfig.logo, siteConfig.url).href,
   email: company.email,
-  telephone: company.phone,
   description: company.description,
   sameAs: [siteConfig.social.twitter, siteConfig.social.github, siteConfig.social.discord].filter(
     Boolean
@@ -109,9 +108,7 @@ const organizationSchema = {
   contactPoint: {
     '@type': 'ContactPoint',
     contactType: 'customer service',
-    name: company.contactPerson,
     email: company.email,
-    telephone: company.phone,
     availableLanguage: ['English', 'Chinese'],
   },
 };

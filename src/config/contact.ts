@@ -15,7 +15,7 @@ export const contact: ContactInfo = {
   supportEmail: 'aaron@dinweys.com',
   salesEmail: 'aaron@dinweys.com',
   address: {
-    street: 'Jinzhou, Hebei',
+    street: '',
     city: 'Jinzhou',
     state: 'Hebei',
     zip: '',
@@ -30,18 +30,6 @@ export const contactMethods: ContactMethod[] = [
     label: 'Email',
     value: 'aaron@dinweys.com',
     href: 'mailto:aaron@dinweys.com',
-  },
-  {
-    icon: 'lucide:message-circle',
-    label: 'WhatsApp / WeChat',
-    value: '+86 13313137465',
-    href: 'https://wa.me/8613313137465',
-  },
-  {
-    icon: 'lucide:phone',
-    label: 'Phone',
-    value: '+86 13313137465',
-    href: 'tel:+8613313137465',
   },
 ];
 

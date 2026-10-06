@@ -5,7 +5,7 @@
  * EV Hub: Chinese EV export intelligence platform.
  * Company: Chengguang Energy (Jinzhou Chengguang Power Source Co., Ltd.)
  * Author: Wei Wang, EV & Battery Industry Analyst
- * Primary contact: Aaron.W (aaron@dinweys.com, WhatsApp/WeChat +86 13313137465)
+ * Primary contact: aaron@dinweys.com (business email)
  */
 
 import type { SocialLinks, LegalConfig } from '../lib/types';
@@ -46,9 +46,6 @@ export const company = {
   url: 'https://electricvehiclehub.net',
   logo: '/logo.svg',
   email: 'aaron@dinweys.com',
-  phone: '+86 13313137465',
-  whatsapp: '+86 13313137465',
-  contactPerson: 'Aaron.W',
   author: 'Wei Wang',
   authorRole: 'EV & Battery Industry Analyst',
   authorBio:
