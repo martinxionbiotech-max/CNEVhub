@@ -42,9 +42,14 @@ The 15% VAT makes Saudi Arabia more expensive than the UAE, but still far below 
 
 The trade-offs:
 
-- **Hot climate.** Battery thermal management and air-conditioning load matter more; research how specific models hold up in 45°C+ conditions.
-- **Certification.** Gulf markets have their own standards (GCC / SFDA / SASO-adjacent requirements) rather than EU WVTA. Budget appropriately and verify the specific conformity route before importing.
-- **Volume and buyers.** The Gulf is a smaller market than Europe, so demand is more concentrated among specific segments (SUVs, premium sedans).
+- **Hot climate.** Battery thermal management and air-conditioning load matter more; research how specific models hold up in 45°C+ conditions. This is a product-fitness question no conformity certificate covers — and it is the reason some models are simply not imported into the region.
+- **Certification.** Gulf markets have their own standards (GCC / SFDA / SASO-adjacent requirements) rather than EU WVTA. Budget appropriately and verify the specific conformity route before importing. Requirements are not identical between the UAE and Saudi Arabia, and they can differ by emirate and vehicle category.
+
+**Before you commit — three verification steps:**
+
+1. **Confirm the current conformity route with the destination authority** or a local clearance agent — before ordering. The GCC conformity process is generally lighter than the EU's, but "lighter" is not "none": lighting, labelling, and documentation requirements still apply.
+2. **Ask the supplier which GCC markets the specific model has already reached.** Existing Gulf exports mean existing conformity documents — request them by variant, not by brand.
+3. **Do not assume UAE clearance equals Saudi clearance.** The two processes are separate; a vehicle cleared in one is not automatically cleared in the other.
 
 ## Practical notes
 

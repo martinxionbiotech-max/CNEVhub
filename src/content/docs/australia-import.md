@@ -28,7 +28,7 @@ With zero duty and no countervailing duty, a Chinese EV lands in Australia at a 
 
 ## The compliance hurdle: ADRs and RAV
 
-Cost is not the main obstacle in Australia — compliance is. Imported vehicles must meet the **Australian Design Rules (ADRs)** and be entered on the **Register of Approved Vehicles (RAV)**.
+Cost is not the main obstacle in Australia — compliance is. Imported vehicles must meet the **Australian Design Rules (ADRs)** and be entered on the **Register of Approved Vehicles (RAV)**, administered by the federal Department of Infrastructure.
 
 Key points:
 
@@ -36,6 +36,12 @@ Key points:
 - Importers typically need a **concessional RAV entry** or specialist approval for vehicles not type-approved for Australia.
 - This can require physical modifications (lighting, child-restraint anchors, speedometer calibration) and documentation proving conformity.
 - Budget more time and cost for Australian compliance than for, say, the Gulf — the standards are stricter and the process more formal.
+
+**Before you commit — three verification steps:**
+
+1. **Search the RAV for the exact variant** (make, model, and compliance date). Some Chinese models are RAV-listed for Australia by their manufacturers — if your variant is listed, the path shortens dramatically. Check the register, not the marketing material.
+2. **Scope the modification list with a registered automotive workshop before shipment.** Child-restraint anchors and lighting changes are far cheaper done in the source market than after arrival — and some ADR items cannot be certified without evidence that survives the import.
+3. **Confirm your concessional entry eligibility with the Department of Infrastructure.** The eligibility conditions are specific, and an ineligible application wastes weeks. Treat the RAV entry as a gating step, not an afterthought.
 
 ## Practical notes
 

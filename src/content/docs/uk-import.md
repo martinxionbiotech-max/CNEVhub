@@ -46,6 +46,12 @@ The UK has its own vehicle approval regime, the **Individual Vehicle Approval (I
 
 Like the EU, a China-market EV will likely need adaptations (lighting, speedometer in mph, right-hand-drive considerations) before passing IVA. Budget $1,500–$4,000 and 2–5 weeks.
 
+**Before you ship — three verification steps:**
+
+1. **Check for an existing approval.** Ask the supplier for a UK or EU type-approval certificate by VIN. Mutual recognition is route-specific — do not assume a vehicle "sold in the EU" carries an approval DVSA will accept.
+2. **Confirm the IVA category and adaptation list with the inspection centre** before the vehicle leaves China. Lighting and speedometer parts are cheap in the source market and expensive to source after arrival.
+3. **Treat the inspection as a test, not a formality.** A failed IVA test adds re-test fees and time; the same adaptations done pre-shipment are the single best cost lever on this line item.
+
 ## Practical notes
 
 - **VAT recoverability:** as in the EU, VAT is recoverable for VAT-registered businesses.
