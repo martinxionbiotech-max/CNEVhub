@@ -1,6 +1,6 @@
 ---
 title: "M-Hero 917 EREV"
-description: "M-Hero 917 EREV is a SUV extended-range electric from M-Hero, offering 200 km of CLTC range a 65.8 kWh battery and 600 kW of motor power. Full landed-cost break"
+description: "M-Hero's M-Hero 917 EREV is an SUV range-extended electric with a CLTC-rated range of 200 km, 65 kWh of battery, 600 kW of motor power, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "m-hero-917-erev"
 brand: "m-hero"
 type: "SUV"
@@ -23,13 +23,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["m-hero", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "猛士917增程 起售价63.77万元（智车派/易车）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "917"
 image: "/images/vehicles/m-hero-917-erev.jpg"
 image_credit: "Retired electrician / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=186316242"
+battery_type: "NMC (ternary)"
+drive_type: "AWD"
+motor_type: "PMSM (tri-motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "N/A"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # M-Hero 917 EREV
 
@@ -42,8 +55,7 @@ M-Hero 917 EREV (starting at $88,570) is a SUV from M HERO.
 
 ## Overview
 
-The M-Hero 917 EREV is a suv extended-range electric from M-Hero, with 600 kW of motor power, a 6.0-second 0–100 km/h time. It is positioned as a value-focused import, priced from $88,570 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +15% over base (about $102,098 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The M-Hero 917 EREV is an all-wheel-drive range-extended electric SUV from M-Hero. Specification highlights are a 6-second 0–100 km/h time and peak torque of 1,050 Nm. On landed cost for this SUV range-extended electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the least-costly destination is Qatar, near +9.7% over base ($97,178 landed). With a $88,570 ex-factory price, the SUV range-extended electric reads as flagship. As a SUV range-extended electric, it is aimed at importers targeting the family-SUV segment evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

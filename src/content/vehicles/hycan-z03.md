@@ -1,6 +1,6 @@
 ---
 title: "Hycan Z03"
-description: "Hycan Z03 is a SUV battery-electric from Hycan, offering 430 km of CLTC range a 55.5 kWh battery and 135 kW of motor power. Full landed-cost breakdown across 7 "
+description: "Hycan's Hycan Z03 is an SUV fully electric, offering a CLTC-rated range of 430 km, 55 kWh of battery, 135 kW peak output, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "hycan-z03"
 brand: "hycan"
 type: "SUV"
@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["hycan", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "合创Z03 RMB 132,800 (17汽车网/太平洋汽车)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Hycan Z03"
 image: "/images/vehicles/hycan-z03.jpg"
 image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2022_Hycan_Z03.jpg"
+battery_type: "NMC (ternary)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Hycan Z03
 
@@ -43,8 +55,7 @@ Hycan Z03 (starting at $18,440) is a SUV from HYCAN.
 
 ## Overview
 
-The Hycan Z03 is a suv battery-electric from Hycan, with 135 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,440 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,780 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Hycan Z03 is an front-wheel-drive fully electric SUV from Hycan. For the SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; Qatar offers the cheapest entry at about +27.7% over base (≈ $23,542 landed). At $18,440 ex-factory, this SUV fully electric sits in the value segment. Key figures are a top speed of 140 km/h, a CLTC-rated range of 430 km, and a 55 kWh battery. For the SUV fully electric buyer, it suits importers targeting the family-SUV segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

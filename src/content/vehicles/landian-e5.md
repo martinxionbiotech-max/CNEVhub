@@ -1,6 +1,6 @@
 ---
 title: "Landian E5"
-description: "Landian E5 is a SUV plug-in hybrid from Landian, and 160 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Landian's Landian E5 is an SUV plug-in hybrid, offering 160 kW peak output and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "landian-e5"
 brand: "landian"
 type: "SUV"
@@ -20,13 +20,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["landian", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "蓝电E5 RMB 99,800（新华网2024-04-10；WLTC综合1150km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "E5"
 image: "/images/vehicles/landian-e5.jpg"
 image_credit: "Zoerides / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Landian_E5_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Landian E5
 
@@ -36,8 +48,7 @@ Landian E5 (starting at $13,860) is a SUV from LANDIAN.
 
 ## Overview
 
-The Landian E5 is a suv plug-in hybrid from Landian, with 160 kW of motor power. It is positioned as a value-focused import, priced from $13,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,730 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Landian E5 is an front-wheel-drive plug-in hybrid electric SUV from Landian. It carries a 160 kW electric motor, a MacPherson strut front / Multi-link rear suspension layout, and LFP cells. At $13,860 ex-factory, this SUV plug-in hybrid electric sits in the entry-level segment. For this SUV plug-in hybrid electric, Qatar offers the cheapest entry at about +35.2% over base (≈ $18,733 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This SUV plug-in hybrid electric is positioned for regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

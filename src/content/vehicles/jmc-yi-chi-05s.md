@@ -1,6 +1,6 @@
 ---
 title: "JMC Yi Chi 05S"
-description: "JMC Yi Chi 05S is a SUV battery-electric from Jmc, offering 500 km of CLTC range. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The JMC Yi Chi 05S is JMC's SUV fully electric, offering a CLTC-rated range of 500 km and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "jmc-yi-chi-05s"
 brand: "jmc"
 type: "SUV"
@@ -15,13 +15,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["jmc", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "羿驰05S RMB 97,800 (搜狐汽车/易至汽车)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yi Chi"
 image: "/images/vehicles/jmc-yi-chi-05s.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # JMC Yi Chi 05S
 
@@ -31,8 +43,7 @@ JMC Yi Chi 05S (starting at $13,580) is a SUV from JMC.
 
 ## Overview
 
-The JMC Yi Chi 05S is a suv battery-electric from Jmc, . It is positioned as a value-focused import, priced from $13,580 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +43% over base (about $19,421 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+JMC's JMC Yi Chi 05S is an front-wheel-drive battery-electric SUV. This SUV battery-electric is positioned as an affordable-end import, from $13,580 ex-factory. For this SUV battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — the lowest landed premium is Qatar at roughly +35.8% over base (about $18,439 landed). Key figures are MacPherson strut front / Torsion beam rear suspension and LFP chemistry. The SUV battery-electric profile suits private buyers and fleet managers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

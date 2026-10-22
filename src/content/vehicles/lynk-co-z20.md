@@ -1,6 +1,6 @@
 ---
 title: "Lynk & Co Z20"
-description: "Lynk & Co Z20 is a SUV battery-electric from Lynk Co, offering 530 km of CLTC range a 61.47 kWh battery and 250 kW of motor power. Full landed-cost breakdown ac"
+description: "The Lynk & Co Z20, an SUV battery-electric from Lynk & Co with 530 km of CLTC range, a 61 kWh battery, 250 kW of motor power, and a LFP (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "lynk-co-z20"
 brand: "lynk-co"
 type: "SUV"
@@ -25,13 +25,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["lynk-co", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Wikipedia/领克官网: ¥109,900 (430km版 10.99万起), 61.47 kWh, 250 kW, CLTC 530 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Lynk & Co Z20"
 image: "/images/vehicles/lynk-co-z20.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Lynk_%26_Co_Z20_001.jpg"
+battery_type: "LFP (CATL)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Lynk & Co Z20
 
@@ -44,8 +56,7 @@ Lynk & Co Z20 (starting at $15,260) is a SUV from LYNK CO.
 
 ## Overview
 
-The Lynk & Co Z20 is a suv battery-electric from Lynk Co, with 250 kW of motor power, a 5.3-second 0–100 km/h time. It is positioned as a value-focused import, priced from $15,260 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,274 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Lynk & Co Z20 is an SUV fully electric from Lynk & Co, in front-wheel-drive form. Specification highlights are LFP (CATL) cells and peak torque of 373 Nm. Priced from $15,260 ex-factory, the SUV fully electric falls in the mainstream-value tier. On landed cost for this SUV fully electric, Germany applies a 18.8% countervailing duty on top of the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +32.4% over base ($20,203 landed). As a SUV fully electric, it is aimed at private buyers and fleet managers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

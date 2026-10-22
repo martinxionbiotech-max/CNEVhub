@@ -1,6 +1,6 @@
 ---
 title: "Hongqi Tiangong 05"
-description: "Hongqi Tiangong 05 is a Sedan battery-electric from Hongqi, offering 550 km of CLTC range a 62.0 kWh battery and 210 kW of motor power. Full landed-cost breakdo"
+description: "The Hongqi Tiangong 05, a sedan battery-electric from Hongqi, offering a CLTC-rated range of 550 km, 62 kWh of battery, 210 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "hongqi-tiangong-05"
 brand: "hongqi"
 type: "Sedan"
@@ -24,13 +24,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["hongqi", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "红旗天工05 RMB 159,800 (cnEVpost/Wikipedia)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Tiangong"
 image: "/images/vehicles/hongqi-tiangong-05.jpg"
 image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Hongqi_Tiangong_05_(%E5%A4%A9%E5%B7%A505)_02_China_2025-03-31.jpg"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Hongqi Tiangong 05
 
@@ -43,8 +56,7 @@ Hongqi Tiangong 05 (starting at $22,190) is a Sedan from HONGQI.
 
 ## Overview
 
-The Hongqi Tiangong 05 is a sedan battery-electric from Hongqi, with 210 kW of motor power, a 6.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $22,190 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $28,914 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Hongqi Tiangong 05 is a rear-wheel-drive fully electric sedan from Hongqi. It carries a MacPherson strut front / Multi-link rear suspension layout, LFP chemistry, and 317 Nm of torque. Across export markets for the sedan fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff — the least-costly destination is Qatar, near +23.8% over base ($27,479 landed). At $22,190 ex-factory, this sedan fully electric sits in the mainstream-value segment. This sedan fully electric is positioned for importers serving the sedan segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

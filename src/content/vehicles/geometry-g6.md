@@ -1,6 +1,6 @@
 ---
 title: "Geometry G6"
-description: "Geometry G6 is a Sedan battery-electric from Geometry, offering 410 km of CLTC range a 46.11 kWh battery and 100 kW of motor power. Full landed-cost breakdown a"
+description: "Geometry's Geometry G6 is a sedan battery-electric, offering 410 km of CLTC range, a 46 kWh battery, 100 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "geometry-g6"
 brand: "geometry"
 type: "Sedan"
@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geometry", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "几何G6 RMB 119,800 (CarNewsChina, 2023-09)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geometry G6"
 image: "/images/vehicles/geometry-g6.jpg"
 image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2022_Geely_Geometry_G6.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Geometry G6
 
@@ -42,8 +54,7 @@ Geometry G6 (starting at $16,640) is a Sedan from GEOMETRY.
 
 ## Overview
 
-The Geometry G6 is a sedan battery-electric from Geometry, with 100 kW of motor power. It is positioned as a value-focused import, priced from $16,640 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,795 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Geometry G6 is a sedan battery-electric with front-wheel-drive from Geometry. Specification highlights are a CLTC-rated range of 410 km, a 100 kW electric motor, and peak torque of 180 Nm. Priced from $16,640 ex-factory, the sedan battery-electric falls in the value-oriented tier. Across export markets for the sedan battery-electric, the least-costly destination is Qatar, near +30.1% over base ($21,652 landed), while Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. As a sedan battery-electric, it is aimed at executive and corporate fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

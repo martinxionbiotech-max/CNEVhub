@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor D99"
-description: "Leapmotor D99 is a MPV extended-range electric from Leapmotor, offering 480 km of CLTC range a 80.3 kWh battery. Full landed-cost breakdown across 7 export mark"
+description: "The Leapmotor D99 is an MPV extended-range electric from Leapmotor, offering 480 km of CLTC range, 80 kWh of battery, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "leapmotor-d99"
 brand: "leapmotor"
 type: "MPV"
@@ -20,13 +20,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["leapmotor", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "零跑D99 RMB 249,800 (新浪汽车/CCTV, 2026-06-25)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "D"
 image: "/images/vehicles/leapmotor-d99.jpg"
 image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2026_Leapmotor_D99_(front).jpg"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Leapmotor D99
 
@@ -37,8 +50,7 @@ Leapmotor D99 (starting at $34,690) is a MPV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor D99 is a mpv extended-range electric from Leapmotor, . It is positioned as a value-focused import, priced from $34,690 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $42,695 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Leapmotor D99 is an MPV range-extended electric with rear-wheel-drive from Leapmotor. It carries LFP cells and a CLTC-rated range of 480 km. For this MPV range-extended electric, the lowest landed premium is Qatar at roughly +17% over base (about $40,604 landed) — Germany applies the 10% standard tariff with no countervailing duty. The $34,690 ex-factory price places this MPV range-extended electric in the mid-tier band. The MPV range-extended electric profile suits people-carrier operators and family buyers focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

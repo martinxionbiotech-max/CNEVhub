@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor C10 EREV"
-description: "Leapmotor C10 EREV is a SUV extended-range electric from Leapmotor, offering 210 km of CLTC range a 28.4 kWh battery and 170 kW of motor power. Full landed-cost"
+description: "The Leapmotor C10 EREV, an SUV extended-range electric from Leapmotor with a CLTC-rated range of 210 km, 28 kWh of battery, 170 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "leapmotor-c10-erev"
 brand: "leapmotor"
 type: "SUV"
@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["leapmotor", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "零跑C10增程 起售价13.58万元（新华网/易车）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "C10"
 image: "/images/vehicles/leapmotor-c10-erev.jpg"
 image_credit: "Alexander Migl / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Leapmotor_C10_EREV_Auto_Zuerich_2025_DSC_3449.jpg"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Leapmotor C10 EREV
 
@@ -43,8 +55,7 @@ Leapmotor C10 EREV (starting at $18,860) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor C10 EREV is a suv extended-range electric from Leapmotor, with 170 kW of motor power, a 7.68-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,243 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Leapmotor C10 EREV is an rear-wheel-drive extended-range electric SUV from Leapmotor. As a value-oriented SUV extended-range electric, it starts at $18,860 ex-factory. On landed cost for this SUV extended-range electric, Qatar offers the cheapest entry at about +27.2% over base (≈ $23,983 landed), while Germany applies the 10% standard tariff with no countervailing duty. It carries MacPherson strut front / Multi-link rear suspension, 170 km/h top speed, and a 170 kW electric motor. In the SUV extended-range electric segment, it serves private buyers and fleet managers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

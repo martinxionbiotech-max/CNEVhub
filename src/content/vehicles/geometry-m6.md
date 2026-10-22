@@ -1,6 +1,6 @@
 ---
 title: "Geometry M6"
-description: "Geometry M6 is a SUV battery-electric from Geometry, offering 450 km of CLTC range a 53.0 kWh battery and 150 kW of motor power. Full landed-cost breakdown acro"
+description: "Geometry's Geometry M6 is an SUV battery-electric, offering 450 km of CLTC range, 53 kWh of battery, 150 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "geometry-m6"
 brand: "geometry"
 type: "SUV"
@@ -26,13 +26,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geometry", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "几何M6 RMB 149,800（百度百科/ZOL）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geometry M6"
 image: "/images/vehicles/geometry-m6.jpg"
 image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2022_Geely_Geometry_M6_(front).jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Geometry M6
 
@@ -45,8 +57,7 @@ Geometry M6 (starting at $20,810) is a SUV from GEOMETRY.
 
 ## Overview
 
-The Geometry M6 is a suv battery-electric from Geometry, with 150 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $20,810 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,393 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Geometry M6 is an front-wheel-drive fully electric SUV from Geometry. Specification highlights are 310 Nm of torque and a 53 kWh battery. For the SUV fully electric, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff; the lowest landed premium is Qatar at roughly +25.1% over base (about $26,030 landed). The $20,810 ex-factory price places this SUV fully electric in the value-oriented band. For the SUV fully electric buyer, it suits private buyers and fleet managers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

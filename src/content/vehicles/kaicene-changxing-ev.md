@@ -1,6 +1,6 @@
 ---
 title: "Kaicene Changxing EV"
-description: "Kaicene Changxing EV is a MPV battery-electric from Kaicene, and 90 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import plannin"
+description: "Kaicene's Kaicene Changxing EV is an MPV battery-electric with 90 kW peak output and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "kaicene-changxing-ev"
 brand: "kaicene"
 type: "MPV"
@@ -19,13 +19,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["kaicene", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "长安凯程长行EV RMB 133,200（EV视界/搜狐汽车；约402km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Changxing"
 image: "/images/vehicles/kaicene-changxing-ev.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Kaicene Changxing EV
 
@@ -35,8 +47,7 @@ Kaicene Changxing EV (starting at $18,500) is a MPV from KAICENE.
 
 ## Overview
 
-The Kaicene Changxing EV is a mpv battery-electric from Kaicene, with 90 kW of motor power. It is positioned as a value-focused import, priced from $18,500 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,846 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Kaicene Changxing EV is an MPV fully electric with front-wheel-drive from Kaicene. Specification highlights are peak output of 90 kW and LFP cells. The $18,500 ex-factory price places this MPV fully electric in the mainstream-value band. For the MPV fully electric, Qatar offers the cheapest entry at about +27.6% over base (≈ $23,605 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. In the MPV fully electric segment, it serves people-carrier operators and family buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

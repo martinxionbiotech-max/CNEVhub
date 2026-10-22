@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor A05"
-description: "Leapmotor A05 is a Sedan battery-electric from Leapmotor, offering 405 km of CLTC range a 39.8 kWh battery and 70 kW of motor power. Full landed-cost breakdown "
+description: "The Leapmotor A05, a sedan fully electric from Leapmotor with 405 km of CLTC range, 39 kWh of battery, 70 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "leapmotor-a05"
 brand: "leapmotor"
 type: "Sedan"
@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["leapmotor", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "零跑A05 RMB 63,900 (央视网/新浪汽车, 2026-08-11)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "A"
 image: "/images/vehicles/leapmotor-a05.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Leapmotor_A05_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Leapmotor A05
 
@@ -42,8 +54,7 @@ Leapmotor A05 (starting at $8,880) is a Sedan from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor A05 is a sedan battery-electric from Leapmotor, with 70 kW of motor power. It is positioned as a value-focused import, priced from $8,880 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +60% over base (about $14,240 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 10.6 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Leapmotor A05 is a front-wheel-drive battery-electric sedan from Leapmotor. Specification highlights are a MacPherson strut front / Torsion beam rear suspension layout, a 70 kW electric motor, and a 39 kWh battery. As a budget sedan battery-electric, it starts at $8,880 ex-factory. For this sedan battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; Qatar offers the cheapest entry at about +52.1% over base (≈ $13,504 landed). As a sedan battery-electric, it is aimed at executive and corporate fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

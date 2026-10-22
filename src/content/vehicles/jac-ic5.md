@@ -1,6 +1,6 @@
 ---
 title: "JAC iC5"
-description: "JAC iC5 is a Sedan battery-electric from JAC, offering 530 km of CLTC range a 64.5 kWh battery and 142 kW of motor power. Full landed-cost breakdown across 7 ex"
+description: "JAC's JAC iC5 is a sedan fully electric, offering 530 km of CLTC range, a 64 kWh battery, 142 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "jac-ic5"
 brand: "jac"
 type: "Sedan"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["jac", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "江淮iC5 RMB 149,900（百度百科/搜狐汽车；64.5kWh/530km NEDC）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "iC5"
 image: "/images/vehicles/jac-ic5.jpg"
 image_credit: "Evnerd / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:JAC_iC5_2021060301.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # JAC iC5
 
@@ -42,8 +54,7 @@ JAC iC5 (starting at $20,820) is a Sedan from JAC.
 
 ## Overview
 
-The JAC iC5 is a sedan battery-electric from JAC, with 142 kW of motor power, a 7.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $20,820 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,404 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+JAC's JAC iC5 is a front-wheel-drive battery-electric sedan. Key figures are a MacPherson strut front / Torsion beam rear suspension layout, 64 kWh of capacity, and a 7.6-second 0–100 km/h time. Across export markets for the sedan battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; meanwhile, Qatar offers the cheapest entry at about +25.1% over base (≈ $26,041 landed). Priced from $20,820 ex-factory, the sedan battery-electric falls in the value-oriented tier. As a sedan battery-electric, it is aimed at importers serving the sedan segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

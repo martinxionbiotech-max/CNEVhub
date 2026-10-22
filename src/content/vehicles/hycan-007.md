@@ -1,6 +1,6 @@
 ---
 title: "Hycan 007"
-description: "Hycan 007 is a SUV battery-electric from Hycan, offering 523 km of CLTC range a 73.0 kWh battery and 135 kW of motor power. Full landed-cost breakdown across 7 "
+description: "The Hycan 007 is an SUV battery-electric from Hycan, offering a CLTC-rated range of 523 km, a 73 kWh battery, 135 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "hycan-007"
 brand: "hycan"
 type: "SUV"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["hycan", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "合创007 RMB 259,800 (汽车之家; NEDC 523/643km)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Hycan 007"
 image: "/images/vehicles/hycan-007.jpg"
 image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Hycan_007_001.jpg"
+battery_type: "NMC (ternary)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Hycan 007
 
@@ -42,8 +54,7 @@ Hycan 007 (starting at $36,080) is a SUV from HYCAN.
 
 ## Overview
 
-The Hycan 007 is a suv battery-electric from Hycan, with 135 kW of motor power, a 8.2-second 0–100 km/h time. It is positioned as a value-focused import, priced from $36,080 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $44,228 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Hycan 007 is an SUV fully electric from Hycan, in rear-wheel-drive form. Specification highlights are a 8.2-second 0–100 km/h time and a MacPherson strut front / Multi-link rear suspension layout. With a $36,080 ex-factory price, the SUV fully electric reads as mid-tier. For the SUV fully electric, the least-costly destination is Qatar, near +16.6% over base ($42,064 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. In the SUV fully electric segment, it serves family and fleet buyers evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

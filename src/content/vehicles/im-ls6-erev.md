@@ -1,6 +1,6 @@
 ---
 title: "IM LS6 EREV"
-description: "IM LS6 EREV is a SUV extended-range electric from IM, offering 370 km of CLTC range a 52.0 kWh battery and 230 kW of motor power. Full landed-cost breakdown acr"
+description: "The IM LS6 EREV is IM's SUV extended-range electric with a CLTC-rated range of 370 km, a 52 kWh battery, 230 kW peak output, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "im-ls6-erev"
 brand: "im"
 type: "SUV"
@@ -21,13 +21,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["im", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "智己LS6增程52 Max 起售价21.49万元（新华网/智己官网）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "LS6"
 image: "/images/vehicles/im-ls6-erev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=155237744"
+battery_type: "NMC (CATL)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # IM LS6 EREV
 
@@ -39,8 +52,7 @@ IM LS6 EREV (starting at $29,850) is a SUV from IM.
 
 ## Overview
 
-The IM LS6 EREV is a suv extended-range electric from IM, with 230 kW of motor power. It is positioned as a value-focused import, priced from $29,850 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $37,359 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+IM LS6 EREV is an SUV extended-range electric from IM, in rear-wheel-drive form. Across export markets for the SUV extended-range electric, the lowest landed premium is Qatar at roughly +19% over base (about $35,522 landed), while Germany levies only the 10% standard tariff. At $29,850 ex-factory, this SUV extended-range electric sits in the mid-market segment. Key figures are peak output of 230 kW, 370 km of CLTC range, and NMC (CATL) chemistry. In the SUV extended-range electric segment, it serves regional distributors focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

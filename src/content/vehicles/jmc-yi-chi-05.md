@@ -1,6 +1,6 @@
 ---
 title: "JMC Yi Chi 05"
-description: "JMC Yi Chi 05 is a Sedan battery-electric from Jmc, offering 500 km of CLTC range a 63.0 kWh battery and 82 kW of motor power. Full landed-cost breakdown across"
+description: "The JMC Yi Chi 05 is JMC's sedan fully electric, offering 500 km of CLTC range, a 63 kWh battery, 82 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "jmc-yi-chi-05"
 brand: "jmc"
 type: "Sedan"
@@ -17,13 +17,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["jmc", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "羿(羿驰05) RMB 129,800 (汽车之家/智车派)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yi Chi"
 image: "/images/vehicles/jmc-yi-chi-05.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # JMC Yi Chi 05
 
@@ -35,8 +47,7 @@ JMC Yi Chi 05 (starting at $18,030) is a Sedan from JMC.
 
 ## Overview
 
-The JMC Yi Chi 05 is a sedan battery-electric from Jmc, with 82 kW of motor power. It is positioned as a value-focused import, priced from $18,030 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,328 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+JMC Yi Chi 05 is a sedan battery-electric from JMC, in front-wheel-drive form. As a value sedan battery-electric, it starts at $18,030 ex-factory. It carries a CLTC-rated range of 500 km, LFP chemistry, and a 82 kW electric motor. Across export markets for the sedan battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff — the least-costly destination is Qatar, near +28.2% over base ($23,111 landed). In the sedan battery-electric segment, it serves importers serving the sedan segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

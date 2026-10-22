@@ -1,6 +1,6 @@
 ---
 title: "JAC Refine M3 PHEV"
-description: "JAC Refine M3 PHEV is a MPV plug-in hybrid from JAC Refine, offering 85 km of CLTC range a 17.52 kWh battery and 130 kW of motor power. Full landed-cost breakdo"
+description: "The JAC Refine M3 PHEV is an MPV plug-in hybrid from JAC Refine with 85 km of CLTC range, a 17 kWh battery, 130 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "jac-refine-m3-phev"
 brand: "jac-refine"
 type: "MPV"
@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["jac-refine", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "瑞风M3 PHEV RMB 114,900（58汽车/易车）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Refine M3"
 image: "/images/vehicles/jac-refine-m3-phev.jpg"
 image_credit: "Kevauto / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=93982815"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # JAC Refine M3 PHEV
 
@@ -42,8 +54,7 @@ JAC Refine M3 PHEV (starting at $15,960) is a MPV from JAC REFINE.
 
 ## Overview
 
-The JAC Refine M3 PHEV is a mpv plug-in hybrid from JAC Refine, with 130 kW of motor power. It is positioned as a value-focused import, priced from $15,960 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +38% over base (about $22,045 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The JAC Refine M3 PHEV is an MPV plug-in hybrid with rear-wheel-drive from JAC Refine. Key figures are a 17 kWh battery and peak output of 130 kW. For the MPV plug-in hybrid, the least-costly destination is Qatar, near +31.2% over base ($20,938 landed); Germany levies only the 10% standard tariff. At $15,960 ex-factory, this MPV plug-in hybrid sits in the mainstream-value segment. For the MPV plug-in hybrid buyer, it suits importers serving the multi-passenger segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

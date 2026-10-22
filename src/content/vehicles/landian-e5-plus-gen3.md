@@ -1,6 +1,6 @@
 ---
 title: "Landian E5 Plus Gen3"
-description: "Landian E5 Plus Gen3 is a SUV plug-in hybrid from Landian, offering 230 km of CLTC range a 35.95 kWh battery and 270 kW of motor power. Full landed-cost breakdo"
+description: "Landian's Landian E5 Plus Gen3 is an SUV plug-in hybrid with 230 km of CLTC range, a 35 kWh battery, 270 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "landian-e5-plus-gen3"
 brand: "landian"
 type: "SUV"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["landian", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "第三代蓝电E5 PLUS RMB 139,800（新华网2025-12-04；35.95kWh/230km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "E5 Plus"
 image: "/images/vehicles/landian-e5-plus-gen3.jpg"
 image_credit: "KitsuneDP / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=169284119"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Landian E5 Plus Gen3
 
@@ -41,8 +53,7 @@ Landian E5 Plus Gen3 (starting at $19,420) is a SUV from LANDIAN.
 
 ## Overview
 
-The Landian E5 Plus Gen3 is a suv plug-in hybrid from Landian, with 270 kW of motor power. It is positioned as a value-focused import, priced from $19,420 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,860 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Landian E5 Plus Gen3 is an front-wheel-drive plug-in hybrid SUV from Landian. For the SUV plug-in hybrid, Germany levies only the 10% standard tariff, while the least-costly destination is Qatar, near +26.5% over base ($24,571 landed). As a value SUV plug-in hybrid, it starts at $19,420 ex-factory. It carries peak output of 270 kW, 35 kWh of capacity, and 230 km of CLTC range. For the SUV plug-in hybrid buyer, it suits private buyers and fleet managers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

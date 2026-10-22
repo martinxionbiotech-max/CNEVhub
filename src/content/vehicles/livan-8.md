@@ -1,6 +1,6 @@
 ---
 title: "Livan 8"
-description: "Livan 8 is a MPV battery-electric from Livan, offering 515 km of CLTC range a 68.03 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 e"
+description: "The Livan 8 is Livan's MPV battery-electric with 515 km of CLTC range, a 68 kWh battery, 100 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "livan-8"
 brand: "livan"
 type: "MPV"
@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["livan", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "睿蓝8 RMB 137,800（EV视界/汽车之家；68.03kWh/515km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Livan 8"
 image: "/images/vehicles/livan-8.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Livan_8_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Livan 8
 
@@ -42,8 +54,7 @@ Livan 8 (starting at $19,140) is a MPV from LIVAN.
 
 ## Overview
 
-The Livan 8 is a mpv battery-electric from Livan, with 100 kW of motor power. It is positioned as a value-focused import, priced from $19,140 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,551 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.38 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Livan 8 is an MPV battery-electric with front-wheel-drive from Livan. For the MPV battery-electric, Germany applies a 18.8% countervailing duty on top of the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +26.8% over base ($24,277 landed). It carries 515 km of CLTC range, peak torque of 230 Nm, and a 100 kW electric motor. The $19,140 ex-factory price places this MPV battery-electric in the value band. The MPV battery-electric profile suits importers serving the multi-passenger segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

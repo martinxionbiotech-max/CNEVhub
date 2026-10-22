@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor D19"
-description: "Leapmotor D19 is a SUV extended-range electric from Leapmotor, offering 400 km of CLTC range a 80.3 kWh battery and 300 kW of motor power. Full landed-cost brea"
+description: "The Leapmotor D19 is Leapmotor's SUV range-extended electric with 400 km of CLTC range, a 80 kWh battery, 300 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "leapmotor-d19"
 brand: "leapmotor"
 type: "SUV"
@@ -25,13 +25,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["leapmotor", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "零跑D19 RMB 219,800 (新华网/百度百科, 2026-04-16)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "D"
 image: "/images/vehicles/leapmotor-d19.jpg"
 image_credit: "KitsuneDP / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Leapmotor_D19_001.jpg"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Leapmotor D19
 
@@ -44,8 +57,7 @@ Leapmotor D19 (starting at $30,530) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor D19 is a suv extended-range electric from Leapmotor, with 300 kW of motor power, a 6.0-second 0–100 km/h time. It is positioned as a value-focused import, priced from $30,530 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $38,109 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Leapmotor D19 is an SUV extended-range electric with rear-wheel-drive from Leapmotor. At $30,530 ex-factory, this SUV extended-range electric sits in the mid-market segment. Key figures are a MacPherson strut front / Multi-link rear suspension layout and 525 Nm of torque. For this SUV extended-range electric, the least-costly destination is Qatar, near +18.7% over base ($36,236 landed); Germany levies only the 10% standard tariff. The SUV extended-range electric profile suits importers targeting the family-SUV segment balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

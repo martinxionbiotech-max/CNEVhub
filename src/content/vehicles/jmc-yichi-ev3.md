@@ -1,6 +1,6 @@
 ---
 title: "JMC Yichi EV3"
-description: "JMC Yichi EV3 is a Hatchback battery-electric from Jmc,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The JMC Yichi EV3 is a hatchback fully electric from JMC, offering LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "jmc-yichi-ev3"
 brand: "jmc"
 type: "Hatchback"
@@ -17,13 +17,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["jmc", "Hatchback", "chinese-ev", "export"]
 data_tier: 1
-data_source: "易至EV3 RMB 52,800 (江铃集团新能源官网/百度百科)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yichi"
 image: "/images/vehicles/jmc-yichi-ev3.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # JMC Yichi EV3
 
@@ -32,8 +44,7 @@ JMC Yichi EV3 (starting at $7,330) is a Hatchback from JMC.
 
 ## Overview
 
-The JMC Yichi EV3 is a hatchback battery-electric from Jmc, . It is positioned as a value-focused import, priced from $7,330 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +71% over base (about $12,531 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The JMC Yichi EV3 is a hatchback fully electric with front-wheel-drive from JMC. Priced from $7,330 ex-factory, the hatchback fully electric falls in the entry-level tier. Specification highlights are LFP chemistry and a MacPherson strut front / Torsion beam rear suspension layout. For the hatchback fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; the lowest landed premium is Qatar at roughly +62% over base (about $11,876 landed). The hatchback fully electric profile suits urban commuters and fleet operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

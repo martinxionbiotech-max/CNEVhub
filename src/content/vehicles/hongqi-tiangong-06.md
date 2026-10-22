@@ -1,6 +1,6 @@
 ---
 title: "Hongqi Tiangong 06"
-description: "Hongqi Tiangong 06 is a SUV battery-electric from Hongqi, offering 520 km of CLTC range and 210 kW of motor power. Full landed-cost breakdown across 7 export ma"
+description: "The Hongqi Tiangong 06 is Hongqi's SUV battery-electric, offering a CLTC-rated range of 520 km, 210 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "hongqi-tiangong-06"
 brand: "hongqi"
 type: "SUV"
@@ -23,13 +23,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["hongqi", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "红旗天工06 RMB 179,800 (汽车之家/汽车经纬网)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Tiangong"
 image: "/images/vehicles/hongqi-tiangong-06.jpg"
 image_credit: "Randall Ferry / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Hongqi_Tiangong_05_--_Auto_Fuzhou_--_01_2026-06-21.jpg"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Hongqi Tiangong 06
 
@@ -41,8 +54,7 @@ Hongqi Tiangong 06 (starting at $24,970) is a SUV from HONGQI.
 
 ## Overview
 
-The Hongqi Tiangong 06 is a suv battery-electric from Hongqi, with 210 kW of motor power, a 7.3-second 0–100 km/h time. It is positioned as a value-focused import, priced from $24,970 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $31,979 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Hongqi Tiangong 06 is an SUV fully electric from Hongqi, in rear-wheel-drive form. On landed cost for this SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; Qatar offers the cheapest entry at about +21.7% over base (≈ $30,398 landed). Key figures are a MacPherson strut front / Multi-link rear suspension layout and LFP chemistry. As a value-oriented SUV fully electric, it starts at $24,970 ex-factory. This SUV fully electric is positioned for private buyers and fleet managers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

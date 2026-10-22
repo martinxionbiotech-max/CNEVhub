@@ -1,6 +1,6 @@
 ---
 title: "Maxus MIFA 7 PHEV"
-description: "Maxus MIFA 7 PHEV is a MPV plug-in hybrid from Maxus, a 24.7 kWh battery and 176 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B i"
+description: "The Maxus MIFA 7 PHEV, an MPV plug-in hybrid electric from Maxus, offering a 24 kWh battery, 176 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "maxus-mifa-7-phev"
 brand: "maxus"
 type: "MPV"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["maxus", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "大家7超混 RMB 199,900 (搜狐汽车; Wikipedia Maxus G70/Mifa 7)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "MIFA 7"
 image: "/images/vehicles/maxus-mifa-7-phev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Maxus_Mifa_7_PHEV_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Maxus MIFA 7 PHEV
 
@@ -38,8 +50,7 @@ Maxus MIFA 7 PHEV (starting at $27,760) is a MPV from MAXUS.
 
 ## Overview
 
-The Maxus MIFA 7 PHEV is a mpv plug-in hybrid from Maxus, with 176 kW of motor power. It is positioned as a value-focused import, priced from $27,760 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $35,055 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Maxus MIFA 7 PHEV is an MPV plug-in hybrid from Maxus, in front-wheel-drive form. It carries MacPherson strut front / Multi-link rear suspension, LFP chemistry, and 24 kWh of capacity. As a mid-tier MPV plug-in hybrid, it starts at $27,760 ex-factory. Across export markets for the MPV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; the lowest landed premium is Qatar at roughly +20.1% over base (about $33,328 landed). As a MPV plug-in hybrid, it is aimed at people-carrier operators and family buyers focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Hyptec S600"
-description: "Hyptec S600 is a SUV battery-electric from Hyptec, offering 660 km of CLTC range and 250 kW of motor power. Full landed-cost breakdown across 7 export markets f"
+description: "The Hyptec S600 is Hyptec's SUV fully electric, offering a CLTC-rated range of 660 km, 250 kW of motor power, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "hyptec-s600"
 brand: "hyptec"
 type: "SUV"
@@ -20,13 +20,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["hyptec", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Hyptec S600 RMB 199,900 (腾讯新闻, 2026-06)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Hyptec S"
 image: "/images/vehicles/hyptec-s600.jpg"
 image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2026_GAC_Aion_Hyptec_S600_(front).jpg"
+battery_type: "NMC (ternary)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Hyptec S600
 
@@ -37,8 +50,7 @@ Hyptec S600 (starting at $27,760) is a SUV from HYPTEC.
 
 ## Overview
 
-The Hyptec S600 is a suv battery-electric from Hyptec, with 250 kW of motor power. It is positioned as a value-focused import, priced from $27,760 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $35,055 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Hyptec S600 is an rear-wheel-drive fully electric SUV from Hyptec. For the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; meanwhile, Qatar offers the cheapest entry at about +20.1% over base (≈ $33,328 landed). As a mid-market SUV fully electric, it starts at $27,760 ex-factory. Specification highlights are a MacPherson strut front / Multi-link rear suspension layout, a 250 kW electric motor, and NMC (ternary) chemistry. The SUV fully electric profile suits importers targeting the family-SUV segment focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

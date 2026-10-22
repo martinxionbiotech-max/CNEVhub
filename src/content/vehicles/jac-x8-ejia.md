@@ -1,6 +1,6 @@
 ---
 title: "JAC X8 E-Jia"
-description: "JAC X8 E-Jia is a SUV plug-in hybrid from JAC, offering 110 km of CLTC range a 17.4 kWh battery. Full landed-cost breakdown across 7 export markets for B2B impo"
+description: "The JAC X8 E-Jia, an SUV plug-in hybrid electric from JAC, offering a CLTC-rated range of 110 km, a 17 kWh battery, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "jac-x8-ejia"
 brand: "jac"
 type: "SUV"
@@ -20,13 +20,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["jac", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "江淮X8 E家 RMB 99,800（江淮汽车官网；NEDC 110km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "X8"
 image: "/images/vehicles/jac-x8-ejia.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=131017119"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # JAC X8 E-Jia
 
@@ -37,8 +49,7 @@ JAC X8 E-Jia (starting at $13,860) is a SUV from JAC.
 
 ## Overview
 
-The JAC X8 E-Jia is a suv plug-in hybrid from JAC, . It is positioned as a value-focused import, priced from $13,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,730 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+JAC X8 E-Jia is an SUV plug-in hybrid from JAC, in front-wheel-drive form. At $13,860 ex-factory, this SUV plug-in hybrid sits in the affordable-end segment. Key figures are 17 kWh of capacity and LFP chemistry. For this SUV plug-in hybrid, the lowest landed premium is Qatar at roughly +35.2% over base (about $18,733 landed); Germany applies the 10% standard tariff with no countervailing duty. The SUV plug-in hybrid profile suits regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

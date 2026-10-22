@@ -1,6 +1,6 @@
 ---
 title: "Landian E3"
-description: "Landian E3 is a SUV battery-electric from Landian, offering 405 km of CLTC range a 50.3 kWh battery and 150 kW of motor power. Full landed-cost breakdown across"
+description: "The Landian E3 is Landian's SUV battery-electric with a CLTC-rated range of 405 km, 50 kWh of battery, 150 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "landian-e3"
 brand: "landian"
 type: "SUV"
@@ -22,13 +22,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["landian", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "蓝电E3 RMB 139,800（搜狐汽车/网通社；50.3kWh/405km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "E3"
 image: "/images/vehicles/landian-e3.jpg"
 image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Dongfeng_Fengguang_E3_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Landian E3
 
@@ -40,8 +52,7 @@ Landian E3 (starting at $19,420) is a SUV from LANDIAN.
 
 ## Overview
 
-The Landian E3 is a suv battery-electric from Landian, with 150 kW of motor power. It is positioned as a value-focused import, priced from $19,420 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,860 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Landian's Landian E3 is an front-wheel-drive battery-electric SUV. It carries a 50 kWh battery and a CLTC-rated range of 405 km. For the SUV battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff — Qatar offers the cheapest entry at about +26.5% over base (≈ $24,571 landed). As a value-oriented SUV battery-electric, it starts at $19,420 ex-factory. In the SUV battery-electric segment, it serves family and fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

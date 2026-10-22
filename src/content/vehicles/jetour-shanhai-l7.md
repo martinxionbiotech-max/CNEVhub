@@ -1,6 +1,6 @@
 ---
 title: "Jetour Shanhai L7"
-description: "Jetour Shanhai L7 is a suv from Jetour, a 18.37 kWh battery and 199 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Jetour's Jetour Shanhai L7 is an SUV plug-in hybrid with a CLTC-rated range of 110 km, a 18 kWh battery, 199 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "jetour-shanhai-l7"
 brand: "jetour"
 type: "SUV"
@@ -24,13 +24,26 @@ author: "Wei Wang"
 tags: ["jetour", "SUV", "chinese-ev", "export"]
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 34219.9, "premium_pct": 62.2}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 34352.0, "premium_pct": 62.8}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 34584.1, "premium_pct": 63.9}, {"market": "Sweden", "market_key": "sweden", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.25, "total_landed_usd": 35182.5, "premium_pct": 66.7}, {"market": "Denmark", "market_key": "denmark", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.25, "total_landed_usd": 38612.5, "premium_pct": 83.0}, {"market": "Spain", "market_key": "spain", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 34294.1, "premium_pct": 62.5}, {"market": "Italy", "market_key": "italy", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.22, "total_landed_usd": 34666.2, "premium_pct": 64.3}, {"market": "Belgium", "market_key": "belgium", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 34334.1, "premium_pct": 62.7}, {"market": "Austria", "market_key": "austria", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 34152.0, "premium_pct": 61.9}, {"market": "Portugal", "market_key": "portugal", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.23, "total_landed_usd": 34848.3, "premium_pct": 65.2}, {"market": "Ireland", "market_key": "ireland", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.23, "total_landed_usd": 34848.3, "premium_pct": 65.2}, {"market": "Poland", "market_key": "poland", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.23, "total_landed_usd": 34703.3, "premium_pct": 64.5}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 34102.0, "premium_pct": 61.6}, {"market": "Norway", "market_key": "norway", "region": "Non-EU Europe", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.25, "total_landed_usd": 33625.0, "premium_pct": 59.4}, {"market": "Switzerland", "market_key": "switzerland", "region": "Non-EU Europe", "standard_duty_rate": 0.04, "countervailing_duty_rate": 0.0, "vat_rate": 0.081, "total_landed_usd": 29771.46, "premium_pct": 41.1}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 27712.75, "premium_pct": 31.3}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 29928.25, "premium_pct": 41.8}, {"market": "Israel", "market_key": "israel", "region": "Middle East", "standard_duty_rate": 0.07, "countervailing_duty_rate": 0.0, "vat_rate": 0.18, "total_landed_usd": 31490.86, "premium_pct": 49.2}, {"market": "Qatar", "market_key": "qatar", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.0, "total_landed_usd": 26335.0, "premium_pct": 24.8}, {"market": "Turkey", "market_key": "turkey", "region": "Middle East", "standard_duty_rate": 0.4, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 39698.0, "premium_pct": 88.1}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 29060.0, "premium_pct": 37.7}, {"market": "New Zealand", "market_key": "new_zealand", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 29638.0, "premium_pct": 40.5}, {"market": "Thailand", "market_key": "thailand", "region": "Southeast Asia", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.07, "total_landed_usd": 27227.0, "premium_pct": 29.0}, {"market": "Malaysia", "market_key": "malaysia", "region": "Southeast Asia", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 29020.5, "premium_pct": 37.5}, {"market": "Indonesia", "market_key": "indonesia", "region": "Southeast Asia", "standard_duty_rate": 0.5, "countervailing_duty_rate": 0.0, "vat_rate": 0.11, "total_landed_usd": 39831.5, "premium_pct": 88.8}, {"market": "Singapore", "market_key": "singapore", "region": "Southeast Asia", "standard_duty_rate": 0.2, "countervailing_duty_rate": 0.0, "vat_rate": 0.09, "total_landed_usd": 32458.8, "premium_pct": 53.8}, {"market": "Mexico", "market_key": "mexico", "region": "North America", "standard_duty_rate": 0.5, "countervailing_duty_rate": 0.0, "vat_rate": 0.16, "total_landed_usd": 43764.0, "premium_pct": 107.4}, {"market": "Canada", "market_key": "canada", "region": "North America", "standard_duty_rate": 0.061, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 30546.46, "premium_pct": 44.8}, {"market": "Brazil", "market_key": "brazil", "region": "Latin America", "standard_duty_rate": 0.35, "countervailing_duty_rate": 0.0, "vat_rate": 0.17, "total_landed_usd": 39897.45, "premium_pct": 89.1}, {"market": "South Africa", "market_key": "south_africa", "region": "Africa", "standard_duty_rate": 0.25, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 36561.25, "premium_pct": 73.3}]
 data_tier: 2
-data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
-data_updated: "2026-09-07"
 data_reviewed: false
 family: "Shanhai L7"
 image: "/images/vehicles/jetour-shanhai-l7.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=164334788"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "N/A"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Jetour Shanhai L7
 
@@ -41,7 +54,7 @@ Jetour Shanhai L7 (starting at $21,100) is a SUV from JETOUR.
 
 ## Overview
 
-The Jetour Shanhai L7 is a compact SUV plug-in hybrid from JETOUR, with 199 kW of motor power. It is positioned as a value-focused import, priced from $21,100 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,713 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, it suits families and fleet buyers who need practicality.
+The Jetour Shanhai L7 is an front-wheel-drive plug-in hybrid electric SUV from Jetour. As a mainstream-value SUV plug-in hybrid electric, it starts at $21,100 ex-factory. It carries a 199 kW electric motor, 18 kWh of capacity, and LFP chemistry. For the SUV plug-in hybrid electric, Qatar offers the cheapest entry at about +24.8% over base (≈ $26,335 landed); Germany levies only the 10% standard tariff. As a SUV plug-in hybrid electric, it is aimed at importers targeting the family-SUV segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "IM LS8"
-description: "IM LS8 is a SUV extended-range electric from IM,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The IM LS8 is IM's SUV extended-range electric with NMC (CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "im-ls8"
 brand: "im"
 type: "SUV"
@@ -18,13 +18,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["im", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "智己LS8 RMB 249,800 (汽车之家; Wikipedia IM LS8)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "LS8"
 image: "/images/vehicles/im-ls8.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:IM_LS8_001.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "AWD (dual motor)"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # IM LS8
 
@@ -33,8 +46,7 @@ IM LS8 (starting at $34,690) is a SUV from IM.
 
 ## Overview
 
-The IM LS8 is a suv extended-range electric from IM, . It is positioned as a value-focused import, priced from $34,690 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $42,695 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+IM LS8 is an SUV range-extended electric from IM, in dual-motor all-wheel-drive form. Across export markets for the SUV range-extended electric, Germany levies only the 10% standard tariff; meanwhile, Qatar offers the cheapest entry at about +17% over base (≈ $40,604 landed). Key figures are NMC (CATL) chemistry and Double wishbone front / Multi-link (air) rear suspension. With a $34,690 ex-factory price, the SUV range-extended electric reads as mid-market. In the SUV range-extended electric segment, it serves importers targeting the family-SUV segment balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

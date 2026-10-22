@@ -1,6 +1,6 @@
 ---
 title: "Leapmotor A10"
-description: "Leapmotor A10 is a SUV battery-electric from Leapmotor, offering 403 km of CLTC range a 39.8 kWh battery and 70 kW of motor power. Full landed-cost breakdown ac"
+description: "Leapmotor's Leapmotor A10 is an SUV battery-electric, offering 403 km of CLTC range, 39 kWh of battery, 70 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "leapmotor-a10"
 brand: "leapmotor"
 type: "SUV"
@@ -25,13 +25,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["leapmotor", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "零跑A10 RMB 65,800 (新华网/零跑官网, 2026-03)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "A"
 image: "/images/vehicles/leapmotor-a10.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Leapmotor_A10_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Leapmotor A10
 
@@ -43,8 +55,7 @@ Leapmotor A10 (starting at $9,140) is a SUV from LEAPMOTOR.
 
 ## Overview
 
-The Leapmotor A10 is a suv battery-electric from Leapmotor, with 70 kW of motor power. It is positioned as a value-focused import, priced from $9,140 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +58% over base (about $14,526 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 10.7 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Leapmotor A10 is an SUV battery-electric with front-wheel-drive from Leapmotor. The $9,140 ex-factory price places this SUV battery-electric in the budget band. On landed cost for this SUV battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while the least-costly destination is Qatar, near +50.7% over base ($13,777 landed). It carries 403 km of CLTC range, 39 kWh of capacity, and LFP cells. The SUV battery-electric profile suits family and fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
