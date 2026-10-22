@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import { url as siteUrl } from '@/config/site';
 import { brandLabelMap, vehicleAlt } from '@/lib/brand-label';
+import { getEntitiesByVehicle } from '@/lib/technical';
 
 export async function getStaticPaths() {
   const vehicles = await getCollection('vehicles');
@@ -17,6 +18,8 @@ const brandMap = await brandLabelMap();
 const vehicle = vehicles.find((v) => v.data.slug === slug);
 const { data } = vehicle;
 const { Content } = await render(vehicle);
+// 技术实体反向映射：本车型被哪些技术实体引用（零虚构，仅数据驱动）
+const relatedTech = getEntitiesByVehicle(slug);
 const sameBrandVehicles = vehicles
   .filter((v) => v.data.brand === data.brand && v.data.slug !== slug)
   .slice(0, 4);
@@ -479,6 +482,29 @@ const jsonLd = {
       <p class="text-sm text-gray-500">No same-segment competitor available in the catalog pool.</p>
     )}
     <p class="text-xs text-gray-400 mt-3">Source: EV Hub catalog (manufacturer specifications). Figures are for reference comparison only.</p>
+  </section>
+
+  <!-- 技术参考（互链到 /technology/[entity]/） -->
+  <section class="mb-12">
+    <h2 class="text-2xl font-bold mb-3 text-gray-900">Technology Reference</h2>
+    {relatedTech.length > 0 ? (
+      <>
+        <p class="text-sm text-gray-500 mb-4">Technology terms associated with this model in the EV Hub technology reference.</p>
+        <ul class="grid sm:grid-cols-2 gap-2">
+          {relatedTech.map((t) => (
+            <li>
+              <a href={`/technology/${t.id}/`} class="flex items-center justify-between p-3 rounded-lg border border-gray-200 hover:border-green-500/60 hover:bg-green-50/40 transition">
+                <span class="font-medium text-gray-900">{t.name}</span>
+                <span class="text-xs text-gray-400 whitespace-nowrap ml-2">{t.name_zh}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </>
+    ) : (
+      <p class="text-sm text-gray-500">No specific technology term is currently annotated for this model.</p>
+    )}
+    <p class="text-sm mt-3"><a href="/technology/" class="text-green-700 hover:underline">Browse the full technology reference →</a></p>
   </section>
 
   <!-- 数据来源与验证分层 -->

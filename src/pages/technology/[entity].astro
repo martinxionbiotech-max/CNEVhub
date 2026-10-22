@@ -1,0 +1,134 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import { getCollection } from 'astro:content';
+import { url as siteUrl } from '@/config';
+import {
+  technicalEntities,
+  getEntityById,
+  sourceUrl,
+  TECH_CATEGORIES,
+} from '@/lib/technical';
+
+export async function getStaticPaths() {
+  return technicalEntities.map((e) => ({ params: { entity: e.id } }));
+}
+
+const { entity } = Astro.params;
+const e = getEntityById(entity || '');
+if (!e) {
+  return Astro.redirect('/technology/');
+}
+
+// Resolve related_vehicles slugs → catalog vehicle records (single source).
+const vehicles = await getCollection('vehicles');
+const vehicleBySlug = new Map(vehicles.map((v) => [v.data.slug, v]));
+const related = (e.related_vehicles ?? [])
+  .map((slug) => vehicleBySlug.get(slug))
+  .filter(Boolean);
+
+const catMeta = TECH_CATEGORIES[e.category];
+const url = sourceUrl(e.source);
+const pageUrl = new URL(Astro.url.pathname, siteUrl).href;
+
+// DefinedTerm schema (legal carrier of name/definition/url/sameAs).
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTerm',
+  '@id': `${pageUrl}#term`,
+  termCode: e.id,
+  name: e.name,
+  description: e.definition,
+  url: pageUrl,
+  ...(url ? { sameAs: url } : {}),
+  inDefinedTermSet: {
+    '@type': 'DefinedTermSet',
+    name: 'EV Hub Technology Reference',
+    url: `${siteUrl}/technology/`,
+  },
+};
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
+    { '@type': 'ListItem', position: 2, name: 'Technology', item: `${siteUrl}/technology/` },
+    { '@type': 'ListItem', position: 3, name: catMeta.label, item: `${siteUrl}/technology/#${e.category}` },
+    { '@type': 'ListItem', position: 4, name: e.name },
+  ],
+};
+---
+
+<MarketingLayout
+  title={e.name}
+  description={e.definition}
+  breadcrumb={[
+    { name: 'Home', item: siteUrl },
+    { name: 'Technology', item: `${siteUrl}/technology/` },
+    { name: catMeta.label, item: `${siteUrl}/technology/#${e.category}` },
+    { name: e.name },
+  ]}
+>
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
+      <a href="/" class="hover:text-green-600">Home</a> / <a href="/technology/" class="hover:text-green-600">Technology</a> / <a href={`/technology/#${e.category}`} class="hover:text-green-600">{catMeta.label}</a> / <span class="text-gray-700">{e.name}</span>
+    </nav>
+
+    <div class="mb-6 flex flex-wrap items-center gap-2">
+      <a href={`/technology/#${e.category}`} class="inline-block px-3 py-1 bg-green-600/10 text-green-700 rounded-full text-xs font-semibold">{catMeta.label} · {catMeta.labelZh}</a>
+    </div>
+
+    <h1 class="text-3xl md:text-4xl font-bold mb-2 text-gray-900">{e.name}</h1>
+    <p class="text-lg text-gray-500 mb-8">{e.name_zh}</p>
+
+    <section class="mb-8">
+      <h2 class="text-xl font-bold mb-2 text-gray-900">Definition</h2>
+      <p class="text-gray-700 leading-relaxed">{e.definition}</p>
+    </section>
+
+    <section class="mb-8">
+      <h2 class="text-xl font-bold mb-2 text-gray-900">Source</h2>
+      <p class="text-gray-700">
+        {url ? (
+          <a href={url} rel="noopener nofollow" target="_blank" class="text-green-700 hover:underline break-all">{e.source}</a>
+        ) : (
+          e.source
+        )}
+      </p>
+    </section>
+
+    <section class="mb-8">
+      <h2 class="text-xl font-bold mb-3 text-gray-900">Related vehicles</h2>
+      {related.length > 0 ? (
+        <ul class="space-y-2">
+          {related.map((v) => (
+            <li>
+              <a href={`/vehicles/${v.data.slug}/`} class="flex items-center justify-between p-4 rounded-xl border border-gray-200 hover:border-green-500/60 hover:shadow-sm transition group">
+                <div>
+                  <div class="font-semibold text-gray-900 group-hover:text-green-700">{v.data.title}</div>
+                  <div class="text-xs text-gray-500">{v.data.brand.toUpperCase()} · {v.data.type} · {v.data.powertrain}</div>
+                </div>
+                <div class="text-right">
+                  <div class="font-bold text-gray-900">${v.data.price_usd.toLocaleString()}</div>
+                  {v.data.range_cltc_km && <div class="text-xs text-gray-500">{v.data.range_cltc_km} km CLTC</div>}
+                </div>
+              </a>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="text-sm text-gray-500">
+          No vehicle in the current catalog (517 models) is currently annotated with this term.
+          The definition and source above are provided for reference; a vehicle association is not implied.
+        </p>
+      )}
+    </section>
+
+    <div class="border-t pt-6 text-sm text-gray-500">
+      <a href="/technology/" class="text-green-700 hover:underline">← Back to Technology Reference</a>
+    </div>
+  </article>
+</MarketingLayout>
+
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />

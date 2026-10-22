@@ -1,0 +1,110 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import { siteConfig, url as siteUrl } from '@/config';
+import {
+  technicalEntities,
+  orderedCategories,
+  getEntitiesByCategory,
+  TECH_CATEGORIES,
+} from '@/lib/technical';
+
+const entityCount = technicalEntities.length;
+
+// CollectionPage schema for the hub index.
+const pageUrl = new URL(Astro.url.pathname, siteUrl).href;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${pageUrl}#technology`,
+  url: pageUrl,
+  name: 'EV Technology Reference',
+  description:
+    'Indexed reference of battery, charging, drivetrain, thermal, range and body-safety terms used across Chinese EV export intelligence.',
+  hasPart: technicalEntities.map((e, i) => ({
+    '@type': 'DefinedTerm',
+    name: e.name,
+    url: `${siteUrl}/technology/${e.id}/`,
+  })),
+};
+---
+
+<MarketingLayout
+  title="EV Technology Reference"
+  description="Indexed reference of battery chemistries, charging standards, drivetrain architectures, thermal management, range standards and body-safety terms — sourced and linked to the vehicles that use them."
+  breadcrumb={[
+    { name: 'Home', item: siteUrl },
+    { name: 'Technology', item: `${siteUrl}/technology/` },
+  ]}
+>
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
+      <a href="/" class="hover:text-green-600">Home</a> / <span class="text-gray-700">Technology</span>
+    </nav>
+
+    <div class="mb-12">
+      <h1 class="text-4xl md:text-5xl font-bold mb-3 text-gray-900">EV Technology Reference</h1>
+      <p class="text-lg text-gray-600 max-w-3xl">
+        {entityCount} defined technology terms — battery chemistries, charging standards,
+        drivetrain architectures, thermal management, range standards and body-safety concepts —
+        each with a definition, source, and (where available) the catalog vehicles that use it.
+      </p>
+    </div>
+
+    <!-- 三电核心（电池/充电/动力总成）突出，其余为参考分类 -->
+    <div class="grid md:grid-cols-3 gap-4 mb-10">
+      {['battery', 'charging', 'drivetrain'].map((cat) => {
+        const meta = TECH_CATEGORIES[cat];
+        const n = getEntitiesByCategory(cat).length;
+        return (
+          <a href={`#${cat}`} class="p-5 rounded-xl border border-gray-200 bg-white hover:border-green-500/60 hover:shadow-md transition">
+            <div class="text-2xl font-bold text-green-600">{n}</div>
+            <div class="font-semibold text-gray-900 mt-1">{meta.label}</div>
+            <div class="text-sm text-gray-500 mt-1">{meta.labelZh} — {meta.description}</div>
+          </a>
+        );
+      })}
+    </div>
+
+    <div class="grid md:grid-cols-3 gap-4 mb-12">
+      {['thermal', 'range', 'body-safety'].map((cat) => {
+        const meta = TECH_CATEGORIES[cat];
+        const n = getEntitiesByCategory(cat).length;
+        return (
+          <a href={`#${cat}`} class="p-5 rounded-xl border border-gray-200 bg-gray-50 hover:border-green-500/60 hover:shadow-md transition">
+            <div class="text-xl font-bold text-gray-700">{n}</div>
+            <div class="font-semibold text-gray-900 mt-1">{meta.label}</div>
+            <div class="text-sm text-gray-500 mt-1">{meta.labelZh} — {meta.description}</div>
+          </a>
+        );
+      })}
+    </div>
+
+    {orderedCategories.map((cat) => {
+      const meta = TECH_CATEGORIES[cat];
+      const entities = getEntitiesByCategory(cat);
+      return (
+        <section id={cat} class="mb-12">
+          <h2 class="text-2xl font-bold mb-2 text-gray-900">{meta.label} <span class="text-gray-400 font-normal">/ {meta.labelZh}</span></h2>
+          <p class="text-sm text-gray-500 mb-4">{meta.description} · {entities.length} terms</p>
+          <ul class="grid sm:grid-cols-2 gap-x-8 gap-y-2">
+            {entities.map((e) => (
+              <li>
+                <a href={`/technology/${e.id}/`} class="group flex items-baseline justify-between gap-2 py-2 border-b border-gray-100 hover:text-green-700">
+                  <span class="font-medium text-gray-900 group-hover:text-green-700">{e.name}</span>
+                  <span class="text-xs text-gray-400 whitespace-nowrap">{e.name_zh}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      );
+    })}
+
+    <p class="text-xs text-gray-400 mt-4">
+      Terms and definitions sourced from manufacturer documentation and public references (Wikipedia, CATL, standards bodies).
+      Where a term is not yet linked to a catalog vehicle, it is listed for definition and sourcing only — no vehicle association is implied.
+    </p>
+  </div>
+</MarketingLayout>
+
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
