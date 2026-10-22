@@ -2,16 +2,13 @@
 import { getCollection } from 'astro:content';
 import { brandLabelMap, vehicleThumbAlt } from '@/lib/brand-label';
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
-import SEO from '@/components/common/SEO.astro';
 
 const vehicles = await getCollection('vehicles');
 const brandMap = await brandLabelMap();
 vehicles.sort((a, b) => a.data.price_usd - b.data.price_usd);
 ---
 
-<SEO title="Chinese EV Database" description="Browse Chinese EVs with transparent landed-cost breakdowns for export markets." />
-
-<MarketingLayout title="Chinese EV Database">
+<MarketingLayout title="Chinese EV Database" description="Browse Chinese EVs with transparent landed-cost breakdowns for export markets.">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
     <div class="text-center mb-12">
       <h1 class="text-4xl sm:text-5xl font-bold mb-4 text-gray-900">Chinese EV Database</h1>

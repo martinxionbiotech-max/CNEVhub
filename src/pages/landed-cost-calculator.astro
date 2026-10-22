@@ -1,6 +1,5 @@
 ---
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
-import SEO from '@/components/common/SEO.astro';
 import { siteConfig, company } from '@/config';
 import tariffs from '@/data/tariffs.json';
 
@@ -42,12 +41,10 @@ const REGION_BASE_FIXED = {
 };
 ---
 
-<SEO
+<MarketingLayout
   title="Landed Cost Calculator — Chinese EV Import Price"
   description="Calculate the real landed cost of importing any Chinese EV across key export markets. Itemized duty, VAT, freight, and certification."
-/>
-
-<MarketingLayout title="Landed Cost Calculator">
+>
   <div class="max-w-4xl mx-auto px-6 py-16">
     <div class="text-center mb-12">
       <h1 class="text-4xl font-bold mb-3">Landed Cost Calculator</h1>
