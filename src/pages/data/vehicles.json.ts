@@ -34,9 +34,12 @@ export async function GET() {
       price_type: d.price_type ?? null,
       currency: d.currency ?? 'USD',
 
-      // Range & battery
+      // Range & battery (CLTC / WLTP / EPA kept as separate fields)
       range_cltc_km: d.range_cltc_km ?? null,
       range_long_km: d.range_long_km ?? null,
+      range_wltp_km: d.range_wltp_km ?? null,
+      range_epa_km: d.range_epa_km ?? null,
+      range_standard_primary: d.range_standard_primary ?? (d.range_cltc_km != null ? 'CLTC' : null),
       battery_kwh: d.battery_kwh ?? null,
 
       // Performance & dimensions
