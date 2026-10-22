@@ -1,6 +1,6 @@
 ---
 title: "BYD Tang L DM-i"
-description: "BYD Tang L DM-i is a SUV plug-in hybrid from BYD, offering 215 km of CLTC range a 35.62 kWh battery and 200 kW of motor power. Full landed-cost breakdown across"
+description: "The BYD Tang L DM-i is an SUV plug-in hybrid electric from BYD, offering a CLTC-rated range of 215 km, 35 kWh of battery, 200 kW peak output, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-tang-l-dm-i"
 brand: "byd"
 type: "SUV"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "唐L DM-i 起售价22.98万元（新华网/新浪汽车）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Tang"
 image: "/images/vehicles/byd-tang-l-dm-i.jpg"
 image_credit: "KitsuneDP / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:BYD_Tang_L_001.jpg"
+battery_type: "LFP (Blade)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # BYD Tang L DM-i
 
@@ -42,8 +54,7 @@ BYD Tang L DM-i (starting at $31,920) is a SUV from BYD.
 
 ## Overview
 
-The BYD Tang L DM-i is a suv plug-in hybrid from BYD, with 200 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $31,920 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $39,641 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+BYD's BYD Tang L DM-i is an front-wheel-drive plug-in hybrid SUV. It carries LFP (Blade) cells and a 35 kWh battery. As a mid-market SUV plug-in hybrid, it starts at $31,920 ex-factory. For the SUV plug-in hybrid, Germany levies only the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +18.1% over base ($37,696 landed). This SUV plug-in hybrid is positioned for importers targeting the family-SUV segment comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

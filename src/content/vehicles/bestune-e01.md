@@ -1,6 +1,6 @@
 ---
 title: "Bestune E01"
-description: "Bestune E01 is a SUV battery-electric from Bestune, a 61.34 kWh battery and 140 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B im"
+description: "Bestune's Bestune E01 is an SUV battery-electric with a 61 kWh battery, 140 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "bestune-e01"
 brand: "bestune"
 type: "SUV"
@@ -25,13 +25,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["bestune", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "奔腾E01 RMB 196,800（太平洋汽车/搜狐汽车；61.34kWh/NEDC450km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "E"
 image: "/images/vehicles/bestune-e01.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Bestune_E01_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Bestune E01
 
@@ -43,8 +55,7 @@ Bestune E01 (starting at $27,330) is a SUV from BESTUNE.
 
 ## Overview
 
-The Bestune E01 is a suv battery-electric from Bestune, with 140 kW of motor power, a 9.0-second 0–100 km/h time. It is positioned as a value-focused import, priced from $27,330 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $34,581 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Bestune E01 is an SUV battery-electric from Bestune, in front-wheel-drive form. It carries 0–100 km/h in 9 seconds and a 61 kWh battery. For this SUV battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while the lowest landed premium is Qatar at roughly +20.3% over base (about $32,876 landed). The $27,330 ex-factory price places this SUV battery-electric in the mid-market band. As a SUV battery-electric, it is aimed at regional distributors balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

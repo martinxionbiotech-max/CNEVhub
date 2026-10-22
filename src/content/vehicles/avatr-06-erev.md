@@ -1,6 +1,6 @@
 ---
 title: "Avatr 06 EREV"
-description: "Avatr 06 EREV is a Sedan extended-range electric from Avatr, offering 230 km of CLTC range a 31.7 kWh battery and 231 kW of motor power. Full landed-cost breakd"
+description: "The Avatr 06 EREV, a sedan extended-range electric from Avatr with 230 km of CLTC range, a 31 kWh battery, 231 kW of motor power, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "avatr-06-erev"
 brand: "avatr"
 type: "Sedan"
@@ -24,13 +24,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["avatr", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "阿维塔06增程 起售价20.99万元（新华网/汽车之家）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Avatr 06"
 image: "/images/vehicles/avatr-06-erev.jpg"
 image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Avatr_06_EREV_01_China_2025-03-25.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Avatr 06 EREV
 
@@ -43,8 +56,7 @@ Avatr 06 EREV (starting at $29,150) is a Sedan from AVATR.
 
 ## Overview
 
-The Avatr 06 EREV is a sedan extended-range electric from Avatr, with 231 kW of motor power, a 6.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $29,150 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $36,587 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Avatr 06 EREV is a rear-wheel-drive range-extended electric sedan from Avatr. It carries a top speed of 190 km/h, 31 kWh of capacity, and NMC (CATL) cells. On landed cost for this sedan range-extended electric, Germany applies the 10% standard tariff with no countervailing duty — Qatar offers the cheapest entry at about +19.3% over base (≈ $34,787 landed). The $29,150 ex-factory price places this sedan range-extended electric in the mid-tier band. As a sedan range-extended electric, it is aimed at private buyers and ride-hailing operators evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

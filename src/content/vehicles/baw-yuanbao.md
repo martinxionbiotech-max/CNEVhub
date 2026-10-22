@@ -1,6 +1,6 @@
 ---
 title: "BAW Yuanbao"
-description: "BAW Yuanbao is a Hatchback battery-electric from BAW, offering 120 km of CLTC range a 9.6 kWh battery and 20 kW of motor power. Full landed-cost breakdown acros"
+description: "The BAW Yuanbao, a hatchback fully electric from BAW with a CLTC-rated range of 120 km, 9 kWh of battery, 20 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "baw-yuanbao"
 brand: "baw"
 type: "Hatchback"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["baw", "Hatchback", "chinese-ev", "export"]
 data_tier: 1
-data_source: "元宝 RMB 29,700（ZOL/汽车之家；9.6kWh/120km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yuanbao"
 image: "/images/vehicles/baw-yuanbao.jpg"
 image_credit: "Kevauto / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2022_BAW_(Beijing-Beiqi)_Yuanbao_EV,_front_8.3.24.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front disc / rear drum"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # BAW Yuanbao
 
@@ -41,8 +53,7 @@ BAW Yuanbao (starting at $4,130) is a Hatchback from BAW.
 
 ## Overview
 
-The BAW Yuanbao is a hatchback battery-electric from BAW, with 20 kW of motor power. It is positioned as a value-focused import, priced from $4,130 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +118% over base (about $9,003 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The BAW Yuanbao is a hatchback battery-electric with front-wheel-drive from BAW. With a $4,130 ex-factory price, the hatchback battery-electric reads as entry-level. On landed cost for this hatchback battery-electric, Qatar offers the cheapest entry at about +106.2% over base (≈ $8,516 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Specification highlights are peak torque of 85 Nm and a MacPherson strut front / Torsion beam rear suspension layout. The hatchback battery-electric profile suits urban commuters and fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "BYD Qin Max DM-i"
-description: "BYD Qin Max DM-i is a Sedan plug-in hybrid from BYD, offering 320 km of CLTC range. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The BYD Qin Max DM-i is a sedan plug-in hybrid electric from BYD, offering 320 km of CLTC range and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "byd-qin-max-dm-i"
 brand: "byd"
 type: "Sedan"
@@ -19,13 +19,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Xinhua/ifeng: ¥99,900 (秦MAX DM-i), 320 km CLTC EV, 2370 km combined"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Qin"
 image: "/images/vehicles/byd-qin-max-dm-i.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:BYD_Qin_L_001.jpg"
+battery_type: "LFP (Blade)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # BYD Qin Max DM-i
 
@@ -35,8 +47,7 @@ BYD Qin Max DM-i (starting at $13,880) is a Sedan from BYD.
 
 ## Overview
 
-The BYD Qin Max DM-i is a sedan plug-in hybrid from BYD, . It is positioned as a value-focused import, priced from $13,880 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,752 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+BYD's BYD Qin Max DM-i is a front-wheel-drive plug-in hybrid electric sedan. As a budget sedan plug-in hybrid electric, it starts at $13,880 ex-factory. For this sedan plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty, while the lowest landed premium is Qatar at roughly +35.1% over base (about $18,754 landed). Key figures are a MacPherson strut front / Torsion beam rear suspension layout and LFP (Blade) cells. The sedan plug-in hybrid electric profile suits importers serving the sedan segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

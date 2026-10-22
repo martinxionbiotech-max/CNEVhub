@@ -1,6 +1,6 @@
 ---
 title: "Aion S Max"
-description: "Aion S Max is a Sedan battery-electric from AION, offering 510 km of CLTC range a 59.5 kWh battery and 150 kW of motor power. Full landed-cost breakdown across "
+description: "The Aion S Max is AION's sedan fully electric, offering 510 km of CLTC range, 59 kWh of battery, 150 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "aion-s-max"
 brand: "aion"
 type: "Sedan"
@@ -22,13 +22,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["aion", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Aion S Max RMB 149,900 (CarNewsChina 2023-10)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Aion S"
 image: "/images/vehicles/aion-s-max.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Aion_S_Max_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Aion S Max
 
@@ -41,8 +53,7 @@ Aion S Max (starting at $20,820) is a Sedan from AION.
 
 ## Overview
 
-The Aion S Max is a sedan battery-electric from AION, with 150 kW of motor power, a 7.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $20,820 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,404 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Aion S Max is a sedan fully electric from AION, in front-wheel-drive form. Specification highlights are 59 kWh of capacity and LFP chemistry. The $20,820 ex-factory price places this sedan fully electric in the value band. On landed cost for this sedan fully electric, the lowest landed premium is Qatar at roughly +25.1% over base (about $26,041 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. The sedan fully electric profile suits private buyers and ride-hailing operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

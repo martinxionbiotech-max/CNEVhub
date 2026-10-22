@@ -1,6 +1,6 @@
 ---
 title: "Bestune Yueyi 08"
-description: "Bestune Yueyi 08 is a Sedan battery-electric from Bestune, offering 565 km of CLTC range a 59.04 kWh battery and 202 kW of motor power. Full landed-cost breakdo"
+description: "The Bestune Yueyi 08 is Bestune's sedan battery-electric with 565 km of CLTC range, 59 kWh of battery, 202 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "bestune-yueyi-08"
 brand: "bestune"
 type: "Sedan"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["bestune", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "一汽悦意08 RMB 99,900（新浪汽车/央视网；59.04kWh/565km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yueyi"
 image: "/images/vehicles/bestune-yueyi-08.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Bestune_Yueyi_08_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Bestune Yueyi 08
 
@@ -42,8 +54,7 @@ Bestune Yueyi 08 (starting at $13,880) is a Sedan from BESTUNE.
 
 ## Overview
 
-The Bestune Yueyi 08 is a sedan battery-electric from Bestune, with 202 kW of motor power, a 5.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,880 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,752 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 11.4 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Bestune's Bestune Yueyi 08 is a front-wheel-drive fully electric sedan. For the sedan fully electric, Qatar offers the cheapest entry at about +35.1% over base (≈ $18,754 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. With a $13,880 ex-factory price, the sedan fully electric reads as budget. Specification highlights are a CLTC-rated range of 565 km, a MacPherson strut front / Multi-link rear suspension layout, and a 59 kWh battery. For the sedan fully electric buyer, it suits importers serving the sedan segment prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

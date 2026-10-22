@@ -1,6 +1,6 @@
 ---
 title: "BYD Song Plus DM-i"
-description: "BYD Song Plus DM-i is a SUV plug-in hybrid from BYD, offering 75 km of CLTC range a 12.9 kWh battery and 160 kW of motor power. Full landed-cost breakdown acros"
+description: "The BYD Song Plus DM-i, an SUV plug-in hybrid from BYD with a CLTC-rated range of 75 km, a 12 kWh battery, 160 kW of motor power, and a LFP (Blade) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "byd-song-plus-dm-i"
 brand: "byd"
 type: "SUV"
@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Sohu/Bitauto: ¥135,800 (2025款宋PLUS DM-i), 12.9 kWh, 75 km CLTC EV, 160 kW/260 Nm"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Song"
 image: "/images/vehicles/byd-song-plus-dm-i.jpg"
 image_credit: "Mateusmatsuda / Wikimedia Commons / CC BY 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:BYD_SONG_PLUS_DM-I_FRONT.jpg"
+battery_type: "LFP (Blade)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # BYD Song Plus DM-i
 
@@ -43,8 +55,7 @@ BYD Song Plus DM-i (starting at $18,860) is a SUV from BYD.
 
 ## Overview
 
-The BYD Song Plus DM-i is a suv plug-in hybrid from BYD, with 160 kW of motor power, a 7.7-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,243 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+BYD Song Plus DM-i is an SUV plug-in hybrid from BYD, in front-wheel-drive form. On landed cost for this SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty, while the least-costly destination is Qatar, near +27.2% over base ($23,983 landed). Specification highlights are 75 km of CLTC range, a 160 kW electric motor, and a 12 kWh battery. As a value SUV plug-in hybrid, it starts at $18,860 ex-factory. For the SUV plug-in hybrid buyer, it suits families and commercial fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

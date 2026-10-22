@@ -1,6 +1,6 @@
 ---
 title: "Aion S Plus"
-description: "Aion S Plus is a Sedan battery-electric from AION, offering 602 km of CLTC range a 69.9 kWh battery and 150 kW of motor power. Full landed-cost breakdown across"
+description: "AION's Aion S Plus is a sedan battery-electric with a CLTC-rated range of 602 km, 69 kWh of battery, 150 kW peak output, and LFP / NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "aion-s-plus"
 brand: "aion"
 type: "Sedan"
@@ -22,13 +22,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["aion", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Aion S Plus RMB 139,800 (易车百科/广汽埃安官网)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Aion S"
 image: "/images/vehicles/aion-s-plus.jpg"
 image_credit: "SAIC GM sucks / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Aion_S_Plus_001.jpg"
+battery_type: "LFP / NMC"
+drive_type: "FWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "N/A"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Aion S Plus
 
@@ -41,8 +54,7 @@ Aion S Plus (starting at $19,420) is a Sedan from AION.
 
 ## Overview
 
-The Aion S Plus is a sedan battery-electric from AION, with 150 kW of motor power, a 6.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,420 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,860 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Aion S Plus is a sedan battery-electric from AION, in front-wheel-drive form. Across export markets for the sedan battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff; meanwhile, Qatar offers the cheapest entry at about +26.5% over base (≈ $24,571 landed). Key figures are a 69 kWh battery, 602 km of CLTC range, and MacPherson strut front / Torsion beam rear suspension. As a value-oriented sedan battery-electric, it starts at $19,420 ex-factory. The sedan battery-electric profile suits private buyers and ride-hailing operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

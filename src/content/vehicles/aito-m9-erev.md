@@ -1,6 +1,6 @@
 ---
 title: "Aito M9 EREV"
-description: "Aito M9 EREV is a SUV extended-range electric from AITO, offering 225 km of CLTC range a 42.0 kWh battery and 365 kW of motor power. Full landed-cost breakdown "
+description: "The Aito M9 EREV is AITO's SUV range-extended electric with a CLTC-rated range of 225 km, 42 kWh of battery, 365 kW peak output, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "aito-m9-erev"
 brand: "aito"
 type: "SUV"
@@ -22,13 +22,29 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["aito", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "问界M9增程Max 起售价46.98万元（汽车之家）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "M9"
 image: "/images/vehicles/aito-m9-erev.jpg"
 image_credit: "CNHowey / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:AITO_M9.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "AWD"
+motor_type: "PMSM (dual motor)"
+total_power_kw: 365
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+trim: "增程版 Max"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+network_bands: "5G NR (sub-6 GHz)"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Aito M9 EREV
 
@@ -41,8 +57,7 @@ Aito M9 EREV (starting at $65,250) is a SUV from AITO.
 
 ## Overview
 
-The Aito M9 EREV is a suv extended-range electric from AITO, with 365 kW of motor power, a 4.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $65,250 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +17% over base (about $76,388 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Aito M9 EREV is an all-wheel-drive extended-range electric SUV from AITO. This SUV extended-range electric is positioned as a flagship import, from $65,250 ex-factory. Specification highlights are a 365 kW electric motor and a Double wishbone front / Multi-link (air) rear suspension layout. On landed cost for this SUV extended-range electric, Germany applies the 10% standard tariff with no countervailing duty — the lowest landed premium is Qatar at roughly +11.4% over base (about $72,692 landed). As a SUV extended-range electric, it is aimed at regional distributors evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

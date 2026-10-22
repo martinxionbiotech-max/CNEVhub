@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo Q06"
-description: "Changan Nevo Q06 is a SUV battery-electric from Changan Nevo, offering 602 km of CLTC range a 80.02 kWh battery and 330 kW of motor power. Full landed-cost brea"
+description: "The Changan Nevo Q06, an SUV fully electric from ChangAn NEVO, offering 602 km of CLTC range, a 80 kWh battery, 330 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-nevo-q06"
 brand: "changan-nevo"
 type: "SUV"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["changan-nevo", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "IT之家/搜狐汽车: ¥147,900 抢订价, 80.02 kWh, 330 kW, CLTC 602 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Nevo Q"
 image: "/images/vehicles/changan-nevo-q06.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Nevo_Q06_001.jpg"
+battery_type: "LFP"
+drive_type: "AWD (dual motor)"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Changan Nevo Q06
 
@@ -39,8 +51,7 @@ Changan Nevo Q06 (starting at $20,540) is a SUV from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Nevo Q06 is a suv battery-electric from Changan Nevo, with 330 kW of motor power. It is positioned as a value-focused import, priced from $20,540 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,095 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+ChangAn NEVO's Changan Nevo Q06 is an dual-motor all-wheel-drive fully electric SUV. Key figures are a 330 kW electric motor, a 80 kWh battery, and MacPherson strut front / Multi-link rear suspension. On landed cost for this SUV fully electric, Qatar offers the cheapest entry at about +25.4% over base (≈ $25,747 landed) — Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. Priced from $20,540 ex-factory, the SUV fully electric falls in the mainstream-value tier. As a SUV fully electric, it is aimed at family and fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

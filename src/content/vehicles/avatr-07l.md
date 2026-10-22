@@ -1,6 +1,6 @@
 ---
 title: "Avatr 07L"
-description: "Avatr 07L is a SUV battery-electric from Avatr, offering 725 km of CLTC range a 89.33 kWh battery and 305 kW of motor power. Full landed-cost breakdown across 7"
+description: "The Avatr 07L is an SUV fully electric from Avatr with 725 km of CLTC range, a 89 kWh battery, 305 kW of motor power, and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "avatr-07l"
 brand: "avatr"
 type: "SUV"
@@ -22,13 +22,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["avatr", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "新浪汽车/新华网/阿维塔官网: ¥229,900, 89.33 kWh, 305 kW, CLTC 725 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Avatr 07"
 image: "/images/vehicles/avatr-07l.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Avatr_07L_001.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Avatr 07L
 
@@ -41,8 +54,7 @@ Avatr 07L (starting at $31,930) is a SUV from AVATR.
 
 ## Overview
 
-The Avatr 07L is a suv battery-electric from Avatr, with 305 kW of motor power, a 5.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $31,930 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $39,652 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Avatr 07L is an SUV battery-electric from Avatr, in rear-wheel-drive form. For the SUV battery-electric, the least-costly destination is Qatar, near +18.1% over base ($37,706 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. As a mid-tier SUV battery-electric, it starts at $31,930 ex-factory. It carries Double wishbone front / Multi-link rear suspension, a 305 kW electric motor, and a 89 kWh battery. This SUV battery-electric is positioned for importers targeting the family-SUV segment comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

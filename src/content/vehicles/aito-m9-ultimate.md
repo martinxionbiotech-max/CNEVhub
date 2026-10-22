@@ -1,6 +1,6 @@
 ---
 title: "Aito M9 Ultimate"
-description: "Aito M9 Ultimate is a SUV extended-range electric from AITO,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Aito M9 Ultimate is an SUV range-extended electric from AITO with 365 kW of motor power and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "aito-m9-ultimate"
 brand: "aito"
 type: "SUV"
@@ -21,13 +21,29 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["aito", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "问界M9 Ultimate 领世加长版 RMB 649,800 (鸿蒙智行/AITO官网)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "M"
 image: "/images/vehicles/aito-m9-ultimate.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=152980270"
+battery_type: "NMC (CATL)"
+drive_type: "AWD"
+motor_type: "PMSM (dual motor)"
+total_power_kw: 365
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+trim: "Ultimate (大满配)"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+network_bands: "5G NR (sub-6 GHz)"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Aito M9 Ultimate
 
@@ -37,8 +53,7 @@ Aito M9 Ultimate (starting at $90,250) is a SUV from AITO.
 
 ## Overview
 
-The Aito M9 Ultimate is a suv extended-range electric from AITO, , a 3.99-second 0–100 km/h time. It is positioned as a value-focused import, priced from $90,250 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +15% over base (about $103,950 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Aito M9 Ultimate is an SUV range-extended electric from AITO, in all-wheel-drive form. It carries a Double wishbone front / Multi-link (air) rear suspension layout, NMC (CATL) cells, and peak output of 365 kW. With a $90,250 ex-factory price, the SUV range-extended electric reads as flagship. For this SUV range-extended electric, Qatar offers the cheapest entry at about +9.6% over base (≈ $98,942 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. This SUV range-extended electric is positioned for regional distributors prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

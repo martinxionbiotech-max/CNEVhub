@@ -1,6 +1,6 @@
 ---
 title: "Changan Nevo A06 EREV"
-description: "Changan Nevo A06 EREV is a Sedan extended-range electric from Changan Nevo, offering 240 km of CLTC range a 28.39 kWh battery and 120 kW of motor power. Full la"
+description: "The Changan Nevo A06 EREV, a sedan extended-range electric from ChangAn NEVO with a CLTC-rated range of 240 km, a 28 kWh battery, 120 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "changan-nevo-a06-erev"
 brand: "changan-nevo"
 type: "Sedan"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["changan-nevo", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "启源A06增程 起售价11.99万元（新浪汽车/新出行）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Nevo A06"
 image: "/images/vehicles/changan-nevo-a06-erev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=182105194"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Changan Nevo A06 EREV
 
@@ -39,8 +51,7 @@ Changan Nevo A06 EREV (starting at $16,650) is a Sedan from CHANGAN NEVO.
 
 ## Overview
 
-The Changan Nevo A06 EREV is a sedan extended-range electric from Changan Nevo, with 120 kW of motor power. It is positioned as a value-focused import, priced from $16,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,806 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+ChangAn NEVO's Changan Nevo A06 EREV is a rear-wheel-drive extended-range electric sedan. For this sedan extended-range electric, the lowest landed premium is Qatar at roughly +30.1% over base (about $21,662 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. As a value-oriented sedan extended-range electric, it starts at $16,650 ex-factory. It carries LFP chemistry, MacPherson strut front / Multi-link rear suspension, and a CLTC-rated range of 240 km. In the sedan extended-range electric segment, it serves executive and corporate fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

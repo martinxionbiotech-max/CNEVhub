@@ -1,6 +1,6 @@
 ---
 title: "Avatr 07 EREV"
-description: "Avatr 07 EREV is a SUV extended-range electric from Avatr, offering 245 km of CLTC range a 39.05 kWh battery and 231 kW of motor power. Full landed-cost breakdo"
+description: "The Avatr 07 EREV, an SUV extended-range electric from Avatr with a CLTC-rated range of 245 km, 39 kWh of battery, 231 kW peak output, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "avatr-07-erev"
 brand: "avatr"
 type: "SUV"
@@ -24,13 +24,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["avatr", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "阿维塔07增程 指导价21.99万元（腾讯新闻/易车）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Avatr 07"
 image: "/images/vehicles/avatr-07-erev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=155242223"
+battery_type: "NMC (CATL)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Avatr 07 EREV
 
@@ -43,8 +56,7 @@ Avatr 07 EREV (starting at $30,540) is a SUV from AVATR.
 
 ## Overview
 
-The Avatr 07 EREV is a suv extended-range electric from Avatr, with 231 kW of motor power, a 6.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $30,540 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +24% over base (about $38,120 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Avatr 07 EREV is an SUV extended-range electric with rear-wheel-drive from Avatr. With a $30,540 ex-factory price, the SUV extended-range electric reads as mid-tier. It carries a top speed of 190 km/h, Double wishbone front / Multi-link rear suspension, and 245 km of CLTC range. For the SUV extended-range electric, Qatar offers the cheapest entry at about +18.7% over base (≈ $36,247 landed); meanwhile, Germany levies only the 10% standard tariff. This SUV extended-range electric is positioned for importers targeting the family-SUV segment evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

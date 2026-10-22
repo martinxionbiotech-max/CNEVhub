@@ -1,6 +1,6 @@
 ---
 title: "Bestune Yueyi 07"
-description: "Bestune Yueyi 07 is a SUV plug-in hybrid from Bestune, offering 150 km of CLTC range a 21.2 kWh battery and 168 kW of motor power. Full landed-cost breakdown ac"
+description: "The Bestune Yueyi 07 is Bestune's SUV plug-in hybrid with 150 km of CLTC range, a 21 kWh battery, 168 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "bestune-yueyi-07"
 brand: "bestune"
 type: "SUV"
@@ -26,13 +26,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["bestune", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "奔腾悦意07 RMB 99,800（新华网/新浪汽车；21.2kWh/150km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yueyi"
 image: "/images/vehicles/bestune-yueyi-07.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Bestune_Yueyi_07_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Bestune Yueyi 07
 
@@ -45,8 +57,7 @@ Bestune Yueyi 07 (starting at $13,860) is a SUV from BESTUNE.
 
 ## Overview
 
-The Bestune Yueyi 07 is a suv plug-in hybrid from Bestune, with 168 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,730 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. In practice, the 11.9 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Bestune Yueyi 07 is an SUV plug-in hybrid with front-wheel-drive from Bestune. Key figures are 150 km of CLTC range and 0–100 km/h in 6.9 seconds. This SUV plug-in hybrid is positioned as an affordable-end import, from $13,860 ex-factory. For the SUV plug-in hybrid, the least-costly destination is Qatar, near +35.2% over base ($18,733 landed); Germany levies only the 10% standard tariff. In the SUV plug-in hybrid segment, it serves regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

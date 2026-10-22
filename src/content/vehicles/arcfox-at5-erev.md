@@ -1,6 +1,6 @@
 ---
 title: "Arcfox Alpha T5 EREV"
-description: "Arcfox Alpha T5 EREV is a SUV extended-range electric from Arcfox, offering 215 km of CLTC range a 27.4 kWh battery and 200 kW of motor power. Full landed-cost "
+description: "Arcfox's Arcfox Alpha T5 EREV is an SUV range-extended electric, offering a CLTC-rated range of 215 km, a 27 kWh battery, 200 kW peak output, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "arcfox-at5-erev"
 brand: "arcfox"
 type: "SUV"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["arcfox", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "极狐阿尔法T5增程 起售价11.38万元（ARCFOX官网）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "T5"
 image: "/images/vehicles/arcfox-at5-erev.jpg"
 image_credit: "S5A-0043 / Wikimedia Commons / CC BY 2.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=148903188"
+battery_type: "NMC (ternary)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Arcfox Alpha T5 EREV
 
@@ -42,8 +54,7 @@ Arcfox Alpha T5 EREV (starting at $15,810) is a SUV from ARCFOX.
 
 ## Overview
 
-The Arcfox Alpha T5 EREV is a suv extended-range electric from Arcfox, with 200 kW of motor power, a 6.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $15,810 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +38% over base (about $21,880 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Arcfox Alpha T5 EREV is an SUV extended-range electric from Arcfox, in rear-wheel-drive form. Key figures are a 27 kWh battery, MacPherson strut front / Multi-link rear suspension, and a CLTC-rated range of 215 km. For this SUV extended-range electric, Germany applies the 10% standard tariff with no countervailing duty — Qatar offers the cheapest entry at about +31.4% over base (≈ $20,780 landed). With a $15,810 ex-factory price, the SUV extended-range electric reads as value. The SUV extended-range electric profile suits importers targeting the family-SUV segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

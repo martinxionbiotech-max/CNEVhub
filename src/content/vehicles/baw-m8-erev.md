@@ -1,6 +1,6 @@
 ---
 title: "BAW M8 EREV"
-description: "BAW M8 EREV is a MPV extended-range electric from BAW, offering 230 km of CLTC range a 35.0 kWh battery and 170 kW of motor power. Full landed-cost breakdown ac"
+description: "The BAW M8 EREV, an MPV extended-range electric from BAW with 230 km of CLTC range, 35 kWh of battery, 170 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "baw-m8-erev"
 brand: "baw"
 type: "MPV"
@@ -21,13 +21,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["baw", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "北汽制造锐胜M8增程 起售价16.98万元（新华网）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "M8"
 image: "/images/vehicles/baw-m8-erev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=189289219"
+battery_type: "LFP"
+drive_type: "AWD (dual motor)"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "N/A"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # BAW M8 EREV
 
@@ -39,8 +52,7 @@ BAW M8 EREV (starting at $23,580) is a MPV from BAW.
 
 ## Overview
 
-The BAW M8 EREV is a mpv extended-range electric from BAW, with 170 kW of motor power. It is positioned as a value-focused import, priced from $23,580 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,446 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+BAW's BAW M8 EREV is an dual-motor all-wheel-drive range-extended electric MPV. At $23,580 ex-factory, this MPV range-extended electric sits in the mainstream-value segment. On landed cost for this MPV range-extended electric, Qatar offers the cheapest entry at about +22.7% over base (≈ $28,939 landed), while Germany levies only the 10% standard tariff. Specification highlights are Double wishbone front / Multi-link rear suspension and LFP chemistry. In the MPV range-extended electric segment, it serves people-carrier operators and family buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

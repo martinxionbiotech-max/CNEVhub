@@ -1,6 +1,6 @@
 ---
 title: "Aeolus SKY EV01"
-description: "Aeolus SKY EV01 is a SUV battery-electric from Aeolus, offering 445 km of CLTC range a 50.82 kWh battery and 160 kW of motor power. Full landed-cost breakdown a"
+description: "Aeolus's Aeolus SKY EV01 is an SUV battery-electric with a CLTC-rated range of 445 km, a 50 kWh battery, 160 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "aeolus-sky-ev01"
 brand: "aeolus"
 type: "SUV"
@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["aeolus", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "风神SKY EV01 RMB 121,900 (东风官网/新出行)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "SKY"
 image: "/images/vehicles/aeolus-sky-ev01.jpg"
 image_credit: "Quzhouliulian / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Aeolus_Sky_EV01_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Aeolus SKY EV01
 
@@ -43,8 +55,7 @@ Aeolus SKY EV01 (starting at $16,930) is a SUV from AEOLUS.
 
 ## Overview
 
-The Aeolus SKY EV01 is a suv battery-electric from Aeolus, with 160 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,930 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +36% over base (about $23,115 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 12.8 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Aeolus SKY EV01 is an SUV fully electric from Aeolus, in front-wheel-drive form. Across export markets for the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; Qatar offers the cheapest entry at about +29.7% over base (≈ $21,956 landed). Key figures are LFP cells and MacPherson strut front / Multi-link rear suspension. Priced from $16,930 ex-factory, the SUV fully electric falls in the value-oriented tier. For the SUV fully electric buyer, it suits families and commercial fleet operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

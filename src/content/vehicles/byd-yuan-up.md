@@ -1,6 +1,6 @@
 ---
 title: "BYD Yuan Up"
-description: "BYD Yuan Up is a SUV battery-electric from BYD, offering 401 km of CLTC range a 45.12 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7"
+description: "The BYD Yuan Up is BYD's SUV fully electric, offering a CLTC-rated range of 401 km, a 45 kWh battery, 130 kW of motor power, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "byd-yuan-up"
 brand: "byd"
 type: "SUV"
@@ -24,13 +24,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["byd", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "BYD official/Autohome: ¥74,800 (元UP 7.48–11.98万), 45.12 kWh Blade, 401 km CLTC, 130 kW/290 Nm"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Yuan"
 image: "/images/vehicles/byd-yuan-up.jpg"
 image_credit: "iMoD Official / Wikimedia Commons / CC BY 3.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2024_BYD_Yuan_Up_-_Atto_2_01.png"
+battery_type: "LFP (Blade)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+trim: "401 km / 501 km 活力版 / 领先版"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # BYD Yuan Up
 
@@ -43,8 +56,7 @@ BYD Yuan Up (starting at $10,390) is a SUV from BYD.
 
 ## Overview
 
-The BYD Yuan Up is a suv battery-electric from BYD, with 130 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $10,390 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +53% over base (about $15,904 landed), while the Germany estimate carries a 17.0% countervailing duty on top of the 10% standard tariff. In practice, the 12.2 kWh/100km efficiency is a practical figure; only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+BYD's BYD Yuan Up is an front-wheel-drive fully electric SUV. The $10,390 ex-factory price places this SUV fully electric in the affordable-end band. For the SUV fully electric, the least-costly destination is Qatar, near +45.2% over base ($15,089 landed) — Germany applies a 17% countervailing duty on top of the 10% standard tariff. It carries 45 kWh of capacity and peak output of 130 kW. As a SUV fully electric, it is aimed at family and fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

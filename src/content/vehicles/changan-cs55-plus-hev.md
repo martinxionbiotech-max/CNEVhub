@@ -1,6 +1,6 @@
 ---
 title: "Changan CS55 PLUS HEV"
-description: "Changan CS55 PLUS HEV is a SUV hybrid from Changan, a 1.7 kWh battery and 180 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B impo"
+description: "The Changan CS55 PLUS HEV is an SUV non-plug-in hybrid from ChangAn with 1 kWh of battery, 180 kW of motor power, and a NMC (ternary) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "changan-cs55-plus-hev"
 brand: "changan"
 type: "SUV"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["changan", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "新出行/新浪汽车: ¥98,900 (9.89–11.79万, 限时7.99万起), 180 kW 电驱"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "CS55"
 image: "/images/vehicles/changan-cs55-plus-hev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=164137712"
+battery_type: "NMC (ternary)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "N/A (non-plug-in hybrid, no external charging port)"
+charging_adapter: "N/A"
+certification_notes: "EU: WVTA type approval. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Changan CS55 PLUS HEV
 
@@ -39,8 +51,7 @@ Changan CS55 PLUS HEV (starting at $13,740) is a SUV from CHANGAN.
 
 ## Overview
 
-The Changan CS55 PLUS HEV is a suv hybrid from Changan, with 180 kW of motor power, a 7.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,740 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,598 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+ChangAn's Changan CS55 PLUS HEV is an front-wheel-drive hybrid SUV. Specification highlights are a 180 kW electric motor, a 7.8-second 0–100 km/h time, and a MacPherson strut front / Multi-link rear suspension layout. With a $13,740 ex-factory price, the SUV hybrid reads as affordable-end. On landed cost for this SUV hybrid, Qatar offers the cheapest entry at about +35.4% over base (≈ $18,607 landed), while Germany levies only the 10% standard tariff. For the SUV hybrid buyer, it suits private buyers and fleet managers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

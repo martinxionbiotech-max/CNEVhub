@@ -1,6 +1,6 @@
 ---
 title: "Aion LX Plus"
-description: "Aion LX Plus is a SUV battery-electric from AION, offering 1008 km of CLTC range a 144.4 kWh battery and 180 kW of motor power. Full landed-cost breakdown acros"
+description: "The Aion LX Plus is AION's SUV fully electric, offering 1,008 km of CLTC range, 144 kWh of battery, 180 kW of motor power, and a NMC (ternary) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "aion-lx-plus"
 brand: "aion"
 type: "SUV"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["aion", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Aion LX Plus RMB 286,600 (央视网/网易汽车, 2022-01)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Aion LX"
 image: "/images/vehicles/aion-lx-plus.jpg"
 image_credit: "Zoerides / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Aion_LX_Plus_001.jpg"
+battery_type: "NMC (ternary)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Aion LX Plus
 
@@ -41,8 +53,7 @@ Aion LX Plus (starting at $39,810) is a SUV from AION.
 
 ## Overview
 
-The Aion LX Plus is a suv battery-electric from AION, with 180 kW of motor power. It is positioned as a value-focused import, priced from $39,810 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $48,340 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 14.3 kWh/100km efficiency is reasonable for its 2,240 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Aion LX Plus is an rear-wheel-drive fully electric SUV from AION. Specification highlights are NMC (ternary) cells and a 144 kWh battery. At $39,810 ex-factory, this SUV fully electric sits in the mid-market segment. Across export markets for the SUV fully electric, Qatar offers the cheapest entry at about +15.5% over base (≈ $45,980 landed), while Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This SUV fully electric is positioned for regional distributors evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
