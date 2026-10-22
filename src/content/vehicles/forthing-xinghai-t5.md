@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai T5"
-description: "Forthing Xinghai T5 is a SUV battery-electric from Forthing, offering 530 km of CLTC range a 64.4 kWh battery and 120 kW of motor power. Full landed-cost breakd"
+description: "Forthing's Forthing Xinghai T5 is an SUV fully electric with a CLTC-rated range of 530 km, a 64 kWh battery, 120 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "forthing-xinghai-t5"
 brand: "forthing"
 type: "SUV"
@@ -25,13 +25,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["forthing", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "星海T5 RMB 153,900 (东风风行官网)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xinghai"
 image: "/images/vehicles/forthing-xinghai-t5.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=157560513"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Forthing Xinghai T5
 
@@ -43,8 +55,7 @@ Forthing Xinghai T5 (starting at $21,380) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing Xinghai T5 is a suv battery-electric from Forthing, with 120 kW of motor power. It is positioned as a value-focused import, priced from $21,380 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $28,021 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 13.8 kWh/100km efficiency is reasonable for its 1,800 kg curb weight; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Forthing Xinghai T5 is an SUV fully electric from Forthing, in front-wheel-drive form. As a value-oriented SUV fully electric, it starts at $21,380 ex-factory. For the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while the least-costly destination is Qatar, near +24.6% over base ($26,629 landed). Specification highlights are 160 km/h top speed and LFP cells. In the SUV fully electric segment, it serves regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

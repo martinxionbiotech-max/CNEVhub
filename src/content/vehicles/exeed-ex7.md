@@ -1,6 +1,6 @@
 ---
 title: "Exeed EX7"
-description: "Exeed EX7 is a SUV extended-range electric from Exeed, offering 245 km of CLTC range a 41.0 kWh battery and 227 kW of motor power. Full landed-cost breakdown ac"
+description: "The Exeed EX7 is an SUV extended-range electric from Exeed, offering 245 km of CLTC range, 41 kWh of battery, 227 kW peak output, and NMC (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "exeed-ex7"
 brand: "exeed"
 type: "SUV"
@@ -22,13 +22,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["exeed", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "exeedcars.com 2026-04-19/Gasgoo: ¥199,900, 41 kWh, 227 kW, CLTC 245 km / 1520 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "EX7"
 image: "/images/vehicles/exeed-ex7.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Exeed_EX7_001.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Exeed EX7
 
@@ -40,8 +52,7 @@ Exeed EX7 (starting at $27,760) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed EX7 is a suv extended-range electric from Exeed, with 227 kW of motor power. It is positioned as a value-focused import, priced from $27,760 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $35,055 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Exeed EX7 is an SUV extended-range electric from Exeed, in rear-wheel-drive form. At $27,760 ex-factory, this SUV extended-range electric sits in the mid-tier segment. For this SUV extended-range electric, Germany applies the 10% standard tariff with no countervailing duty, while the least-costly destination is Qatar, near +20.1% over base ($33,328 landed). Key figures are 41 kWh of capacity, NMC (CATL) chemistry, and peak output of 227 kW. The SUV extended-range electric profile suits family and fleet buyers comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

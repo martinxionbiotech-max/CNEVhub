@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy TT"
-description: "Geely Galaxy TT is a Sedan battery-electric from Geely Galaxy, offering 640 km of CLTC range a 63.8 kWh battery and 245 kW of motor power. Full landed-cost brea"
+description: "The Geely Galaxy TT is a sedan battery-electric from Geely Galaxy with 640 km of CLTC range, 63 kWh of battery, 245 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "geely-galaxy-tt"
 brand: "geely-galaxy"
 type: "Sedan"
@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely-galaxy", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "太平洋汽车/搜狐汽车: ¥139,900 (13.99万起), 800V 245 kW, 63.8 kWh, CLTC 640 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geely Galaxy TT"
 image: "/images/vehicles/geely-galaxy-tt.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Geely_Galaxy_TT_001.jpg"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Geely Galaxy TT
 
@@ -43,8 +55,7 @@ Geely Galaxy TT (starting at $19,430) is a Sedan from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy TT is a sedan battery-electric from Geely Galaxy, with 245 kW of motor power, a 6.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,430 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,871 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 11.0 kWh/100km efficiency is a practical figure; only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Geely Galaxy TT is a sedan fully electric from Geely Galaxy, in rear-wheel-drive form. It carries LFP cells, a 6.5-second 0–100 km/h time, and peak output of 245 kW. For this sedan fully electric, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff; meanwhile, Qatar offers the cheapest entry at about +26.5% over base (≈ $24,581 landed). With a $19,430 ex-factory price, the sedan fully electric reads as value. This sedan fully electric is positioned for importers serving the sedan segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

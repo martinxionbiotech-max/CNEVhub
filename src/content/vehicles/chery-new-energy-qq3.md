@@ -1,6 +1,6 @@
 ---
 title: "Chery QQ3 EV"
-description: "Chery QQ3 EV is a Hatchback battery-electric from Chery New Energy, offering 310 km of CLTC range and 58 kW of motor power. Full landed-cost breakdown across 7 "
+description: "The Chery QQ3 EV is Chery New Energy's hatchback fully electric, offering 310 km of CLTC range, 58 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-new-energy-qq3"
 brand: "chery-new-energy"
 type: "Hatchback"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery-new-energy", "Hatchback", "chinese-ev", "export"]
 data_tier: 1
-data_source: "fulwin.chery.cn/Autohome: ¥58,900, 58 kW, CLTC 310 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "QQ3"
 image: "/images/vehicles/chery-new-energy-qq3.jpg"
 image_credit: "Zoerides / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Chery_QQ3_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Chery QQ3 EV
 
@@ -38,8 +50,7 @@ Chery QQ3 EV (starting at $8,180) is a Hatchback from CHERY NEW ENERGY.
 
 ## Overview
 
-The Chery QQ3 EV is a hatchback battery-electric from Chery New Energy, with 58 kW of motor power. It is positioned as a value-focused import, priced from $8,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +64% over base (about $13,468 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Chery QQ3 EV is a hatchback battery-electric from Chery New Energy, in front-wheel-drive form. It carries LFP cells and 90 Nm of torque. This hatchback battery-electric is positioned as an entry-level import, from $8,180 ex-factory. For the hatchback battery-electric, the lowest landed premium is Qatar at roughly +56.1% over base (about $12,769 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This hatchback battery-electric is positioned for city-focused buyers and delivery fleets watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

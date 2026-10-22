@@ -1,6 +1,6 @@
 ---
 title: "Chery Explore 06 C-DM"
-description: "Chery Explore 06 C-DM is a SUV plug-in hybrid from Chery, offering 120 km of CLTC range a 18.3 kWh battery. Full landed-cost breakdown across 7 export markets f"
+description: "Chery's Chery Explore 06 C-DM is an SUV plug-in hybrid electric with a CLTC-rated range of 120 km, 18 kWh of battery, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-explore-06-c-dm"
 brand: "chery"
 type: "SUV"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "探索06 C-DM RMB 119,900（搜狐汽车/汽车之家）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Explore 06"
 image: "/images/vehicles/chery-explore-06-c-dm.jpg"
 image_credit: "Quzhouliulian / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Chery_Explore_06_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Chery Explore 06 C-DM
 
@@ -38,8 +50,7 @@ Chery Explore 06 C-DM (starting at $16,650) is a SUV from CHERY.
 
 ## Overview
 
-The Chery Explore 06 C-DM is a suv plug-in hybrid from Chery, . It is positioned as a value-focused import, priced from $16,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,806 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Chery's Chery Explore 06 C-DM is an front-wheel-drive plug-in hybrid electric SUV. This SUV plug-in hybrid electric is positioned as a value-segment import, from $16,650 ex-factory. Specification highlights are a 18 kWh battery, LFP chemistry, and a CLTC-rated range of 120 km. For the SUV plug-in hybrid electric, Germany levies only the 10% standard tariff — the lowest landed premium is Qatar at roughly +30.1% over base (about $21,662 landed). This SUV plug-in hybrid electric is positioned for families and commercial fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

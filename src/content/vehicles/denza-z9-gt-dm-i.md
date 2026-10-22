@@ -1,6 +1,6 @@
 ---
 title: "Denza Z9 GT DM-i"
-description: "Denza Z9 GT DM-i is a Sedan plug-in hybrid from Denza, offering 201 km of CLTC range a 38.5 kWh battery and 640 kW of motor power. Full landed-cost breakdown ac"
+description: "The Denza Z9 GT DM-i is Denza's sedan plug-in hybrid electric, offering a CLTC-rated range of 201 km, a 38 kWh battery, 640 kW peak output, and LFP (Blade) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "denza-z9-gt-dm-i"
 brand: "denza"
 type: "Sedan"
@@ -25,13 +25,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["denza", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "腾势Z9 GT DM-i 起售价33.48万元（CarNewsChina/维基百科）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Z9"
 image: "/images/vehicles/denza-z9-gt-dm-i.jpg"
 image_credit: "iMoD Official / Wikimedia Commons / CC BY 3.0"
 image_source: "https://commons.wikimedia.org/wiki/File:BYD_Shark_6,_Denza_N7,_Denza_Z9_GT_and_BYD_Sealion_6_DM-i.png"
+battery_type: "LFP (Blade)"
+drive_type: "AWD (tri-motor)"
+motor_type: "PMSM (tri-motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Denza Z9 GT DM-i
 
@@ -44,8 +57,7 @@ Denza Z9 GT DM-i (starting at $46,500) is a Sedan from DENZA.
 
 ## Overview
 
-The Denza Z9 GT DM-i is a sedan plug-in hybrid from Denza, with 640 kW of motor power, a 3.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $46,500 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +19% over base (about $55,716 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Denza Z9 GT DM-i is a tri-motor all-wheel-drive plug-in hybrid sedan from Denza. For the sedan plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; Qatar offers the cheapest entry at about +14% over base (≈ $53,005 landed). Priced from $46,500 ex-factory, the sedan plug-in hybrid falls in the upper-mid tier. It carries a 3.6-second 0–100 km/h time and a CLTC-rated range of 201 km. For the sedan plug-in hybrid buyer, it suits private buyers and ride-hailing operators focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

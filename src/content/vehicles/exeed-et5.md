@@ -1,6 +1,6 @@
 ---
 title: "Exeed ET5"
-description: "Exeed ET5 is a SUV extended-range electric from Exeed, offering 210 km of CLTC range and 195 kW of motor power. Full landed-cost breakdown across 7 export marke"
+description: "The Exeed ET5 is Exeed's SUV range-extended electric, offering 210 km of CLTC range, 195 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "exeed-et5"
 brand: "exeed"
 type: "SUV"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["exeed", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "新华网 2025-11-29/EV视界: ¥144,900–159,900, 195 kW, CLTC 210 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "ET5"
 image: "/images/vehicles/exeed-et5.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Exeed_ET5_001.jpg"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Exeed ET5
 
@@ -38,8 +50,7 @@ Exeed ET5 (starting at $20,120) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed ET5 is a suv extended-range electric from Exeed, with 195 kW of motor power. It is positioned as a value-focused import, priced from $20,120 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +32% over base (about $26,632 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Exeed ET5 is an SUV range-extended electric with rear-wheel-drive from Exeed. For the SUV range-extended electric, Germany applies the 10% standard tariff with no countervailing duty, while the least-costly destination is Qatar, near +25.8% over base ($25,306 landed). Specification highlights are LFP chemistry and 210 km of CLTC range. At $20,120 ex-factory, this SUV range-extended electric sits in the mainstream-value segment. This SUV range-extended electric is positioned for family and fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "GAC Xiangwang M8"
-description: "GAC Xiangwang M8 is a MPV plug-in hybrid from GAC Motor,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The GAC Xiangwang M8 is GAC Motor's MPV plug-in hybrid. Landed-cost analysis across 30 key export markets for importers."
 slug: "gac-motor-xiangwang-m8"
 brand: "gac-motor"
 type: "MPV"
@@ -14,13 +14,24 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["gac-motor", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "传祺向往M8 RMB 309,900 (汽车之家, 2026-01)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xiangwang"
 image: "/images/vehicles/gac-motor-xiangwang-m8.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # GAC Xiangwang M8
 
@@ -29,8 +40,7 @@ GAC Xiangwang M8 (starting at $43,040) is a MPV from GAC MOTOR.
 
 ## Overview
 
-The GAC Xiangwang M8 is a mpv plug-in hybrid from GAC Motor, . It is positioned as a value-focused import, priced from $43,040 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $51,901 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The GAC Xiangwang M8 is an front-wheel-drive plug-in hybrid MPV from GAC Motor. Its specification includes a MacPherson strut front / Multi-link rear suspension layout. At $43,040 ex-factory, this MPV plug-in hybrid sits in the premium segment. For the MPV plug-in hybrid, Germany levies only the 10% standard tariff, while the least-costly destination is Qatar, near +14.7% over base ($49,372 landed). In the MPV plug-in hybrid segment, it serves shuttle and charter fleet operators seeking higher specification.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

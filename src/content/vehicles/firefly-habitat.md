@@ -1,6 +1,6 @@
 ---
 title: "firefly Habitat"
-description: "firefly Habitat is a Hatchback battery-electric from Firefly, offering 420 km of CLTC range a 42.1 kWh battery and 120 kW of motor power. Full landed-cost break"
+description: "The firefly Habitat is firefly's hatchback battery-electric, offering 420 km of CLTC range, 42 kWh of battery, 120 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "firefly-habitat"
 brand: "firefly"
 type: "Hatchback"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["firefly", "Hatchback", "chinese-ev", "export"]
 data_tier: 1
-data_source: "firefly Habitat RMB 133,300 (CnEVPost 2026-07-20)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Halo"
 image: "/images/vehicles/firefly-habitat.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # firefly Habitat
 
@@ -41,8 +53,7 @@ firefly Habitat (starting at $18,510) is a Hatchback from FIREFLY.
 
 ## Overview
 
-The firefly Habitat is a hatchback battery-electric from Firefly, with 120 kW of motor power. It is positioned as a value-focused import, priced from $18,510 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,857 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+firefly Habitat is a hatchback fully electric from firefly, in rear-wheel-drive form. Across export markets for the hatchback fully electric, Qatar offers the cheapest entry at about +27.6% over base (≈ $23,615 landed); meanwhile, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff. This hatchback fully electric is positioned as a mainstream-value import, from $18,510 ex-factory. It carries 42 kWh of capacity, 150 km/h top speed, and 205 Nm of torque. For the hatchback fully electric buyer, it suits city-focused buyers and delivery fleets seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

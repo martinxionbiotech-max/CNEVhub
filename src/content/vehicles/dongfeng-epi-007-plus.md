@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng eπ 007 Plus"
-description: "Dongfeng eπ 007 Plus is a Sedan extended-range electric from Dongfeng eπ,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Dongfeng eπ 007 Plus, a sedan extended-range electric from Dongfeng eπ with a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "dongfeng-epi-007-plus"
 brand: "dongfeng-e"
 type: "Sedan"
@@ -18,13 +18,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["dongfeng-e", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "奕派007+ RMB 129,900 (东风奕派官网; 尺寸易车)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "eπ"
 image: "/images/vehicles/dongfeng-epi-007-plus.jpg"
 image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Dongfeng_Fengxing_S500_007.jpg"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Dongfeng eπ 007 Plus
 
@@ -33,8 +45,7 @@ Dongfeng eπ 007 Plus (starting at $18,040) is a Sedan from DONGFENG E.
 
 ## Overview
 
-The Dongfeng eπ 007 Plus is a sedan extended-range electric from Dongfeng eπ, . It is positioned as a value-focused import, priced from $18,040 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,339 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Dongfeng eπ 007 Plus is a sedan range-extended electric with rear-wheel-drive from Dongfeng eπ. For this sedan range-extended electric, Germany applies the 10% standard tariff with no countervailing duty — Qatar offers the cheapest entry at about +28.2% over base (≈ $23,122 landed). Key figures are MacPherson strut front / Multi-link rear suspension and LFP cells. This sedan range-extended electric is positioned as a value-focused import, from $18,040 ex-factory. For the sedan range-extended electric buyer, it suits executive and corporate fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

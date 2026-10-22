@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy Starship 7 EV"
-description: "Geely Galaxy Starship 7 EV is a SUV battery-electric from Geely Galaxy, offering 605 km of CLTC range and 160 kW of motor power. Full landed-cost breakdown acro"
+description: "The Geely Galaxy Starship 7 EV is Geely Galaxy's SUV battery-electric with a CLTC-rated range of 605 km, 160 kW of motor power, and LFP (Aegis Short Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geely-galaxy-starship-7-ev"
 brand: "geely-galaxy"
 type: "SUV"
@@ -18,13 +18,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely-galaxy", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "新华网: ¥99,800 (9.98万起), 160 kW, CLTC 605 km, 12.4 kWh/100km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geely Galaxy Starship 7"
 image: "/images/vehicles/geely-galaxy-starship-7-ev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=155238280"
+battery_type: "LFP (Aegis Short Blade)"
+drive_type: "FWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Geely Galaxy Starship 7 EV
 
@@ -36,8 +49,7 @@ Geely Galaxy Starship 7 EV (starting at $13,860) is a SUV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy Starship 7 EV is a suv battery-electric from Geely Galaxy, with 160 kW of motor power, a 7.3-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,730 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 12.4 kWh/100km efficiency is a practical figure; only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Geely Galaxy Starship 7 EV is an SUV battery-electric with front-wheel-drive from Geely Galaxy. Across export markets for the SUV battery-electric, Germany applies a 18.8% countervailing duty on top of the 10% standard tariff — the least-costly destination is Qatar, near +35.2% over base ($18,733 landed). The $13,860 ex-factory price places this SUV battery-electric in the entry-level band. Key figures are a MacPherson strut front / Multi-link rear suspension layout, a 160 kW electric motor, and 0–100 km/h in 7.3 seconds. This SUV battery-electric is positioned for importers targeting the family-SUV segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

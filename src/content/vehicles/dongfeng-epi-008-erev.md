@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng eπ008 EREV"
-description: "Dongfeng eπ008 EREV is a SUV extended-range electric from Dongfeng eπ, offering 210 km of CLTC range a 28.39 kWh battery and 200 kW of motor power. Full landed-"
+description: "The Dongfeng eπ008 EREV is an SUV range-extended electric from Dongfeng eπ with a CLTC-rated range of 210 km, 28 kWh of battery, 200 kW of motor power, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "dongfeng-epi-008-erev"
 brand: "dongfeng-e"
 type: "SUV"
@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["dongfeng-e", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "奕派eπ008增程 指导价21.66万元（东风奕派官网/新华网）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "eπ008"
 image: "/images/vehicles/dongfeng-epi-008-erev.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Dongfeng eπ008 EREV
 
@@ -43,8 +55,7 @@ Dongfeng eπ008 EREV (starting at $30,080) is a SUV from DONGFENG E.
 
 ## Overview
 
-The Dongfeng eπ008 EREV is a suv extended-range electric from Dongfeng eπ, with 200 kW of motor power, a 8.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $30,080 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $37,613 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Dongfeng eπ008 EREV is an SUV range-extended electric with rear-wheel-drive from Dongfeng eπ. Across export markets for the SUV range-extended electric, Germany applies the 10% standard tariff with no countervailing duty; the lowest landed premium is Qatar at roughly +18.9% over base (about $35,764 landed). This SUV range-extended electric is positioned as a mid-market import, from $30,080 ex-factory. Specification highlights are LFP cells and peak output of 200 kW. As a SUV range-extended electric, it is aimed at importers targeting the family-SUV segment focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

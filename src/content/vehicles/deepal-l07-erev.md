@@ -1,6 +1,6 @@
 ---
 title: "Deepal L07 EREV"
-description: "Deepal L07 EREV is a Sedan extended-range electric from Deepal, offering 240 km of CLTC range a 28.39 kWh battery and 175 kW of motor power. Full landed-cost br"
+description: "The Deepal L07 EREV is a sedan range-extended electric from Deepal with a CLTC-rated range of 240 km, a 28 kWh battery, 175 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "deepal-l07-erev"
 brand: "deepal"
 type: "Sedan"
@@ -22,13 +22,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["deepal", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "深蓝L07增程 起售价13.59万元（新华网/易车）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "L07"
 image: "/images/vehicles/deepal-l07-erev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=155238631"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Deepal L07 EREV
 
@@ -40,8 +52,7 @@ Deepal L07 EREV (starting at $18,880) is a Sedan from DEEPAL.
 
 ## Overview
 
-The Deepal L07 EREV is a sedan extended-range electric from Deepal, with 175 kW of motor power. It is positioned as a value-focused import, priced from $18,880 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,265 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Deepal's Deepal L07 EREV is a rear-wheel-drive range-extended electric sedan. For the sedan range-extended electric, Germany levies only the 10% standard tariff; the least-costly destination is Qatar, near +27.1% over base ($24,004 landed). As a value-oriented sedan range-extended electric, it starts at $18,880 ex-factory. It carries a 28 kWh battery and MacPherson strut front / Multi-link rear suspension. This sedan range-extended electric is positioned for private buyers and ride-hailing operators focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

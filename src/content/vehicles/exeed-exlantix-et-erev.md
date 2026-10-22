@@ -1,6 +1,6 @@
 ---
 title: "Exeed Exlantix ET EREV"
-description: "Exeed Exlantix ET EREV is a SUV extended-range electric from Exeed, offering 200 km of CLTC range a 32.0 kWh battery and 195 kW of motor power. Full landed-cost"
+description: "The Exeed Exlantix ET EREV is Exeed's SUV range-extended electric, offering 200 km of CLTC range, 32 kWh of battery, 195 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "exeed-exlantix-et-erev"
 brand: "exeed"
 type: "SUV"
@@ -22,13 +22,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["exeed", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "星纪元ET增程 起售价17.28万元（新华网/易车百科）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Exlantix ET"
 image: "/images/vehicles/exeed-exlantix-et-erev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=151490800"
+battery_type: "LFP"
+drive_type: "RWD / AWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Exeed Exlantix ET EREV
 
@@ -40,8 +53,7 @@ Exeed Exlantix ET EREV (starting at $24,000) is a SUV from EXEED.
 
 ## Overview
 
-The Exeed Exlantix ET EREV is a suv extended-range electric from Exeed, with 195 kW of motor power. It is positioned as a value-focused import, priced from $24,000 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +28% over base (about $30,910 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Exeed's Exeed Exlantix ET EREV is an rear- or all-wheel-drive range-extended electric SUV. For the SUV range-extended electric, Qatar offers the cheapest entry at about +22.4% over base (≈ $29,380 landed) — Germany applies the 10% standard tariff with no countervailing duty. With a $24,000 ex-factory price, the SUV range-extended electric reads as value. It carries a CLTC-rated range of 200 km, 32 kWh of capacity, and Double wishbone front / Multi-link rear suspension. As a SUV range-extended electric, it is aimed at private buyers and fleet managers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

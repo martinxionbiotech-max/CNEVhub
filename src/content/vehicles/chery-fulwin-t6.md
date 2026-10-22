@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T6"
-description: "Chery Fulwin T6 is a SUV plug-in hybrid from Chery Fulwin,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Chery Fulwin T6, an SUV plug-in hybrid from Chery Fulwin with a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-fulwin-t6"
 brand: "chery-fulwin"
 type: "SUV"
@@ -14,13 +14,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery-fulwin", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Gasgoo/Chery: ¥129,900–156,900"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Fulwin T6"
 image: "/images/vehicles/chery-fulwin-t6.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Chery_Tansuo_06_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Chery Fulwin T6
 
@@ -29,8 +41,7 @@ Chery Fulwin T6 (starting at $18,040) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin T6 is a suv plug-in hybrid from Chery Fulwin, . It is positioned as a value-focused import, priced from $18,040 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,339 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Chery Fulwin T6 is an front-wheel-drive plug-in hybrid SUV from Chery Fulwin. Across export markets for the SUV plug-in hybrid, the least-costly destination is Qatar, near +28.2% over base ($23,122 landed); Germany applies the 10% standard tariff with no countervailing duty. With a $18,040 ex-factory price, the SUV plug-in hybrid reads as value. Key figures are LFP chemistry and a MacPherson strut front / Multi-link rear suspension layout. As a SUV plug-in hybrid, it is aimed at importers targeting the family-SUV segment seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

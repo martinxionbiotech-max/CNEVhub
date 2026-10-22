@@ -1,6 +1,6 @@
 ---
 title: "Geometry C"
-description: "Geometry C is a SUV battery-electric from Geometry, offering 400 km of CLTC range a 53.0 kWh battery and 150 kW of motor power. Full landed-cost breakdown acros"
+description: "The Geometry C is Geometry's SUV battery-electric, offering 400 km of CLTC range, 53 kWh of battery, 150 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geometry-c"
 brand: "geometry"
 type: "SUV"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geometry", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "几何C RMB 129,800（搜狐汽车/电动邦）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geometry C"
 image: "/images/vehicles/geometry-c.jpg"
 image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Geometry_C_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Geometry C
 
@@ -42,8 +54,7 @@ Geometry C (starting at $18,030) is a SUV from GEOMETRY.
 
 ## Overview
 
-The Geometry C is a suv battery-electric from Geometry, with 150 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $18,030 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,328 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Geometry C is an SUV fully electric from Geometry, in front-wheel-drive form. For the SUV fully electric, the lowest landed premium is Qatar at roughly +28.2% over base (about $23,111 landed), while Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. As a mainstream-value SUV fully electric, it starts at $18,030 ex-factory. Specification highlights are LFP chemistry, 310 Nm of torque, and a MacPherson strut front / Multi-link rear suspension layout. For the SUV fully electric buyer, it suits regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

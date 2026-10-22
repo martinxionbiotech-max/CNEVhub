@@ -1,6 +1,6 @@
 ---
 title: "Dayun Yuanhang Y6"
-description: "Dayun Yuanhang Y6 is a Sedan battery-electric from Dayun, offering 720 km of CLTC range a 88.42 kWh battery and 250 kW of motor power. Full landed-cost breakdow"
+description: "The Dayun Yuanhang Y6 is Dayun Yuanhang's sedan battery-electric, offering a CLTC-rated range of 720 km, a 88 kWh battery, and 250 kW peak output. Per-market landed-cost modeling across 30 export destinations."
 slug: "dayun-y6"
 brand: "dayun"
 type: "Sedan"
@@ -25,13 +25,24 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["dayun", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "远航Y6 RMB 329,800 (CarNewsChina/远航官网, 2023-12)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Y6"
 image: "/images/vehicles/dayun-y6.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Dayun Yuanhang Y6
 
@@ -44,8 +55,7 @@ Dayun Yuanhang Y6 (starting at $45,810) is a Sedan from DAYUN.
 
 ## Overview
 
-The Dayun Yuanhang Y6 is a sedan battery-electric from Dayun, with 250 kW of motor power, a 5.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $45,810 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $54,955 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Dayun Yuanhang's Dayun Yuanhang Y6 is a rear-wheel-drive battery-electric sedan. As a premium sedan battery-electric, it starts at $45,810 ex-factory. For the sedan battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while the least-costly destination is Qatar, near +14.1% over base ($52,280 landed). Key figures are Double wishbone front / Multi-link rear suspension and 88 kWh of capacity. For the sedan battery-electric buyer, it suits executive and corporate fleet buyers evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

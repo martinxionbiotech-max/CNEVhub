@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin X3"
-description: "Chery Fulwin X3 is a SUV battery-electric from Chery Fulwin,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Chery Fulwin X3 is Chery Fulwin's SUV fully electric, offering a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-fulwin-x3"
 brand: "chery-fulwin"
 type: "SUV"
@@ -14,13 +14,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery-fulwin", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "CarNewsChina 2025: ¥89,900–109,900"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Fulwin X3"
 image: "/images/vehicles/chery-fulwin-x3.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Chery_Fulwin_X3_Plus_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Chery Fulwin X3
 
@@ -29,8 +41,7 @@ Chery Fulwin X3 (starting at $12,490) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin X3 is a suv battery-electric from Chery Fulwin, . It is positioned as a value-focused import, priced from $12,490 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +45% over base (about $18,220 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Chery Fulwin X3 is an SUV fully electric from Chery Fulwin, in front-wheel-drive form. The $12,490 ex-factory price places this SUV fully electric in the affordable-end band. For the SUV fully electric, the least-costly destination is Qatar, near +38.5% over base ($17,294 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. It carries MacPherson strut front / Multi-link rear suspension and LFP cells. As a SUV fully electric, it is aimed at regional distributors watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

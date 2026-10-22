@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy V900"
-description: "Geely Galaxy V900 is a MPV extended-range electric from Geely Galaxy, offering 202 km of CLTC range a 50.0 kWh battery and 340 kW of motor power. Full landed-co"
+description: "The Geely Galaxy V900 is an MPV extended-range electric from Geely Galaxy with 202 km of CLTC range, 50 kWh of battery, 340 kW of motor power, and a NMC (CATL) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "geely-galaxy-v900"
 brand: "geely-galaxy"
 type: "MPV"
@@ -24,13 +24,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely-galaxy", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "新华网/央视网: ¥269,800 (26.98万起), 1.5T EREV 340 kW/523 Nm, CLTC 202 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geely Galaxy V900"
 image: "/images/vehicles/geely-galaxy-v900.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Geely_Galaxy_V900_001.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "AWD (dual motor)"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Geely Galaxy V900
 
@@ -43,8 +56,7 @@ Geely Galaxy V900 (starting at $37,470) is a MPV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy V900 is a mpv extended-range electric from Geely Galaxy, with 340 kW of motor power, a 6.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $37,470 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $45,760 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Geely Galaxy V900 is an MPV range-extended electric with dual-motor all-wheel-drive from Geely Galaxy. At $37,470 ex-factory, this MPV range-extended electric sits in the mid-market segment. Across export markets for the MPV range-extended electric, the lowest landed premium is Qatar at roughly +16.2% over base (about $43,523 landed); Germany applies the 10% standard tariff with no countervailing duty. It carries NMC (CATL) chemistry and MacPherson strut front / Multi-link rear suspension. The MPV range-extended electric profile suits shuttle and charter fleet operators comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Deepal S07 EREV"
-description: "Deepal S07 EREV is a SUV extended-range electric from Deepal, offering 125 km of CLTC range a 18.99 kWh battery and 175 kW of motor power. Full landed-cost brea"
+description: "The Deepal S07 EREV is Deepal's SUV range-extended electric, offering a CLTC-rated range of 125 km, 18 kWh of battery, 175 kW of motor power, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "deepal-s07-erev"
 brand: "deepal"
 type: "SUV"
@@ -22,13 +22,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["deepal", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "深蓝S07增程 起售价14.99万元（汽车之家/腾讯新闻）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "S07"
 image: "/images/vehicles/deepal-s07-erev.jpg"
 image_credit: "S5A-0043 / Wikimedia Commons / CC BY 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=157783093"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Deepal S07 EREV
 
@@ -40,8 +52,7 @@ Deepal S07 EREV (starting at $20,820) is a SUV from DEEPAL.
 
 ## Overview
 
-The Deepal S07 EREV is a suv extended-range electric from Deepal, with 175 kW of motor power. It is positioned as a value-focused import, priced from $20,820 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,404 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Deepal's Deepal S07 EREV is an rear-wheel-drive extended-range electric SUV. On landed cost for this SUV extended-range electric, Germany levies only the 10% standard tariff; meanwhile, the least-costly destination is Qatar, near +25.1% over base ($26,041 landed). Specification highlights are peak output of 175 kW and a MacPherson strut front / Multi-link rear suspension layout. This SUV extended-range electric is positioned as a value-segment import, from $20,820 ex-factory. For the SUV extended-range electric buyer, it suits families and commercial fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

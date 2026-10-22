@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin A9"
-description: "Chery Fulwin A9 is a Sedan battery-electric from Chery Fulwin, offering 655 km of CLTC range a 70.11 kWh battery and 178 kW of motor power. Full landed-cost bre"
+description: "The Chery Fulwin A9 is Chery Fulwin's sedan fully electric with a CLTC-rated range of 655 km, a 70 kWh battery, 178 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-fulwin-a9"
 brand: "chery-fulwin"
 type: "Sedan"
@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery-fulwin", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Wikipedia/ITHome 2026: ¥115,900 presale, 70.11 kWh, 178 kW, CLTC 655 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Fulwin A9"
 image: "/images/vehicles/chery-fulwin-a9.jpg"
 image_credit: "Poprace / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Chery_Fulwin_A9L_MY2025_IMG02.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Chery Fulwin A9
 
@@ -42,8 +54,7 @@ Chery Fulwin A9 (starting at $16,100) is a Sedan from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin A9 is a sedan battery-electric from Chery Fulwin, with 178 kW of motor power. It is positioned as a value-focused import, priced from $16,100 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,200 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Chery Fulwin A9 is a sedan battery-electric with front-wheel-drive from Chery Fulwin. It carries peak output of 178 kW and 180 km/h top speed. With a $16,100 ex-factory price, the sedan battery-electric reads as mainstream-value. For the sedan battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — Qatar offers the cheapest entry at about +31% over base (≈ $21,085 landed). This sedan battery-electric is positioned for executive and corporate fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin T9L"
-description: "Chery Fulwin T9L is a SUV plug-in hybrid from Chery Fulwin, offering 135 km of CLTC range and 260 kW of motor power. Full landed-cost breakdown across 7 export "
+description: "The Chery Fulwin T9L is an SUV plug-in hybrid from Chery Fulwin with a CLTC-rated range of 135 km, 260 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-fulwin-t9l"
 brand: "chery-fulwin"
 type: "SUV"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery-fulwin", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "新华网/搜狐汽车 2026-04-13: ¥129,900, 260 kW/330 Nm, CLTC 135 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Fulwin T9"
 image: "/images/vehicles/chery-fulwin-t9l.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Chery_Fulwin_T9L_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Chery Fulwin T9L
 
@@ -38,8 +50,7 @@ Chery Fulwin T9L (starting at $18,040) is a SUV from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin T9L is a suv plug-in hybrid from Chery Fulwin, with 260 kW of motor power. It is positioned as a value-focused import, priced from $18,040 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,339 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Chery Fulwin's Chery Fulwin T9L is an front-wheel-drive plug-in hybrid electric SUV. Priced from $18,040 ex-factory, the SUV plug-in hybrid electric falls in the mainstream-value tier. For the SUV plug-in hybrid electric, Germany levies only the 10% standard tariff, while the lowest landed premium is Qatar at roughly +28.2% over base (about $23,122 landed). It carries LFP chemistry, peak torque of 330 Nm, and 135 km of CLTC range. In the SUV plug-in hybrid electric segment, it serves family and fleet buyers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

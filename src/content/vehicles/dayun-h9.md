@@ -1,6 +1,6 @@
 ---
 title: "Dayun Yuanhang H9"
-description: "Dayun Yuanhang H9 is a SUV battery-electric from Dayun, offering 650 km of CLTC range a 98.0 kWh battery and 500 kW of motor power. Full landed-cost breakdown a"
+description: "The Dayun Yuanhang H9 is an SUV fully electric from Dayun Yuanhang, offering 650 km of CLTC range, 98 kWh of battery, and 500 kW peak output. Landed-cost analysis across 30 key export markets for importers."
 slug: "dayun-h9"
 brand: "dayun"
 type: "SUV"
@@ -25,13 +25,24 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["dayun", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "远航H9 RMB 409,800 (CarNewsChina/远航官网, 2024-05)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "H9"
 image: "/images/vehicles/dayun-h9.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+drive_type: "AWD"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Dayun Yuanhang H9
 
@@ -44,8 +55,7 @@ Dayun Yuanhang H9 (starting at $56,920) is a SUV from DAYUN.
 
 ## Overview
 
-The Dayun Yuanhang H9 is a suv battery-electric from Dayun, with 500 kW of motor power, a 3.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $56,920 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +18% over base (about $67,204 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Dayun Yuanhang H9 is an SUV fully electric with all-wheel-drive from Dayun Yuanhang. Specification highlights are 650 km of CLTC range, 210 km/h top speed, and a 500 kW electric motor. Across export markets for the SUV fully electric, the least-costly destination is Qatar, near +12.3% over base ($63,946 landed); Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. This SUV fully electric is positioned as an upper-mid import, from $56,920 ex-factory. In the SUV fully electric segment, it serves regional distributors prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

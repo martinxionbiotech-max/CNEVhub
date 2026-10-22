@@ -1,6 +1,6 @@
 ---
 title: "Chery Tiggo 7 C-DM"
-description: "Chery Tiggo 7 C-DM is a SUV plug-in hybrid from Chery, offering 120 km of CLTC range a 18.66 kWh battery and 150 kW of motor power. Full landed-cost breakdown a"
+description: "The Chery Tiggo 7 C-DM is Chery's SUV plug-in hybrid, offering a CLTC-rated range of 120 km, 18 kWh of battery, 150 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "chery-tiggo-7-c-dm"
 brand: "chery"
 type: "SUV"
@@ -24,13 +24,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "瑞虎7 C-DM RMB 119,900（搜狐汽车/易车；18.66kWh/120km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Tiggo 7"
 image: "/images/vehicles/chery-tiggo-7-c-dm.jpg"
 image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Chery_Tiggo_7_(%E7%91%9E%E8%99%8E7)_III_C-DM_01_China_2025-03-31.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "N/A"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Chery Tiggo 7 C-DM
 
@@ -42,8 +55,7 @@ Chery Tiggo 7 C-DM (starting at $16,650) is a SUV from CHERY.
 
 ## Overview
 
-The Chery Tiggo 7 C-DM is a suv plug-in hybrid from Chery, with 150 kW of motor power. It is positioned as a value-focused import, priced from $16,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,806 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Chery Tiggo 7 C-DM is an front-wheel-drive plug-in hybrid electric SUV from Chery. Across export markets for the SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty — the least-costly destination is Qatar, near +30.1% over base ($21,662 landed). This SUV plug-in hybrid electric is positioned as a value-segment import, from $16,650 ex-factory. Specification highlights are MacPherson strut front / Multi-link rear suspension and a CLTC-rated range of 120 km. For the SUV plug-in hybrid electric buyer, it suits regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

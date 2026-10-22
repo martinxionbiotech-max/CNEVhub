@@ -1,6 +1,6 @@
 ---
 title: "Forthing Thunder"
-description: "Forthing Thunder is a SUV extended-range electric from Forthing, offering 230 km of CLTC range and 120 kW of motor power. Full landed-cost breakdown across 7 ex"
+description: "The Forthing Thunder is an SUV range-extended electric from Forthing with a CLTC-rated range of 230 km, 120 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "forthing-thunder"
 brand: "forthing"
 type: "SUV"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["forthing", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "风行雷霆(增程) RMB 129,900 (东风风行官网/易车)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Thunder"
 image: "/images/vehicles/forthing-thunder.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Forthing Thunder
 
@@ -38,8 +50,7 @@ Forthing Thunder (starting at $18,040) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing Thunder is a suv extended-range electric from Forthing, with 120 kW of motor power. It is positioned as a value-focused import, priced from $18,040 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,339 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Forthing Thunder is an front-wheel-drive range-extended electric SUV from Forthing. Across export markets for the SUV range-extended electric, the lowest landed premium is Qatar at roughly +28.2% over base (about $23,122 landed) — Germany applies the 10% standard tariff with no countervailing duty. Specification highlights are a MacPherson strut front / Multi-link rear suspension layout and peak torque of 240 Nm. Priced from $18,040 ex-factory, the SUV range-extended electric falls in the value-oriented tier. In the SUV range-extended electric segment, it serves regional distributors focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

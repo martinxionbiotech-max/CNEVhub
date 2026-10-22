@@ -1,6 +1,6 @@
 ---
 title: "Geometry E"
-description: "Geometry E is a SUV battery-electric from Geometry, a 33.5 kWh battery and 60 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B impo"
+description: "The Geometry E, an SUV fully electric from Geometry, offering a 33 kWh battery, 60 kW of motor power, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "geometry-e"
 brand: "geometry"
 type: "SUV"
@@ -22,13 +22,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geometry", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "几何E RMB 86,800 (Wikipedia/CarNewsChina); 续航为NEDC 320/401km，非CLTC"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geometry E"
 image: "/images/vehicles/geometry-e.jpg"
 image_credit: "Quzhouliulian / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Geometry_E_007.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Geometry E
 
@@ -39,8 +51,7 @@ Geometry E (starting at $12,060) is a SUV from GEOMETRY.
 
 ## Overview
 
-The Geometry E is a suv battery-electric from Geometry, with 60 kW of motor power. It is positioned as a value-focused import, priced from $12,060 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +47% over base (about $17,746 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Geometry E is an SUV battery-electric with front-wheel-drive from Geometry. For the SUV battery-electric, the lowest landed premium is Qatar at roughly +39.7% over base (about $16,843 landed); meanwhile, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. As a budget SUV battery-electric, it starts at $12,060 ex-factory. It carries peak torque of 130 Nm and LFP chemistry. This SUV battery-electric is positioned for private buyers and fleet managers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

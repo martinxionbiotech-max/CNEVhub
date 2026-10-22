@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng eπ M8"
-description: "Dongfeng eπ M8 is a SUV extended-range electric from Dongfeng eπ,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Dongfeng eπ M8 is Dongfeng eπ's SUV extended-range electric, offering LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "dongfeng-epi-m8"
 brand: "dongfeng-e"
 type: "SUV"
@@ -14,13 +14,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["dongfeng-e", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "奕派M8 RMB 169,800 (东风奕派官网)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "eπ"
 image: "/images/vehicles/dongfeng-epi-m8.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Dongfeng_e%CF%80_M8_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Dongfeng eπ M8
 
@@ -29,8 +41,7 @@ Dongfeng eπ M8 (starting at $23,580) is a SUV from DONGFENG E.
 
 ## Overview
 
-The Dongfeng eπ M8 is a suv extended-range electric from Dongfeng eπ, . It is positioned as a value-focused import, priced from $23,580 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,446 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Dongfeng eπ's Dongfeng eπ M8 is an front-wheel-drive range-extended electric SUV. With a $23,580 ex-factory price, the SUV range-extended electric reads as value. For this SUV range-extended electric, Germany applies the 10% standard tariff with no countervailing duty, while the least-costly destination is Qatar, near +22.7% over base ($28,939 landed). Specification highlights are a MacPherson strut front / Multi-link rear suspension layout and LFP cells. The SUV range-extended electric profile suits regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

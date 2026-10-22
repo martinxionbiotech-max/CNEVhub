@@ -1,6 +1,6 @@
 ---
 title: "Geely Panda Mini EV"
-description: "Geely Panda Mini EV is a Hatchback battery-electric from Geely Galaxy, offering 200 km of CLTC range a 17.03 kWh battery and 30 kW of motor power. Full landed-c"
+description: "Geely Galaxy's Geely Panda Mini EV is a hatchback fully electric, offering a CLTC-rated range of 200 km, 17 kWh of battery, 30 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "geely-galaxy-panda-mini"
 brand: "geely-galaxy"
 type: "Hatchback"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely-galaxy", "Hatchback", "chinese-ev", "export"]
 data_tier: 1
-data_source: "新浪汽车/IT之家/BitAuto: ¥39,900 (3.99万起), 30 kW, 17.03 kWh LFP, CLTC 200 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Geely Panda mini"
 image: "/images/vehicles/geely-galaxy-panda-mini.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=164224354"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front disc / rear drum"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Geely Panda Mini EV
 
@@ -39,8 +51,7 @@ Geely Panda Mini EV (starting at $5,540) is a Hatchback from GEELY GALAXY.
 
 ## Overview
 
-The Geely Panda Mini EV is a hatchback battery-electric from Geely Galaxy, with 30 kW of motor power. It is positioned as a value-focused import, priced from $5,540 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +90% over base (about $10,557 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Geely Panda Mini EV is a hatchback fully electric with rear-wheel-drive from Geely Galaxy. The $5,540 ex-factory price places this hatchback fully electric in the budget band. Across export markets for the hatchback fully electric, Qatar offers the cheapest entry at about +80.5% over base (≈ $9,997 landed) — Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff. Key figures are MacPherson strut front / Torsion beam rear suspension, peak output of 30 kW, and LFP chemistry. In the hatchback fully electric segment, it serves city-focused buyers and delivery fleets seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

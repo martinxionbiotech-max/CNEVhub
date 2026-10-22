@@ -1,6 +1,6 @@
 ---
 title: "Chery Fulwin A8L"
-description: "Chery Fulwin A8L is a Sedan plug-in hybrid from Chery Fulwin, offering 145 km of CLTC range a 18.67 kWh battery. Full landed-cost breakdown across 7 export mark"
+description: "The Chery Fulwin A8L, a sedan plug-in hybrid electric from Chery Fulwin with a CLTC-rated range of 145 km, 18 kWh of battery, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "chery-fulwin-a8l"
 brand: "chery-fulwin"
 type: "Sedan"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["chery-fulwin", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "paultan.org/CarNewsChina: ¥109,900, 18.67 kWh, CLTC 145 km EV / 2100 km combined"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Fulwin A8"
 image: "/images/vehicles/chery-fulwin-a8l.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Chery_Fulwin_A8L_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Chery Fulwin A8L
 
@@ -40,8 +52,7 @@ Chery Fulwin A8L (starting at $15,260) is a Sedan from CHERY FULWIN.
 
 ## Overview
 
-The Chery Fulwin A8L is a sedan plug-in hybrid from Chery Fulwin, . It is positioned as a value-focused import, priced from $15,260 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,274 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Chery Fulwin A8L is a sedan plug-in hybrid electric from Chery Fulwin, in front-wheel-drive form. The $15,260 ex-factory price places this sedan plug-in hybrid electric in the value-oriented band. For this sedan plug-in hybrid electric, Germany levies only the 10% standard tariff — the least-costly destination is Qatar, near +32.4% over base ($20,203 landed). Key figures are a top speed of 185 km/h and LFP chemistry. In the sedan plug-in hybrid electric segment, it serves executive and corporate fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

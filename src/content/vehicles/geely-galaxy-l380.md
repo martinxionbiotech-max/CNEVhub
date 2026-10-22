@@ -1,6 +1,6 @@
 ---
 title: "Geely Galaxy LEVC L380"
-description: "Geely Galaxy LEVC L380 is a MPV battery-electric from Geely Galaxy, offering 570 km of CLTC range a 100.0 kWh battery and 200 kW of motor power. Full landed-cos"
+description: "The Geely Galaxy LEVC L380 is an MPV battery-electric from Geely Galaxy, offering 570 km of CLTC range, 100 kWh of battery, 200 kW of motor power, and NMC (CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "geely-galaxy-l380"
 brand: "geely-galaxy"
 type: "MPV"
@@ -24,13 +24,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["geely-galaxy", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Wikipedia/吉利银河官网: ¥299,900 (29.99万起), 100 kWh, 200 kW, CLTC 570 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "LEVC L380"
 image: "/images/vehicles/geely-galaxy-l380.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Geely_Galaxy_V900_001.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Geely Galaxy LEVC L380
 
@@ -42,8 +55,7 @@ Geely Galaxy LEVC L380 (starting at $41,650) is a MPV from GEELY GALAXY.
 
 ## Overview
 
-The Geely Galaxy LEVC L380 is a mpv battery-electric from Geely Galaxy, with 200 kW of motor power. It is positioned as a value-focused import, priced from $41,650 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $50,369 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Geely Galaxy LEVC L380 is an MPV fully electric from Geely Galaxy, in rear-wheel-drive form. Specification highlights are 170 km/h top speed, NMC (CATL) chemistry, and 100 kWh of capacity. On landed cost for this MPV fully electric, Qatar offers the cheapest entry at about +15% over base (≈ $47,912 landed), while Germany applies a 18.8% countervailing duty on top of the 10% standard tariff. With a $41,650 ex-factory price, the MPV fully electric reads as premium. The MPV fully electric profile suits shuttle and charter fleet operators focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

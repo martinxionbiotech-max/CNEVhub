@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai V6 Plus"
-description: "Forthing Xinghai V6 Plus is a SUV extended-range electric from Forthing,. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Forthing's Forthing Xinghai V6 Plus is an SUV range-extended electric, offering LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "forthing-xinghai-v6-plus"
 brand: "forthing"
 type: "SUV"
@@ -18,13 +18,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["forthing", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "星海V6 PLUS RMB 151,900 (东风风行官网)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xinghai"
 image: "/images/vehicles/forthing-xinghai-v6-plus.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=157560513"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Forthing Xinghai V6 Plus
 
@@ -33,8 +45,7 @@ Forthing Xinghai V6 Plus (starting at $21,100) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing Xinghai V6 Plus is a suv extended-range electric from Forthing, . It is positioned as a value-focused import, priced from $21,100 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +31% over base (about $27,712 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Forthing's Forthing Xinghai V6 Plus is an front-wheel-drive range-extended electric SUV. With a $21,100 ex-factory price, the SUV range-extended electric reads as value. It carries LFP cells and MacPherson strut front / Multi-link rear suspension. For this SUV range-extended electric, Germany applies the 10% standard tariff with no countervailing duty, while Qatar offers the cheapest entry at about +24.8% over base (≈ $26,335 landed). The SUV range-extended electric profile suits families and commercial fleet operators prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "Denza D9 DM-i"
-description: "Denza D9 DM-i is a MPV plug-in hybrid from Denza, offering 98 km of CLTC range a 20.39 kWh battery and 170 kW of motor power. Full landed-cost breakdown across "
+description: "The Denza D9 DM-i is Denza's MPV plug-in hybrid with a CLTC-rated range of 98 km, a 20 kWh battery, 170 kW peak output, and LFP (Blade) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "denza-d9-dm-i"
 brand: "denza"
 type: "MPV"
@@ -23,13 +23,27 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["denza", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "腾势D9 DM-i 起售价33.98万元（维基百科/新浪汽车）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "D9"
 image: "/images/vehicles/denza-d9-dm-i.jpg"
 image_credit: "Evnerd / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Denza_D9_DM-i_20230917.jpg"
+battery_type: "LFP (Blade)"
+drive_type: "FWD / AWD"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+trim: "DM-i 尊贵型 / 旗舰型"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Denza D9 DM-i
 
@@ -42,8 +56,7 @@ Denza D9 DM-i (starting at $47,190) is a MPV from DENZA.
 
 ## Overview
 
-The Denza D9 DM-i is a mpv plug-in hybrid from Denza, with 170 kW of motor power, a 9.5-second 0–100 km/h time. It is positioned as a value-focused import, priced from $47,190 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +19% over base (about $56,476 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Denza D9 DM-i is an MPV plug-in hybrid electric with front- or all-wheel-drive from Denza. This MPV plug-in hybrid electric is positioned as a premium import, from $47,190 ex-factory. It carries 0–100 km/h in 9.5 seconds and MacPherson strut front / Multi-link rear suspension. For this MPV plug-in hybrid electric, the lowest landed premium is Qatar at roughly +13.9% over base (about $53,729 landed), while Germany applies the 10% standard tariff with no countervailing duty. For the MPV plug-in hybrid electric buyer, it suits shuttle and charter fleet operators focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

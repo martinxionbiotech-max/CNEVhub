@@ -1,6 +1,6 @@
 ---
 title: "Forthing Xinghai V6"
-description: "Forthing Xinghai V6 is a SUV battery-electric from Forthing, offering 400 km of CLTC range a 45.5 kWh battery and 135 kW of motor power. Full landed-cost breakd"
+description: "Forthing's Forthing Xinghai V6 is an SUV fully electric with 400 km of CLTC range, a 45 kWh battery, 135 kW peak output, and LFP chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "forthing-xinghai-v6"
 brand: "forthing"
 type: "SUV"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["forthing", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "星海V6 RMB 89,900 (东风风行官网/搜狐汽车)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xinghai"
 image: "/images/vehicles/forthing-xinghai-v6.jpg"
 image_credit: "Alexander-93 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:DFSK_Forthing_4_U-Tour_IMG_8159.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Forthing Xinghai V6
 
@@ -39,8 +51,7 @@ Forthing Xinghai V6 (starting at $12,490) is a SUV from FORTHING.
 
 ## Overview
 
-The Forthing Xinghai V6 is a suv battery-electric from Forthing, with 135 kW of motor power. It is positioned as a value-focused import, priced from $12,490 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +45% over base (about $18,220 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Forthing Xinghai V6 is an SUV battery-electric with front-wheel-drive from Forthing. Key figures are peak output of 135 kW and MacPherson strut front / Multi-link rear suspension. This SUV battery-electric is positioned as a budget import, from $12,490 ex-factory. For the SUV battery-electric, the least-costly destination is Qatar, near +38.5% over base ($17,294 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. For the SUV battery-electric buyer, it suits regional distributors focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

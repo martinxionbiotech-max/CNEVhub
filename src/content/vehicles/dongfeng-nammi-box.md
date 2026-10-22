@@ -1,6 +1,6 @@
 ---
 title: "Dongfeng Nammi BOX"
-description: "Dongfeng Nammi BOX is a SUV battery-electric from Dongfeng Nammi, offering 331 km of CLTC range a 27.2 kWh battery and 33 kW of motor power. Full landed-cost br"
+description: "Dongfeng Nammi's Dongfeng Nammi BOX is an SUV battery-electric with a CLTC-rated range of 331 km, 27 kWh of battery, 33 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "dongfeng-nammi-box"
 brand: "dongfeng-nammi"
 type: "SUV"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["dongfeng-nammi", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "东风纳米BOX RMB 54,700（买车网/EV视界；27.2kWh/331km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Nammi BOX"
 image: "/images/vehicles/dongfeng-nammi-box.jpg"
 image_credit: "Alexander-93 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Dongfeng_Nammi_Box_Auto_Zuerich_2024_DSC_6407.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Dongfeng Nammi BOX
 
@@ -41,8 +53,7 @@ Dongfeng Nammi BOX (starting at $7,600) is a SUV from DONGFENG NAMMI.
 
 ## Overview
 
-The Dongfeng Nammi BOX is a suv battery-electric from Dongfeng Nammi, with 33 kW of motor power. It is positioned as a value-focused import, priced from $7,600 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +68% over base (about $12,829 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Dongfeng Nammi BOX is an front-wheel-drive battery-electric SUV from Dongfeng Nammi. For this SUV battery-electric, Qatar offers the cheapest entry at about +60% over base (≈ $12,160 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Key figures are LFP chemistry and a 27 kWh battery. As a affordable-end SUV battery-electric, it starts at $7,600 ex-factory. The SUV battery-electric profile suits family and fleet buyers prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

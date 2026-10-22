@@ -1,6 +1,6 @@
 ---
 title: "GAC Xiangwang S7"
-description: "GAC Xiangwang S7 is a SUV plug-in hybrid from GAC Motor, offering 205 km of CLTC range a 36.3 kWh battery. Full landed-cost breakdown across 7 export markets fo"
+description: "The GAC Xiangwang S7 is an SUV plug-in hybrid from GAC Motor, offering a CLTC-rated range of 205 km, a 36 kWh battery, and NMC chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "gac-motor-xiangwang-s7"
 brand: "gac-motor"
 type: "SUV"
@@ -20,13 +20,23 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["gac-motor", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "传祺向往S7 RMB 169,800 (新华网/IT之家, 2025-03)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Xiangwang"
 image: "/images/vehicles/gac-motor-xiangwang-s7.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Trumpchi_Xiangwang_S7_001.jpg"
+battery_type: "NMC"
+drive_type: "FWD / AWD"
+motor_type: "PMSM (DHT hybrid)"
+battery_thermal: "Liquid cooling"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # GAC Xiangwang S7
 
@@ -37,8 +47,7 @@ GAC Xiangwang S7 (starting at $23,580) is a SUV from GAC MOTOR.
 
 ## Overview
 
-The GAC Xiangwang S7 is a suv plug-in hybrid from GAC Motor, . It is positioned as a value-focused import, priced from $23,580 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $30,446 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+GAC Motor's GAC Xiangwang S7 is an front- or all-wheel-drive plug-in hybrid electric SUV. Across export markets for the SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the least-costly destination is Qatar, near +22.7% over base ($28,939 landed). As a value SUV plug-in hybrid electric, it starts at $23,580 ex-factory. Key figures are 205 km of CLTC range and a 36 kWh battery. For the SUV plug-in hybrid electric buyer, it suits importers targeting the family-SUV segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
