@@ -66,6 +66,9 @@ const vehicles = defineCollection({
     data_reviewed: z.boolean().optional(),
     confidence: z.string().optional(),
     family: z.string().optional(),
+    spec_source_type: z
+      .enum(['official_spec', 'manufacturer_claim', 'independent_test', 'estimate', 'unverified'])
+      .optional(),
   }),
 });
 

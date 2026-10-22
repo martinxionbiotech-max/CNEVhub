@@ -1,4 +1,5 @@
 import { getCollection } from 'astro:content';
+import { tierFromDataTier } from '@/lib/spec-tier';
 
 /**
  * /data/vehicles.json — machine-readable public export (§16).
@@ -53,6 +54,7 @@ export async function GET() {
 
       // Provenance (single source of truth)
       data_tier: d.data_tier ?? null,
+      spec_source_type: tierFromDataTier(d.data_tier) ?? d.spec_source_type ?? null,
       data_source: d.data_source ?? null,
       data_updated: d.data_updated ?? null,
       data_reviewed: d.data_reviewed ?? null,
