@@ -252,6 +252,19 @@ const jsonLd = {
     {data.fast_charge && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.fast_charge}</div><div class="text-xs text-gray-500 mt-1">Fast charge</div></div>}
   </div>
 
+  <!-- Compare CTA -->
+  <section class="mb-12">
+    <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 p-5 rounded-xl border border-green-200 bg-green-50/50">
+      <div>
+        <h2 class="font-semibold text-gray-900">Compare this model</h2>
+        <p class="text-sm text-gray-600">Side-by-side against up to two other vehicles — same-trim specs, price, and range by standard (CLTC / WLTP / EPA).</p>
+      </div>
+      <a href={`/compare/?a=${slug}`} class="inline-flex items-center justify-center px-5 py-2.5 rounded-lg bg-green-600 hover:bg-green-500 text-white font-semibold text-sm whitespace-nowrap transition">
+        Compare →
+      </a>
+    </div>
+  </section>
+
   <!-- ① Entity Snapshot -->
   <section class="mb-12">
     <h2 class="text-2xl font-bold mb-3 text-gray-900">Entity Snapshot</h2>

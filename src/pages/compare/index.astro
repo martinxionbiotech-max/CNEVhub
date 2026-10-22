@@ -1,0 +1,362 @@
+---
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import { getCollection } from 'astro:content';
+import { url as siteUrl } from '@/config';
+
+/**
+ * /compare/ — evidence-based side-by-side comparison tool.
+ *
+ * Data comes from a single source (the `vehicles` content collection — 517 models).
+ * Specs are shown per listed trim, with range standards (CLTC / WLTP / EPA) kept as
+ * separate rows. No figures are blended across trims or standards. No reviews or
+ * ratings are fabricated — this is a spec-comparison tool only.
+ *
+ * Static-host note: the table is rendered client-side from the injected catalog JSON,
+ * and the URL query (?a=&b=&c=) is kept in sync via history.replaceState. A server-
+ * rendered default comparison (BYD Seal vs Xiaomi SU7) is the no-JS / indexable state.
+ */
+const vehicles = await getCollection('vehicles');
+
+interface CompareRow {
+  slug: string;
+  title: string;
+  brandLabel: string;
+  type: string;
+  powertrain: string;
+  trim: string;
+  price: number;
+  priceType: string;
+  rangeCltc: number | null;
+  rangeWltp: number | null;
+  rangeEpa: number | null;
+  rangeStandard: string | null;
+  battery: number | null;
+  batteryType: string | null;
+  motorPower: number | null;
+  torque: number | null;
+  driveType: string | null;
+  motorType: string | null;
+  accel: number | null;
+  topSpeed: number | null;
+  fastCharge: string | null;
+  length: number | null;
+  width: number | null;
+  height: number | null;
+  wheelbase: number | null;
+  weight: number | null;
+  hsCode: string | null;
+  chargingInterface: string | null;
+  landedGermany: number | null;
+}
+
+const compareData: CompareRow[] = vehicles
+  .map((v) => {
+    const d = v.data;
+    const lcGermany =
+      (d.landed_cost_markets || []).find((m) => m && m.market_key === 'germany') ?? d.landed_cost;
+    return {
+      slug: d.slug,
+      title: d.title,
+      brandLabel: d.brand.toUpperCase(),
+      type: d.type,
+      powertrain: d.powertrain,
+      trim: d.trim || 'Standard (base)',
+      price: d.price_usd,
+      priceType: d.price_type || 'China ex-factory price (MSRP)',
+      rangeCltc: d.range_cltc_km ?? null,
+      rangeWltp: d.range_wltp_km ?? null,
+      rangeEpa: d.range_epa_km ?? null,
+      rangeStandard: d.range_standard_primary ?? null,
+      battery: d.battery_kwh ?? null,
+      batteryType: d.battery_type ?? null,
+      motorPower: d.motor_power_kw ?? null,
+      torque: d.torque_nm ?? null,
+      driveType: d.drive_type ?? null,
+      motorType: d.motor_type ?? null,
+      accel: d.accel_0_100_s ?? null,
+      topSpeed: d.top_speed_kmh ?? null,
+      fastCharge: d.fast_charge ?? null,
+      length: d.length_mm ?? null,
+      width: d.width_mm ?? null,
+      height: d.height_mm ?? null,
+      wheelbase: d.wheelbase_mm ?? null,
+      weight: d.weight_kg ?? null,
+      hsCode: d.hs_code ?? null,
+      chargingInterface: d.charging_interface ?? null,
+      landedGermany: lcGermany && typeof lcGermany.total_landed_usd === 'number' ? lcGermany.total_landed_usd : null,
+    };
+  })
+  .sort((a, b) => a.title.localeCompare(b.title));
+
+const bySlug = new Map(compareData.map((c) => [c.slug, c]));
+
+// Default example pair (no-JS / indexable fallback).
+const defaultSlugs = ['byd-seal', 'xiaomi-su7'];
+const defaultSelection = defaultSlugs
+  .map((s) => bySlug.get(s))
+  .filter((r): r is CompareRow => !!r);
+
+// Row definitions — single source for server default table AND client re-render.
+type RowKind = 'usd' | 'str' | 'unit';
+interface RowSpec {
+  label: string;
+  group?: boolean;
+  field?: string;
+  kind?: RowKind;
+  suffix?: string;
+}
+const rows: RowSpec[] = [
+  { label: 'Overview', group: true },
+  { label: 'Brand', field: 'brandLabel', kind: 'str' },
+  { label: 'Body type', field: 'type', kind: 'str' },
+  { label: 'Powertrain', field: 'powertrain', kind: 'str' },
+  { label: 'Trim / version', field: 'trim', kind: 'str' },
+  { label: 'Price (ex-factory China)', field: 'price', kind: 'usd' },
+  { label: 'Landed cost (Germany, est.)', field: 'landedGermany', kind: 'usd' },
+
+  { label: 'Range (by standard)', group: true },
+  { label: 'Range — CLTC', field: 'rangeCltc', kind: 'unit', suffix: ' km' },
+  { label: 'Range — WLTP', field: 'rangeWltp', kind: 'unit', suffix: ' km' },
+  { label: 'Range — EPA', field: 'rangeEpa', kind: 'unit', suffix: ' km' },
+  { label: 'Primary range standard', field: 'rangeStandard', kind: 'str' },
+
+  { label: 'Battery & Powertrain', group: true },
+  { label: 'Battery capacity', field: 'battery', kind: 'unit', suffix: ' kWh' },
+  { label: 'Battery type', field: 'batteryType', kind: 'str' },
+  { label: 'Motor power', field: 'motorPower', kind: 'unit', suffix: ' kW' },
+  { label: 'Torque', field: 'torque', kind: 'unit', suffix: ' Nm' },
+  { label: 'Drive layout', field: 'driveType', kind: 'str' },
+  { label: 'Motor type', field: 'motorType', kind: 'str' },
+  { label: '0–100 km/h', field: 'accel', kind: 'unit', suffix: ' s' },
+  { label: 'Top speed', field: 'topSpeed', kind: 'unit', suffix: ' km/h' },
+  { label: 'Fast charge', field: 'fastCharge', kind: 'str' },
+
+  { label: 'Dimensions', group: true },
+  { label: 'Length', field: 'length', kind: 'unit', suffix: ' mm' },
+  { label: 'Width', field: 'width', kind: 'unit', suffix: ' mm' },
+  { label: 'Height', field: 'height', kind: 'unit', suffix: ' mm' },
+  { label: 'Wheelbase', field: 'wheelbase', kind: 'unit', suffix: ' mm' },
+  { label: 'Curb weight', field: 'weight', kind: 'unit', suffix: ' kg' },
+
+  { label: 'Export profile', group: true },
+  { label: 'HS code', field: 'hsCode', kind: 'str' },
+  { label: 'Charging interface', field: 'chargingInterface', kind: 'str' },
+];
+
+const fmtVal = (v: unknown, kind?: RowKind, suffix?: string): string => {
+  if (kind === 'usd') return typeof v === 'number' ? `$${v.toLocaleString()}` : '—';
+  if (kind === 'unit') return typeof v === 'number' ? `${v.toLocaleString()}${suffix ?? ''}` : '—';
+  return v == null || v === '' ? '—' : String(v);
+};
+
+// Brand-grouped option list for the three selectors.
+const brandGroups = new Map<string, CompareRow[]>();
+for (const c of compareData) {
+  const b = c.brandLabel;
+  if (!brandGroups.has(b)) brandGroups.set(b, []);
+  brandGroups.get(b)!.push(c);
+}
+const sortedBrands = [...brandGroups.keys()].sort();
+
+// Serialized payload for the client renderer.
+const compareDataJson = JSON.stringify(compareData).replace(/</g, '\\u003c');
+const rowsJson = JSON.stringify(rows).replace(/</g, '\\u003c');
+const defaultSlugsJson = JSON.stringify(defaultSelection.map((r) => r.slug)).replace(/</g, '\\u003c');
+
+// WebApplication + BreadcrumbList schema (no fabricated ratings/reviews).
+const pageUrl = new URL(Astro.url.pathname, siteUrl).href;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  '@id': `${pageUrl}#compare`,
+  name: 'EV Comparison Tool',
+  url: pageUrl,
+  applicationCategory: 'BusinessApplication',
+  operatingSystem: 'Any',
+  description:
+    'Side-by-side specification comparison of Chinese electric vehicles from the EV Hub catalog — price, range by standard (CLTC / WLTP / EPA), battery, powertrain, dimensions and export profile. Data from a single 517-vehicle source.',
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Chengguang Energy',
+    url: siteUrl,
+  },
+};
+---
+
+<MarketingLayout
+  title="Compare Chinese EVs"
+  description="Compare Chinese electric vehicles side by side — price, range by standard (CLTC / WLTP / EPA), battery, powertrain and dimensions from a single 517-vehicle catalog."
+  breadcrumb={[
+    { name: 'Home', item: siteUrl },
+    { name: 'Compare', item: `${siteUrl}/compare/` },
+  ]}
+>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
+      <a href="/" class="hover:text-green-600">Home</a> / <span class="text-gray-700">Compare</span>
+    </nav>
+
+    <div class="mb-8">
+      <h1 class="text-4xl md:text-5xl font-bold mb-3 text-gray-900">Compare Chinese EVs</h1>
+      <p class="text-lg text-gray-600 max-w-3xl">
+        Pick up to three vehicles and compare their listed-trim specifications side by side.
+        Range standards (CLTC / WLTP / EPA) are shown separately — never blended into one number.
+      </p>
+    </div>
+
+    <!-- Selector -->
+    <div class="mb-10 grid sm:grid-cols-3 gap-4">
+      {['a', 'b', 'c'].map((p, i) => (
+        <div>
+          <label for={`cmp-${p}`} class="block text-sm font-semibold text-gray-700 mb-1">Vehicle {String.fromCharCode(65 + i)}</label>
+          <select id={`cmp-${p}`} class="w-full px-3 py-2.5 rounded-lg border border-gray-300 bg-white text-gray-900 focus:ring-2 focus:ring-green-500 focus:border-green-500 outline-none text-sm">
+            <option value="">— Select vehicle —</option>
+            {sortedBrands.map((b) => (
+              <optgroup label={b}>
+                {brandGroups.get(b)!.map((c) => (
+                  <option value={c.slug}>{c.title} · ${c.price.toLocaleString()}</option>
+                ))}
+              </optgroup>
+            ))}
+          </select>
+        </div>
+      ))}
+    </div>
+
+    <!-- Table container: server-rendered default; client re-renders on query/change -->
+    <div id="compare-root">
+      <div class="overflow-x-auto rounded-xl border border-gray-200">
+        <table class="w-full text-sm">
+          <thead class="bg-gray-50">
+            <tr>
+              <th class="px-5 py-3 text-left font-semibold text-gray-600 w-48 sticky left-0 bg-gray-50">Specification</th>
+              {defaultSelection.map((r) => (
+                <th class="px-5 py-3 text-left font-semibold text-gray-900 min-w-[200px]">
+                  <a href={`/vehicles/${r.slug}/`} class="hover:text-green-700">{r.title}</a>
+                </th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map((row) => {
+              if (row.group) {
+                return (
+                  <tr class="bg-green-50/60">
+                    <td colSpan={defaultSelection.length + 1} class="px-5 py-2 font-semibold text-green-700 text-xs uppercase tracking-wide">{row.label}</td>
+                  </tr>
+                );
+              }
+              const field = row.field as keyof CompareRow;
+              const vals = defaultSelection.map((r) => fmtVal(r[field], row.kind, row.suffix));
+              return (
+                <tr class="border-t border-gray-100">
+                  <td class="px-5 py-3 font-medium text-gray-700 sticky left-0 bg-white">{row.label}</td>
+                  {vals.map((v, j) => (
+                    <td class={`px-5 py-3 text-gray-900 ${j === defaultSelection.length - 1 ? '' : 'border-r border-gray-100'}`}>{v}</td>
+                  ))}
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <p class="text-xs text-gray-400 mt-4 leading-relaxed">
+      All figures are sourced from the EV Hub catalog ({vehicles.length} vehicles, single source of truth).
+      Specs are shown for the listed trim; range standards are displayed separately and never converted between CLTC, WLTP or EPA.
+      "Landed cost (Germany)" is an estimate (official MSRP + EU duty rates; freight, certification and registration are EV Hub estimates).
+      This tool contains no ratings, reviews or seller claims.
+    </p>
+
+    <div class="mt-8 text-sm text-gray-500">
+      Need a deeper read? <a href="/landed-cost-calculator/" class="text-green-700 hover:underline">Calculate landed cost</a> · <a href="/blog/byd-seal-deep-review/" class="text-green-700 hover:underline">BYD Seal deep review</a>
+    </div>
+  </div>
+</MarketingLayout>
+
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+<script type="application/json" id="compare-data" set:html={compareDataJson} />
+<script type="application/json" id="compare-rows" set:html={rowsJson} />
+<script type="application/json" id="compare-default-slugs" set:html={defaultSlugsJson} />
+
+<script>
+  const DATA = JSON.parse(document.getElementById('compare-data').textContent);
+  const ROWS = JSON.parse(document.getElementById('compare-rows').textContent);
+  const DEFAULT_SLUGS = JSON.parse(document.getElementById('compare-default-slugs').textContent);
+  const ROOT = document.getElementById('compare-root');
+  const SELECTS = ['a', 'b', 'c'].map((p) => document.getElementById('cmp-' + p));
+
+  function esc(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  function fmt(v, kind, suffix) {
+    if (kind === 'usd') return typeof v === 'number' ? '$' + v.toLocaleString() : '—';
+    if (kind === 'unit') return typeof v === 'number' ? v.toLocaleString() + (suffix || '') : '—';
+    return v == null || v === '' ? '—' : String(v);
+  }
+
+  function renderTable(sel) {
+    if (!sel || sel.length < 2) {
+      ROOT.innerHTML = '<p class="text-sm text-gray-500">Select at least two vehicles to compare.</p>';
+      return;
+    }
+    let html = '<div class="overflow-x-auto rounded-xl border border-gray-200"><table class="w-full text-sm">';
+    html += '<thead class="bg-gray-50"><tr><th class="px-5 py-3 text-left font-semibold text-gray-600 w-48 sticky left-0 bg-gray-50">Specification</th>';
+    sel.forEach((r) => { html += `<th class="px-5 py-3 text-left font-semibold text-gray-900 min-w-[200px]"><a href="/vehicles/${esc(r.slug)}/" class="hover:text-green-700">${esc(r.title)}</a></th>`; });
+    html += '</tr></thead><tbody>';
+    ROWS.forEach((row) => {
+      if (row.group) {
+        html += `<tr class="bg-green-50/60"><td colspan="${sel.length + 1}" class="px-5 py-2 font-semibold text-green-700 text-xs uppercase tracking-wide">${esc(row.label)}</td></tr>`;
+        return;
+      }
+      html += '<tr class="border-t border-gray-100"><td class="px-5 py-3 font-medium text-gray-700 sticky left-0 bg-white">' + esc(row.label) + '</td>';
+      sel.forEach((r, j) => {
+        const v = fmt(r[row.field], row.kind, row.suffix);
+        html += `<td class="px-5 py-3 text-gray-900 ${j === sel.length - 1 ? '' : 'border-r border-gray-100'}">${esc(v)}</td>`;
+      });
+      html += '</tr>';
+    });
+    html += '</tbody></table></div>';
+    ROOT.innerHTML = html;
+  }
+
+  function resolveSelection() {
+    const q = new URLSearchParams(window.location.search);
+    const slugs = ['a', 'b', 'c'].map((p) => q.get(p)).filter(Boolean);
+    const sel = slugs.map((s) => DATA.find((d) => d.slug === s)).filter(Boolean);
+    return sel.length >= 2 ? sel.slice(0, 3) : null;
+  }
+
+  function syncUrl(slugs) {
+    const q = new URLSearchParams();
+    const names = ['a', 'b', 'c'];
+    slugs.forEach((s, i) => { if (s) q.set(names[i], s); });
+    const qs = q.toString();
+    const url = '/compare/' + (qs ? '?' + qs : '');
+    history.replaceState(null, '', url);
+  }
+
+  function apply() {
+    let sel = resolveSelection();
+    if (!sel) {
+      sel = DEFAULT_SLUGS.map((s) => DATA.find((d) => d.slug === s)).filter(Boolean);
+    }
+    // Sync dropdowns
+    SELECTS.forEach((s, i) => { s.value = sel[i] ? sel[i].slug : ''; });
+    renderTable(sel);
+  }
+
+  SELECTS.forEach((s) => {
+    s.addEventListener('change', () => {
+      const slugs = SELECTS.map((x) => x.value).filter(Boolean);
+      syncUrl(slugs);
+      const sel = slugs.map((sl) => DATA.find((d) => d.slug === sl)).filter(Boolean);
+      renderTable(sel.length >= 2 ? sel.slice(0, 3) : null);
+    });
+  });
+
+  apply();
+</script>

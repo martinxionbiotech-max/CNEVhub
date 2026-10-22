@@ -13,10 +13,9 @@ export const navigation: Navigation = {
       { label: 'Home', href: '/' },
       { label: 'Vehicles', href: '/vehicles' },
       { label: 'Brands', href: '/brands' },
+      { label: 'Compare', href: '/compare' },
       { label: 'Landed Cost', href: '/landed-cost-calculator' },
-      { label: 'How It Works', href: '/landed-cost-methodology' },
       { label: 'Guides', href: '/blog', feature: 'blog' },
-      { label: 'Docs', href: '/docs', feature: 'docs' },
     ],
     cta: [
       { label: 'Browse Vehicles', href: '/vehicles', variant: 'primary' },
@@ -27,6 +26,7 @@ export const navigation: Navigation = {
     product: [
       { label: 'Vehicles', href: '/vehicles' },
       { label: 'Brands', href: '/brands' },
+      { label: 'Compare', href: '/compare' },
       { label: 'Landed Cost Calculator', href: '/landed-cost-calculator' },
       { label: 'Methodology', href: '/landed-cost-methodology' },
       { label: 'Docs', href: '/docs' },
