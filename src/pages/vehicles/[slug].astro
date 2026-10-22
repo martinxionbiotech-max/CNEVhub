@@ -23,6 +23,81 @@ const sameBrandVehicles = vehicles
 const lc = data.landed_cost || {};
 const multiLc = (data.landed_cost_markets || []).filter((m) => m && m.total_landed_usd);
 
+/** N/A fallback for string/optional spec fields (industrial tone, zero fabrication). */
+const na = (v: unknown, suffix = ''): string =>
+  v == null || v === '' ? 'N/A' : `${v}${suffix}`;
+
+// ── ① Entity Snapshot ──
+const batterySpec = data.battery_type
+  ? `${data.battery_type}${data.battery_kwh ? ` · ${data.battery_kwh} kWh` : ''}`
+  : data.battery_kwh
+    ? `${data.battery_kwh} kWh`
+    : 'N/A';
+const drivePower = data.total_power_kw ?? data.motor_power_kw;
+const fobRange =
+  data.fob_price_usd_min != null && data.fob_price_usd_max != null
+    ? `$${data.fob_price_usd_min.toLocaleString()} – $${data.fob_price_usd_max.toLocaleString()}`
+    : `≈ $${data.price_usd.toLocaleString()} (ex-factory reference)`;
+
+// ── ③ Dimensions & Logistics (length-graded 40HQ packing estimate) ──
+const hasDims = !!(data.length_mm && data.width_mm && data.height_mm);
+const outerVolumeCbm = hasDims
+  ? (data.length_mm * data.width_mm * data.height_mm) / 1e9
+  : null;
+// 40HQ internal: ~12.03 × 2.35 × 2.69 m. Cars ship RoRo as standard; container
+// packing (rack/crate) is the basis for this length-graded estimate.
+const hqGrade = data.length_mm
+  ? data.length_mm < 4000
+    ? 'micro / city'
+    : data.length_mm <= 5000
+      ? 'compact–midsize'
+      : 'large'
+  : null;
+const hqUnits = data.length_mm
+  ? data.length_mm < 4000
+    ? 3
+    : data.length_mm <= 5000
+      ? 2
+      : 1
+  : null;
+
+// ── ④ Market Compliance & Export Profile ──
+const hsCode =
+  data.hs_code ||
+  (data.powertrain === 'BEV'
+    ? '87038000'
+    : ['PHEV', 'EREV', 'HEV'].includes(data.powertrain)
+      ? '870340'
+      : 'N/A');
+const hsNote =
+  data.powertrain === 'BEV'
+    ? '87038000 — electrically propelled motor vehicles (BEV)'
+    : ['PHEV', 'EREV', 'HEV'].includes(data.powertrain)
+      ? '870340 — plug-in hybrid / hybrid electric vehicles'
+      : 'Not classified (powertrain outside BEV/PHEV/HEV scope)';
+
+// ── ⑤ Benchmarking Matrix (same-segment nearest-price pool competitors) ──
+const competitors = vehicles
+  .filter(
+    (v) =>
+      v.data.slug !== slug &&
+      v.data.type === data.type &&
+      v.data.brand !== data.brand &&
+      typeof v.data.price_usd === 'number'
+  )
+  .map((v) => ({
+    slug: v.data.slug,
+    title: v.data.title,
+    brand: v.data.brand,
+    price: v.data.price_usd,
+    battery: v.data.battery_kwh,
+    wheelbase: v.data.wheelbase_mm,
+    fast: v.data.fast_charge,
+    delta: Math.abs(v.data.price_usd - data.price_usd) / data.price_usd,
+  }))
+  .sort((a, b) => a.delta - b.delta)
+  .slice(0, 2);
+
 // 主市场（landed_cost）逐项成本，用于模板层标注「EV Hub estimate」
 const lcBreakdown = lc && lc.breakdown
   ? [
@@ -38,13 +113,15 @@ const lcBreakdown = lc && lc.breakdown
     ].filter((b) => typeof b.value === 'number')
   : [];
 
-// 规格表数据项
+// 规格表数据项（保留完整参考表）
 const specs = [
   { label: 'Price basis', value: data.price_type || 'China ex-factory price (MSRP)' },
   { label: 'Powertrain', value: data.powertrain },
   { label: 'Body type', value: data.type },
   { label: 'Range (CLTC)', value: data.range_cltc_km ? `${data.range_cltc_km} km` : null },
+  { label: 'Range (WLTP)', value: data.range_wltp_km ? `${data.range_wltp_km} km` : null },
   { label: 'Battery', value: data.battery_kwh ? `${data.battery_kwh} kWh` : null },
+  { label: 'Battery type', value: data.battery_type || null },
   { label: 'Motor power', value: data.motor_power_kw ? `${data.motor_power_kw} kW` : null },
   { label: 'Torque', value: data.torque_nm ? `${data.torque_nm} Nm` : null },
   { label: '0-100 km/h', value: data.accel_0_100_s ? `${data.accel_0_100_s} s` : null },
@@ -54,6 +131,7 @@ const specs = [
   { label: 'Height', value: data.height_mm ? `${data.height_mm} mm` : null },
   { label: 'Wheelbase', value: data.wheelbase_mm ? `${data.wheelbase_mm} mm` : null },
   { label: 'Curb weight', value: data.weight_kg ? `${data.weight_kg} kg` : null },
+  { label: 'Gross weight', value: data.gross_weight_kg ? `${data.gross_weight_kg} kg` : null },
   { label: 'Efficiency', value: data.efficiency_kwh_100km ? `${data.efficiency_kwh_100km} kWh/100km` : null },
   { label: 'Fast charge', value: data.fast_charge ? data.fast_charge : null },
 ].filter((s) => s.value);
@@ -111,7 +189,6 @@ const jsonLd = {
       }
     : undefined,
 };
-
 ---
 
 <MarketingLayout
@@ -169,74 +246,229 @@ const jsonLd = {
   <div class="grid grid-cols-2 md:grid-cols-3 gap-4 mb-12">
     {data.range_cltc_km && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.range_cltc_km} km</div><div class="text-xs text-gray-500 mt-1">Range (CLTC)</div></div>}
     {data.battery_kwh && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.battery_kwh} kWh</div><div class="text-xs text-gray-500 mt-1">Battery capacity</div></div>}
-    {data.motor_power_kw && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.motor_power_kw} kW</div><div class="text-xs text-gray-500 mt-1">Motor power</div></div>}
+    {drivePower && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{drivePower} kW</div><div class="text-xs text-gray-500 mt-1">Drive power</div></div>}
     {data.accel_0_100_s && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.accel_0_100_s}s</div><div class="text-xs text-gray-500 mt-1">0-100 km/h</div></div>}
     {data.top_speed_kmh && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.top_speed_kmh} km/h</div><div class="text-xs text-gray-500 mt-1">Top speed</div></div>}
     {data.fast_charge && <div class="p-5 bg-white border border-gray-200 rounded-xl"><div class="text-2xl font-bold text-gray-900">{data.fast_charge}</div><div class="text-xs text-gray-500 mt-1">Fast charge</div></div>}
   </div>
 
-  <!-- 多国落地成本可视化 -->
-  {multiLc.length > 0 && (
-    <section class="mb-12">
-      <h2 class="text-2xl font-bold mb-2 text-gray-900">Estimated Landed Cost by Market</h2>
-      <p class="text-sm text-gray-500 mb-3">Estimated total import cost to each destination — includes duty, countervailing duty, VAT/GST, freight, and compliance.</p>
-      <p class="text-xs text-gray-400 mb-6">Confidence: <span class="font-semibold text-amber-600">{costConfidence}</span> (official MSRP and EU duty rates; freight, certification, registration and customs are EV Hub estimates) · Last verified: {costLastVerified}</p>
-      <div class="space-y-3">
-        {multiLc.map((m) => {
-          const isLowest = m.total_landed_usd === lowestTotal;
-          const barWidth = Math.min(100, Math.round((m.total_landed_usd / (lowestTotal || 1)) * 100));
-          return (
-            <a href={`/landed-cost-calculator/`} class="block">
-              <div class="flex items-center gap-4 p-4 rounded-xl border border-gray-200 hover:border-green-300 hover:bg-green-50/50 transition">
-                <div class="w-44 shrink-0">
-                  <div class="font-semibold text-gray-900 text-sm">{m.market}</div>
-                  <div class="text-xs text-gray-400">{m.region}</div>
-                </div>
-                <div class="flex-1 hidden sm:block">
-                  <div class="h-2 bg-gray-100 rounded-full overflow-hidden">
-                    <div class={`h-full rounded-full ${isLowest ? 'bg-green-500' : 'bg-gray-300'}`} style={`width:${barWidth}%`}></div>
-                  </div>
-                </div>
-                <div class="text-right shrink-0">
-                  <div class={`text-xl font-bold ${isLowest ? 'text-green-600' : 'text-gray-900'}`}>${Math.round(m.total_landed_usd).toLocaleString()}</div>
-                  <div class="text-xs text-gray-500">+{m.premium_pct}% over base</div>
-                </div>
-              </div>
-            </a>
-          );
-        })}
-      </div>
-    </section>
-  )}
+  <!-- ① Entity Snapshot -->
+  <section class="mb-12">
+    <h2 class="text-2xl font-bold mb-3 text-gray-900">Entity Snapshot</h2>
+    <p class="text-gray-700 mb-5 leading-relaxed">
+      The {data.title} is a {data.type.toLowerCase()} {data.powertrain} from {data.brand.toUpperCase()}, listed from ${data.price_usd.toLocaleString()} ex-factory.
+      {data.range_cltc_km ? ` CLTC range is ${data.range_cltc_km} km` : ''}{data.battery_kwh ? ` from a ${data.battery_kwh} kWh pack` : ''}{drivePower ? ` with ${drivePower} kW of drive power` : ''}.
+      Positioned for export buyers evaluating FOB cost, homologation and container logistics.
+    </p>
+    <div class="rounded-xl border border-gray-200 overflow-hidden">
+      <table class="w-full text-sm">
+        <tbody>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">Trim / version</td><td class="px-5 py-3.5 text-gray-900">{data.trim || 'Standard (base)'}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Battery</td><td class="px-5 py-3.5 text-gray-900">{batterySpec}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Range (CLTC / WLTP)</td><td class="px-5 py-3.5 text-gray-900">{data.range_cltc_km ? `${data.range_cltc_km} km` : 'N/A'}{data.range_wltp_km ? ` / ${data.range_wltp_km} km` : ' / N/A'}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Drive power</td><td class="px-5 py-3.5 text-gray-900">{drivePower ? `${drivePower} kW${data.total_power_kw ? ' (combined)' : ''}` : 'N/A'}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Fast charge (30–80%)</td><td class="px-5 py-3.5 text-gray-900">{data.fast_charge || 'N/A'}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">FOB reference price</td><td class="px-5 py-3.5 text-gray-900">{fobRange}</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
 
-  <!-- 主市场落地成本逐项明细（模板层标注 EV Hub estimate） -->
-  {lcBreakdown.length > 0 && (
-    <section class="mb-12">
-      <h2 class="text-2xl font-bold mb-2 text-gray-900">Estimated Landed Cost Breakdown — {lc.market || 'Germany'}</h2>
-      <p class="text-sm text-gray-500 mb-4">Official rates from EU Reg 2024/2754 and market VAT legislation. Freight, certification, registration and customs figures are EV Hub estimates — confirm with a supplier quote before ordering.</p>
+  <!-- ② Powertrain & Architecture -->
+  <section class="mb-12">
+    <h2 class="text-2xl font-bold mb-3 text-gray-900">Powertrain &amp; Architecture</h2>
+    <div class="rounded-xl border border-gray-200 overflow-hidden">
+      <table class="w-full text-sm">
+        <tbody>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">Drive layout</td><td class="px-5 py-3.5 text-gray-900">{na(data.drive_type)}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Motor type</td><td class="px-5 py-3.5 text-gray-900">{na(data.motor_type)}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Motor model</td><td class="px-5 py-3.5 text-gray-900">{na(data.motor_model)}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Motor power</td><td class="px-5 py-3.5 text-gray-900">{data.motor_power_kw ? `${data.motor_power_kw} kW` : 'N/A'}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Torque</td><td class="px-5 py-3.5 text-gray-900">{data.torque_nm ? `${data.torque_nm} Nm` : 'N/A'}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">0–100 km/h</td><td class="px-5 py-3.5 text-gray-900">{data.accel_0_100_s ? `${data.accel_0_100_s} s` : 'N/A'}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Battery thermal management</td><td class="px-5 py-3.5 text-gray-900">{na(data.battery_thermal)}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Heat pump</td><td class="px-5 py-3.5 text-gray-900">{na(data.heat_pump)}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Front suspension</td><td class="px-5 py-3.5 text-gray-900">{na(data.suspension_front)}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Rear suspension</td><td class="px-5 py-3.5 text-gray-900">{na(data.suspension_rear)}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Brakes</td><td class="px-5 py-3.5 text-gray-900">{na(data.brakes)}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Drag coefficient (Cd)</td><td class="px-5 py-3.5 text-gray-900">{data.drag_coefficient != null ? data.drag_coefficient : 'N/A'}</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="text-xs text-gray-400 mt-3">Fields map directly to the vehicle record; N/A where the manufacturer specification was not confirmed. Values without a cited source are left unstated rather than estimated.</p>
+  </section>
+
+  <!-- ③ Dimensions & Logistics -->
+  <section class="mb-12">
+    <h2 class="text-2xl font-bold mb-3 text-gray-900">Dimensions &amp; Logistics</h2>
+    <div class="grid md:grid-cols-2 gap-6">
       <div class="rounded-xl border border-gray-200 overflow-hidden">
         <table class="w-full text-sm">
           <tbody>
-            {lcBreakdown.map((b, i) => (
-              <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}>
-                <td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">
-                  {b.label}
-                  {b.est && <span class="ml-2 inline-block px-2 py-0.5 bg-amber-100 text-amber-700 rounded-full text-xs font-semibold">EV Hub estimate</span>}
-                </td>
-                <td class="px-5 py-3.5 text-gray-900">${Math.round(b.value).toLocaleString()}</td>
-              </tr>
-            ))}
-            <tr class="bg-green-50">
-              <td class="px-5 py-4 font-bold text-gray-900">Estimated landed cost (total)</td>
-              <td class="px-5 py-4 font-bold text-green-700">${lc.total_landed_usd ? Math.round(lc.total_landed_usd).toLocaleString() : '—'}</td>
-            </tr>
+            <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700 w-1/2">Length</td><td class="px-5 py-3.5 text-gray-900">{data.length_mm ? `${data.length_mm} mm` : 'N/A'}</td></tr>
+            <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Width</td><td class="px-5 py-3.5 text-gray-900">{data.width_mm ? `${data.width_mm} mm` : 'N/A'}</td></tr>
+            <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Height</td><td class="px-5 py-3.5 text-gray-900">{data.height_mm ? `${data.height_mm} mm` : 'N/A'}</td></tr>
+            <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Wheelbase</td><td class="px-5 py-3.5 text-gray-900">{data.wheelbase_mm ? `${data.wheelbase_mm} mm` : 'N/A'}</td></tr>
+            <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Curb weight</td><td class="px-5 py-3.5 text-gray-900">{data.weight_kg ? `${data.weight_kg} kg` : 'N/A'}</td></tr>
+            <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Gross weight</td><td class="px-5 py-3.5 text-gray-900">{data.gross_weight_kg ? `${data.gross_weight_kg} kg` : 'N/A'}</td></tr>
+            <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Ground clearance</td><td class="px-5 py-3.5 text-gray-900">{data.ground_clearance_mm ? `${data.ground_clearance_mm} mm` : 'N/A'}</td></tr>
+            <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Trunk capacity</td><td class="px-5 py-3.5 text-gray-900">{data.trunk_l ? `${data.trunk_l} L` : 'N/A'}</td></tr>
           </tbody>
         </table>
       </div>
-    </section>
-  )}
+      <div class="p-6 bg-white border border-gray-200 rounded-xl">
+        <h3 class="font-semibold text-gray-900 mb-4">Outer envelope &amp; 40HQ packing (estimate)</h3>
+        <dl class="space-y-4 text-sm">
+          <div>
+            <dt class="text-gray-500">Outer volume (L×W×H)</dt>
+            <dd class="text-2xl font-bold text-gray-900 mt-1">{outerVolumeCbm != null ? `${outerVolumeCbm.toFixed(2)} m³` : 'N/A'}</dd>
+          </div>
+          <div>
+            <dt class="text-gray-500">Length grade</dt>
+            <dd class="text-gray-900 mt-1">{hqGrade || 'N/A'}</dd>
+          </div>
+          <div>
+            <dt class="text-gray-500">40HQ units (rack/crate)</dt>
+            <dd class="text-2xl font-bold text-green-700 mt-1">{hqUnits != null ? `${hqUnits} unit${hqUnits > 1 ? 's' : ''}` : 'N/A'} <span class="ml-1 text-xs font-normal text-amber-600 bg-amber-50 px-2 py-0.5 rounded-full">estimate</span></dd>
+          </div>
+        </dl>
+        <p class="text-xs text-gray-400 mt-5 leading-relaxed">
+          Basis: RoRo is the standard method; the 40HQ figure is a length-graded estimate for racked/crated
+          container shipment — ≤4.0 m ≈ 3 units, 4.0–5.0 m ≈ 2 units, &gt;5.0 m ≈ 1 unit per 40HQ
+          (internal ≈12.03 × 2.35 × 2.69 m). Confirm packing density with the freight forwarder.
+        </p>
+      </div>
+    </div>
+  </section>
 
-  <!-- 数据来源与验证分层：SOURCE DATA vs EV HUB CALCULATION -->
+  <!-- ④ Market Compliance & Export Profile -->
+  <section class="mb-12">
+    <h2 class="text-2xl font-bold mb-3 text-gray-900">Market Compliance &amp; Export Profile</h2>
+    <div class="rounded-xl border border-gray-200 overflow-hidden">
+      <table class="w-full text-sm">
+        <tbody>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">HS code</td><td class="px-5 py-3.5 text-gray-900">{hsCode} — {hsNote}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Charging interface</td><td class="px-5 py-3.5 text-gray-900">{na(data.charging_interface)}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Charging adapter (export)</td><td class="px-5 py-3.5 text-gray-900">{na(data.charging_adapter)}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Infotainment language</td><td class="px-5 py-3.5 text-gray-900">{na(data.infotainment_language)}</td></tr>
+          <tr class="bg-gray-50"><td class="px-5 py-3.5 font-medium text-gray-700">Network bands</td><td class="px-5 py-3.5 text-gray-900">{na(data.network_bands)}</td></tr>
+          <tr class="bg-white"><td class="px-5 py-3.5 font-medium text-gray-700">Certification notes</td><td class="px-5 py-3.5 text-gray-900">{na(data.certification_notes)}</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="text-xs text-gray-400 mt-3">
+      China-market vehicles use the GB/T charging standard; EU destinations require a CCS2 (DC) / Type 2 (AC)
+      adapter or an OEM EU-spec port. Infotainment language and cellular band support are N/A where the
+      manufacturer has not published export-spec details.
+    </p>
+
+    <!-- 多国落地成本（精确生成自 landed_cost_markets） -->
+    {multiLc.length > 0 && (
+      <div class="mt-8">
+        <h3 class="text-lg font-semibold mb-2 text-gray-900">Estimated Landed Cost by Market</h3>
+        <p class="text-sm text-gray-500 mb-3">Estimated total import cost to each destination — includes duty, countervailing duty, VAT/GST, freight, and compliance.</p>
+        <p class="text-xs text-gray-400 mb-6">Confidence: <span class="font-semibold text-amber-600">{costConfidence}</span> (official MSRP and EU duty rates; freight, certification, registration and customs are EV Hub estimates) · Last verified: {costLastVerified}</p>
+        <div class="space-y-3">
+          {multiLc.map((m) => {
+            const isLowest = m.total_landed_usd === lowestTotal;
+            const barWidth = Math.min(100, Math.round((m.total_landed_usd / (lowestTotal || 1)) * 100));
+            return (
+              <a href={`/landed-cost-calculator/`} class="block">
+                <div class="flex items-center gap-4 p-4 rounded-xl border border-gray-200 hover:border-green-300 hover:bg-green-50/50 transition">
+                  <div class="w-44 shrink-0">
+                    <div class="font-semibold text-gray-900 text-sm">{m.market}</div>
+                    <div class="text-xs text-gray-400">{m.region}</div>
+                  </div>
+                  <div class="flex-1 hidden sm:block">
+                    <div class="h-2 bg-gray-100 rounded-full overflow-hidden">
+                      <div class={`h-full rounded-full ${isLowest ? 'bg-green-500' : 'bg-gray-300'}`} style={`width:${barWidth}%`}></div>
+                    </div>
+                  </div>
+                  <div class="text-right shrink-0">
+                    <div class={`text-xl font-bold ${isLowest ? 'text-green-600' : 'text-gray-900'}`}>${Math.round(m.total_landed_usd).toLocaleString()}</div>
+                    <div class="text-xs text-gray-500">+{m.premium_pct}% over base</div>
+                  </div>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    )}
+
+    {lcBreakdown.length > 0 && (
+      <div class="mt-8">
+        <h3 class="text-lg font-semibold mb-2 text-gray-900">Estimated Landed Cost Breakdown — {lc.market || 'Germany'}</h3>
+        <p class="text-sm text-gray-500 mb-4">Official rates from EU Reg 2024/2754 and market VAT legislation. Freight, certification, registration and customs figures are EV Hub estimates — confirm with a supplier quote before ordering.</p>
+        <div class="rounded-xl border border-gray-200 overflow-hidden">
+          <table class="w-full text-sm">
+            <tbody>
+              {lcBreakdown.map((b, i) => (
+                <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}>
+                  <td class="px-5 py-3.5 font-medium text-gray-700 w-1/3">
+                    {b.label}
+                    {b.est && <span class="ml-2 inline-block px-2 py-0.5 bg-amber-100 text-amber-700 rounded-full text-xs font-semibold">EV Hub estimate</span>}
+                  </td>
+                  <td class="px-5 py-3.5 text-gray-900">${Math.round(b.value).toLocaleString()}</td>
+                </tr>
+              ))}
+              <tr class="bg-green-50">
+                <td class="px-5 py-4 font-bold text-gray-900">Estimated landed cost (total)</td>
+                <td class="px-5 py-4 font-bold text-green-700">${lc.total_landed_usd ? Math.round(lc.total_landed_usd).toLocaleString() : '—'}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    )}
+  </section>
+
+  <!-- ⑤ Benchmarking Matrix -->
+  <section class="mb-12">
+    <h2 class="text-2xl font-bold mb-3 text-gray-900">Benchmarking Matrix</h2>
+    <p class="text-sm text-gray-500 mb-4">
+      Same-segment, nearest-price competitors selected from the EV Hub catalog (517-vehicle pool).
+      FOB column uses the ex-factory reference price.
+    </p>
+    {competitors.length > 0 ? (
+      <div class="rounded-xl border border-gray-200 overflow-hidden">
+        <table class="w-full text-sm">
+          <thead>
+            <tr class="bg-gray-50 text-left text-gray-600">
+              <th class="px-5 py-3 font-semibold">Model</th>
+              <th class="px-5 py-3 font-semibold">Battery</th>
+              <th class="px-5 py-3 font-semibold">Wheelbase</th>
+              <th class="px-5 py-3 font-semibold">Fast charge</th>
+              <th class="px-5 py-3 font-semibold">FOB (ref.)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="bg-green-50">
+              <td class="px-5 py-4 font-semibold text-gray-900">{data.title} (this model)</td>
+              <td class="px-5 py-4 text-gray-900">{data.battery_kwh ? `${data.battery_kwh} kWh` : 'N/A'}</td>
+              <td class="px-5 py-4 text-gray-900">{data.wheelbase_mm ? `${data.wheelbase_mm} mm` : 'N/A'}</td>
+              <td class="px-5 py-4 text-gray-900">{data.fast_charge || 'N/A'}</td>
+              <td class="px-5 py-4 text-gray-900">${data.price_usd.toLocaleString()}</td>
+            </tr>
+            {competitors.map((c) => (
+              <tr class="bg-white">
+                <td class="px-5 py-4 font-medium text-gray-900"><a href={`/vehicles/${c.slug}/`} class="text-green-700 hover:underline">{c.title}</a></td>
+                <td class="px-5 py-4 text-gray-900">{c.battery ? `${c.battery} kWh` : 'N/A'}</td>
+                <td class="px-5 py-4 text-gray-900">{c.wheelbase ? `${c.wheelbase} mm` : 'N/A'}</td>
+                <td class="px-5 py-4 text-gray-900">{c.fast || 'N/A'}</td>
+                <td class="px-5 py-4 text-gray-900">${c.price.toLocaleString()}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    ) : (
+      <p class="text-sm text-gray-500">No same-segment competitor available in the catalog pool.</p>
+    )}
+    <p class="text-xs text-gray-400 mt-3">Source: EV Hub catalog (manufacturer specifications). Figures are for reference comparison only.</p>
+  </section>
+
+  <!-- 数据来源与验证分层 -->
   <section class="mb-12">
     <h2 class="text-2xl font-bold mb-4 text-gray-900">Data Sources &amp; Verification</h2>
     <div class="grid md:grid-cols-2 gap-4">
@@ -259,7 +491,7 @@ const jsonLd = {
           <li class="flex gap-2"><span class="text-amber-500">≈</span> Certification</li>
           <li class="flex gap-2"><span class="text-amber-500">≈</span> Registration</li>
           <li class="flex gap-2"><span class="text-amber-500">≈</span> Customs clearance</li>
-          <li class="flex gap-2"><span class="text-amber-500">≈</span> Landed cost total</li>
+          <li class="flex gap-2"><span class="text-amber-500">≈</span> Landed cost total · 40HQ packing</li>
         </ul>
       </div>
     </div>
@@ -285,7 +517,7 @@ const jsonLd = {
     </div>
   </section>
 
-  <!-- markdown 正文（含详细 breakdown 表格） -->
+  <!-- markdown 正文 -->
   <div class="prose prose-lg max-w-none mb-12">
     <Content />
   </div>
@@ -305,7 +537,7 @@ const jsonLd = {
   )}
 
   <div class="border-t pt-6 text-sm text-gray-500">
-    Author: {data.author} (EV & Battery Industry Analyst) · Chengguang Energy · Updated {data.publishedDate ? data.publishedDate.toISOString().split('T')[0] : '2026-09-05'} · <a href="/contact/" class="text-green-700 hover:underline">Contact</a>
+    Author: {data.author} (EV &amp; Battery Industry Analyst) · Chengguang Energy · Updated {data.publishedDate ? data.publishedDate.toISOString().split('T')[0] : '2026-09-05'} · <a href="/contact/" class="text-green-700 hover:underline">Contact</a>
   </div>
 </article>
 
