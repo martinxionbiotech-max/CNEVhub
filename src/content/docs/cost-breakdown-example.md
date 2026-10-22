@@ -54,7 +54,8 @@ Premium: **+57.3%**.
 | Standard duty (5%) | $1,235 |
 | Countervailing duty | $0 |
 | VAT (5%) | $1,296 |
-| Fixed costs | ~$6,250 |
+| Fixed costs (freight + clearance + certification + inland) | $4,150 |
+| Registration | $300 |
 | **Total landed** | **$31,671** |
 
 Premium: **+28.3%**.
@@ -69,7 +70,8 @@ Premium: **+28.3%**.
 | Standard duty (0%) | $0 |
 | Countervailing duty | $0 |
 | GST (10%) | $2,469 |
-| Fixed costs + compliance | ~$6,250 |
+| Fixed costs (freight + clearance + certification + inland) | $5,350 |
+| Registration | $500 |
 | **Total landed** | **$33,009** |
 
 Premium: **+33.7%**.

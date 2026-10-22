@@ -44,9 +44,10 @@ import { siteConfig, company } from '@/config';
           &nbsp;&nbsp;&nbsp;&nbsp;+ RoRo freight + customs clearance + certification + registration + inland transport
         </p>
         <p>
-          Duties compound in this order because that is how customs valuations cascade in practice:
-          the standard duty is assessed on the CIF value, the countervailing duty on top of that,
-          and VAT is charged last on the duty-inclusive total.
+          Duties compound in this order: the standard duty is assessed on the ex-factory base price,
+          the countervailing duty on top of that (base + standard duty), and VAT is charged last on
+          the duty-inclusive total. Freight and insurance are itemised as separate fixed costs rather
+          than compounded into the dutiable value — see the note on CIF valuation below.
         </p>
       </section>
 
@@ -54,13 +55,15 @@ import { siteConfig, company } from '@/config';
         <h2 class="text-2xl font-bold mb-3">1. Standard import duty — 10%</h2>
         <p>
           All passenger EVs imported into the EU are subject to a <strong>10% most-favoured-nation
-          (MFN) import duty</strong>, assessed on the CIF value (car price + insurance + freight).
+          (MFN) import duty</strong>. In this estimate the duty is assessed on the ex-factory base
+          price; under strict EU customs rules the dutiable value is the CIF value (car price +
+          insurance + freight), so our figures are a conservative simplification.
           <span class="text-gray-600">[Source: EU Common Customs Tariff, TARIC]</span>
         </p>
       </section>
 
       <section>
-        <h2 class="text-2xl font-bold mb-3">2. Countervailing duty — 17% to 35.3%</h2>
+        <h2 class="text-2xl font-bold mb-3">2. Countervailing duty — 7.8% to 35.3%</h2>
         <p>
           Since 2024, the EU applies <strong>anti-subsidy (countervailing) duties</strong> to Chinese
           battery-electric vehicles, on top of the standard 10%. Rates are set per producer:
@@ -69,10 +72,12 @@ import { siteConfig, company } from '@/config';
           <table class="w-full text-sm">
             <thead><tr class="border-b border-gray-300"><th class="text-left py-2 pr-4">Producer</th><th class="text-left py-2">Rate</th></tr></thead>
             <tbody>
+              <tr class="border-b border-gray-200"><td class="py-2">Tesla (Shanghai)</td><td class="py-2">7.8%</td></tr>
               <tr class="border-b border-gray-200"><td class="py-2">BYD</td><td class="py-2">17.0%</td></tr>
               <tr class="border-b border-gray-200"><td class="py-2">Geely (incl. Zeekr, Polestar)</td><td class="py-2">18.8%</td></tr>
-              <tr class="border-b border-gray-200"><td class="py-2">SAIC (MG)</td><td class="py-2">35.3%</td></tr>
-              <tr class="border-b border-gray-200"><td class="py-2">Other / non-cooperating producers</td><td class="py-2">18.8% – 35.3%</td></tr>
+              <tr class="border-b border-gray-200"><td class="py-2">Other cooperating producers</td><td class="py-2">20.7%</td></tr>
+              <tr class="border-b border-gray-200"><td class="py-2">SAIC (MG, Roewe, Maxus)</td><td class="py-2">35.3%</td></tr>
+              <tr class="border-b border-gray-200"><td class="py-2">Non-cooperating producers</td><td class="py-2">35.3%</td></tr>
             </tbody>
           </table>
         </div>
@@ -118,6 +123,13 @@ import { siteConfig, company } from '@/config';
           with trim, port of entry, volume, currency, and homologation route. Figures are refreshed
           when tariff schedules or tax rates change, and every estimate on the site carries its data
           date.
+        </p>
+        <p class="text-sm text-gray-600">
+          <strong>Excluded from every figure:</strong> insurance (the "I" in CIF), foreign-exchange
+          movement, financing and dealer margin, port demurrage/storage, and destination-specific
+          taxes such as Turkey's special consumption tax (SCT), Singapore's ARF and COE, Indonesia's
+          PPnBM luxury tax, Brazil's IPI/ICMS, and Malaysia's excise duty. These can be material in
+          those markets — confirm the full stack with a local broker before committing.
         </p>
       </section>
 
