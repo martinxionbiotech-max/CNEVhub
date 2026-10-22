@@ -3,12 +3,19 @@ import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import { siteConfig } from '@/config';
 
 const { legal, contact } = siteConfig;
-const fullAddress = `${contact.address.street}, ${contact.address.city}, ${contact.address.state}, ${contact.address.country}`;
+const fullAddress = [
+  contact.address.street,
+  contact.address.city,
+  contact.address.state,
+  contact.address.country,
+]
+  .filter(Boolean)
+  .join(', ');
 ---
 
 <MarketingLayout
   title={`Privacy Policy - ${siteConfig.name}`}
-  description={`Privacy Policy for ${siteConfig.name}. Learn how we collect, use, and protect your personal information.`}
+  description={`Privacy Policy for ${siteConfig.name}. Learn how we collect, use, and protect your personal information — and what we deliberately do not collect.`}
 >
   <section class="py-section">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -21,16 +28,19 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
         <p>
           At {siteConfig.name}, we respect your privacy. This Privacy Policy explains what personal
           information we collect (and, importantly, what we generally do <em>not</em> collect) when you
-          visit our website, and how we use, share, and protect that information.
+          visit our website, and how we use, share, protect, and retain that information. It is written
+          to describe how the site actually operates — we would rather understate our data collection
+          than claim processes we do not run.
         </p>
 
         <h2>Overview</h2>
         <p>
-          {siteConfig.name} is an information platform about importing Chinese electric vehicles. We do
-          not require you to create an account, and we do not sell vehicles or process payments. As a
-          result, we collect only a minimal amount of personal information — primarily what you choose to
-          send us directly (for example, via a contact email) and limited, anonymized technical data
-          needed to operate the website.
+          {siteConfig.name} is an information and research platform about importing Chinese electric
+          vehicles. We do <strong>not</strong> require you to create an account, we do <strong>not</strong>
+          sell vehicles or process payments, and we do <strong>not</strong> run advertising, analytics, or
+          cross-site tracking. As a result, we collect only a minimal amount of personal information —
+          primarily what you choose to send us directly by email, and limited, anonymized technical data
+          needed to operate the website securely.
         </p>
 
         <h2>Data Controller</h2>
@@ -38,24 +48,31 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
           The data controller for this website is <strong>Jinzhou Chengguang Power Source Co., Ltd.</strong>,
           operating as <strong>Chengguang Energy</strong>. Privacy inquiries should be sent to{' '}
           <a href={`mailto:${legal.privacyEmail}`} class="text-green-700 hover:underline">{legal.privacyEmail}</a>.
+          We do not have a separately appointed Data Protection Officer; privacy matters are handled
+          directly through this address.
         </p>
 
         <h2>Information We Collect</h2>
 
         <h3>Information You Provide Directly</h3>
         <p>
-          If you contact us by email or through any contact form, we may collect the information you
-          choose to provide, such as:
+          Our primary contact channel is email. If you contact us by email, we receive the information
+          you choose to include, such as:
         </p>
         <ul>
-          <li>Your name</li>
+          <li>Your name (if you provide it)</li>
           <li>Your email address</li>
-          <li>Your phone number or WhatsApp/WeChat handle (if you provide it)</li>
           <li>The content of your message, including any vehicle model or destination country you mention</li>
         </ul>
         <p>
+          We do not ask for, and the site does not request, phone numbers, WhatsApp or WeChat handles, or
+          other identifiers. If you include such details in an email you send us, we will use them only to
+          respond to you and will not add them to any marketing list.
+        </p>
+        <p>
           We use this information solely to respond to your inquiry and, if relevant, to provide the
-          landed-cost guidance you requested. We do not use it for unsolicited marketing.
+          landed-cost guidance you requested. We do not use it for unsolicited marketing, and we do not
+          build a profile of you from it.
         </p>
 
         <h3>Information Collected Automatically</h3>
@@ -74,17 +91,30 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
           This information is used to maintain and improve the website, monitor performance, and detect
           misuse. It is generally not linked to you as an identified individual.
         </p>
+        <h4>CDN and security logs</h4>
+        <p>
+          The site is served through a content-delivery network and hosting infrastructure that may
+          process technical information (including IP addresses and request metadata) at the network edge
+          to screen for abusive or automated traffic and to keep the site available. This processing is
+          strictly necessary for security and delivery, is not used for advertising or profiling, and is
+          not linked to an identified individual by us. Where a third party (such as our CDN provider)
+          processes this data, it does so on our behalf under confidentiality obligations.
+        </p>
         <p>
           <strong>What we do not do:</strong> we do not run advertising networks, and we do not use
-          cross-site tracking, fingerprinting, or third-party marketing pixels. We have no reason to
-          build a profile of you, and we do not.
+          cross-site tracking, fingerprinting, or third-party marketing pixels. We do not collect precise
+          geolocation, and we do not build a profile of your browsing across other websites. We have no
+          reason to build a profile of you, and we do not.
         </p>
 
         <h2>Cookies and Similar Technologies</h2>
         <p>
           We use only essential cookies and similar technologies that are strictly necessary for the
-          website to function (for example, basic preferences). We do not use advertising cookies or
-          cross-site tracking. For full details, please see our <a href="/cookies">Cookie Policy</a>.
+          website to function (for example, basic preferences such as your theme choice, stored locally
+          in your browser). We do not use advertising cookies, analytics cookies, or cross-site tracking.
+          Because no non-essential cookies or trackers are set, the site does not display a cookie
+          consent banner — there is nothing for you to consent to. For full details, see our{' '}
+          <a href="/cookies">Cookie Policy</a>.
         </p>
 
         <h2>How We Use Your Information</h2>
@@ -96,6 +126,8 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
           <li>Detect, prevent, and address technical issues or misuse</li>
           <li>Comply with applicable legal obligations</li>
         </ul>
+        <p>We do not use your personal information for automated decision-making or profiling that has
+        legal or similarly significant effects on you.</p>
 
         <h2>Legal Bases for Processing (EEA / UK / Switzerland)</h2>
         <p>
@@ -110,10 +142,11 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
         </ul>
 
         <h2>How We Share Information</h2>
-        <p>We do not sell, rent, or trade your personal information. We do not sell your personal information to third parties.</p>
-        <p>We may disclose your information only in the following limited circumstances:</p>
+        <p>We do not sell, rent, or trade your personal information, and we do not share it with third
+        parties for their own marketing. We may disclose your information only in the following limited
+        circumstances:</p>
         <ul>
-          <li><strong>Service providers:</strong> trusted vendors who help us operate the website (for example, hosting), bound by confidentiality obligations</li>
+          <li><strong>Service providers:</strong> trusted vendors who help us operate the website (for example, hosting and CDN providers), bound by confidentiality obligations and processing only on our instructions</li>
           <li><strong>Legal requirements:</strong> where disclosure is required by law, regulation, or valid legal process</li>
           <li><strong>Business transfers:</strong> in connection with a merger, acquisition, or sale of assets, in which case you will be notified</li>
         </ul>
@@ -133,8 +166,8 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
         </p>
         <p>As a practical guide:</p>
         <ul>
-          <li><strong>Inquiry correspondence</strong> is retained while it is needed to respond to you and, where the exchange is commercial in nature, for our business record-keeping; it is not used for marketing.</li>
-          <li><strong>Technical server logs</strong> are retained for a limited period for security and reliability purposes, after which they are deleted or aggregated.</li>
+          <li><strong>Inquiry correspondence</strong> is retained while it is needed to respond to you and, where the exchange is commercial in nature, for a limited business record-keeping period (ordinarily not more than three years), after which it is deleted or archived solely as required by law. It is never used for marketing.</li>
+          <li><strong>Technical server and CDN logs</strong> are retained for a limited period (ordinarily measured in days to a few months) for security and reliability purposes, after which they are deleted or aggregated.</li>
           <li><strong>Anything else you send us</strong> is kept only as long as your inquiry requires.</li>
         </ul>
 
@@ -166,13 +199,17 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
           <li><strong>Withdraw consent</strong> — withdraw consent at any time where processing is based on consent</li>
           <li><strong>Non-discrimination</strong> — exercise your rights without being subject to discrimination</li>
         </ul>
+        <h3>How to exercise your rights</h3>
+        <p>
+          To exercise any of these rights, contact us using the details at the bottom of this page. To
+          protect your information, we may ask you to verify your identity before acting on certain
+          requests. We do not charge a fee to exercise your rights, unless a request is manifestly
+          unfounded or excessive, in which case we may charge a reasonable fee or decline to act. We
+          respond within the timeframes required by applicable law.
+        </p>
         <p>
           Residents of the EEA, UK, and Switzerland also have the right to lodge a complaint with their
           local data protection supervisory authority.
-        </p>
-        <p>
-          To exercise any of these rights, please contact us using the details at the bottom of this
-          page. We will respond within the timeframes required by applicable law.
         </p>
 
         <h2>Children's Privacy</h2>
@@ -189,6 +226,14 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
           that information in accordance with those laws, including the principles of lawfulness,
           legitimacy, necessity, and good faith, and we respond to lawful requests to access, correct,
           or delete personal information submitted through the contact details below.
+        </p>
+
+        <h2>Do Not Track</h2>
+        <p>
+          Because we do not track you across websites, we do not respond differently to "Do Not Track"
+          browser signals — there is no tracking for the signal to disable. Your browser's Do Not Track
+          setting and its privacy preferences remain the primary controls you hold over third-party
+          tracking on other sites.
         </p>
 
         <h2>Third-Party Links</h2>

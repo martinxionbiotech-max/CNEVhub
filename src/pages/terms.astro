@@ -3,12 +3,19 @@ import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import { siteConfig } from '@/config';
 
 const { legal, contact } = siteConfig;
-const fullAddress = `${contact.address.street}, ${contact.address.city}, ${contact.address.state}, ${contact.address.country}`;
+const fullAddress = [
+  contact.address.street,
+  contact.address.city,
+  contact.address.state,
+  contact.address.country,
+]
+  .filter(Boolean)
+  .join(', ');
 ---
 
 <MarketingLayout
   title={`Terms of Use - ${siteConfig.name}`}
-  description={`Terms of Use for ${siteConfig.name}. Please read these terms carefully before using our information platform.`}
+  description={`Terms of Use for ${siteConfig.name}. Please read these terms carefully before using our information platform, tools, and machine-readable data.`}
 >
   <section class="py-section">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -20,7 +27,7 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
       <div class="prose prose-lg max-w-none dark:prose-invert">
         <p>
           Welcome to {siteConfig.name} ({siteConfig.url}). These Terms of Use ("Terms") govern your
-          access to and use of this website and the information, tools, and services made available
+          access to and use of this website and the information, tools, data, and services made available
           through it (collectively, the "Platform"). By accessing or using the Platform, you agree to
           be bound by these Terms. If you do not agree, please do not use the Platform.
         </p>
@@ -29,7 +36,8 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
         <p>
           {siteConfig.name} is an <strong>information and research platform</strong>. We provide
           reference material about importing Chinese electric vehicles (EVs), including estimated
-          landed-cost breakdowns, model and brand data, and educational guides. We are <strong>not</strong> a
+          landed-cost breakdowns, model and brand data, technology definitions, comparison tools, and
+          educational guides. We are <strong>not</strong> a
           vehicle dealer, broker, importer, or financial advisor. We do not sell vehicles, and we do not
           act on behalf of any manufacturer, exporter, or government body.
         </p>
@@ -56,24 +64,30 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
           <li>May become outdated, as tariffs, duties, prices, regulations, and vehicle specifications change frequently</li>
           <li>Is provided "as is" without any guarantee of accuracy, completeness, or timeliness</li>
         </ul>
-
-        <h2>3. Landed-Cost Estimates</h2>
         <p>
-          The landed-cost calculator and all estimated cost figures on the Platform are <strong>approximate,
-          illustrative calculations</strong> intended to help you understand the potential components of an
-          import transaction. Actual costs depend on factors we cannot know, including current exchange
+          Nothing on the Platform is an offer, quote, solicitation, or commitment to sell, import, or
+          finance any vehicle. Any transaction you enter into with a third party found through the
+          Platform is solely between you and that third party.
+        </p>
+
+        <h2>3. Landed-Cost Estimates and Tools</h2>
+        <p>
+          The landed-cost calculator, the comparison tool, and all estimated cost figures on the Platform
+          are <strong>approximate, illustrative calculations</strong> intended to help you understand the
+          potential components of an import transaction. They are reference estimates, <em>not</em> quotes,
+          offers, or predictions. Actual costs depend on factors we cannot know, including current exchange
           rates, customs rulings, your exact vehicle configuration, freight conditions, and applicable
           duties and taxes at the time of import. You must verify all figures with the relevant customs
           authority, importer, or qualified professional before making any purchasing or import decision.
           Detailed limitations are set out in our <a href="/disclaimer">Disclaimer</a>, and the
           assumptions behind each cost line are documented in our
-          <a href="/docs/landed-cost-methodology/">landed-cost methodology</a>.
+          <a href="/landed-cost-methodology/">landed-cost methodology</a>.
         </p>
         <p>
           <strong>Tax rates change.</strong> Countervailing duties, import duties, and VAT/GST rates —
           in particular the EU's countervailing duty on Chinese EVs, which has changed materially and
           repeatedly — are policy instruments, not constants. Any rate shown on the Platform is a
-          snapshot, and a calculator result generated from an outdated rate is an outdated result.
+          snapshot, and a tool result generated from an outdated rate is an outdated result.
           Re-check the current rate at the time of import.
         </p>
 
@@ -91,27 +105,39 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
         <ul>
           <li>Use the Platform for any unlawful purpose or in violation of any applicable law or regulation</li>
           <li>Attempt to gain unauthorized access to, interfere with, or disrupt the Platform or its systems</li>
-          <li>Use automated means (scripts, scrapers, bots) to harvest or extract data at scale without our prior written consent</li>
+          <li>Use automated means (scripts, scrapers, bots) to harvest or extract content at scale in a way that degrades the Platform or violates these Terms</li>
           <li>Misrepresent the Platform's content, distortions, or present our estimates as guarantees</li>
           <li>Introduce malicious code, viruses, or other harmful material</li>
-          <li>Resell, republish, or redistribute our data compilations or cost tables as a data product, whether in original or modified form</li>
+          <li>Remove or alter attribution, provenance, or license notices attached to our content or data</li>
         </ul>
+        <p>
+          Machine-readable access for search engines and AI assistants is permitted as described in our{' '}
+          <a href="/llms.txt">llms.txt</a> file and our <a href="/compliance/">Data Compliance</a> policy.
+        </p>
 
-        <h2>6. Intellectual Property</h2>
+        <h2>6. Intellectual Property and Data License</h2>
         <p>
           Unless otherwise indicated, the Platform and all original content on it — including text,
           graphics, logos, data compilations, and original tables — are owned by or licensed to us and
           protected by applicable copyright and intellectual-property laws.
         </p>
-        <p>
-          <strong>Third-party data:</strong> Vehicle names, brand names, logos, and specifications belong
+        <p><strong>Third-party data:</strong> Vehicle names, brand names, logos, and specifications belong
           to their respective owners and are used for identification and reference purposes only. Their
-          mention does not imply endorsement.
+          mention does not imply endorsement.</p>
+        <p><strong>Our machine-readable data:</strong> The structured datasets published at our{' '}
+          <code>/data/</code> endpoints (vehicles, brands, tariffs) are released under the Creative
+          Commons Attribution 4.0 International license (CC BY 4.0), as stated in each dataset's
+          <code>license</code> field. You may use, adapt, and redistribute that data — including
+          commercially — provided you give appropriate credit, link to the license, and indicate if
+          changes were made. This license does not cover the editorial articles, prose, or page design,
+          which remain subject to the general copyright terms above and our{' '}
+          <a href="/copyright/">Copyright and Takedown Policy</a>.
         </p>
         <p>
-          You may view, download, and print content from the Platform for your personal, non-commercial
-          use only. You may not reproduce, distribute, modify, or commercially exploit any content without
-          our prior written consent.
+          You may view, download, and print editorial content from the Platform for your personal,
+          non-commercial use only. You may not reproduce, distribute, modify, or commercially exploit
+          editorial content without our prior written consent. Full detail on permitted reuse is in the{' '}
+          <a href="/copyright/">Copyright and Takedown Policy</a>.
         </p>
 
         <h2>7. Third-Party Links and Services</h2>
@@ -141,6 +167,12 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
           TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF
           SUCH DAMAGES.
         </p>
+        <p>
+          Nothing in these Terms excludes or limits liability that cannot be excluded or limited under
+          applicable law (such as liability for fraud, death or personal injury caused by negligence, or
+          any liability under mandatory consumer-protection law). Where liability can be limited but not
+          excluded, our aggregate liability is limited to the maximum extent permitted by law.
+        </p>
 
         <h2>10. Indemnification</h2>
         <p>
@@ -155,16 +187,23 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
         <p>
           We may modify, suspend, or discontinue the Platform, in whole or in part, at any time without
           notice. We may also update these Terms from time to time by posting the revised version on this
-          page and updating the "Last updated" date. Your continued use of the Platform after any such
-          change constitutes your acceptance of the revised Terms.
+          page and updating the "Last updated" date. For material changes, we will make a reasonable
+          effort to draw attention to them (for example, via a notice on the site). Your continued use of
+          the Platform after any such change constitutes your acceptance of the revised Terms.
         </p>
 
-        <h2>12. Governing Law</h2>
+        <h2>12. Governing Law and Dispute Resolution</h2>
         <p>
           These Terms shall be governed by and construed in accordance with the laws of {contact.address.country},
           without regard to its conflict-of-law provisions. Any dispute arising out of or relating to these
           Terms or the Platform shall be subject to the exclusive jurisdiction of the competent courts of
           {contact.address.city}, {contact.address.country}.
+        </p>
+        <p>
+          Before initiating formal proceedings, we encourage you to contact us at{' '}
+          <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a> to seek an informal resolution.
+          Nothing in this section limits any right you may have under mandatory consumer-protection law
+          to bring a claim in the courts of your place of residence.
         </p>
 
         <h2>13. General Provisions</h2>

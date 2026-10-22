@@ -4,18 +4,26 @@
  *
  * @description
  * 版权与知识产权声明：站内原创内容（文字/数据/图表/计算）的使用许可、第三方商标的指示性使用说明、
- * 通知—删除（takedown / DMCA 式）流程与联系邮箱、反向侵权举报。
+ * 数据端点 CC BY 4.0 许可、通知—删除（takedown / DMCA 式）流程与联系邮箱、反向侵权举报。
  */
 import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import { siteConfig, company } from '@/config';
 
-const { legal } = siteConfig;
+const { legal, contact } = siteConfig;
+const fullAddress = [
+  contact.address.street,
+  contact.address.city,
+  contact.address.state,
+  contact.address.country,
+]
+  .filter(Boolean)
+  .join(', ');
 const year = new Date().getFullYear();
 ---
 
 <MarketingLayout
   title="Copyright, Trademarks and Takedown Policy"
-  description="What is protected on EV Hub, how our content and calculated data may be reused, how third-party trademarks are used, and the procedure for sending a copyright takedown notice."
+  description="What is protected on EV Hub, how our editorial content and machine-readable data may be reused, how third-party trademarks are used, and the procedure for sending a copyright takedown notice."
 >
   <section class="py-section">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -30,10 +38,10 @@ const year = new Date().getFullYear();
           This policy explains what intellectual property exists on {siteConfig.name}, what you may do with it, how we
           handle third-party rights, and how a rights holder can ask us to remove material. It applies to everything
           published at electricvehiclehub.net — articles, model pages, market breakdowns, tables, charts, calculated
-          figures, images and page design.
+          figures, images and page design — and to the structured datasets published at our <code>/data/</code> endpoints.
         </p>
 
-        <h2>2. Our content</h2>
+        <h2>2. Our editorial content</h2>
         <p>
           Unless stated otherwise, the written content, editorial structure, data tables, charts and calculated
           figures on this site are © {year} {company.legalName}. All rights reserved.
@@ -60,7 +68,30 @@ const year = new Date().getFullYear();
           reproduction.
         </p>
 
-        <h2>3. Calculated data and figures</h2>
+        <h2>3. Our machine-readable data (CC BY 4.0)</h2>
+        <p>
+          The structured datasets published at our <code>/data/</code> endpoints (vehicles, brands, tariffs) are
+          released under the Creative Commons Attribution 4.0 International license (CC BY 4.0), as stated in each
+          dataset's <code>license</code> field. This is a more permissive regime than the editorial content above:
+        </p>
+        <ul>
+          <li>
+            You may <strong>use, adapt, and redistribute</strong> the structured data, including for commercial
+            purposes, provided you give appropriate credit to {siteConfig.name}, link to the license, and indicate
+            whether changes were made.
+          </li>
+          <li>
+            The license covers the <strong>structured data only</strong>. The editorial articles, prose, and page
+            design are not part of this license and remain subject to section 2 above.
+          </li>
+          <li>
+            The datasets carry the same provenance and estimate caveats as the pages they come from. Where a value is
+            an estimate, carry that caveat with it.
+          </li>
+        </ul>
+        <p>Full detail is in our <a href="/compliance/">Data Compliance</a> policy and <a href="/terms/">Terms of Use</a>.</p>
+
+        <h2>4. Calculated data and figures</h2>
         <p>
           Our landed-cost breakdowns, duty and VAT totals, and market comparisons are original calculations built from
           published tariff schedules and freight inputs. You are welcome to cite a figure with attribution and a link.
@@ -68,8 +99,15 @@ const year = new Date().getFullYear();
           depend on assumptions that are stated in our{' '}
           <a href="/landed-cost-methodology/">landed-cost methodology</a> and change over time.
         </p>
+        <p>
+          These calculations are our original work and are protected under section 2, not the dataset license.
+          A single calculated figure may be quoted; the underlying compilations — the full table of duty and VAT
+          totals across all markets, or the complete set of landed-cost figures — may not be scraped or republished
+          wholesale. Where a figure is produced by our calculator or comparison tool, it is a reference estimate,
+          not a quote.
+        </p>
 
-        <h2>4. Third-party trademarks</h2>
+        <h2>5. Third-party trademarks</h2>
         <p>
           Vehicle brand names, model names, marques, logos and trade dress belong to their respective owners.
           {siteConfig.name} uses them solely to identify the products being described or compared — a nominative,
@@ -78,20 +116,31 @@ const year = new Date().getFullYear();
           distributor, and we do not sell vehicles.
         </p>
         <p>
+          Model names and marques appear in page titles, comparison tables, and data fields as labels — never as
+          endorsements, and never in a way that suggests a brand is a sponsor or affiliate. We do not reproduce
+          manufacturer logos as our own branding, and we do not claim any trademark in a third-party mark simply
+          because it appears on this site.
+        </p>
+        <p>
           If you believe a mark is used in a way that misleads readers or infringes your rights, write to us at{' '}
           <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a> and we will review the usage and, where
           appropriate, adjust it.
         </p>
 
-        <h2>5. Third-party photographs and illustrations</h2>
+        <h2>6. Third-party photographs and illustrations</h2>
         <p>
           Photographs used on this site are either freely licensed (CC0, CC BY or CC BY-SA) or, in some cases, supplied
           by manufacturers and other third parties for identification purposes. Full attribution for freely licensed
           photographs is published on our <a href="/image-credits/">Image Credits and Copyright</a> page. We claim no
           ownership of third-party imagery and remove it on request.
         </p>
+        <p>
+          Where no freely licensed photograph exists, model pages may carry a plain technical illustration drawn by us —
+          a labelled text card — never a third-party photograph presented without permission. Illustrations we made are
+          our own work under section 2.
+        </p>
 
-        <h2>6. Notice and takedown procedure</h2>
+        <h2>7. Notice and takedown procedure</h2>
         <p>
           If you hold the rights to material published here and believe it is used without permission, send a notice to{' '}
           <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a> including:
@@ -123,20 +172,43 @@ const year = new Date().getFullYear();
           you can substantiate your right to use it.
         </p>
 
-        <h2>7. Reporting infringement of our content</h2>
+        <h2>8. Reporting infringement of our content</h2>
         <p>
           If you find our content republished elsewhere without attribution — including whole-article copies, scraped
           model pages, or our tables and figures presented as another site's work — please tell us at{' '}
           <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a> with the URL. We pursue these cases, and we
           appreciate the tips.
         </p>
+        <p>
+          If you receive a claim that your own reuse of our material infringes, we will, on request, confirm
+          the scope of the permission you relied on so you can respond accurately. That cuts both ways:
+          where our material is genuinely misused, we will say so; where it was used within the terms of
+          this policy, we will not leave you to defend an unmerited claim alone.
+        </p>
 
-        <h2>8. Related policies</h2>
+        <h2>9. Scope and governing provisions</h2>
+        <p>
+          This policy applies to everything published at electricvehiclehub.net. It is governed by the same
+          law and jurisdiction as our <a href="/terms/">Terms of Use</a>. If any provision is found
+          unenforceable, the remainder continues in effect. Questions about permitted reuse that are not
+          answered here can be sent to <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a>; we
+          respond to written permission requests on a case-by-case basis.
+        </p>
+        <p>
+          Where you reuse our material under this policy, the credit and link requirements in sections 2 and 3
+          are part of the permission itself. Attribution should be reasonable to the medium — a visible credit
+          and link near the reused content, and the URL of the specific page you used. If you are unsure
+          whether a use is permitted, ask before you publish; we would rather answer a question than receive
+          a takedown request.
+        </p>
+
+        <h2>10. Related policies</h2>
         <ul>
           <li><a href="/terms/">Terms of Use</a></li>
           <li><a href="/privacy/">Privacy Policy</a></li>
           <li><a href="/cookies/">Cookie Policy</a></li>
           <li><a href="/disclaimer/">Disclaimer</a></li>
+          <li><a href="/compliance/">Data Compliance &amp; Source Standards</a></li>
           <li><a href="/image-credits/">Image Credits and Copyright</a></li>
           <li><a href="/editorial-independence/">Editorial Independence Policy</a></li>
           <li><a href="/accessibility/">Accessibility Statement</a></li>
@@ -144,7 +216,7 @@ const year = new Date().getFullYear();
         </ul>
 
         <p class="text-sm text-text-muted">
-          Questions about this policy: <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a>.
+          Questions about this policy: <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a>. Address: {fullAddress}.
         </p>
       </div>
     </div>

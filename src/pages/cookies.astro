@@ -3,7 +3,14 @@ import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import { siteConfig } from '@/config';
 
 const { legal, contact } = siteConfig;
-const fullAddress = `${contact.address.street}, ${contact.address.city}, ${contact.address.state}, ${contact.address.country}`;
+const fullAddress = [
+  contact.address.street,
+  contact.address.city,
+  contact.address.state,
+  contact.address.country,
+]
+  .filter(Boolean)
+  .join(', ');
 ---
 
 <MarketingLayout

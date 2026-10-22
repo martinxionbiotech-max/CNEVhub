@@ -1,0 +1,221 @@
+---
+/**
+ * Data Compliance & Source Standards
+ *
+ * @description
+ * 数据合规声明：数据验证分层口径（spec_source_type / data_tier / confidence）、来源分级标准、
+ * 纠错流程、不虚构声明、数据端点许可（CC BY 4.0）与机器可读访问。
+ */
+import MarketingLayout from '@/layouts/MarketingLayout.astro';
+import { siteConfig } from '@/config';
+
+const { legal, contact } = siteConfig;
+const fullAddress = [
+  contact.address.street,
+  contact.address.city,
+  contact.address.state,
+  contact.address.country,
+]
+  .filter(Boolean)
+  .join(', ');
+---
+
+<MarketingLayout
+  title="Data Compliance & Source Standards"
+  description="How EV Hub grades and dates its data sources, marks estimates versus official figures, corrects errors, and licenses its machine-readable datasets."
+>
+  <section class="py-section">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+      <header class="mb-12">
+        <h1 class="text-4xl font-bold text-text">Data Compliance &amp; Source Standards</h1>
+        <p class="mt-4 text-text-muted">Last updated: {legal.lastUpdated}</p>
+      </header>
+
+      <div class="prose prose-lg max-w-none dark:prose-invert">
+        <p>
+          {siteConfig.name} is a data-driven information platform. This page states, in plain terms, how we
+          grade and date our sources, how we mark estimates versus official figures, how we correct errors,
+          and what we will <em>not</em> do — fabricate data, ratings, or credentials. It should be read
+          together with our <a href="/methodology/">Evidence &amp; Data Methodology</a>,{' '}
+          <a href="/disclaimer/">Disclaimer</a>, and <a href="/terms/">Terms of Use</a>.
+        </p>
+
+        <h2>1. Data verification tiering</h2>
+        <p>
+          Every vehicle record carries a source-type classification and a confidence level so readers can
+          tell where a number came from and how much to trust it. The tiers we publish are:
+        </p>
+        <ul>
+          <li><strong>Official specification</strong> — figures drawn from a manufacturer datasheet, an
+          official price list, or a regulatory document (for example, an EU implementing regulation or a
+          national tax schedule).</li>
+          <li><strong>Manufacturer claim</strong> — figures sourced from manufacturer publications but not
+          independently verified by us.</li>
+          <li><strong>Independent test / third-party</strong> — figures attributed to whoever ran the test
+          or published the measurement, never presented as our own.</li>
+          <li><strong>Estimate</strong> — values we compute or benchmark (freight, certification,
+          registration, and the landed-cost total). These are always labelled as estimates, never passed
+          off as confirmed figures.</li>
+        </ul>
+        <p>
+          Where a field has no source, we leave it unstated (shown as "N/A") rather than invent a value.
+          We do not convert between range standards (CLTC, WLTP, EPA) to fill gaps, because those
+          standards measure differently and a conversion would be a fabricated number. Full detail is in
+          our <a href="/methodology/">Evidence &amp; Data Methodology</a> and the{' '}
+          <a href="/docs/data-provenance/">data provenance</a> document.
+        </p>
+
+        <h2>2. Source standards</h2>
+        <p>We grade sources into four tiers and use the highest available tier for any figure stated as fact:</p>
+        <ul>
+          <li><strong>Tier 1 — Official and regulatory:</strong> EU implementing regulations and TARIC entries,
+          national tax authorities, customs guidance, type-approval databases, official manufacturer
+          datasheets and price lists.</li>
+          <li><strong>Tier 2 — Authoritative media and analysts:</strong> established trade press and
+          recognised analysts, attributed to the outlet rather than stated as our own finding.</li>
+          <li><strong>Tier 3 — Industry and trade sources:</strong> freight benchmarks, homologation service
+          providers, industry association publications, company statements. Treated as estimates.</li>
+          <li><strong>Tier 4 — Community and user reports:</strong> forums and social posts, used only to find
+          a lead worth checking, never as the sole basis for a factual claim or price.</li>
+        </ul>
+        <p>
+          When two credible sources disagree, we prefer the higher tier and note the discrepancy rather
+          than silently picking the number that reads better. Freshness is part of accuracy: data-bearing
+          pages carry a verification date, so a stale figure is visible as stale.
+        </p>
+
+        <h2>3. What we will not fabricate</h2>
+        <p>We commit, explicitly, not to do any of the following:</p>
+        <ul>
+          <li>Fabricate or invent specifications, prices, range figures, tariffs, or ratings.</li>
+          <li>Publish reviews, scores, or aggregate ratings we did not actually produce. Our comparison
+          tool shows specifications only — it contains no ratings, reviews, or seller claims.</li>
+          <li>Present a manufacturer's or a third party's test result as a test we ran.</li>
+          <li>Convert between CLTC, WLTP, and EPA range figures to fill missing data.</li>
+          <li>Claim certifications, awards, testing facilities, client relationships, or editorial
+          staff we do not have.</li>
+          <li>Blend specifications across trims or range standards into a single "representative" number.</li>
+        </ul>
+        <p>
+          Where our author's manufacturing-side experience informs an analysis, we label it as perspective,
+          not as a measured result — see our <a href="/methodology/">Evidence &amp; Data Methodology</a>.
+        </p>
+
+        <h2>4. Estimates are labelled</h2>
+        <p>
+          Freight, certification, registration, and inland-transport figures are benchmark-based estimates,
+          not quotes. Pages that use them mark them as estimates with their basis shown. The landed-cost
+          calculator and comparison tool display reference estimates only; they are not quotes, offers, or
+          predictions, as stated in our <a href="/disclaimer/">Disclaimer</a> and{' '}
+          <a href="/landed-cost-methodology/">landed-cost methodology</a>.
+        </p>
+        <p>
+          The distinction we draw is simple and we keep it consistent site-wide: an <strong>official</strong>{' '}
+          figure (a duty rate, a VAT rate, a published specification) is shown as fact and dated; an{' '}
+          <strong>estimate</strong> (freight, certification, the landed-cost total) is shown as an estimate
+          and marked as such on the page. We do not let an estimate silently pose as an official figure, and
+          we do not let an official figure be mistaken for a quote.
+        </p>
+
+        <h2>5. Correction process</h2>
+        <p>We fix errors and say so. If you believe a figure, specification, or factual claim is wrong:</p>
+        <ol>
+          <li>Email us at <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a> with the page URL and
+          the correction, ideally with a source we can check.</li>
+          <li>We review the claim against the best available source. We acknowledge substantive correction
+          reports and, where a claim is wrong, correct it rather than quietly swapping it out.</li>
+          <li>Material corrections to dated figures or factual claims are recorded on the page, not silently
+          changed.</li>
+        </ol>
+        <p>
+          We also track corrections at the editorial level — see the{' '}
+          <a href="/editorial-independence/">Editorial Independence Policy</a>.
+        </p>
+        <p>
+          We do not publish "corrected" numbers that are really new estimates under an old date. When a
+          correction changes a figure that other content depends on — a duty rate, a price, a range value —
+          we update the dependent figures in the same pass so the site does not contradict itself.
+        </p>
+
+        <h2>6. Independence and disclosure</h2>
+        <p>
+          Our operator, {siteConfig.name} (Jinzhou Chengguang Power Source Co., Ltd.), works in the EV
+          battery supply chain. That ownership is a commercial fact we disclose on our{' '}
+          <a href="/editorial-independence/">Editorial Independence Policy</a> and{' '}
+          <a href="/about/">About</a> page. It does not change our data rules: no brand, supplier, or
+          commercial partner gets to approve, edit, or remove a figure because of a business relationship.
+          A factual claim still has to stand on a citable source, and a conflict of interest is disclosed
+          rather than hidden.
+        </p>
+
+        <h2>7. Machine-readable data and license</h2>
+        <p>
+          We publish structured datasets at our <code>/data/</code> endpoints (<code>vehicles</code>,{' '}
+          <code>brands</code>, <code>tariffs</code>). These are the same single source of truth that
+          powers the site — we do not maintain a separate, richer internal dataset.
+        </p>
+        <ul>
+          <li><strong>License:</strong> each dataset is released under the Creative Commons Attribution 4.0
+          International license (CC BY 4.0). You may use, adapt, and redistribute it, including
+          commercially, provided you give appropriate credit, link to the license, and indicate changes.</li>
+          <li><strong>Scope:</strong> the license covers the structured data. Editorial articles, prose, and
+          page design are not part of the dataset license and remain subject to our{' '}
+          <a href="/copyright/">Copyright and Takedown Policy</a>.</li>
+          <li><strong>Accuracy:</strong> the datasets reflect the site's published estimates and official
+          figures at generation time. Where a value is an estimate, treat it as such.</li>
+        </ul>
+        <p>
+          Machine-readable access for search engines and AI assistants is permitted as described in our{' '}
+          <a href="/llms.txt">llms.txt</a> file and <a href="/robots.txt">robots.txt</a>.
+        </p>
+
+        <h2>8. Freshness, dating, and provenance fields</h2>
+        <p>
+          Every vehicle record carries provenance metadata that readers can inspect on the page: a source
+          description (<code>data_source</code>), a verification date (<code>data_updated</code>), a review
+          flag (<code>data_reviewed</code>), a tier (1–4), and a confidence level (<code>high</code> /{' '}
+          <code>medium</code> / <code>low</code>). The landed-cost figure is always presented as an
+          estimate and stamped with its verification date. Where a field has no confirmed source, it is
+          rendered as "N/A" rather than filled in. We publish the field convention in full in the{' '}
+          <a href="/docs/data-provenance/">data provenance</a> document.
+        </p>
+        <p>
+          We do not run battery, range, or safety tests, and we do not present a figure as a measured
+          result we produced. Where independent test data is cited, it is attributed to whoever ran the
+          test. Our author's production-side experience is used only as labelled context and perspective,
+          never as a substitute for a citable source on a factual claim.
+        </p>
+
+        <h2>9. Data access and attribution</h2>
+        <p>
+          You may access the structured datasets directly at the <code>/data/</code> endpoints, and you may
+          use them under the CC BY 4.0 license described above. If you republish the data, credit{' '}
+          {siteConfig.name} and link to the license, and do not imply that we endorse your use. If you
+          substantially transform the data, say so. We ask that you not pass a landed-cost estimate on as
+          a confirmed figure without carrying its estimate caveat.
+        </p>
+        <p>
+          Access to the endpoints is provided as-is and without a service-level commitment; we may rate-limit
+          or change the endpoints as needed to protect the site. Automated access should be polite, identify
+          itself, and follow our <a href="/robots.txt">robots.txt</a>.
+        </p>
+
+        <h2>10. Related policies</h2>
+        <ul>
+          <li><a href="/methodology/">Evidence &amp; Data Methodology</a></li>
+          <li><a href="/landed-cost-methodology/">Landed Cost Methodology</a></li>
+          <li><a href="/editorial-independence/">Editorial Independence Policy</a></li>
+          <li><a href="/copyright/">Copyright, Trademarks and Takedown Policy</a></li>
+          <li><a href="/terms/">Terms of Use</a></li>
+          <li><a href="/privacy/">Privacy Policy</a></li>
+          <li><a href="/disclaimer/">Disclaimer</a></li>
+        </ul>
+
+        <p>
+          Questions about this policy: <a href={`mailto:${legal.legalEmail}`}>{legal.legalEmail}</a>.
+          Address: {fullAddress}.
+        </p>
+      </div>
+    </div>
+  </section>
+</MarketingLayout>

@@ -56,5 +56,5 @@ export const company = {
 export const legal: LegalConfig = {
   privacyEmail: 'privacy@electricvehiclehub.net',
   legalEmail: 'legal@electricvehiclehub.net',
-  lastUpdated: 'September 5, 2026',
+  lastUpdated: 'October 22, 2026',
 };

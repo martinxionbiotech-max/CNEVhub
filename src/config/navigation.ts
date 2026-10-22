@@ -54,6 +54,7 @@ export const navigation: Navigation = {
       { label: 'Terms of Use', href: '/terms/' },
       { label: 'Cookie Policy', href: '/cookies/' },
       { label: 'Disclaimer', href: '/disclaimer/' },
+      { label: 'Data Compliance', href: '/compliance/' },
       { label: 'Image Credits', href: '/image-credits/' },
       { label: 'Copyright & Takedown', href: '/copyright/' },
       { label: 'Accessibility', href: '/accessibility/' },

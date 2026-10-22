@@ -3,12 +3,19 @@ import MarketingLayout from '@/layouts/MarketingLayout.astro';
 import { siteConfig } from '@/config';
 
 const { legal, contact } = siteConfig;
-const fullAddress = `${contact.address.street}, ${contact.address.city}, ${contact.address.state}, ${contact.address.country}`;
+const fullAddress = [
+  contact.address.street,
+  contact.address.city,
+  contact.address.state,
+  contact.address.country,
+]
+  .filter(Boolean)
+  .join(', ');
 ---
 
 <MarketingLayout
   title={`Disclaimer - ${siteConfig.name}`}
-  description={`Disclaimer for ${siteConfig.name}. Understand the limitations of our information and landed-cost estimates.`}
+  description={`Disclaimer for ${siteConfig.name}. Understand the limitations of our information, our estimates, and our tools.`}
 >
   <section class="py-section">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -26,18 +33,37 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
 
         <h2>Information Platform, Not an Advisor or Dealer</h2>
         <p>
-          {siteConfig.name} is an independent information platform. We are <strong>not</strong> a vehicle
+          {siteConfig.name} is an independent information and research platform. We are <strong>not</strong> a vehicle
           dealer, importer, broker, customs agent, financial advisor, or legal professional. We do not sell
           vehicles, and we do not provide legal, tax, customs, financial, or investment advice. Any
           decision you make based on information from this website is made at your own risk.
         </p>
 
-        <h2>Landed-Cost Estimates Are Approximate</h2>
+        <h2>Educational and Research Nature</h2>
+        <p>
+          Our content — model pages, landed-cost breakdowns, technology definitions, market comparisons,
+          and guides — is published for educational and market-intelligence purposes. It is general in
+          nature and is not tailored to your specific circumstances, vehicle configuration, destination
+          country, or commercial position. You should not treat it as a substitute for due diligence on a
+          specific vehicle, supplier, or transaction.
+        </p>
+
+        <h2>Not Professional Advice</h2>
+        <p>
+          Nothing on this website constitutes legal, tax, customs, financial, investment, or other
+          professional advice. Importing a vehicle involves country-specific legal, fiscal, and technical
+          requirements. Before acting, you should obtain advice from qualified professionals — including
+          a licensed customs broker, a tax advisor, and a legal advisor familiar with your destination
+          jurisdiction.
+        </p>
+
+        <h2>Landed-Cost Estimates Are Approximate, Not Quotes</h2>
         <p>
           The landed-cost calculator and all cost figures on this website are <strong>approximate,
           illustrative estimates</strong> intended to help you understand the potential components of an
-          import transaction. They are based on information available at the time of writing and on
-          assumptions that may not apply to your specific situation.
+          import transaction. They are <strong>reference estimates, not quotes, offers, or predictions</strong>.
+          They are based on information available at the time of writing and on assumptions that may not
+          apply to your specific situation.
         </p>
         <p>Actual costs can differ materially due to factors including, but not limited to:</p>
         <ul>
@@ -58,7 +84,9 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
           We endeavor to keep the information on this website accurate and up to date. However, tariffs,
           regulations, prices, and vehicle specifications change frequently, and we make no representation
           or warranty as to the accuracy, completeness, currency, or reliability of any content.
-          Information may become outdated without notice.
+          Information may become outdated without notice. Each data-bearing page carries a verification
+          date or source note so you can judge its freshness; see our{' '}
+          <a href="/compliance/">Data Compliance</a> policy for how we grade and date sources.
         </p>
 
         <h2>Vehicle Data and Specifications</h2>
@@ -88,11 +116,21 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
           belong to their respective owners and are provided for identification and reference purposes
           only. Inclusion does not imply affiliation with, endorsement by, or sponsorship by any
           manufacturer, exporter, or other entity.
-        </p>
-        <p>
+        </p>        <p>
           The website does not review, vet, or certify any vehicle supplier, dealer, or importer. Any
           engagement you enter into with a third party is solely between you and that third party, and
           we are not a party to it.
+        </p>
+
+        <h2>Reliance on Tools and Data Endpoints</h2>
+        <p>
+          Our interactive tools — the landed-cost calculator and the comparison tool — and our
+          machine-readable <code>/data/</code> endpoints are provided for reference and research only. A
+          result produced by a tool, or a value read from a dataset, carries the same limitations as the
+          figures on the pages they come from: it is an estimate or a compiled figure, not a quote, an
+          offer, or a commitment. You are responsible for verifying any figure before relying on it for
+          a transaction. See our <a href="/compliance/">Data Compliance</a> policy for the license and
+          provenance of the machine-readable data.
         </p>
 
         <h2>No Liability</h2>
@@ -100,14 +138,35 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
           To the maximum extent permitted by law, {siteConfig.name}, its operator, and their respective
           officers, directors, employees, and agents shall not be liable for any loss or damage arising
           from your use of, or reliance on, the information provided on this website — whether direct,
-          indirect, incidental, consequential, or otherwise.
+          indirect, incidental, consequential, or otherwise. This includes reliance on estimates produced
+          by our calculator or comparison tools. Nothing in this Disclaimer excludes liability that cannot
+          be excluded under applicable law.
         </p>
 
         <h2>External Links</h2>
         <p>
           This website may contain links to external websites. We are not responsible for the content,
           accuracy, or practices of any third-party website, and the inclusion of a link does not imply
-          endorsement.
+          endorsement. Your use of a linked site is subject to that site's own terms and policies.
+        </p>
+
+        <h2>Forward-Looking and Time-Sensitive Information</h2>
+        <p>
+          Some content describes anticipated changes — proposed tariff adjustments, planned regulations, or
+          expected model launches. Such statements reflect the information available when they were
+          written and are inherently uncertain; actual outcomes may differ materially. You should not
+          treat any forward-looking statement on this website as a prediction of future events or a basis
+          for financial planning. Figures are only as current as their stated verification date, and a
+          tariff or price that was accurate when written may be stale when you read it.
+        </p>
+
+        <h2>No Investment, Financial, or Trading Advice</h2>
+        <p>
+          Nothing on this website is intended as investment, financial, or trading advice, and nothing
+          here should be read as a recommendation to buy, import, hold, or sell any vehicle or financial
+          interest. Market intelligence about Chinese EV import economics is provided for education and
+          research, not as a solicitation to enter any transaction. Any import decision, and its financial
+          consequences, are yours alone.
         </p>
 
         <h2>Professional Advice Recommended</h2>
@@ -115,6 +174,36 @@ const fullAddress = `${contact.address.street}, ${contact.address.city}, ${conta
           Before making any purchasing, import, financial, or legal decision, we strongly recommend that
           you consult with qualified professionals such as a licensed customs broker, a tax advisor, and a
           legal advisor familiar with the laws of your destination jurisdiction.
+        </p>
+
+        <h2>Currency and Exchange Rates</h2>
+        <p>
+          Where prices are shown in a single currency (ordinarily US dollars), the conversion from the
+          manufacturer's domestic currency reflects the exchange rate in effect at the time of writing.
+          Exchange rates move continuously, and the landed cost in your own currency will depend on the
+          rate your bank or payment provider applies at the time of settlement, plus any transfer or
+          currency-conversion fees. Treat any currency figure here as an approximation, and confirm the
+          current rate and the applicable fees before budgeting.
+        </p>
+
+        <h2>No Warranty of Availability or Continuity</h2>
+        <p>
+          We do not warrant that this website or any tool, dataset, or page will be available at all times,
+          uninterrupted, or free of errors or omissions. We may modify, suspend, or discontinue any part of
+          the website — including the calculator, the comparison tool, or the <code>/data/</code> endpoints
+          — at any time without notice. A snapshot of data you download today may not match what is
+          published tomorrow, because tariffs, specifications, and prices change and because we revise our
+          own figures.
+        </p>
+
+        <h2>Scope of This Disclaimer</h2>
+        <p>
+          This Disclaimer applies to all pages, tools, datasets, and content published at
+          electricvehiclehub.net, and to any content we publish on third-party platforms that links back
+          to this page. It should be read together with our <a href="/terms/">Terms of Use</a>,
+          which set out the governing law, and our <a href="/privacy/">Privacy Policy</a>, which describes
+          what we do and do not collect. If any part of this Disclaimer is found unenforceable, the
+          remainder continues in effect.
         </p>
 
         <h2>Contact Us</h2>
