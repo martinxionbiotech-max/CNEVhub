@@ -10,8 +10,15 @@
   Link: </llms.txt>; rel="llms"
 
 # Machine-readable markdown variants — force text/markdown Content-Type
+# + noindex (duplicate content face vs the HTML pages; kept crawlable for AI/API use)
 /vehicles/*.md
   Content-Type: text/markdown; charset=utf-8
+  X-Robots-Tag: noindex
 
 /blog/*.md
   Content-Type: text/markdown; charset=utf-8
+  X-Robots-Tag: noindex
+
+# Machine-readable JSON endpoints — noindex (duplicate/alternate data face)
+/data/*.json
+  X-Robots-Tag: noindex

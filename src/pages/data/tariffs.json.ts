@@ -25,7 +25,10 @@ export function GET() {
       2,
     ),
     {
-      headers: { 'Content-Type': 'application/json; charset=utf-8' },
+      headers: {
+        'Content-Type': 'application/json; charset=utf-8',
+        'X-Robots-Tag': 'noindex',
+      },
     },
   );
 }

@@ -149,6 +149,9 @@ export const GET: APIRoute = async ({ params }) => {
   out.push('');
 
   return new Response(out.join('\n'), {
-    headers: { 'Content-Type': 'text/markdown; charset=utf-8' },
+    headers: {
+      'Content-Type': 'text/markdown; charset=utf-8',
+      'X-Robots-Tag': 'noindex',
+    },
   });
 };
