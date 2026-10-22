@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi YU7 GT"
-description: "Xiaomi YU7 GT is a SUV battery-electric from Xiaomi, offering 705 km of CLTC range a 101.7 kWh battery and 738 kW of motor power. Full landed-cost breakdown acr"
+description: "The Xiaomi YU7 GT is an SUV battery-electric from Xiaomi, offering 705 km of CLTC range, a 101 kWh battery, 738 kW peak output, and NMC (Qilin, CATL) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "xiaomi-yu7-gt"
 brand: "xiaomi"
 type: "SUV"
@@ -24,13 +24,29 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xiaomi", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "小米YU7 GT RMB 389,900 (搜狐汽车/网通社, 2026-05)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "YU7"
 image: "/images/vehicles/xiaomi-yu7-gt.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Xiaomi_YU7_GT_001.jpg"
+battery_type: "NMC (Qilin, CATL)"
+drive_type: "AWD (dual-motor)"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Five-link (multi-link)"
+drag_coefficient: 0.245
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+trim: "GT (四电机)"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+network_bands: "5G NR (sub-6 GHz)"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Xiaomi YU7 GT
 
@@ -43,8 +59,7 @@ Xiaomi YU7 GT (starting at $54,150) is a SUV from XIAOMI.
 
 ## Overview
 
-The Xiaomi YU7 GT is a suv battery-electric from Xiaomi, with 738 kW of motor power, a 2.92-second 0–100 km/h time. It is positioned as a value-focused import, priced from $54,150 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +18% over base (about $64,150 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Xiaomi YU7 GT is an SUV battery-electric with dual-motor all-wheel-drive from Xiaomi. Across export markets for the SUV battery-electric, Qatar offers the cheapest entry at about +12.7% over base (≈ $61,037 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Priced from $54,150 ex-factory, the SUV battery-electric falls in the premium tier. Specification highlights are NMC (Qilin, CATL) chemistry and a drag coefficient of 0.245. The SUV battery-electric profile suits regional distributors prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

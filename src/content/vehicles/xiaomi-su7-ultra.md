@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi SU7 Ultra"
-description: "Xiaomi SU7 Ultra is a Sedan battery-electric from Xiaomi, offering 630 km of CLTC range a 93.7 kWh battery and 1138 kW of motor power. Full landed-cost breakdow"
+description: "The Xiaomi SU7 Ultra is a sedan fully electric from Xiaomi with a CLTC-rated range of 630 km, 93 kWh of battery, 1,138 kW peak output, and a NMC (Qilin 2.0, CATL) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "xiaomi-su7-ultra"
 brand: "xiaomi"
 type: "Sedan"
@@ -26,13 +26,30 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xiaomi", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "小米SU7 Ultra RMB 529,900 (小米汽车官网/百度百科, 2025-02-27)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "SU7"
 image: "/images/vehicles/xiaomi-su7-ultra.jpg"
 image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Xiaomi_SU7_Ultra_0001_China_2025-03-28.jpg"
+battery_type: "NMC (Qilin 2.0, CATL)"
+drive_type: "AWD (tri-motor)"
+motor_type: "PMSM (tri-motor)"
+total_power_kw: 1138
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+drag_coefficient: 0.195
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+trim: "Ultra (四电机)"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+network_bands: "5G NR (sub-6 GHz)"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Xiaomi SU7 Ultra
 
@@ -45,8 +62,7 @@ Xiaomi SU7 Ultra (starting at $73,600) is a Sedan from XIAOMI.
 
 ## Overview
 
-The Xiaomi SU7 Ultra is a sedan battery-electric from Xiaomi, with 1138 kW of motor power, a 1.98-second 0–100 km/h time. It is positioned as a value-focused import, priced from $73,600 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +16% over base (about $85,594 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 16.5 kWh/100km efficiency is reasonable for its 2,360 kg curb weight; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Xiaomi's Xiaomi SU7 Ultra is a tri-motor all-wheel-drive battery-electric sedan. This sedan battery-electric is positioned as a flagship import, from $73,600 ex-factory. Specification highlights are 93 kWh of capacity and a top speed of 350 km/h. For the sedan battery-electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff; meanwhile, Qatar offers the cheapest entry at about +10.7% over base (≈ $81,460 landed). In the sedan battery-electric segment, it serves business fleets evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

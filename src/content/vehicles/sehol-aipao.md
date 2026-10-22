@@ -1,6 +1,6 @@
 ---
 title: "Sehol Aipao"
-description: "Sehol Aipao is a Sedan battery-electric from Sehol, offering 602 km of CLTC range a 64.5 kWh battery and 142 kW of motor power. Full landed-cost breakdown acros"
+description: "Sehol's Sehol Aipao is a sedan battery-electric with 602 km of CLTC range, 64 kWh of battery, 142 kW peak output, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "sehol-aipao"
 brand: "sehol"
 type: "Sedan"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["sehol", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "思皓爱跑 RMB 139,900（新浪汽车/华龙网；64.5kWh/602km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Aipao"
 image: "/images/vehicles/sehol-aipao.jpg"
 image_credit: "Kevauto / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2022_JAC-Sehol_E50A_(Aipao),_front_8.9.23.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Sehol Aipao
 
@@ -42,8 +54,7 @@ Sehol Aipao (starting at $19,430) is a Sedan from SEHOL.
 
 ## Overview
 
-The Sehol Aipao is a sedan battery-electric from Sehol, with 142 kW of motor power, a 7.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,430 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,871 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Sehol's Sehol Aipao is a front-wheel-drive battery-electric sedan. Specification highlights are 64 kWh of capacity and a 7.6-second 0–100 km/h time. For the sedan battery-electric, Qatar offers the cheapest entry at about +26.5% over base (≈ $24,581 landed) — Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Priced from $19,430 ex-factory, the sedan battery-electric falls in the value tier. For the sedan battery-electric buyer, it suits importers serving the sedan segment focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

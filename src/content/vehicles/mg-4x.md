@@ -1,6 +1,6 @@
 ---
 title: "MG 4X"
-description: "MG 4X is a SUV battery-electric from MG, offering 510 km of CLTC range a 53.9 kWh battery and 125 kW of motor power. Full landed-cost breakdown across 7 export "
+description: "The MG 4X is an SUV battery-electric from MG, offering 510 km of CLTC range, 53 kWh of battery, 125 kW of motor power, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "mg-4x"
 brand: "mg"
 type: "SUV"
@@ -22,13 +22,27 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["mg", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "MG 4X RMB 99,800 presale (CarNewsChina/上汽官方)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "MG 4X"
 image: "/images/vehicles/mg-4x.jpg"
 image_credit: "Marvin Goldman / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:4X-AHC_Arkia_MG_Goldman_Collection.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "N/A"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+trunk_l: 471
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # MG 4X
 
@@ -40,8 +54,7 @@ MG 4X (starting at $13,860) is a SUV from MG.
 
 ## Overview
 
-The MG 4X is a suv battery-electric from MG, with 125 kW of motor power. It is positioned as a value-focused import, priced from $13,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +42% over base (about $19,730 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The MG 4X is an SUV fully electric with front-wheel-drive from MG. Across export markets for the SUV fully electric, Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff, while the lowest landed premium is Qatar at roughly +35.2% over base (about $18,733 landed). As a affordable-end SUV fully electric, it starts at $13,860 ex-factory. Key figures are a MacPherson strut front / Torsion beam rear suspension layout, 510 km of CLTC range, and a 125 kW electric motor. For the SUV fully electric buyer, it suits families and commercial fleet operators prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

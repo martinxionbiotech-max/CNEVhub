@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 009"
-description: "Zeekr 009 is a suv from Zeekr, offering 740 km of CLTC range a 108 kWh battery and 310 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "Zeekr's Zeekr 009 is an SUV fully electric, offering a CLTC-rated range of 740 km, 108 kWh of battery, 310 kW of motor power, and NMC (Qilin) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "zeekr-009"
 brand: "zeekr"
 type: "SUV"
@@ -26,13 +26,29 @@ author: "Wei Wang"
 tags: ["zeekr", "SUV", "chinese-ev", "export"]
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.19, "total_landed_usd": 102751.33, "premium_pct": 66.2}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.2, "total_landed_usd": 103459.33, "premium_pct": 67.3}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 104267.33, "premium_pct": 68.6}, {"market": "Sweden", "market_key": "sweden", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.25, "total_landed_usd": 107169.31, "premium_pct": 73.3}, {"market": "Denmark", "market_key": "denmark", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.25, "total_landed_usd": 110599.31, "premium_pct": 78.9}, {"market": "Spain", "market_key": "spain", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 103977.33, "premium_pct": 68.2}, {"market": "Italy", "market_key": "italy", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.22, "total_landed_usd": 104925.32, "premium_pct": 69.7}, {"market": "Belgium", "market_key": "belgium", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.21, "total_landed_usd": 104017.33, "premium_pct": 68.2}, {"market": "Austria", "market_key": "austria", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.2, "total_landed_usd": 103259.33, "premium_pct": 67.0}, {"market": "Portugal", "market_key": "portugal", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.23, "total_landed_usd": 105683.32, "premium_pct": 70.9}, {"market": "Ireland", "market_key": "ireland", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.23, "total_landed_usd": 105683.32, "premium_pct": 70.9}, {"market": "Poland", "market_key": "poland", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.188, "vat_rate": 0.23, "total_landed_usd": 105538.32, "premium_pct": 70.7}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 87865.6, "premium_pct": 42.1}, {"market": "Norway", "market_key": "norway", "region": "Non-EU Europe", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.25, "total_landed_usd": 84537.5, "premium_pct": 36.7}, {"market": "Switzerland", "market_key": "switzerland", "region": "Non-EU Europe", "standard_duty_rate": 0.04, "countervailing_duty_rate": 0.0, "vat_rate": 0.081, "total_landed_usd": 75561.76, "premium_pct": 22.2}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 72617.58, "premium_pct": 17.4}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 79109.73, "premium_pct": 27.9}, {"market": "Israel", "market_key": "israel", "region": "Middle East", "standard_duty_rate": 0.07, "countervailing_duty_rate": 0.0, "vat_rate": 0.18, "total_landed_usd": 82916.56, "premium_pct": 34.1}, {"market": "Qatar", "market_key": "qatar", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.0, "total_landed_usd": 69101.5, "premium_pct": 11.8}, {"market": "Turkey", "market_key": "turkey", "region": "Middle East", "standard_duty_rate": 0.4, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 108124.4, "premium_pct": 74.9}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 73863.0, "premium_pct": 19.5}, {"market": "New Zealand", "market_key": "new_zealand", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 76477.5, "premium_pct": 23.7}, {"market": "Thailand", "market_key": "thailand", "region": "Southeast Asia", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.07, "total_landed_usd": 70808.1, "premium_pct": 14.5}, {"market": "Malaysia", "market_key": "malaysia", "region": "Southeast Asia", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 76063.65, "premium_pct": 23.0}, {"market": "Indonesia", "market_key": "indonesia", "region": "Southeast Asia", "standard_duty_rate": 0.5, "countervailing_duty_rate": 0.0, "vat_rate": 0.11, "total_landed_usd": 107646.95, "premium_pct": 74.1}, {"market": "Singapore", "market_key": "singapore", "region": "Southeast Asia", "standard_duty_rate": 0.2, "countervailing_duty_rate": 0.0, "vat_rate": 0.09, "total_landed_usd": 85733.64, "premium_pct": 38.7}, {"market": "Mexico", "market_key": "mexico", "region": "North America", "standard_duty_rate": 0.5, "countervailing_duty_rate": 0.0, "vat_rate": 0.16, "total_landed_usd": 114634.2, "premium_pct": 85.4}, {"market": "Canada", "market_key": "canada", "region": "North America", "standard_duty_rate": 0.061, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 75921.71, "premium_pct": 22.8}, {"market": "Brazil", "market_key": "brazil", "region": "Latin America", "standard_duty_rate": 0.35, "countervailing_duty_rate": 0.0, "vat_rate": 0.17, "total_landed_usd": 104230.49, "premium_pct": 68.6}, {"market": "South Africa", "market_key": "south_africa", "region": "Africa", "standard_duty_rate": 0.25, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 95110.63, "premium_pct": 53.8}]
 data_tier: 1
-data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
-data_updated: "2026-09-07"
 data_reviewed: false
 family: "009"
 image: "/images/vehicles/zeekr-009.jpg"
 image_credit: "H4 boxer / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=151862518"
+battery_type: "NMC (Qilin)"
+drive_type: "RWD / AWD"
+motor_type: "PMSM (dual motor, AWD)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+drag_coefficient: 0.27
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+trim: "WE 版 / ME 版"
+brakes: "Front ventilated disc / rear disc"
+ground_clearance_mm: 174
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Zeekr 009
 
@@ -45,7 +61,7 @@ Zeekr 009 (starting at $61,830) is a SUV from ZEEKR.
 
 ## Overview
 
-The Zeekr 009 is a full-size SUV battery-electric from ZEEKR, with 740 km of CLTC range, 310 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a premium import, priced from $61,830 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +17% over base (about $72,618 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.8 kWh/100km efficiency is strong for its 2,783 kg curb weight. It suits large families and executive fleets.
+The Zeekr 009 is an SUV battery-electric with rear- or all-wheel-drive from Zeekr. The $61,830 ex-factory price places this SUV battery-electric in the top-tier band. For the SUV battery-electric, Germany applies a 18.8% countervailing duty on top of the 10% standard tariff; the least-costly destination is Qatar, near +11.8% over base ($69,101 landed). Specification highlights are 440 Nm of torque, a drag coefficient of 0.27, and Double wishbone front / Multi-link (air) rear suspension. As a SUV battery-electric, it is aimed at importers targeting the family-SUV segment evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

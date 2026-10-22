@@ -1,6 +1,6 @@
 ---
 title: "Stelato S9"
-description: "Stelato S9 is a Sedan battery-electric from Stelato, offering 816 km of CLTC range a 100.0 kWh battery and 230 kW of motor power. Full landed-cost breakdown acr"
+description: "Stelato's Stelato S9 is a sedan fully electric with a CLTC-rated range of 816 km, 100 kWh of battery, 230 kW of motor power, and LFP / NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "stelato-s9"
 brand: "stelato"
 type: "Sedan"
@@ -21,13 +21,27 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["stelato", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "ArenaEV/Wikipedia (Huawei-BAIC Stelato): ¥399,800 S9 Max, 100 kWh NMC, 816 km CLTC RWD, 230 kW"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "S9"
 image: "/images/vehicles/stelato-s9.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Stelato_S9_001.jpg"
+battery_type: "LFP / NMC"
+drive_type: "RWD / AWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+network_bands: "5G NR (sub-6 GHz)"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Stelato S9
 
@@ -39,8 +53,7 @@ Stelato S9 (starting at $55,530) is a Sedan from STELATO.
 
 ## Overview
 
-The Stelato S9 is a sedan battery-electric from Stelato, with 230 kW of motor power. It is positioned as a value-focused import, priced from $55,530 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +18% over base (about $65,671 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Stelato S9 is a sedan fully electric with rear- or all-wheel-drive from Stelato. Across export markets for the sedan fully electric, Qatar offers the cheapest entry at about +12.5% over base (≈ $62,486 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. Priced from $55,530 ex-factory, the sedan fully electric falls in the premium tier. Key figures are 100 kWh of capacity and LFP / NMC chemistry. This sedan fully electric is positioned for importers serving the sedan segment evaluating premium-tier landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

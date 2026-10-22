@@ -1,6 +1,6 @@
 ---
 title: "Voyah Passion L"
-description: "Voyah Passion L is a Sedan plug-in hybrid from Voyah, offering 410 km of CLTC range a 63.0 kWh battery. Full landed-cost breakdown across 7 export markets for B"
+description: "The Voyah Passion L is Voyah's sedan plug-in hybrid electric, offering 410 km of CLTC range, 63 kWh of battery, and a NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "voyah-passion-l"
 brand: "voyah"
 type: "Sedan"
@@ -20,13 +20,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["voyah", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "岚图追光L RMB 279,900 (岚图官网/搜狐汽车)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Passion"
 image: "/images/vehicles/voyah-passion-l.jpg"
 image_credit: "S5A-0043 / Wikimedia Commons / CC BY 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:(CHN-Shanghai)_Showcar_Voyah_Passion_L_No-plate_2025-12-21.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "AWD (dual motor)"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Voyah Passion L
 
@@ -37,8 +50,7 @@ Voyah Passion L (starting at $38,880) is a Sedan from VOYAH.
 
 ## Overview
 
-The Voyah Passion L is a sedan plug-in hybrid from Voyah, . It is positioned as a value-focused import, priced from $38,880 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $47,315 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Voyah's Voyah Passion L is a dual-motor all-wheel-drive plug-in hybrid sedan. Specification highlights are a CLTC-rated range of 410 km, NMC (CATL) chemistry, and a 63 kWh battery. For this sedan plug-in hybrid, the lowest landed premium is Qatar at roughly +15.8% over base (about $45,004 landed); meanwhile, Germany levies only the 10% standard tariff. Priced from $38,880 ex-factory, the sedan plug-in hybrid falls in the mid-tier tier. The sedan plug-in hybrid profile suits importers serving the sedan segment comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

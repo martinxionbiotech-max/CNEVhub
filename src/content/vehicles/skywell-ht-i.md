@@ -1,6 +1,6 @@
 ---
 title: "Skywell HT-i"
-description: "Skywell HT-i is a SUV plug-in hybrid from Skywell, offering 115 km of CLTC range a 21.68 kWh battery and 130 kW of motor power. Full landed-cost breakdown acros"
+description: "The Skywell HT-i is Skywell's SUV plug-in hybrid, offering 115 km of CLTC range, a 21 kWh battery, 130 kW of motor power, and a NMC (ternary) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "skywell-ht-i"
 brand: "skywell"
 type: "SUV"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["skywell", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "创维HT-i RMB 146,800 (CarNewsChina/AutoHome, 2022-09)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "HT-i"
 image: "/images/vehicles/skywell-ht-i.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+battery_type: "NMC (ternary)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Skywell HT-i
 
@@ -39,8 +51,7 @@ Skywell HT-i (starting at $20,390) is a SUV from SKYWELL.
 
 ## Overview
 
-The Skywell HT-i is a suv plug-in hybrid from Skywell, with 130 kW of motor power. It is positioned as a value-focused import, priced from $20,390 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +32% over base (about $26,929 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Skywell HT-i is an SUV plug-in hybrid from Skywell, in front-wheel-drive form. For this SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the least-costly destination is Qatar, near +25.5% over base ($25,589 landed). Key figures are a 130 kW electric motor and NMC (ternary) chemistry. As a mainstream-value SUV plug-in hybrid, it starts at $20,390 ex-factory. The SUV plug-in hybrid profile suits regional distributors seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

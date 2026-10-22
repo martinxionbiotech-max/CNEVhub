@@ -1,6 +1,6 @@
 ---
 title: "Ora Good Cat GT"
-description: "Ora Good Cat GT is a Hatchback battery-electric from Ora, offering 430 km of CLTC range a 45.9 kWh battery and 126 kW of motor power. Full landed-cost breakdown"
+description: "The Ora Good Cat GT, a hatchback battery-electric from Ora, offering 430 km of CLTC range, 45 kWh of battery, 126 kW peak output, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "ora-good-cat-gt"
 brand: "ora"
 type: "Hatchback"
@@ -25,13 +25,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["ora", "Hatchback", "chinese-ev", "export"]
 data_tier: 1
-data_source: "欧拉好猫GT木兰版 RMB 96,800（新华网；45.9kWh/430km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Good Cat"
 image: "/images/vehicles/ora-good-cat-gt.jpg"
 image_credit: "Chanokchon / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2022_ORA_Good_Cat_GT.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Ora Good Cat GT
 
@@ -44,8 +56,7 @@ Ora Good Cat GT (starting at $13,440) is a Hatchback from ORA.
 
 ## Overview
 
-The Ora Good Cat GT is a hatchback battery-electric from Ora, with 126 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $13,440 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +43% over base (about $19,267 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 12.0 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Ora Good Cat GT is a hatchback battery-electric with front-wheel-drive from Ora. This hatchback battery-electric is positioned as a budget import, from $13,440 ex-factory. For the hatchback battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — the least-costly destination is Qatar, near +36.1% over base ($18,292 landed). It carries a top speed of 150 km/h, 0–100 km/h in 6.9 seconds, and a MacPherson strut front / Torsion beam rear suspension layout. The hatchback battery-electric profile suits importers targeting urban runabout demand seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

@@ -1,6 +1,6 @@
 ---
 title: "MG6 PHEV"
-description: "MG6 PHEV is a Sedan plug-in hybrid from MG, offering 70 km of CLTC range a 11.1 kWh battery and 100 kW of motor power. Full landed-cost breakdown across 7 expor"
+description: "The MG6 PHEV is a sedan plug-in hybrid electric from MG with 70 km of CLTC range, a 11 kWh battery, 100 kW peak output, and a NMC pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "mg6-phev"
 brand: "mg"
 type: "Sedan"
@@ -23,13 +23,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["mg", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "MG6 PHEV RMB 142,800（上汽名爵官网；11.1kWh/70km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "MG6"
 image: "/images/vehicles/mg6-phev.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+battery_type: "NMC"
+drive_type: "FWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "N/A"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # MG6 PHEV
 
@@ -42,8 +55,7 @@ MG6 PHEV (starting at $19,830) is a Sedan from MG.
 
 ## Overview
 
-The MG6 PHEV is a sedan plug-in hybrid from MG, with 100 kW of motor power, a 6.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,830 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +32% over base (about $26,312 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The MG6 PHEV is a front-wheel-drive plug-in hybrid sedan from MG. Specification highlights are NMC chemistry, MacPherson strut front / Multi-link rear suspension, and peak torque of 230 Nm. At $19,830 ex-factory, this sedan plug-in hybrid sits in the mainstream-value segment. For the sedan plug-in hybrid, Germany levies only the 10% standard tariff — the lowest landed premium is Qatar at roughly +26.1% over base (about $25,001 landed). As a sedan plug-in hybrid, it is aimed at private buyers and ride-hailing operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

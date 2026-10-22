@@ -1,6 +1,6 @@
 ---
 title: "Xpeng MONA L03"
-description: "Xpeng MONA L03 is a SUV battery-electric from XPENG, offering 550 km of CLTC range and 183 kW of motor power. Full landed-cost breakdown across 7 export markets"
+description: "XPeng's Xpeng MONA L03 is an SUV battery-electric, offering 550 km of CLTC range, 183 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "xpeng-mona-l03"
 brand: "xpeng"
 type: "SUV"
@@ -22,13 +22,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xpeng", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "小鹏MONA L03 RMB 123,800 (小鹏官网/易车, 2026-07-16)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "MONA"
 image: "/images/vehicles/xpeng-mona-l03.jpg"
 image_credit: "Tim Wu / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:XPeng_MONA_L03_in_Grandview_Mall,_Guangzhou_20260712.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Xpeng MONA L03
 
@@ -39,8 +51,7 @@ Xpeng MONA L03 (starting at $17,190) is a SUV from XPENG.
 
 ## Overview
 
-The Xpeng MONA L03 is a suv battery-electric from XPENG, with 183 kW of motor power. It is positioned as a value-focused import, priced from $17,190 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +36% over base (about $23,401 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+XPeng's Xpeng MONA L03 is an front-wheel-drive fully electric SUV. As a value-oriented SUV fully electric, it starts at $17,190 ex-factory. Specification highlights are a 183 kW electric motor and 180 km/h top speed. On landed cost for this SUV fully electric, the lowest landed premium is Qatar at roughly +29.3% over base (about $22,229 landed); meanwhile, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The SUV fully electric profile suits family and fleet buyers watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

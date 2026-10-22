@@ -1,6 +1,6 @@
 ---
 title: "Roewe i6 MAX PHEV"
-description: "Roewe i6 MAX PHEV is a Sedan plug-in hybrid from Roewe, offering 51 km of CLTC range a 9.1 kWh battery and 100 kW of motor power. Full landed-cost breakdown acr"
+description: "The Roewe i6 MAX PHEV is a sedan plug-in hybrid from Roewe, offering a CLTC-rated range of 51 km, a 9 kWh battery, 100 kW peak output, and LFP chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "roewe-i6-max-phev"
 brand: "roewe"
 type: "Sedan"
@@ -19,13 +19,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["roewe", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "荣威ei6 MAX 起售价13.68万元（百度百科/第一电动网）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "i6 MAX"
 image: "/images/vehicles/roewe-i6-max-phev.jpg"
 image_credit: "Navigator84 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=58363952"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Roewe i6 MAX PHEV
 
@@ -38,8 +50,7 @@ Roewe i6 MAX PHEV (starting at $19,000) is a Sedan from ROEWE.
 
 ## Overview
 
-The Roewe i6 MAX PHEV is a sedan plug-in hybrid from Roewe, with 100 kW of motor power, a 7.2-second 0–100 km/h time. It is positioned as a value-focused import, priced from $19,000 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,397 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Roewe's Roewe i6 MAX PHEV is a front-wheel-drive plug-in hybrid sedan. With a $19,000 ex-factory price, the sedan plug-in hybrid reads as mainstream-value. On landed cost for this sedan plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty — the lowest landed premium is Qatar at roughly +27% over base (about $24,130 landed). It carries 9 kWh of capacity and peak output of 100 kW. As a sedan plug-in hybrid, it is aimed at business fleets watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

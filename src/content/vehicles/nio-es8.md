@@ -1,6 +1,6 @@
 ---
 title: "NIO ES8"
-description: "NIO ES8 is a suv from Nio, offering 635 km of CLTC range a 102 kWh battery and 520 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The NIO ES8 is an SUV battery-electric from NIO with 635 km of CLTC range, a 102 kWh battery, 520 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "nio-es8"
 brand: "nio"
 type: "SUV"
@@ -26,13 +26,28 @@ author: "Wei Wang"
 tags: ["nio", "SUV", "chinese-ev", "export"]
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.19, "total_landed_usd": 96863.29, "premium_pct": 69.5}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 97521.8, "premium_pct": 70.7}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 98280.32, "premium_pct": 72.0}, {"market": "Sweden", "market_key": "sweden", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.25, "total_landed_usd": 100984.38, "premium_pct": 76.8}, {"market": "Denmark", "market_key": "denmark", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.25, "total_landed_usd": 104414.38, "premium_pct": 82.8}, {"market": "Spain", "market_key": "spain", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 97990.32, "premium_pct": 71.5}, {"market": "Italy", "market_key": "italy", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.22, "total_landed_usd": 98888.83, "premium_pct": 73.1}, {"market": "Belgium", "market_key": "belgium", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.21, "total_landed_usd": 98030.32, "premium_pct": 71.6}, {"market": "Austria", "market_key": "austria", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.2, "total_landed_usd": 97321.8, "premium_pct": 70.4}, {"market": "Portugal", "market_key": "portugal", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.23, "total_landed_usd": 99597.35, "premium_pct": 74.3}, {"market": "Ireland", "market_key": "ireland", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.23, "total_landed_usd": 99597.35, "premium_pct": 74.3}, {"market": "Poland", "market_key": "poland", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.207, "vat_rate": 0.23, "total_landed_usd": 99452.35, "premium_pct": 74.1}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 81661.6, "premium_pct": 42.9}, {"market": "Norway", "market_key": "norway", "region": "Non-EU Europe", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.25, "total_landed_usd": 78662.5, "premium_pct": 37.7}, {"market": "Switzerland", "market_key": "switzerland", "region": "Non-EU Europe", "standard_duty_rate": 0.04, "countervailing_duty_rate": 0.0, "vat_rate": 0.081, "total_landed_usd": 70277.83, "premium_pct": 23.0}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 67435.83, "premium_pct": 18.0}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 73434.48, "premium_pct": 28.5}, {"market": "Israel", "market_key": "israel", "region": "Middle East", "standard_duty_rate": 0.07, "countervailing_duty_rate": 0.0, "vat_rate": 0.18, "total_landed_usd": 76982.34, "premium_pct": 34.7}, {"market": "Qatar", "market_key": "qatar", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.0, "total_landed_usd": 64166.5, "premium_pct": 12.3}, {"market": "Turkey", "market_key": "turkey", "region": "Middle East", "standard_duty_rate": 0.4, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 100228.4, "premium_pct": 75.4}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 68693.0, "premium_pct": 20.2}, {"market": "New Zealand", "market_key": "new_zealand", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 71072.5, "premium_pct": 24.4}, {"market": "Thailand", "market_key": "thailand", "region": "Southeast Asia", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.07, "total_landed_usd": 65779.1, "premium_pct": 15.1}, {"market": "Malaysia", "market_key": "malaysia", "region": "Southeast Asia", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 70635.15, "premium_pct": 23.6}, {"market": "Indonesia", "market_key": "indonesia", "region": "Southeast Asia", "standard_duty_rate": 0.5, "countervailing_duty_rate": 0.0, "vat_rate": 0.11, "total_landed_usd": 99821.45, "premium_pct": 74.7}, {"market": "Singapore", "market_key": "singapore", "region": "Southeast Asia", "standard_duty_rate": 0.2, "countervailing_duty_rate": 0.0, "vat_rate": 0.09, "total_landed_usd": 79586.04, "premium_pct": 39.3}, {"market": "Mexico", "market_key": "mexico", "region": "North America", "standard_duty_rate": 0.5, "countervailing_duty_rate": 0.0, "vat_rate": 0.16, "total_landed_usd": 106456.2, "premium_pct": 86.3}, {"market": "Canada", "market_key": "canada", "region": "North America", "standard_duty_rate": 0.061, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 70685.68, "premium_pct": 23.7}, {"market": "Brazil", "market_key": "brazil", "region": "Latin America", "standard_duty_rate": 0.35, "countervailing_duty_rate": 0.0, "vat_rate": 0.17, "total_landed_usd": 96806.84, "premium_pct": 69.5}, {"market": "South Africa", "market_key": "south_africa", "region": "Africa", "standard_duty_rate": 0.25, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 88354.38, "premium_pct": 54.7}]
 data_tier: 1
-data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
-data_updated: "2026-09-07"
 data_reviewed: false
 family: "ES8"
 image: "/images/vehicles/nio-es8.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=175712880"
+battery_type: "NMC"
+drive_type: "AWD"
+motor_type: "PMSM + AC induction (dual motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+trim: "75 kWh / 100 kWh 标准续航 / 长续航"
+brakes: "Front ventilated disc / rear disc"
+ground_clearance_mm: 135
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Nio ES8
 
@@ -45,7 +60,7 @@ Nio ES8 (starting at $57,130) is a SUV from NIO.
 
 ## Overview
 
-The Nio ES8 is a full-size SUV battery-electric from NIO, with 635 km of CLTC range, 520 kW of motor power, a 3.97-second 0–100 km/h time. It is positioned as a premium import, priced from $57,130 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +18% over base (about $67,436 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 16.6 kWh/100km efficiency is strong for its 2,630 kg curb weight; only slow AC charging is listed, which affects fleet turnaround. It suits large families and executive fleets.
+The NIO ES8 is an SUV battery-electric with all-wheel-drive from NIO. On landed cost for this SUV battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — the lowest landed premium is Qatar at roughly +12.3% over base (about $64,166 landed). The $57,130 ex-factory price places this SUV battery-electric in the premium band. Specification highlights are a CLTC-rated range of 635 km, Double wishbone front / Multi-link (air) rear suspension, and 700 Nm of torque. This SUV battery-electric is positioned for families and commercial fleet operators prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

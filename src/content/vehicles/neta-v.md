@@ -1,6 +1,6 @@
 ---
 title: "Neta V"
-description: "Neta V is a SUV battery-electric from Neta, offering 301 km of CLTC range a 35.0 kWh battery and 55 kW of motor power. Full landed-cost breakdown across 7 expor"
+description: "Neta's Neta V is an SUV fully electric with 301 km of CLTC range, a 35 kWh battery, 55 kW peak output, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "neta-v"
 brand: "neta"
 type: "SUV"
@@ -22,13 +22,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["neta", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "哪吒V RMB 59,900 (汽车之家)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Neta V"
 image: "/images/vehicles/neta-v.jpg"
 image_credit: "User3204 / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2022_Hozon_Neta_V_(front).jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Neta V
 
@@ -40,8 +52,7 @@ Neta V (starting at $8,320) is a SUV from NETA.
 
 ## Overview
 
-The Neta V is a suv battery-electric from Neta, with 55 kW of motor power. It is positioned as a value-focused import, priced from $8,320 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +63% over base (about $13,622 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Neta V is an front-wheel-drive fully electric SUV from Neta. On landed cost for this SUV fully electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — the least-costly destination is Qatar, near +55.2% over base ($12,916 landed). The $8,320 ex-factory price places this SUV fully electric in the affordable-end band. It carries a 35 kWh battery, a CLTC-rated range of 301 km, and a MacPherson strut front / Torsion beam rear suspension layout. The SUV fully electric profile suits regional distributors prioritizing price-to-spec value.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

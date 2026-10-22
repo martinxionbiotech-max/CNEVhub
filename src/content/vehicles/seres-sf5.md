@@ -1,6 +1,6 @@
 ---
 title: "Seres SF5"
-description: "Seres SF5 is a SUV extended-range electric from Seres, a 40.0 kWh battery. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Seres SF5 is Seres's SUV extended-range electric with a 40 kWh battery and NMC (CATL) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "seres-sf5"
 brand: "seres"
 type: "SUV"
@@ -19,13 +19,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["seres", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "赛力斯SF5 RMB 236,800（2021款两驱华为智选版，已停产；维基百科/搜狐汽车）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "SF5"
 image: "/images/vehicles/seres-sf5.jpg"
 image_credit: "gleb / Wikimedia Commons / CC BY 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:2021_Seres_SF5_blue_front.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "RWD / AWD"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Seres SF5
 
@@ -35,8 +48,7 @@ Seres SF5 (starting at $32,890) is a SUV from SERES.
 
 ## Overview
 
-The Seres SF5 is a suv extended-range electric from Seres, . It is positioned as a value-focused import, priced from $32,890 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +23% over base (about $40,711 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Seres SF5 is an SUV range-extended electric from Seres, in rear- or all-wheel-drive form. For the SUV range-extended electric, the least-costly destination is Qatar, near +17.7% over base ($38,714 landed); Germany levies only the 10% standard tariff. With a $32,890 ex-factory price, the SUV range-extended electric reads as mid-tier. Specification highlights are a MacPherson strut front / Multi-link rear suspension layout and NMC (CATL) chemistry. As a SUV range-extended electric, it is aimed at families and commercial fleet operators evaluating mid-market landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

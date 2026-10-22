@@ -1,6 +1,6 @@
 ---
 title: "Yudo Pi 3"
-description: "Yudo Pi 3 is a SUV battery-electric from Yudo, offering 401 km of CLTC range a 51.0 kWh battery and 90 kW of motor power. Full landed-cost breakdown across 7 ex"
+description: "The Yudo Pi 3, an SUV fully electric from Yudo with a CLTC-rated range of 401 km, a 51 kWh battery, 90 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "yudo-pi-3"
 brand: "yudo"
 type: "SUV"
@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["yudo", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "云度π3 RMB 109,800（新浪汽车/搜狐汽车；51kWh/401km NEDC）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Pi"
 image: "/images/vehicles/yudo-pi-3.jpg"
 image_credit: "Jengtingchen / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Yudo_Pi_3_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Yudo Pi 3
 
@@ -42,8 +54,7 @@ Yudo Pi 3 (starting at $15,250) is a SUV from YUDO.
 
 ## Overview
 
-The Yudo Pi 3 is a suv battery-electric from Yudo, with 90 kW of motor power. It is positioned as a value-focused import, priced from $15,250 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +39% over base (about $21,263 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Yudo's Yudo Pi 3 is an front-wheel-drive battery-electric SUV. It carries 270 Nm of torque, LFP cells, and 51 kWh of capacity. The $15,250 ex-factory price places this SUV battery-electric in the value band. For the SUV battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff — the least-costly destination is Qatar, near +32.4% over base ($20,192 landed). In the SUV battery-electric segment, it serves families and commercial fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

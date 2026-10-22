@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi SkyNomad N70"
-description: "Xiaomi SkyNomad N70 is a SUV extended-range electric from Xiaomi, offering 351 km of CLTC range a 52.0 kWh battery and 210 kW of motor power. Full landed-cost b"
+description: "Xiaomi's Xiaomi SkyNomad N70 is an SUV range-extended electric with 351 km of CLTC range, 52 kWh of battery, 210 kW peak output, and NMC (Qilin, CATL) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "xiaomi-skynomad-n70"
 brand: "xiaomi"
 type: "SUV"
@@ -23,13 +23,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xiaomi", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Xiaomi SkyNomad N70 RMB 209,900 (小米汽车官网/IT之家, 2026-09)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "SkyNomad"
 image: "/images/vehicles/xiaomi-skynomad-n70.jpg"
 image_credit: "Partydoos / Wikimedia Commons / CC BY 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Xiaomi_SkyNomad_N70.jpg"
+battery_type: "NMC (Qilin, CATL)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Xiaomi SkyNomad N70
 
@@ -42,8 +55,7 @@ Xiaomi SkyNomad N70 (starting at $29,150) is a SUV from XIAOMI.
 
 ## Overview
 
-The Xiaomi SkyNomad N70 is a suv extended-range electric from Xiaomi, with 210 kW of motor power, a 7.9-second 0–100 km/h time. It is positioned as a value-focused import, priced from $29,150 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +25% over base (about $36,587 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Xiaomi SkyNomad N70 is an SUV extended-range electric with rear-wheel-drive from Xiaomi. Key figures are a 7.9-second 0–100 km/h time, NMC (Qilin, CATL) cells, and a 210 kW electric motor. Across export markets for the SUV extended-range electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the lowest landed premium is Qatar at roughly +19.3% over base (about $34,787 landed). Priced from $29,150 ex-factory, the SUV extended-range electric falls in the mid-market tier. This SUV extended-range electric is positioned for regional distributors comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

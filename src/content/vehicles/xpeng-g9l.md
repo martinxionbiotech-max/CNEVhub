@@ -1,6 +1,6 @@
 ---
 title: "Xpeng G9L"
-description: "Xpeng G9L is a SUV battery-electric from XPENG, offering 702 km of CLTC range. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Xpeng G9L is XPeng's SUV battery-electric, offering 702 km of CLTC range and LFP / NMC chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "xpeng-g9l"
 brand: "xpeng"
 type: "SUV"
@@ -22,13 +22,27 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xpeng", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "小鹏G9L RMB 259,800 presale (小鹏官网, 2026-08-11)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "G"
 image: "/images/vehicles/xpeng-g9l.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+battery_type: "LFP / NMC"
+drive_type: "RWD / AWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+drag_coefficient: 0.272
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Xpeng G9L
 
@@ -39,8 +53,7 @@ Xpeng G9L (starting at $36,080) is a SUV from XPENG.
 
 ## Overview
 
-The Xpeng G9L is a suv battery-electric from XPENG, , a 4.45-second 0–100 km/h time. It is positioned as a value-focused import, priced from $36,080 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +22% over base (about $44,228 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. In practice, the 15.4 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+XPeng's Xpeng G9L is an rear- or all-wheel-drive fully electric SUV. The $36,080 ex-factory price places this SUV fully electric in the mid-tier band. Across export markets for the SUV fully electric, Germany applies a 20.7% countervailing duty on top of the 10% standard tariff, while Qatar offers the cheapest entry at about +16.6% over base (≈ $42,064 landed). Key figures are a drag coefficient of 0.272 and Double wishbone front / Multi-link rear suspension. For the SUV fully electric buyer, it suits importers targeting the family-SUV segment comparing segment landed premiums.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

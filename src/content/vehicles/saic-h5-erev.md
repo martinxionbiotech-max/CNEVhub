@@ -1,6 +1,6 @@
 ---
 title: "SAIC H5 EREV"
-description: "SAIC H5 EREV is a SUV extended-range electric from SAIC, offering 235 km of CLTC range a 32.6 kWh battery and 150 kW of motor power. Full landed-cost breakdown "
+description: "The SAIC H5 EREV, an SUV range-extended electric from SAIC, offering 235 km of CLTC range, a 32 kWh battery, 150 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "saic-h5-erev"
 brand: "saic"
 type: "SUV"
@@ -24,13 +24,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["saic", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "尚界H5增程 起售价15.98万元（鸿蒙智行官网/新出行）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "H5"
 image: "/images/vehicles/saic-h5-erev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=179901964"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # SAIC H5 EREV
 
@@ -43,8 +55,7 @@ SAIC H5 EREV (starting at $22,190) is a SUV from SAIC.
 
 ## Overview
 
-The SAIC H5 EREV is a suv extended-range electric from SAIC, with 150 kW of motor power, a 7.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $22,190 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $28,914 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+SAIC's SAIC H5 EREV is an front-wheel-drive range-extended electric SUV. On landed cost for this SUV range-extended electric, the lowest landed premium is Qatar at roughly +23.8% over base (about $27,479 landed); Germany levies only the 10% standard tariff. Specification highlights are 350 Nm of torque, peak output of 150 kW, and LFP cells. This SUV range-extended electric is positioned as a mainstream-value import, from $22,190 ex-factory. The SUV range-extended electric profile suits regional distributors focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

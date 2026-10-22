@@ -1,6 +1,6 @@
 ---
 title: "Neta L"
-description: "Neta L is a SUV extended-range electric from Neta, offering 310 km of CLTC range a 40.3 kWh battery and 170 kW of motor power. Full landed-cost breakdown across"
+description: "Neta's Neta L is an SUV extended-range electric with a CLTC-rated range of 310 km, 40 kWh of battery, 170 kW of motor power, and LFP chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "neta-l"
 brand: "neta"
 type: "SUV"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["neta", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "哪吒L增程 RMB 129,900 (懂车帝/什么值得买)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Neta L"
 image: "/images/vehicles/neta-l.jpg"
 image_credit: "ישראל פרקר / Wikimedia Commons / CC BY 2.5"
 image_source: "https://commons.wikimedia.org/wiki/File:140508_kibbutz_magal_in_sharon_netas_corner_in_memo_PikiWiki_Israel.jpg"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Neta L
 
@@ -39,8 +51,7 @@ Neta L (starting at $18,040) is a SUV from NETA.
 
 ## Overview
 
-The Neta L is a suv extended-range electric from Neta, with 170 kW of motor power. It is positioned as a value-focused import, priced from $18,040 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +34% over base (about $24,339 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Neta L is an rear-wheel-drive range-extended electric SUV from Neta. For this SUV range-extended electric, the least-costly destination is Qatar, near +28.2% over base ($23,122 landed) — Germany levies only the 10% standard tariff. Specification highlights are LFP chemistry, a CLTC-rated range of 310 km, and a 170 kW electric motor. As a mainstream-value SUV range-extended electric, it starts at $18,040 ex-factory. The SUV range-extended electric profile suits importers targeting the family-SUV segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

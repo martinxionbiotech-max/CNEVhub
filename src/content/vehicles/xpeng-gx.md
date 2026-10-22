@@ -1,6 +1,6 @@
 ---
 title: "Xpeng GX"
-description: "Xpeng GX is a SUV extended-range electric from XPENG, offering 430 km of CLTC range a 63.3 kWh battery and 370 kW of motor power. Full landed-cost breakdown acr"
+description: "XPeng's Xpeng GX is an SUV extended-range electric with a CLTC-rated range of 430 km, a 63 kWh battery, 370 kW peak output, and a NMC (CATL) pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "xpeng-gx"
 brand: "xpeng"
 type: "SUV"
@@ -26,13 +26,26 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["xpeng", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "小鹏GX RMB 279,800 (小鹏官网/汽车之家, 2026-05-20)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "G"
 image: "/images/vehicles/xpeng-gx.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:XPeng_GX_001.jpg"
+battery_type: "NMC (CATL)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Xpeng GX
 
@@ -45,8 +58,7 @@ Xpeng GX (starting at $38,860) is a SUV from XPENG.
 
 ## Overview
 
-The Xpeng GX is a suv extended-range electric from XPENG, with 370 kW of motor power, a 4.98-second 0–100 km/h time. It is positioned as a value-focused import, priced from $38,860 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +21% over base (about $47,293 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. In practice, the 16.8 kWh/100km efficiency is a practical figure; It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+XPeng's Xpeng GX is an rear-wheel-drive extended-range electric SUV. On landed cost for this SUV extended-range electric, the lowest landed premium is Qatar at roughly +15.8% over base (about $44,983 landed); meanwhile, Germany applies the 10% standard tariff with no countervailing duty. It carries 200 km/h top speed and peak output of 370 kW. Priced from $38,860 ex-factory, the SUV extended-range electric falls in the mid-tier tier. For the SUV extended-range electric buyer, it suits importers targeting the family-SUV segment focused on total landed economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

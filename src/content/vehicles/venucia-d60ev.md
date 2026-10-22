@@ -1,6 +1,6 @@
 ---
 title: "Venucia D60 EV"
-description: "Venucia D60 EV is a Sedan battery-electric from Venucia, offering 450 km of CLTC range a 58.0 kWh battery and 120 kW of motor power. Full landed-cost breakdown "
+description: "The Venucia D60 EV is a sedan battery-electric from Venucia, offering a CLTC-rated range of 450 km, a 58 kWh battery, 120 kW of motor power, and NMC (ternary) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "venucia-d60ev"
 brand: "venucia"
 type: "Sedan"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["venucia", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "启辰D60EV RMB 139,800 (汽车之家/Wikipedia)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "D60"
 image: "/images/vehicles/venucia-d60ev.jpg"
 image_credit: "Windmemories / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:20210611_A_Venucia_D60_EV_taxi_in_Zhengzhou_01.jpg"
+battery_type: "NMC (ternary)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Venucia D60 EV
 
@@ -39,8 +51,7 @@ Venucia D60 EV (starting at $19,420) is a Sedan from VENUCIA.
 
 ## Overview
 
-The Venucia D60 EV is a sedan battery-electric from Venucia, with 120 kW of motor power. It is positioned as a value-focused import, priced from $19,420 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +33% over base (about $25,860 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Venucia D60 EV is a sedan fully electric from Venucia, in front-wheel-drive form. Priced from $19,420 ex-factory, the sedan fully electric falls in the value tier. Key figures are a CLTC-rated range of 450 km and NMC (ternary) cells. Across export markets for the sedan fully electric, the lowest landed premium is Qatar at roughly +26.5% over base (about $24,571 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. For the sedan fully electric buyer, it suits business fleets focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

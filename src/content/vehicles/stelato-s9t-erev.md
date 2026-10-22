@@ -1,6 +1,6 @@
 ---
 title: "Stelato S9T EREV"
-description: "Stelato S9T EREV is a Sedan extended-range electric from Stelato, offering 251 km of CLTC range a 36.0 kWh battery and 227 kW of motor power. Full landed-cost b"
+description: "Stelato's Stelato S9T EREV is a sedan extended-range electric, offering 251 km of CLTC range, 36 kWh of battery, 227 kW peak output, and a LFP (CATL) / NMC (CATL) pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "stelato-s9t-erev"
 brand: "stelato"
 type: "Sedan"
@@ -24,13 +24,28 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["stelato", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "享界S9T增程Max 起售价30.98万元（鸿蒙智行官网/凤凰网）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "S9T"
 image: "/images/vehicles/stelato-s9t-erev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=175846170"
+battery_type: "LFP (CATL) / NMC (CATL)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+drag_coefficient: 0.193
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+network_bands: "5G NR (sub-6 GHz)"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Stelato S9T EREV
 
@@ -43,8 +58,7 @@ Stelato S9T EREV (starting at $43,030) is a Sedan from STELATO.
 
 ## Overview
 
-The Stelato S9T EREV is a sedan extended-range electric from Stelato, with 227 kW of motor power, a 7.32-second 0–100 km/h time. It is positioned as a value-focused import, priced from $43,030 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $51,890 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Stelato S9T EREV is a sedan range-extended electric with rear-wheel-drive from Stelato. As a premium sedan range-extended electric, it starts at $43,030 ex-factory. For this sedan range-extended electric, Germany applies the 10% standard tariff with no countervailing duty; meanwhile, the lowest landed premium is Qatar at roughly +14.7% over base (about $49,361 landed). Specification highlights are a 7.32-second 0–100 km/h time, 204 km/h top speed, and peak torque of 320 Nm. The sedan range-extended electric profile suits executive and corporate fleet buyers prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

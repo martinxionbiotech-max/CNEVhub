@@ -1,6 +1,6 @@
 ---
 title: "Voyah Dream PHEV"
-description: "Voyah Dream PHEV is a MPV plug-in hybrid from Voyah, offering 82 km of CLTC range a 25.57 kWh battery and 290 kW of motor power. Full landed-cost breakdown acro"
+description: "The Voyah Dream PHEV, an MPV plug-in hybrid from Voyah with a CLTC-rated range of 82 km, 25 kWh of battery, 290 kW peak output, and NMC chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "voyah-dream-phev"
 brand: "voyah"
 type: "MPV"
@@ -25,13 +25,27 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["voyah", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "岚图梦想家PHEV 起售价36.99万元（百度百科）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Dream"
 image: "/images/vehicles/voyah-dream-phev.jpg"
 image_credit: "Retired electrician / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=186070672"
+battery_type: "NMC"
+drive_type: "AWD"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+trim: "增程版 尊享 / 旗舰"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Voyah Dream PHEV
 
@@ -44,8 +58,7 @@ Voyah Dream PHEV (starting at $51,380) is a MPV from VOYAH.
 
 ## Overview
 
-The Voyah Dream PHEV is a mpv plug-in hybrid from Voyah, with 290 kW of motor power, a 6.6-second 0–100 km/h time. It is positioned as a value-focused import, priced from $51,380 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +18% over base (about $61,096 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Voyah Dream PHEV is an MPV plug-in hybrid with all-wheel-drive from Voyah. It carries peak output of 290 kW and NMC chemistry. As a upper-mid MPV plug-in hybrid, it starts at $51,380 ex-factory. For the MPV plug-in hybrid, Germany levies only the 10% standard tariff; Qatar offers the cheapest entry at about +13.1% over base (≈ $58,129 landed). This MPV plug-in hybrid is positioned for shuttle and charter fleet operators focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

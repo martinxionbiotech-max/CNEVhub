@@ -1,6 +1,6 @@
 ---
 title: "Oshan Keshan EV"
-description: "Oshan Keshan EV is a MPV battery-electric from Oshan, a 57.9 kWh battery and 90 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B im"
+description: "Oshan's Oshan Keshan EV is an MPV fully electric with 57 kWh of battery, 90 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "oshan-keshan-ev"
 brand: "oshan"
 type: "MPV"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["oshan", "MPV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "欧尚科尚EV RMB 166,800（汽车之家/新浪汽车；57.9kWh/NEDC约401km）"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Keshan"
 image: "/images/vehicles/oshan-keshan-ev.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Oshan Keshan EV
 
@@ -38,8 +50,7 @@ Oshan Keshan EV (starting at $23,170) is a MPV from OSHAN.
 
 ## Overview
 
-The Oshan Keshan EV is a mpv battery-electric from Oshan, with 90 kW of motor power. It is positioned as a value-focused import, priced from $23,170 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +29% over base (about $29,994 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Oshan Keshan EV is an front-wheel-drive battery-electric MPV from Oshan. With a $23,170 ex-factory price, the MPV battery-electric reads as mainstream-value. For this MPV battery-electric, Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff, while the least-costly destination is Qatar, near +23% over base ($28,508 landed). It carries 260 Nm of torque, 57 kWh of capacity, and MacPherson strut front / Multi-link rear suspension. For the MPV battery-electric buyer, it suits people-carrier operators and family buyers focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

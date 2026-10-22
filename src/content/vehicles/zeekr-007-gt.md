@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 007 GT"
-description: "Zeekr 007 GT is a Sedan battery-electric from Zeekr, offering 650 km of CLTC range a 75.0 kWh battery and 310 kW of motor power. Full landed-cost breakdown acro"
+description: "The Zeekr 007 GT is Zeekr's sedan battery-electric with a CLTC-rated range of 650 km, a 75 kWh battery, 310 kW of motor power, and a LFP / NMC pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "zeekr-007-gt"
 brand: "zeekr"
 type: "Sedan"
@@ -22,13 +22,28 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["zeekr", "Sedan", "chinese-ev", "export"]
 data_tier: 1
-data_source: "autohome/新出行/Wikipedia: ¥202,900 (20.29万起), 75 kWh, 310 kW, CLTC 650 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Zeekr 007"
 image: "/images/vehicles/zeekr-007-gt.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Zeekr_007_GT_001.jpg"
+battery_type: "LFP / NMC"
+drive_type: "RWD / AWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+drag_coefficient: 0.219
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+trim: "GT (四驱)"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Zeekr 007 GT
 
@@ -41,8 +56,7 @@ Zeekr 007 GT (starting at $28,180) is a Sedan from ZEEKR.
 
 ## Overview
 
-The Zeekr 007 GT is a sedan battery-electric from Zeekr, with 310 kW of motor power, a 5.3-second 0–100 km/h time. It is positioned as a value-focused import, priced from $28,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +26% over base (about $35,518 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Zeekr 007 GT is a sedan fully electric from Zeekr, in rear- or all-wheel-drive form. For this sedan fully electric, Germany's estimate carries a 18.8% countervailing duty over the 10% base tariff; the lowest landed premium is Qatar at roughly +19.8% over base (about $33,769 landed). At $28,180 ex-factory, this sedan fully electric sits in the mid-market segment. Key figures are Double wishbone front / Multi-link rear suspension and peak output of 310 kW. This sedan fully electric is positioned for private buyers and ride-hailing operators balancing spec and landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

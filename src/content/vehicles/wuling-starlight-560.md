@@ -1,6 +1,6 @@
 ---
 title: "Wuling Starlight 560"
-description: "Wuling Starlight 560 is a SUV plug-in hybrid from Wuling, offering 125 km of CLTC range a 20.5 kWh battery. Full landed-cost breakdown across 7 export markets f"
+description: "The Wuling Starlight 560 is an SUV plug-in hybrid from Wuling with a CLTC-rated range of 125 km, a 20 kWh battery, and a LFP pack. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "wuling-starlight-560"
 brand: "wuling"
 type: "SUV"
@@ -20,13 +20,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["wuling", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "五菱星光560 RMB 59,800 (Gasgoo/汽车之家; Wikipedia)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Starlight"
 image: "/images/vehicles/wuling-starlight-560.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Wuling_Starlight_560_001.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Wuling Starlight 560
 
@@ -37,8 +49,7 @@ Wuling Starlight 560 (starting at $8,310) is a SUV from WULING.
 
 ## Overview
 
-The Wuling Starlight 560 is a suv plug-in hybrid from Wuling, . It is positioned as a value-focused import, priced from $8,310 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +63% over base (about $13,611 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Wuling Starlight 560 is an front-wheel-drive plug-in hybrid electric SUV from Wuling. Across export markets for the SUV plug-in hybrid electric, Germany applies the 10% standard tariff with no countervailing duty — Qatar offers the cheapest entry at about +55.3% over base (≈ $12,905 landed). Specification highlights are 20 kWh of capacity and LFP chemistry. As a affordable-end SUV plug-in hybrid electric, it starts at $8,310 ex-factory. As a SUV plug-in hybrid electric, it is aimed at importers targeting the family-SUV segment watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

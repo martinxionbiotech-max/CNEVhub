@@ -1,6 +1,6 @@
 ---
 title: "Wuling Hongguang MINI EV"
-description: "Wuling Hongguang MINI EV is a hatchback from Wuling, offering 120 km of CLTC range a 9.3 kWh battery and 20 kW of motor power. Full landed-cost breakdown to the EU..."
+description: "The Wuling Hongguang MINI EV is a hatchback battery-electric from Wuling, offering 120 km of CLTC range, 9 kWh of battery, 20 kW peak output, and a LFP pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "wuling-hongguang-mini-ev"
 brand: "wuling"
 type: "Hatchback"
@@ -24,13 +24,27 @@ author: "Wei Wang"
 tags: ["wuling", "Hatchback", "chinese-ev", "export"]
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.19, "total_landed_usd": 15455.39, "premium_pct": 209.1}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.2, "total_landed_usd": 15429.8, "premium_pct": 208.6}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.21, "total_landed_usd": 15504.22, "premium_pct": 210.1}, {"market": "Sweden", "market_key": "sweden", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.25, "total_landed_usd": 15471.88, "premium_pct": 209.4}, {"market": "Denmark", "market_key": "denmark", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.25, "total_landed_usd": 18901.88, "premium_pct": 278.0}, {"market": "Spain", "market_key": "spain", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.21, "total_landed_usd": 15214.22, "premium_pct": 204.3}, {"market": "Italy", "market_key": "italy", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.22, "total_landed_usd": 15428.63, "premium_pct": 208.6}, {"market": "Belgium", "market_key": "belgium", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.21, "total_landed_usd": 15254.22, "premium_pct": 205.1}, {"market": "Austria", "market_key": "austria", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.2, "total_landed_usd": 15229.8, "premium_pct": 204.6}, {"market": "Portugal", "market_key": "portugal", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.23, "total_landed_usd": 15453.05, "premium_pct": 209.1}, {"market": "Ireland", "market_key": "ireland", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.23, "total_landed_usd": 15453.05, "premium_pct": 209.1}, {"market": "Poland", "market_key": "poland", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.353, "vat_rate": 0.23, "total_landed_usd": 15308.05, "premium_pct": 206.2}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 12850.0, "premium_pct": 157.0}, {"market": "Norway", "market_key": "norway", "region": "Non-EU Europe", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.25, "total_landed_usd": 13500.0, "premium_pct": 170.0}, {"market": "Switzerland", "market_key": "switzerland", "region": "Non-EU Europe", "standard_duty_rate": 0.04, "countervailing_duty_rate": 0.0, "vat_rate": 0.081, "total_landed_usd": 11671.2, "premium_pct": 133.4}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 9962.5, "premium_pct": 99.3}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 10487.5, "premium_pct": 109.8}, {"market": "Israel", "market_key": "israel", "region": "Middle East", "standard_duty_rate": 0.07, "countervailing_duty_rate": 0.0, "vat_rate": 0.18, "total_landed_usd": 11163.0, "premium_pct": 123.3}, {"market": "Qatar", "market_key": "qatar", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.0, "total_landed_usd": 9430.0, "premium_pct": 88.6}, {"market": "Turkey", "market_key": "turkey", "region": "Middle East", "standard_duty_rate": 0.4, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 12650.0, "premium_pct": 153.0}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 11350.0, "premium_pct": 127.0}, {"market": "New Zealand", "market_key": "new_zealand", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 11123.0, "premium_pct": 122.5}, {"market": "Thailand", "market_key": "thailand", "region": "Southeast Asia", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.07, "total_landed_usd": 10000.0, "premium_pct": 100.0}, {"market": "Malaysia", "market_key": "malaysia", "region": "Southeast Asia", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 10425.0, "premium_pct": 108.5}, {"market": "Indonesia", "market_key": "indonesia", "region": "Southeast Asia", "standard_duty_rate": 0.5, "countervailing_duty_rate": 0.0, "vat_rate": 0.11, "total_landed_usd": 13025.0, "premium_pct": 160.5}, {"market": "Singapore", "market_key": "singapore", "region": "Southeast Asia", "standard_duty_rate": 0.2, "countervailing_duty_rate": 0.0, "vat_rate": 0.09, "total_landed_usd": 11400.0, "premium_pct": 128.0}, {"market": "Mexico", "market_key": "mexico", "region": "North America", "standard_duty_rate": 0.5, "countervailing_duty_rate": 0.0, "vat_rate": 0.16, "total_landed_usd": 15750.0, "premium_pct": 215.0}, {"market": "Canada", "market_key": "canada", "region": "North America", "standard_duty_rate": 0.061, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 12610.25, "premium_pct": 152.2}, {"market": "Brazil", "market_key": "brazil", "region": "Latin America", "standard_duty_rate": 0.35, "countervailing_duty_rate": 0.0, "vat_rate": 0.17, "total_landed_usd": 14467.5, "premium_pct": 189.4}, {"market": "South Africa", "market_key": "south_africa", "region": "Africa", "standard_duty_rate": 0.25, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 13417.5, "premium_pct": 168.4}]
 data_tier: 1
-data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
-data_updated: "2026-09-07"
 data_reviewed: false
 family: "Hongguang MINI"
 image: "/images/vehicles/wuling-hongguang-mini-ev.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=164143309"
+battery_type: "LFP"
+drive_type: "RWD"
+motor_type: "Permanent magnet synchronous (PMSM)"
+battery_thermal: "N/A"
+heat_pump: "No"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC (China domestic, slow charge)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+trim: "120 km / 170 km 马卡龙版 / 悦享版"
+brakes: "Front disc / rear drum"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Wuling Hongguang MINI EV
 
@@ -42,8 +56,7 @@ Wuling Hongguang MINI EV (starting at $5,000) is a Hatchback from WULING.
 
 ## Overview
 
-Wuling Hongguang MINI EV is a hatchback from Wuling, offering 120 km of CLTC range a 9.3 kWh battery and 20 kW of motor power. Full landed-cost breakdown to the EU...
-
+The Wuling Hongguang MINI EV is a rear-wheel-drive battery-electric hatchback from Wuling. At $5,000 ex-factory, this hatchback battery-electric sits in the affordable-end segment. Specification highlights are MacPherson strut front / Torsion beam rear suspension, 120 km of CLTC range, and a top speed of 100 km/h. On landed cost for this hatchback battery-electric, Germany applies a 35.3% countervailing duty on top of the 10% standard tariff, while Qatar offers the cheapest entry at about +88.6% over base (≈ $9,430 landed). This hatchback battery-electric is positioned for urban commuters and fleet operators seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

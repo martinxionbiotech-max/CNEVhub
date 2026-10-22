@@ -1,6 +1,6 @@
 ---
 title: "Tank 500"
-description: "Tank 500 is a suv from Tank, a 37.1 kWh battery and 130 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import planning."
+description: "The Tank 500 is an SUV plug-in hybrid from Tank, offering a CLTC-rated range of 120 km, a 37 kWh battery, 300 kW of motor power, and NMC (ternary) chemistry. Landed-cost analysis across 30 key export markets for importers."
 slug: "tank-500"
 brand: "tank"
 type: "SUV"
@@ -26,13 +26,29 @@ author: "Wei Wang"
 tags: ["tank", "SUV", "chinese-ev", "export"]
 landed_cost_markets: [{"market": "Germany", "market_key": "germany", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.19, "total_landed_usd": 68358.62, "premium_pct": 44.9}, {"market": "France", "market_key": "france", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 68777.6, "premium_pct": 45.8}, {"market": "Netherlands", "market_key": "netherlands", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 69296.58, "premium_pct": 46.9}, {"market": "Sweden", "market_key": "sweden", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.25, "total_landed_usd": 71042.5, "premium_pct": 50.6}, {"market": "Denmark", "market_key": "denmark", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.25, "total_landed_usd": 74472.5, "premium_pct": 57.8}, {"market": "Spain", "market_key": "spain", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 69006.58, "premium_pct": 46.3}, {"market": "Italy", "market_key": "italy", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.22, "total_landed_usd": 69665.56, "premium_pct": 47.7}, {"market": "Belgium", "market_key": "belgium", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.21, "total_landed_usd": 69046.58, "premium_pct": 46.3}, {"market": "Austria", "market_key": "austria", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 68577.6, "premium_pct": 45.4}, {"market": "Portugal", "market_key": "portugal", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.23, "total_landed_usd": 70134.54, "premium_pct": 48.7}, {"market": "Ireland", "market_key": "ireland", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.23, "total_landed_usd": 70134.54, "premium_pct": 48.7}, {"market": "Poland", "market_key": "poland", "region": "EU", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.23, "total_landed_usd": 69989.54, "premium_pct": 48.3}, {"market": "United Kingdom", "market_key": "united_kingdom", "region": "Non-EU Europe", "standard_duty_rate": 0.1, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 68527.6, "premium_pct": 45.2}, {"market": "Norway", "market_key": "norway", "region": "Non-EU Europe", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.25, "total_landed_usd": 66225.0, "premium_pct": 40.4}, {"market": "Switzerland", "market_key": "switzerland", "region": "Non-EU Europe", "standard_duty_rate": 0.04, "countervailing_duty_rate": 0.0, "vat_rate": 0.081, "total_landed_usd": 59091.64, "premium_pct": 25.2}, {"market": "United Arab Emirates", "market_key": "united_arab_emirates", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 56465.95, "premium_pct": 19.7}, {"market": "Saudi Arabia", "market_key": "saudi_arabia", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 61419.85, "premium_pct": 30.2}, {"market": "Israel", "market_key": "israel", "region": "Middle East", "standard_duty_rate": 0.07, "countervailing_duty_rate": 0.0, "vat_rate": 0.18, "total_landed_usd": 64419.47, "premium_pct": 36.5}, {"market": "Qatar", "market_key": "qatar", "region": "Middle East", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.0, "total_landed_usd": 53719.0, "premium_pct": 13.9}, {"market": "Turkey", "market_key": "turkey", "region": "Middle East", "standard_duty_rate": 0.4, "countervailing_duty_rate": 0.0, "vat_rate": 0.2, "total_landed_usd": 83512.4, "premium_pct": 77.0}, {"market": "Australia", "market_key": "australia", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 57748.0, "premium_pct": 22.4}, {"market": "New Zealand", "market_key": "new_zealand", "region": "Oceania", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 59630.0, "premium_pct": 26.4}, {"market": "Thailand", "market_key": "thailand", "region": "Southeast Asia", "standard_duty_rate": 0.0, "countervailing_duty_rate": 0.0, "vat_rate": 0.07, "total_landed_usd": 55132.6, "premium_pct": 16.9}, {"market": "Malaysia", "market_key": "malaysia", "region": "Southeast Asia", "standard_duty_rate": 0.05, "countervailing_duty_rate": 0.0, "vat_rate": 0.1, "total_landed_usd": 59142.9, "premium_pct": 25.4}, {"market": "Indonesia", "market_key": "indonesia", "region": "Southeast Asia", "standard_duty_rate": 0.5, "countervailing_duty_rate": 0.0, "vat_rate": 0.11, "total_landed_usd": 83254.7, "premium_pct": 76.5}, {"market": "Singapore", "market_key": "singapore", "region": "Southeast Asia", "standard_duty_rate": 0.2, "countervailing_duty_rate": 0.0, "vat_rate": 0.09, "total_landed_usd": 66571.44, "premium_pct": 41.1}, {"market": "Mexico", "market_key": "mexico", "region": "North America", "standard_duty_rate": 0.5, "countervailing_duty_rate": 0.0, "vat_rate": 0.16, "total_landed_usd": 89143.2, "premium_pct": 88.9}, {"market": "Canada", "market_key": "canada", "region": "North America", "standard_duty_rate": 0.061, "countervailing_duty_rate": 0.0, "vat_rate": 0.05, "total_landed_usd": 59600.88, "premium_pct": 26.3}, {"market": "Brazil", "market_key": "brazil", "region": "Latin America", "standard_duty_rate": 0.35, "countervailing_duty_rate": 0.0, "vat_rate": 0.17, "total_landed_usd": 81090.81, "premium_pct": 71.9}, {"market": "South Africa", "market_key": "south_africa", "region": "Africa", "standard_duty_rate": 0.25, "countervailing_duty_rate": 0.0, "vat_rate": 0.15, "total_landed_usd": 74051.25, "premium_pct": 57.0}]
 data_tier: 2
-data_source: "EV Hub catalog (manufacturer specs + EU Reg 2024/2754 landed-cost records)"
-data_updated: "2026-09-07"
 data_reviewed: false
 family: "500"
 image: "/images/vehicles/tank-500.jpg"
 image_credit: "MoCars / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/w/index.php?curid=150593888"
+battery_type: "NMC (ternary)"
+drive_type: "AWD"
+motor_type: "PMSM (P2 motor, Hi4-T)"
+total_power_kw: 300
+battery_thermal: "Liquid cooling"
+heat_pump: "N/A"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+trim: "Hi4-T 尊享型 / 豪华型"
+brakes: "Front ventilated disc / rear disc"
+ground_clearance_mm: 224
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Tank 500
 
@@ -44,7 +60,7 @@ Tank 500 (starting at $47,180) is a SUV from TANK.
 
 ## Overview
 
-The Tank 500 is a midsize SUV plug-in hybrid from TANK, with 130 kW of motor power, a 6.9-second 0–100 km/h time. It is positioned as a premium import, priced from $47,180 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +20% over base (about $56,466 landed), while the Germany estimate carries a 18.8% countervailing duty on top of the 10% standard tariff. In practice, the 24.5 kWh/100km efficiency is unremarkable for its 3,330 kg curb weight. It suits family and executive buyers prioritizing space.
+The Tank 500 is an SUV plug-in hybrid with all-wheel-drive from Tank. With a $47,180 ex-factory price, the SUV plug-in hybrid reads as premium. For this SUV plug-in hybrid, Germany applies the 10% standard tariff with no countervailing duty; Qatar offers the cheapest entry at about +13.9% over base (≈ $53,719 landed). It carries NMC (ternary) cells and Double wishbone front / Multi-link rear suspension. As a SUV plug-in hybrid, it is aimed at family and fleet buyers prioritizing feature content.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

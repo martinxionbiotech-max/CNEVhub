@@ -1,6 +1,6 @@
 ---
 title: "Neta X"
-description: "Neta X is a SUV battery-electric from Neta, offering 401 km of CLTC range a 51.8 kWh battery and 120 kW of motor power. Full landed-cost breakdown across 7 expo"
+description: "The Neta X is an SUV fully electric from Neta with 401 km of CLTC range, a 51 kWh battery, 120 kW of motor power, and a LFP pack. Per-market landed-cost modeling across 30 export destinations."
 slug: "neta-x"
 brand: "neta"
 type: "SUV"
@@ -22,13 +22,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["neta", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "哪吒X RMB 89,800 (太平洋汽车/汽车之家)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Neta X"
 image: "/images/vehicles/neta-x.jpg"
 image_credit: "S5A-0043 / Wikimedia Commons / CC BY 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:(SGP-Singapore)_Showcar_Neta_X_No-plate_2025-01-11.jpg"
+battery_type: "LFP"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Torsion beam"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Neta X
 
@@ -40,8 +52,7 @@ Neta X (starting at $12,470) is a SUV from NETA.
 
 ## Overview
 
-The Neta X is a suv battery-electric from Neta, with 120 kW of motor power. It is positioned as a value-focused import, priced from $12,470 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +45% over base (about $18,198 landed), while the Germany estimate carries a 20.7% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Neta X is an front-wheel-drive battery-electric SUV from Neta. Specification highlights are a CLTC-rated range of 401 km, a MacPherson strut front / Torsion beam rear suspension layout, and LFP chemistry. This SUV battery-electric is positioned as an entry-level import, from $12,470 ex-factory. For this SUV battery-electric, the least-costly destination is Qatar, near +38.5% over base ($17,273 landed), while Germany's estimate carries a 20.7% countervailing duty over the 10% base tariff. The SUV battery-electric profile suits families and commercial fleet operators watching import duty exposure.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

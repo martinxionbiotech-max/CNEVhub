@@ -1,6 +1,6 @@
 ---
 title: "Roewe R7"
-description: "Roewe R7 is a SUV battery-electric from Roewe, a 90.0 kWh battery and 250 kW of motor power. Full landed-cost breakdown across 7 export markets for B2B import p"
+description: "Roewe's Roewe R7 is an SUV battery-electric with 90 kWh of battery, 250 kW peak output, and LFP (NMC option) chemistry. Full landed-cost breakdown across 30 export markets for B2B import planning."
 slug: "roewe-r7"
 brand: "roewe"
 type: "SUV"
@@ -21,13 +21,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["roewe", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "荣威R7 RMB 159,900 (上汽荣威官网; Wikipedia SAIC Rising R7)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "R7"
 image: "/images/vehicles/roewe-r7.jpg"
 image_credit: "EV Hub original illustration (no third-party rights)"
 image_source: "https://electricvehiclehub.net/image-credits/"
+battery_type: "LFP (NMC option)"
+drive_type: "RWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "CCS2 (DC) / Type 2 (AC) adapter required for EU; or OEM EU-spec port"
+certification_notes: "EU: WVTA type approval; GB/T port needs CCS2/Type 2 adapter. GCC: GSO conformity certificate."
+hs_code: "87038000"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Roewe R7
 
@@ -38,8 +50,7 @@ Roewe R7 (starting at $22,210) is a SUV from ROEWE.
 
 ## Overview
 
-The Roewe R7 is a suv battery-electric from Roewe, with 250 kW of motor power. It is positioned as a value-focused import, priced from $22,210 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +30% over base (about $28,936 landed), while the Germany estimate carries a 35.3% countervailing duty on top of the 10% standard tariff. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Roewe R7 is an SUV battery-electric with rear-wheel-drive from Roewe. At $22,210 ex-factory, this SUV battery-electric sits in the mainstream-value segment. It carries a 90 kWh battery, 450 Nm of torque, and peak output of 250 kW. Across export markets for the SUV battery-electric, the least-costly destination is Qatar, near +23.8% over base ($27,500 landed); Germany's estimate carries a 35.3% countervailing duty over the 10% base tariff. The SUV battery-electric profile suits regional distributors focused on volume import economics.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

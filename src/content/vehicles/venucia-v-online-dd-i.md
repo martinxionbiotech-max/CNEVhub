@@ -1,6 +1,6 @@
 ---
 title: "Venucia V-Online DD-i"
-description: "Venucia V-Online DD-i is a SUV plug-in hybrid from Venucia, a 18.4 kWh battery and 150 kW of motor power. Full landed-cost breakdown across 7 export markets for"
+description: "The Venucia V-Online DD-i is an SUV plug-in hybrid from Venucia with a 18 kWh battery, 150 kW of motor power, and NMC (ternary) chemistry. Per-market landed-cost modeling across 30 export destinations."
 slug: "venucia-v-online-dd-i"
 brand: "venucia"
 type: "SUV"
@@ -23,13 +23,25 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["venucia", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "启辰大V DD-i RMB 118,900 (CarNewsChina)"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "V-Online"
 image: "/images/vehicles/venucia-v-online-dd-i.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC BY-SA 4.0"
 image_source: "https://commons.wikimedia.org/wiki/File:Venucia_V-Online_DD-i_001.jpg"
+battery_type: "NMC (ternary)"
+drive_type: "FWD"
+motor_type: "PMSM (single motor)"
+battery_thermal: "Liquid cooling"
+suspension_front: "MacPherson strut"
+suspension_rear: "Multi-link"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Venucia V-Online DD-i
 
@@ -41,8 +53,7 @@ Venucia V-Online DD-i (starting at $16,510) is a SUV from VENUCIA.
 
 ## Overview
 
-The Venucia V-Online DD-i is a suv plug-in hybrid from Venucia, with 150 kW of motor power, a 7.8-second 0–100 km/h time. It is positioned as a value-focused import, priced from $16,510 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +37% over base (about $22,652 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. only slow AC charging is listed, which affects fleet turnaround. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+Venucia's Venucia V-Online DD-i is an front-wheel-drive plug-in hybrid SUV. For the SUV plug-in hybrid, Qatar offers the cheapest entry at about +30.3% over base (≈ $21,515 landed) — Germany applies the 10% standard tariff with no countervailing duty. Key figures are a MacPherson strut front / Multi-link rear suspension layout, a 150 kW electric motor, and 0–100 km/h in 7.8 seconds. At $16,510 ex-factory, this SUV plug-in hybrid sits in the value segment. As a SUV plug-in hybrid, it is aimed at private buyers and fleet managers seeking low landed cost.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.

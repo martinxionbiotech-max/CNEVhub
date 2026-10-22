@@ -1,6 +1,6 @@
 ---
 title: "Zeekr 8X"
-description: "Zeekr 8X is a SUV plug-in hybrid from Zeekr, offering 318 km of CLTC range a 55.1 kWh battery and 660 kW of motor power. Full landed-cost breakdown across 7 exp"
+description: "Zeekr's Zeekr 8X is an SUV plug-in hybrid electric with 318 km of CLTC range, a 55 kWh battery, 660 kW peak output, and a NMC (Freevoy, CATL) pack. Landed-cost analysis across 30 key export markets for importers."
 slug: "zeekr-8x"
 brand: "zeekr"
 type: "SUV"
@@ -22,13 +22,27 @@ publishedDate: "2026-09-05"
 author: "Wei Wang"
 tags: ["zeekr", "SUV", "chinese-ev", "export"]
 data_tier: 1
-data_source: "Wikipedia/CarNewsChina: ¥356,800 (35.68万起), 2.0T PHEV 660 kW, CLTC 318 km"
-data_updated: "2026-09-14"
 data_reviewed: False
 family: "Zeekr 8X"
 image: "/images/vehicles/zeekr-8x.jpg"
 image_credit: "JustAnotherCarDesigner / Wikimedia Commons / CC0"
 image_source: "https://commons.wikimedia.org/wiki/File:Zeekr_8X_001.jpg"
+battery_type: "NMC (Freevoy, CATL)"
+drive_type: "AWD (dual/tri-motor)"
+motor_type: "PMSM (dual motor)"
+battery_thermal: "Liquid cooling"
+heat_pump: "Yes"
+suspension_front: "Double wishbone"
+suspension_rear: "Multi-link (air)"
+charging_interface: "GB/T AC + GB/T DC (China domestic)"
+charging_adapter: "Type 2 (AC) adapter for EU AC charging"
+certification_notes: "EU: WVTA type approval; GB/T port needs Type 2 (AC) adapter. GCC: GSO conformity certificate."
+hs_code: "870340"
+trim: "尊享版 / 旗舰版"
+brakes: "Front ventilated disc / rear disc"
+infotainment_language: "Chinese / English"
+data_updated: "2026-10-21"
+data_source: "EV Hub catalog + manufacturer specs (brakes/infotainment per manufacturer standard; numeric deep fields verified via spec tables + en.wikipedia.org, 2026-10-21)"
 ---
 # Zeekr 8X
 
@@ -41,8 +55,7 @@ Zeekr 8X (starting at $49,560) is a SUV from ZEEKR.
 
 ## Overview
 
-The Zeekr 8X is a suv plug-in hybrid from Zeekr, with 660 kW of motor power, a 3.7-second 0–100 km/h time. It is positioned as a value-focused import, priced from $49,560 ex-factory. For importers, the cheapest entry point is United Arab Emirates at roughly +19% over base (about $59,089 landed), while Germany applies the standard tariff with no countervailing duty on this powertrain. It suits importers and fleet buyers evaluating Chinese EV landed cost.
-
+The Zeekr 8X is an multi-motor all-wheel-drive plug-in hybrid electric SUV from Zeekr. As a upper-mid SUV plug-in hybrid electric, it starts at $49,560 ex-factory. On landed cost for this SUV plug-in hybrid electric, the least-costly destination is Qatar, near +13.4% over base ($56,218 landed); Germany applies the 10% standard tariff with no countervailing duty. Specification highlights are 318 km of CLTC range, a 55 kWh battery, and 0–100 km/h in 3.7 seconds. This SUV plug-in hybrid electric is positioned for regional distributors focused on upmarket positioning.
 ## Landed Cost by Market
 
 Estimated landed cost to import this vehicle into key export markets, including import duty, countervailing duty, VAT/GST, freight, and compliance costs.
